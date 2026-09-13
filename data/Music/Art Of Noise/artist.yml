@@ -5,5 +5,17 @@ artistData:
   countryCode: GB
   languageCodes:
   - en
+  members:
+    - artistNames:
+      - Anne Dudley
+    - artistNames:
+      - J. J. Jeczalik
+    - artistNames:
+      - Gary Langan
+    - artistNames:
+      - Trevor Horn
+    - artistNames:
+      - Paul Morley
+    - artistNames:
+      - Lol Creme
   regionCode: GB-LND
-  members: []

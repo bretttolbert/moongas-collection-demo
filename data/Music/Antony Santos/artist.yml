@@ -5,5 +5,10 @@ artistData:
   countryCode: DO
   languageCodes:
   - es
+  members:
+    - artistNames:
+      - Antony Santos
+      artistRoles:
+      - vocals
+      - guitar
   regionCode: DO-15
-  members: []

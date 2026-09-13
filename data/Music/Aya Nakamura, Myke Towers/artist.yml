@@ -5,5 +5,17 @@ artistData:
   countryCode: FR
   languageCodes:
   - fr
+  members:
+    - artistNames:
+      - Aya Nakamura
+      dob:
+        y: 1995
+        m: 5
+        d: 10
+    - artistNames:
+      - Myke Towers
+      dob:
+        y: 1994
+        m: 1
+        d: 15
   regionCode: FR-93
-  members: []

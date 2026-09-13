@@ -5,5 +5,13 @@ artistData:
   countryCode: FR
   languageCodes:
   - en
+  members:
+    - artistNames:
+      - Bruno Sanchioni
+    - artistNames:
+      - Emmanuel Top
+    - artistNames:
+      - Bruno Quartier
+    - artistNames:
+      - Royal Mike
   regionCode: FR-IDF
-  members: []

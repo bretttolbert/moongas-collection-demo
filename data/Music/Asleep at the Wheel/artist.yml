@@ -5,5 +5,32 @@ artistData:
   countryCode: US
   languageCodes:
   - en
+  members:
+    - artistNames:
+      - Ray Benson
+    - artistNames:
+      - Ian Stewart
+    - artistNames:
+      - Dennis Ludiker
+    - artistNames:
+      - Connor Forsyth
+    - artistNames:
+      - Josh Hoag
+    - artistNames:
+      - Curtis Clogston
+    - artistNames:
+      - Nick Brown
+    - artistNames:
+      - Russ Patterson
+    - artistNames:
+      - Lucky Oceans
+      - Reuben Gosfield
+    - artistNames:
+      - Chris O'Connell
+    - artistNames:
+      - Jann Browne
+    - artistNames:
+      - Rosie Flores
+    - artistNames:
+      - Katie Shore
   regionCode: US-WV
-  members: []

@@ -5,5 +5,9 @@ artistData:
   countryCode: GB
   languageCodes:
   - en
+  members:
+    - artistNames:
+      - Rob Brown
+    - artistNames:
+      - Sean Booth
   regionCode: GB-ENG
-  members: []
