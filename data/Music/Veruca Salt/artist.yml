@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Nina Gordon
+      dob:
+        y: 1970
+        m: 4
+        d: 14
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Louise Post
+      dob:
+        y: 1971
+        m: 12
+        d: 7
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Steve Lack
+      dob:
+        y: 1970
+        m: 3
+        d: 22
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jim Shapiro
+      dob:
+        y: 1970
+        m: 6
+        d: 14
+      artistRoles:
+      - drums
