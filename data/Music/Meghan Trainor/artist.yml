@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Meghan Trainor
+  dob:
+    y: 1993
+    m: 12
+    d: 22
   city: Nantucket
   countryCode: US
   languageCodes:

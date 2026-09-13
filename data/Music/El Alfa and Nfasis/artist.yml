@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - es
   regionCode: DO-21
-  members: []
+  members:
+    - artistNames:
+      - El Alfa
+      dob:
+        y: 1990
+        m: 12
+        d: 18
+    - artistNames:
+      - Nfasis
+      dob:
+        y: 1995
+        m: 1
+        d: 15

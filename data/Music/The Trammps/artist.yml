@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Jimmy Ellis
+      dob:
+        y: 1947
+        m: 6
+        d: 5
+    - artistNames:
+      - Earl Young
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - Harold Wade
+      dob:
+        y: 1946
+        m: 3
+        d: 15
+    - artistNames:
+      - Stanley Wade
+      dob:
+        y: 1946
+        m: 5
+        d: 1
+    - artistNames:
+      - Robert Upchurch
+      dob:
+        y: 1946
+        m: 4
+        d: 1

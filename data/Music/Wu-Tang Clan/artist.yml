@@ -6,4 +6,62 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - RZA
+      dob:
+        y: 1969
+        m: 7
+        d: 5
+    - artistNames:
+      - GZA
+      dob:
+        y: 1966
+        m: 8
+        d: 22
+    - artistNames:
+      - Ol' Dirty Bastard
+      dob:
+        y: 1968
+        m: 11
+        d: 15
+      dod:
+        y: 2004
+        m: 11
+        d: 13
+    - artistNames:
+      - Method Man
+      dob:
+        y: 1971
+        m: 3
+        d: 2
+    - artistNames:
+      - Raekwon
+      dob:
+        y: 1970
+        m: 1
+        d: 12
+    - artistNames:
+      - Ghostface Killah
+      dob:
+        y: 1970
+        m: 5
+        d: 9
+    - artistNames:
+      - Inspectah Deck
+      dob:
+        y: 1970
+        m: 7
+        d: 6
+    - artistNames:
+      - U-God
+      dob:
+        y: 1970
+        m: 4
+        d: 2
+    - artistNames:
+      - Masta Killa
+      dob:
+        y: 1969
+        m: 8
+        d: 18

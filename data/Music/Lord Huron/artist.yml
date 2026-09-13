@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Ben Schneider
+      dob:
+        y: 1985
+        m: 2
+        d: 20
+    - artistNames:
+      - Mark Barry
+    - artistNames:
+      - Miguel Briseño
+    - artistNames:
+      - Tom Renaud
+    - artistNames:
+      - Kyle Kegerreis

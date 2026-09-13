@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Nicholas Petricca
+      dob:
+        y: 1988
+        m: 4
+        d: 16
+    - artistNames:
+      - Eli Maiman
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Kevin Ray
+      dob:
+        y: 1989
+        m: 7
+        d: 24
+    - artistNames:
+      - Sean Waugaman
+      dob:
+        y: 1989
+        m: 8
+        d: 1

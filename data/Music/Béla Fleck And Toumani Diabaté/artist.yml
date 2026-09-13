@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: ML-BKO
-  members: []
+  members:
+    - artistNames:
+      - Béla Fleck
+      dob:
+        y: 1958
+        m: 7
+        d: 10
+    - artistNames:
+      - Toumani Diabaté
+      dob:
+        y: 1965
+        m: 8
+        d: 1

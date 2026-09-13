@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Raine Maida
+      dob:
+        y: 1970
+        m: 6
+        d: 18
+    - artistNames:
+      - Duncan Coutts
+      dob:
+        y: 1971
+        m: 4
+        d: 12
+    - artistNames:
+      - Steve Mazur
+      dob:
+        y: 1975
+        m: 8
+        d: 24
+    - artistNames:
+      - Jeremy Taggart
+      dob:
+        y: 1975
+        m: 6
+        d: 17
+    - artistNames:
+      - Mike Turner
+      dob:
+        y: 1970
+        m: 5
+        d: 1
