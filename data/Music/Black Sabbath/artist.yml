@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WMD
-  members: []
+  members:
+    - artistNames:
+      - Ozzy Osbourne
+      dob:
+        y: 1948
+        m: 12
+        d: 3
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Tony Iommi
+      dob:
+        y: 1948
+        m: 2
+        d: 19
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Geezer Butler
+      dob:
+        y: 1949
+        m: 7
+        d: 17
+      artistRoles:
+      - bass
+    - artistNames:
+      - Bill Ward
+      dob:
+        y: 1948
+        m: 5
+        d: 5
+      artistRoles:
+      - drums

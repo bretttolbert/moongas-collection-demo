@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Greg Munford
+      dob:
+        y: 1947
+        m: 8
+        d: 10
+    - artistNames:
+      - George Bunnell
+      dob:
+        y: 1946
+        m: 11
+        d: 17
+    - artistNames:
+      - Randy Seol
+      dob:
+        y: 1947
+        m: 2
+        d: 15
+    - artistNames:
+      - Bruce C. L. L. C. 
+      dob:
+        y: 1946
+        m: 6
+        d: 12
+    - artistNames:
+      - John Seabury
+      dob:
+        y: 1945
+        m: 5
+        d: 20
+    - artistNames:
+      - David J. H. 
+      dob:
+        y: 1946
+        m: 3
+        d: 8

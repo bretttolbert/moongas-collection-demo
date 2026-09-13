@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OR
-  members: []
+  members:
+    - artistNames:
+      - Mason Crum
+    - artistNames:
+      - Jessica Boudreaux
+    - artistNames:
+      - Evan Herring
+    - artistNames:
+      - Colin McCaffrey

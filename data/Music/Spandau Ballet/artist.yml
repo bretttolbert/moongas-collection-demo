@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Tony Hadley
+      dob:
+        y: 1960
+        m: 6
+        d: 2
+    - artistNames:
+      - Gary Kemp
+      dob:
+        y: 1961
+        m: 10
+        d: 16
+    - artistNames:
+      - Martin Kemp
+      dob:
+        y: 1961
+        m: 7
+        d: 10
+    - artistNames:
+      - John Keeble
+      dob:
+        y: 1961
+        m: 6
+        d: 8
+    - artistNames:
+      - Steve Norman
+      dob:
+        y: 1960
+        m: 10
+        d: 25

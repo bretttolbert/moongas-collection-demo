@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-RCT
-  members: []
+  members:
+    - artistNames:
+      - Thighpaulsandra
+      dob:
+        y: 1971
+        m: 12
+        d: 15

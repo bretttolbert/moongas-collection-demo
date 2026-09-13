@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Lil Jon
+      dob:
+        y: 1971
+        m: 1
+        d: 27
+    - artistNames:
+      - Big Sam
+      dob:
+        y: 1975
+        m: 8
+        d: 1
+    - artistNames:
+      - DJ Snake
+      dob:
+        y: 1976
+        m: 6
+        d: 5

@@ -7,3 +7,7 @@ artistData:
   - en
   regionCode: US-OK
   members: []
+  dob:
+    y: 1964
+    m: 4
+    d: 11

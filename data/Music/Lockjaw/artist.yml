@@ -3,8 +3,10 @@ artistData:
   - Lockjaw
   dob:
     y: 1980
+    m: 1
+    d: 1
   city: Portland
-  countryCode: OR
+  countryCode: US
   regionCode: US-OR
   languageCodes:
   - en

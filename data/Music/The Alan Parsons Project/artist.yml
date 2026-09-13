@@ -6,4 +6,60 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Alan Parsons
+      dob:
+        y: 1948
+        m: 12
+        d: 20
+    - artistNames:
+      - Eric Woolfson
+      dob:
+        y: 1945
+        m: 3
+        d: 2
+      dod:
+        y: 2009
+        m: 12
+        d: 2
+    - artistNames:
+      - Ian Bairnson
+      dob:
+        y: 1953
+        m: 6
+        d: 3
+    - artistNames:
+      - Stuart Elliott
+      dob:
+        y: 1951
+        m: 2
+        d: 21
+    - artistNames:
+      - David Paton
+      dob:
+        y: 1956
+        m: 10
+        d: 29
+    - artistNames:
+      - Chris Rainbow
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+      dod:
+        y: 2015
+        m: 11
+        d: 25
+    - artistNames:
+      - Lenny Zakatek
+      dob:
+        y: 1949
+        m: 1
+        d: 1
+    - artistNames:
+      - Andrew Powell
+      dob:
+        y: 1949
+        m: 6
+        d: 3

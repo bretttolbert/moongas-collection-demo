@@ -6,4 +6,46 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Dick Valentine
+      dob:
+        y: 1971
+        m: 10
+        d: 19
+    - artistNames:
+      - John R. Dequindre
+      dob:
+        y: 1973
+        m: 5
+        d: 22
+    - artistNames:
+      - Tait Nucleus
+      dob:
+        y: 1975
+        m: 8
+        d: 15
+    - artistNames:
+      - Da Ve
+      dob:
+        y: 1974
+        m: 3
+        d: 10
+    - artistNames:
+      - Smorgasbord
+      dob:
+        y: 1976
+        m: 12
+        d: 1
+    - artistNames:
+      - The Colonel
+      dob:
+        y: 1972
+        m: 6
+        d: 30
+    - artistNames:
+      - The Big Guy
+      dob:
+        y: 1970
+        m: 4
+        d: 25

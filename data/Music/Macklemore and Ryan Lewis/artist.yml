@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Macklemore
+      dob:
+        y: 1983
+        m: 6
+        d: 19
+    - artistNames:
+      - Ryan Lewis
+      dob:
+        y: 1988
+        m: 3
+        d: 25

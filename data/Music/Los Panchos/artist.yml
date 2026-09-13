@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - es
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Julio Salazar
+    - artistNames:
+      - Alfredo Gil
+    - artistNames:
+      - José Luis Bonilla
+    - artistNames:
+      - Rafael Hernández
+    - artistNames:
+      - Manuel "Manolo" González

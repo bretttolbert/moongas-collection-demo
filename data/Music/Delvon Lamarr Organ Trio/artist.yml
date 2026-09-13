@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Delvon Lamarr
+      dob:
+        y: 1985
+        m: 6
+        d: 12
+      artistRoles:
+      - organ
+    - artistNames:
+      - Jimmy James
+      dob:
+        y: 1980
+        m: 4
+        d: 15
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Cody Foster
+      dob:
+        y: 1985
+        m: 9
+        d: 20
+      artistRoles:
+      - drums

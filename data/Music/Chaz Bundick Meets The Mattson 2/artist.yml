@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-SC
-  members: []
+  members:
+    - artistNames:
+      - Chaz Bundick
+      dob:
+        y: 1986
+        m: 11
+        d: 24
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+    - artistNames:
+      - Mattson 2
+      artistRoles:
+      - guitar
+      - drums
+      - keyboards
+    - artistNames:
+      - Jared Mattson
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Jonathan Mattson
+      artistRoles:
+      - drums

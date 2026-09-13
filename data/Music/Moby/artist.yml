@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Richard Melville Hall
+      dob:
+        y: 1965
+        m: 9
+        d: 11

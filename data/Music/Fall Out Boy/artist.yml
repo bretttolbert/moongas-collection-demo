@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Patrick Stump
+      dob:
+        y: 1984
+        m: 4
+        d: 27
+      artistRoles:
+      - vocals
+      - guitar
+      - piano
+    - artistNames:
+      - Pete Wentz
+      dob:
+        y: 1979
+        m: 6
+        d: 5
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Joe Trohman
+      dob:
+        y: 1984
+        m: 9
+        d: 1
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Andy Hurley
+      dob:
+        y: 1980
+        m: 4
+        d: 21
+      artistRoles:
+      - drums
