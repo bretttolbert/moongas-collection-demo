@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Matt Good
+      dob:
+        y: 1985
+        m: 4
+        d: 25
+    - artistNames:
+      - Travis Richter
+      dob:
+        y: 1984
+        m: 5
+        d: 16
+    - artistNames:
+      - Derek Bloom
+      dob:
+        y: 1984
+        m: 10
+        d: 22
+    - artistNames:
+      - Jonny Craig
+      dob:
+        y: 1986
+        m: 3
+        d: 26
+    - artistNames:
+      - Chad Gilbert
+      dob:
+        y: 1981
+        m: 3
+        d: 9
+    - artistNames:
+      - Chris Crippin
+      dob:
+        y: 1981
+        m: 11
+        d: 25

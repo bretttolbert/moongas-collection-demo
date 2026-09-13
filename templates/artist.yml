@@ -3,8 +3,6 @@ artistData:
   - The Brian Jonestown Massacre
   dob:
     y: 1990
-    m: 1
-    d: 1
   city: San Francisco
   countryCode: US
   regionCode: US-CA
@@ -12,8 +10,65 @@ artistData:
   - en
   members:
     - artistNames:
-      - Joel Gion
+      - Anton Newcombe
+      dob:
+        y: 1970
+        m: 1
+        d: 15
+      artistBands:
+      - The Brian Jonestown Massacre
+      - Tess Parks and Anton Newcombe
+      artistRoles:
+      - lead vocals
+      - guitar
+      - songwriting
+    - artistNames:
+      - Matt Hollywood
+      dob:
+        y: 1973
+        m: 9
+        d: 13
       artistBands:
       - The Brian Jonestown Massacre
       artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Ryan Van Kriedt
+      dob:
+        y: 1972
+        m: 6
+        d: 21
+      artistBands:
+      - The Brian Jonestown Massacre
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Joel Gion
+      dob:
+        y: 1974
+        m: 11
+        d: 4
+      artistBands:
+      - The Brian Jonestown Massacre
+      - Joel Gion and The Primary Colours
+      artistRoles:
       - tambourine
+      - percussion
+      - backing vocals
+    - artistNames:
+      - Former Member Example
+      dob:
+        y: 1971
+        m: 5
+        d: 12
+      dod:
+        y: 2018
+        m: 7
+        d: 9
+      artistBands:
+      - The Brian Jonestown Massacre
+      artistRoles:
+      - drums
+      - percussion

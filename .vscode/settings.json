@@ -13,5 +13,6 @@
         "*"
     ],
     "chat.permissions.default": "autoApprove",
-    "github.copilot.chat.summarizeAgentConversationHistory.enabled": false
+    "github.copilot.chat.summarizeAgentConversationHistory.enabled": false,
+    "python.analysis.typeCheckingMode": "strict"
 }
