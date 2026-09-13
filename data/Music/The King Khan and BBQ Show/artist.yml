@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-QC
-  members: []
+  members:
+    - artistNames:
+      - King Khan
+      dob:
+        y: 1972
+        m: 1
+        d: 19
+    - artistNames:
+      - BBQ
+      dob:
+        y: 1975
+        m: 7
+        d: 10
