@@ -1,9 +1,20 @@
 artistData:
   artistNames:
   - Bad Bunny
+  - Benito Antonio Martínez Ocasio
   city: Vega Baja
   countryCode: PR
   languageCodes:
   - es
+  members:
+  - artistNames:
+    - Bad Bunny
+    - Benito Antonio Martínez Ocasio
+    artistRoles:
+    - rapper
+    - singer
+    - songwriter
+    - record producer
+    - actor
+    - professional wrestler
   regionCode: US-PR
-  members: []

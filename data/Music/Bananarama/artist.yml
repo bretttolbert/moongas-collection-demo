@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Sara Dallin
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Keren Woodward
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Siobhan Fahey
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Jacquie O'Sullivan
+      artistRoles:
+      - vocals

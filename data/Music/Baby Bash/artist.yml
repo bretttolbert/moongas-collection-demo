@@ -1,9 +1,21 @@
 artistData:
   artistNames:
   - Baby Bash
+  - Ronald Ray Bryant
+  - Baby Beesh
   city: Vallejo
   countryCode: US
+  dob:
+    y: 1975
+    m: 10
+    d: 18
   languageCodes:
   - en
+  members:
+    - artistNames:
+      - Baby Bash
+      - Ronald Ray Bryant
+      - Baby Beesh
+      artistRoles:
+      - rapper
   regionCode: US-CA
-  members: []

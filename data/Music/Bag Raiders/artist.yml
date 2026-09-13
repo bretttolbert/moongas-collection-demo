@@ -6,4 +6,21 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-NSW
-  members: []
+  members:
+    - artistNames:
+      - Jack Glass
+      artistRoles:
+      - keyboards
+      - drums
+      - vocals
+      - production
+    - artistNames:
+      - Chris Stracey
+      artistRoles:
+      - keyboards
+      - drums
+      - guitar
+      - violin
+      - piano
+      - vocals
+      - production

@@ -6,4 +6,19 @@ artistData:
   languageCodes:
   - en
   regionCode: CO-DC
-  members: []
+  members:
+    - artistNames:
+      - Balthazar Aguirre
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Johanna Mercuriana
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Santiago Lizcano
+      artistRoles:
+      - drums
+      - vocals

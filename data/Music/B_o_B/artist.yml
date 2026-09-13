@@ -1,9 +1,26 @@
 artistData:
   artistNames:
   - B.o.B
+  - Bobby Ray Simmons Jr.
+  - Bobby Ray
   city: Decatur
   countryCode: US
+  dob:
+    y: 1988
+    m: 11
+    d: 15
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - B.o.B
+      - Bobby Ray Simmons Jr.
+      - Bobby Ray
+      artistRoles:
+      - rapper
+      - singer
+      - songwriter
+      - record producer
+      - piano
+      - guitar

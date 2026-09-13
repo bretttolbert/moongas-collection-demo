@@ -6,4 +6,35 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Ben Bridwell
+      dob:
+        y: 1978
+        m: 4
+        d: 25
+      artistRoles:
+      - vocals
+      - guitar
+      - pedal steel
+      - keyboards
+    - artistNames:
+      - Creighton Barrett
+      artistRoles:
+      - drums
+      - percussion
+    - artistNames:
+      - Matt Gentling
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Brett Nash
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Joel Graves
+      artistRoles:
+      - keyboards
+      - guitar
