@@ -18,6 +18,3 @@ venv.bak/
 **/mediascan-files.yml
 **/mediascan-artists.yml
 **/mediascan.db
-
-# Mediascan server config (TODO: unignore, when ready)
-**/mediaserver-config.yml
