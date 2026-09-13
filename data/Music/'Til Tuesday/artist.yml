@@ -14,10 +14,20 @@ artistData:
       artistRoles:
       - vocals
       - guitar
+      dob:
+        y: 1960
+        m: 9
+        d: 8
     - artistNames:
       - Robert Holmes
       artistRoles:
-      - drums
+      - guitar
+      - vocals
+      - songwriting
+      dob:
+        y: 1959
+        m: 3
+        d: 31
     - artistNames:
       - Joey Alkes
       artistRoles:
@@ -25,5 +35,5 @@ artistData:
     - artistNames:
       - Michael Hausman
       artistRoles:
-      - guitar
+      - drums
       - keyboards
