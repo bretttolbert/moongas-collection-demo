@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NM
-  members: []
+  members:
+    - artistNames:
+      - James Mercer
+      dob:
+        y: 1970
+        m: 12
+        d: 26
+    - artistNames:
+      - Martin Crandall
+      dob:
+        y: 1976
+        m: 4
+        d: 23
+    - artistNames:
+      - Jesse Sandoval
+      dob:
+        y: 1976
+        m: 3
+        d: 29
+    - artistNames:
+      - Dave Hernandez
+      dob:
+        y: 1975
+        m: 6
+        d: 1
+    - artistNames:
+      - Yuuki Matthews
+      dob:
+        y: 1981
+        m: 1
+        d: 1
+    - artistNames:
+      - Jon Sortland
+      dob:
+        y: 1980
+        m: 10
+        d: 1

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: AT-9
-  members: []
+  members:
+    - artistNames:
+      - Klaus Waldeck
+      dob:
+        y: 1970
+        m: 1
+        d: 1

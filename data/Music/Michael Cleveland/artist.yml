@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IN
-  members: []
+  members:
+    - artistNames:
+      - Michael Cleveland
+      dob:
+        y: 1980
+        m: 12
+        d: 15
+      artistRoles:
+      - fiddle
+      - vocals

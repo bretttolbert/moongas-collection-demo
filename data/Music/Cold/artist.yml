@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Scooter Ward
+      dob:
+        y: 1970
+        m: 4
+        d: 7
+    - artistNames:
+      - Jeremy Marshall
+      dob:
+        y: 1974
+        m: 10
+        d: 18
+    - artistNames:
+      - Sam McCandless
+      dob:
+        y: 1975
+        m: 5
+        d: 14
+    - artistNames:
+      - Kelly Hayes
+      dob:
+        y: 1972
+        m: 8
+        d: 22
+    - artistNames:
+      - Chris L. Johnson
+      dob:
+        y: 1971
+        m: 11
+        d: 12

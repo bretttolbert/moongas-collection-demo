@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - ja
   regionCode: JP-13
-  members: []
+  members:
+    - artistNames:
+      - Tomo Katsurada
+      dob:
+        y: 1988
+        m: 12
+        d: 26
+    - artistNames:
+      - Go Kurosawa
+      dob:
+        y: 1989
+        m: 1
+        d: 1
+    - artistNames:
+      - Kotsu Guy
+      dob:
+        y: 1990
+        m: 5
+        d: 15
+    - artistNames:
+      - Miki Matsubara
+      dob:
+        y: 1991
+        m: 3
+        d: 10
+    - artistNames:
+      - Ryu Kurosawa
+      dob:
+        y: 1990
+        m: 8
+        d: 20

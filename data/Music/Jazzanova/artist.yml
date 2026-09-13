@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Axel Reinemer
+    - artistNames:
+      - Claas Brieler
+    - artistNames:
+      - Stefan Leisering
+    - artistNames:
+      - Jürgen von Knoblauch
+    - artistNames:
+      - DJ T.

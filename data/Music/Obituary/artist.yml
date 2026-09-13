@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - John Tardy
+      dob:
+        y: 1970
+        m: 8
+        d: 15
+    - artistNames:
+      - Donald Tardy
+      dob:
+        y: 1972
+        m: 6
+        d: 15
+    - artistNames:
+      - Trevor Peres
+      dob:
+        y: 1971
+        m: 5
+        d: 15
+    - artistNames:
+      - Terry Butler
+      dob:
+        y: 1969
+        m: 11
+        d: 15
+    - artistNames:
+      - Ken Andrews
+      dob:
+        y: 1970
+        m: 3
+        d: 15

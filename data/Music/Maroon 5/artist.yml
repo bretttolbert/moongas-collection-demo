@@ -6,4 +6,46 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Adam Levine
+      dob:
+        y: 1979
+        m: 3
+        d: 18
+    - artistNames:
+      - Jesse Carmichael
+      dob:
+        y: 1979
+        m: 4
+        d: 2
+    - artistNames:
+      - Mickey Madden
+      dob:
+        y: 1979
+        m: 4
+        d: 6
+    - artistNames:
+      - James Valentine
+      dob:
+        y: 1978
+        m: 10
+        d: 5
+    - artistNames:
+      - Matt Flynn
+      dob:
+        y: 1970
+        m: 5
+        d: 15
+    - artistNames:
+      - PJ Morton
+      dob:
+        y: 1981
+        m: 3
+        d: 5
+    - artistNames:
+      - Sam Farrar
+      dob:
+        y: 1982
+        m: 6
+        d: 29

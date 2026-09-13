@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Margo Price
+  dob:
+    y: 1983
+    m: 4
+    d: 15
   city: Aledo
   countryCode: US
   languageCodes:

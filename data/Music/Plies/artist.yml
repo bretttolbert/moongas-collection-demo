@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Algernod Lanier Washington
+      dob:
+        y: 1976
+        m: 7
+        d: 1

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Graham Nash
+  dob:
+    y: 1942
+    m: 2
+    d: 2
   city: Blackpool
   countryCode: GB
   languageCodes:

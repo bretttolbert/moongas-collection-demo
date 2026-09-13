@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: IS-1
-  members: []
+  members:
+    - artistNames:
+      - Björk Guðmundsdóttir
+      dob:
+        y: 1965
+        m: 11
+        d: 21

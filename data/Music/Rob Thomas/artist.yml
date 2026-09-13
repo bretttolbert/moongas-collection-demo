@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-RP
-  members: []
+  members:
+    - artistNames:
+      - Rob Thomas
+      dob:
+        y: 1972
+        m: 2
+        d: 14

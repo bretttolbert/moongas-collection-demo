@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Chet Atkins
+      dob:
+        y: 1924
+        m: 6
+        d: 20
+      dod:
+        y: 2001
+        m: 6
+        d: 30
+    - artistNames:
+      - Mark Knopfler
+      dob:
+        y: 1949
+        m: 8
+        d: 12

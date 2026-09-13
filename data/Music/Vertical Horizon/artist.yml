@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-DC
-  members: []
+  members:
+    - artistNames:
+      - Matt Scannell
+      dob:
+        y: 1970
+        m: 5
+        d: 14
+    - artistNames:
+      - Keith Kane
+      dob:
+        y: 1970
+        m: 6
+        d: 5
+    - artistNames:
+      - Sean Hurley
+      dob:
+        y: 1976
+        m: 6
+        d: 1
+    - artistNames:
+      - Ed Toth
+      dob:
+        y: 1970
+        m: 5
+        d: 3

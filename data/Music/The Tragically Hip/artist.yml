@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Gord Downie
+      dob:
+        y: 1964
+        m: 2
+        d: 6
+      dod:
+        y: 2017
+        m: 10
+        d: 17
+    - artistNames:
+      - Rob Baker
+      dob:
+        y: 1965
+        m: 3
+        d: 12
+    - artistNames:
+      - Gord Sinclair
+      dob:
+        y: 1964
+        m: 6
+        d: 6
+    - artistNames:
+      - Johnny Fay
+      dob:
+        y: 1964
+        m: 7
+        d: 20
+    - artistNames:
+      - Paul Langlois
+      dob:
+        y: 1966
+        m: 6
+        d: 18

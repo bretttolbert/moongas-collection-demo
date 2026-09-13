@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Gary Numan
+  dob:
+    y: 1958
+    m: 3
+    d: 8
   city: London
   countryCode: GB
   languageCodes:

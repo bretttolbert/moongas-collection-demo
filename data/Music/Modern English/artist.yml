@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ESS
-  members: []
+  members:
+    - artistNames:
+      - Robbie Grey
+      dob:
+        y: 1961
+        m: 9
+        d: 9
+    - artistNames:
+      - Michael Conroy
+      dob:
+        y: 1961
+        m: 3
+        d: 15
+    - artistNames:
+      - Gary McDowell
+      dob:
+        y: 1961
+        m: 5
+        d: 25
+    - artistNames:
+      - Richard Brown
+      dob:
+        y: 1961
+        m: 11
+        d: 12
+    - artistNames:
+      - Stephen Walker
+      dob:
+        y: 1961
+        m: 7
+        d: 20

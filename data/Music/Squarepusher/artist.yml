@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ESS
-  members: []
+  members:
+    - artistNames:
+      - Tom Jenkinson
+      dob:
+        y: 1975
+        m: 1
+        d: 15

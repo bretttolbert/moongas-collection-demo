@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Joe Hill Louis
+      dob:
+        y: 1901
+        m: 1
+        d: 1
+      dod:
+        y: 1955
+        m: 1
+        d: 1

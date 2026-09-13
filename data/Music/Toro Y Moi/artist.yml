@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-SC
-  members: []
+  members:
+    - artistNames:
+      - Chaz Bundick
+      dob:
+        y: 1986
+        m: 11
+        d: 7

@@ -10,4 +10,5 @@ artistData:
   members: []
   dob:
     y: 1945
-  
+    m: 12
+    d: 1

@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-MED
-  members: []
+  members:
+    - artistNames:
+      - James Taylor
+      dob:
+        y: 1969
+        m: 1
+        d: 1
+    - artistNames:
+      - Mark Cox
+    - artistNames:
+      - Andrew McKinney
+    - artistNames:
+      - Chris Allen
+    - artistNames:
+      - Paul McKenzie
