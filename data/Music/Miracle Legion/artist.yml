@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CT
-  members: []
+  members:
+    - artistNames:
+      - Mark Mulcahy
+      dob:
+        y: 1961
+        m: 6
+        d: 12
+    - artistNames:
+      - Dave McGraw
+      dob:
+        y: 1962
+        m: 4
+        d: 15
+    - artistNames:
+      - Scott McCaughey
+      dob:
+        y: 1965
+        m: 11
+        d: 12
+    - artistNames:
+      - Mitch Easter
+      dob:
+        y: 1954
+        m: 6
+        d: 15

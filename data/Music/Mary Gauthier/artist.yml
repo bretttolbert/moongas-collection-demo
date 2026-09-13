@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Mary Gauthier
+  dob:
+    y: 1963
+    m: 3
+    d: 11
   city: New Orleans
   countryCode: US
   languageCodes:
