@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - ko
   regionCode: KR-11
-  members: []
+  members:
+    - artistNames:
+      - Park Jae-sang
+      dob:
+        y: 1977
+        m: 12
+        d: 31

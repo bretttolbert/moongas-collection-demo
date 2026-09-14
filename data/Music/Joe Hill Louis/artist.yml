@@ -17,3 +17,33 @@ artistData:
         y: 1955
         m: 1
         d: 1
+    - artistNames:
+      - John Lee Hooker
+      dob:
+        y: 1917
+        m: 8
+        d: 22
+      dod:
+        y: 2001
+        m: 6
+        d: 21
+    - artistNames:
+      - B.B. King
+      dob:
+        y: 1925
+        m: 9
+        d: 16
+      dod:
+        y: 2015
+        m: 5
+        d: 14
+    - artistNames:
+      - Muddy Waters
+      dob:
+        y: 1913
+        m: 4
+        d: 4
+      dod:
+        y: 1983
+        m: 4
+        d: 30

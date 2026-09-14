@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LDS
-  members: []
+  members:
+    - artistNames:
+      - Ian Masters
+      dob:
+        y: 1967
+        m: 3
+        d: 12
+    - artistNames:
+      - Nick Quarmby
+      dob:
+        y: 1967
+        m: 5
+        d: 21
+    - artistNames:
+      - Meriel Barham
+      dob:
+        y: 1969
+        m: 11
+        d: 12
+    - artistNames:
+      - Matt Sweeney
+      dob:
+        y: 1970
+        m: 1
+        d: 1
