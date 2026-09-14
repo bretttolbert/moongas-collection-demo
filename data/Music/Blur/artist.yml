@@ -31,3 +31,15 @@ artistData:
         y: 1969
         m: 6
         d: 8
+    - artistNames:
+      - Phil Daniels
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Stephen Street
+      artistRoles:
+      - producer
+    - artistNames:
+      - William Orbit
+      artistRoles:
+      - producer

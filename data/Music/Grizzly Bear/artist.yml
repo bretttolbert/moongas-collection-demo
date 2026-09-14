@@ -31,3 +31,9 @@ artistData:
         y: 1980
         m: 11
         d: 6
+    - artistNames:
+      - Andrew Bird
+      dob:
+        y: 1973
+        m: 7
+        d: 11
