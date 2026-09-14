@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Roco
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Pato
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Aldo
+      artistRoles:
+      - bass
+    - artistNames:
+      - Ciro
+      artistRoles:
+      - drums
+    - artistNames:
+      - Kacho
+      artistRoles:
+      - saxophone
+    - artistNames:
+      - Eulalio
+      artistRoles:
+      - trumpet

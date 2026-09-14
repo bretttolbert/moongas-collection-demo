@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Anthony Raneri
+      dob:
+        y: 1980
+        m: 4
+        d: 27
+    - artistNames:
+      - Jack O'Shea
+      dob:
+        y: 1981
+        m: 1
+        d: 1
+    - artistNames:
+      - Nick Ghanbarian
+      dob:
+        y: 1982
+        m: 7
+        d: 24
+    - artistNames:
+      - Chris Guglielmo
+      dob:
+        y: 1981
+        m: 12
+        d: 5
+    - artistNames:
+      - Mike Sapone
+      dob:
+        y: 1980
+        m: 3
+        d: 15

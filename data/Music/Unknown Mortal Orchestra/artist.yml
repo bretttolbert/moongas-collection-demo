@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: NZ-AUK
-  members: []
+  members:
+    - artistNames:
+      - Ruban Nielson
+      dob:
+        y: 1980
+        m: 1
+        d: 21
+    - artistNames:
+      - Jacob Portrait
+      dob:
+        y: 1987
+        m: 5
+        d: 5
+    - artistNames:
+      - Kody Nielson
+      dob:
+        y: 1984
+        m: 10
+        d: 15

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Smokey Robinson
+  dob:
+    y: 1940
+    m: 2
+    d: 19
   city: Detroit
   countryCode: US
   languageCodes:

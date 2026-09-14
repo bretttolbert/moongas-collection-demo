@@ -6,4 +6,54 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - David Paich
+      dob:
+        y: 1954
+        m: 6
+        d: 25
+    - artistNames:
+      - Jeff Porcaro
+      dob:
+        y: 1954
+        m: 4
+        d: 20
+      dod:
+        y: 1992
+        m: 8
+        d: 5
+    - artistNames:
+      - Steve Lukather
+      dob:
+        y: 1957
+        m: 10
+        d: 21
+    - artistNames:
+      - Mike Porcaro
+      dob:
+        y: 1955
+        m: 4
+        d: 29
+      dod:
+        y: 2015
+        m: 3
+        d: 15
+    - artistNames:
+      - Joseph Williams
+      dob:
+        y: 1960
+        m: 9
+        d: 1
+    - artistNames:
+      - Simon Phillips
+      dob:
+        y: 1957
+        m: 2
+        d: 6
+    - artistNames:
+      - David Hungate
+      dob:
+        y: 1948
+        m: 8
+        d: 31

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Madonna
+  dob:
+    y: 1958
+    m: 8
+    d: 16
   city: Bay City
   countryCode: US
   languageCodes:

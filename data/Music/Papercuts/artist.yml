@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jason Quever
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Dan Long
+    - artistNames:
+      - Nicole Kidman
+    - artistNames:
+      - Brian G. 
+    - artistNames:
+      - Chris Cohen

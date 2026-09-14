@@ -7,3 +7,7 @@ artistData:
   - es
   regionCode: AR-S
   members: []
+  dob: 
+    y: 1995
+    m: 6
+    d: 15

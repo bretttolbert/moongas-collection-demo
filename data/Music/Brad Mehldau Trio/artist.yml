@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Brad Mehldau
+      dob:
+        y: 1970
+        m: 8
+        d: 23
+      artistRoles:
+      - piano
+    - artistNames:
+      - Larry Grenadier
+      dob:
+        y: 1966
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jeff Ballard
+      dob:
+        y: 1963
+      artistRoles:
+      - drums

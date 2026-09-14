@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - JoJo
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Cheri Wells
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Maxee
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Yvette Marine
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Mary Jane
+      dob:
+        y: 1960
+        m: 1
+        d: 1

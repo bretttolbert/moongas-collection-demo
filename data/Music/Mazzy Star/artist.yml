@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Hope Sandoval
+      dob:
+        y: 1969
+        m: 6
+        d: 24
+    - artistNames:
+      - David Roback
+      dob:
+        y: 1960
+        m: 4
+        d: 4
+      dod:
+        y: 2020
+        m: 2
+        d: 24

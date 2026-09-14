@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Lil Nas X
+  dob:
+    y: 1999
+    m: 4
+    d: 9
   city: Lithia Springs
   countryCode: US
   languageCodes:

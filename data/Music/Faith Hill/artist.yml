@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Faith Hill
+  dob:
+    y: 1967
+    m: 9
+    d: 21
   city: Star
   countryCode: US
   languageCodes:

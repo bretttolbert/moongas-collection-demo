@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Andrew Savage
+      dob:
+        y: 1986
+        m: 2
+        d: 22
+    - artistNames:
+      - Austin Brown
+      dob:
+        y: 1986
+        m: 5
+        d: 1
+    - artistNames:
+      - Sean Yeaton
+      dob:
+        y: 1986
+        m: 7
+        d: 12
+    - artistNames:
+      - Max Savage
+      dob:
+        y: 1989
+        m: 8
+        d: 15

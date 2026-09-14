@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Kevin Russell
+      dob:
+        y: 1967
+        m: 6
+        d: 1
+    - artistNames:
+      - Claude Bernard
+      dob:
+        y: 1968
+        m: 3
+        d: 15
+    - artistNames:
+      - Jimmy Smith
+      dob:
+        y: 1970
+        m: 4
+        d: 20
+    - artistNames:
+      - Max Johnston
+      dob:
+        y: 1970
+        m: 8
+        d: 12
+    - artistNames:
+      - Brian K. Jones
+      dob:
+        y: 1971
+        m: 11
+        d: 5

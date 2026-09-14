@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - YT
+      artistRoles:
+      - vocals
+    - artistNames:
+      - T. D.
+      artistRoles:
+      - guitar
+    - artistNames:
+      - J. M.
+      artistRoles:
+      - bass
+    - artistNames:
+      - D. R.
+      artistRoles:
+      - drums

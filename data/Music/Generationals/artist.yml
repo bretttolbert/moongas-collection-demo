@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - Ted Joyner
+      dob:
+        y: 1982
+        m: 6
+        d: 22
+    - artistNames:
+      - Grant Widmer
+      dob:
+        y: 1982
+        m: 6
+        d: 22

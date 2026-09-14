@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Diana Krall
+  dob:
+    y: 1964
+    m: 11
+    d: 16
   city: Nanaimo
   countryCode: CA
   languageCodes:

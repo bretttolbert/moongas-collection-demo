@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Aaron Gillespie
+      dob:
+        y: 1983
+        m: 4
+        d: 18
+    - artistNames:
+      - Matt Carter
+      dob:
+        y: 1982
+        m: 5
+        d: 1
+    - artistNames:
+      - Alex Aponte
+      dob:
+        y: 1984
+        m: 9
+        d: 14
+    - artistNames:
+      - Jay Vilardi
+      dob:
+        y: 1984
+        m: 6
+        d: 12
+    - artistNames:
+      - Chad O'Neal
+      dob:
+        y: 1981
+        m: 3
+        d: 15

@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Unknown Member 1
+    - artistNames:
+      - Unknown Member 2
+    - artistNames:
+      - Unknown Member 3
+    - artistNames:
+      - Unknown Member 4
+    - artistNames:
+      - Unknown Member 5

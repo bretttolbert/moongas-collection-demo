@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Nicola Sirkis
+      dob:
+        y: 1959
+        m: 6
+        d: 22
+    - artistNames:
+      - Dominique Nicolas
+      dob:
+        y: 1960
+        m: 5
+        d: 24
+    - artistNames:
+      - Oli de Sat
+      dob:
+        y: 1970
+        m: 2
+        d: 7
+    - artistNames:
+      - Mathieu Sirkis
+      dob:
+        y: 1982
+        m: 4
+        d: 12
+    - artistNames:
+      - Boris Jardel
+      dob:
+        y: 1970
+        m: 9
+        d: 15
+    - artistNames:
+      - Marc Eliard
+      dob:
+        y: 1969
+        m: 11
+        d: 3

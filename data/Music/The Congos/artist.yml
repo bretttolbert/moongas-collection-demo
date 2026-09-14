@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Cedric Myton
+      dob:
+        y: 1947
+        m: 10
+        d: 23
+    - artistNames:
+      - Roydel Johnson
+      dob:
+        y: 1947
+        m: 12
+        d: 31
+    - artistNames:
+      - Watty Burnett
+      dob:
+        y: 1948
+        m: 1
+        d: 1

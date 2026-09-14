@@ -37,3 +37,9 @@ artistData:
         y: 1994
         m: 4
         d: 25
+    - artistNames:
+      - Matt McDonald
+      dob:
+        y: 1993
+        m: 2
+        d: 18

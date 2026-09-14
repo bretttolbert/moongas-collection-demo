@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Ryan Cabrera
+  dob:
+    y: 1982
+    m: 9
+    d: 18
   city: Dallas
   countryCode: US
   languageCodes:

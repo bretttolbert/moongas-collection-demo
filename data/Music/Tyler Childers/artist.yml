@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Tyler Childers
+      dob:
+        y: 1991
+        m: 6
+        d: 21

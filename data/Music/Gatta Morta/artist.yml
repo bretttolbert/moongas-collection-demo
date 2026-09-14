@@ -22,6 +22,10 @@ artistData:
       - vocals
     - artistNames:
       - JD Pinkus
+      dob:
+        y: 1968
+        m: 6
+        d: 30
       artistRoles:
       - bass
       - vocals
@@ -29,6 +33,10 @@ artistData:
       - Butthole Surfers
     - artistNames:
       - Coady Willis
+      dob:
+        y: 1980
+        m: 7
+        d: 21
       artistRoles:
       - drums
       - vocals

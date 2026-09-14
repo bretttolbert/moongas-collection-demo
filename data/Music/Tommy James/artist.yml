@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Tommy James
+      dob:
+        y: 1947
+        m: 4
+        d: 29
+      artistRoles:
+      - vocals
+      - guitar
+      - songwriter

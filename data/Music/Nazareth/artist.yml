@@ -6,4 +6,50 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-FIF
-  members: []
+  members:
+    - artistNames:
+      - Dan McCafferty
+      dob:
+        y: 1946
+        m: 10
+        d: 14
+    - artistNames:
+      - Pete Agnew
+      dob:
+        y: 1946
+        m: 11
+        d: 14
+    - artistNames:
+      - Manny Charlton
+      dob:
+        y: 1941
+        m: 12
+        d: 25
+    - artistNames:
+      - Darrell Sweet
+      dob:
+        y: 1947
+        m: 11
+        d: 16
+      dod:
+        y: 2018
+        m: 4
+        d: 30
+    - artistNames:
+      - Billy Rankin
+      dob:
+        y: 1961
+        m: 1
+        d: 1
+    - artistNames:
+      - Jimmy Murrison
+      dob:
+        y: 1965
+        m: 5
+        d: 15
+    - artistNames:
+      - Carl Sentance
+      dob:
+        y: 1965
+        m: 6
+        d: 24

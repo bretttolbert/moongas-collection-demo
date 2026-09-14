@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Christina Halladay
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Matt Palmer
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Hart Seely
+      artistRoles:
+      - bass
+    - artistNames:
+      - Kyle Seely
+      artistRoles:
+      - drums

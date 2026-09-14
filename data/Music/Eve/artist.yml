@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Eve Jeffers
+      dob:
+        y: 1978
+        m: 11
+        d: 10

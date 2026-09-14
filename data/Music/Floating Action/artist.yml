@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Seth Kauffman
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Chris McGrew
+    - artistNames:
+      - David McGraw
+    - artistNames:
+      - Josh Kauffman

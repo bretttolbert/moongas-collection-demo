@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - de
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Zacharias Zach
+      dob:
+        y: 1990
+        m: 1
+        d: 1

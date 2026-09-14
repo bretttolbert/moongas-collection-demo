@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Leonardo de Lozanne
+      dob:
+        y: 1968
+        m: 11
+        d: 29
+    - artistNames:
+      - Iñaki Vázquez
+      dob:
+        y: 1970
+        m: 4
+        d: 14
+    - artistNames:
+      - Paco Huidobro
+      dob:
+        y: 1969
+        m: 5
+        d: 12
+    - artistNames:
+      - Jay de la Cueva
+      dob:
+        y: 1974
+        m: 6
+        d: 19
+    - artistNames:
+      - Emmanuel "Meme" del Real
+      dob:
+        y: 1972
+        m: 1
+        d: 1

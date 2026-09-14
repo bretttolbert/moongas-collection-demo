@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-02
-  members: []
+  members:
+    - artistNames:
+      - Yseult
+      dob:
+        y: 1999
+        m: 1
+        d: 17

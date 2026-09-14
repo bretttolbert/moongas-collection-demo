@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - de
   regionCode: AT-6
-  members: []
+  members:
+    - artistNames:
+      - Anja Plaschg
+      dob:
+        y: 1990
+        m: 1
+        d: 1

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Jessy Bulbo
+      dob:
+        y: 1974
+        m: 6
+        d: 1

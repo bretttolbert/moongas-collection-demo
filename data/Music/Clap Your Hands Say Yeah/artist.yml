@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Alec Ounsworth
+      dob:
+        y: 1979
+        m: 5
+        d: 2
+    - artistNames:
+      - Lee Sargent
+    - artistNames:
+      - Tyler Sargent
+    - artistNames:
+      - Sean Greenhalgh
+    - artistNames:
+      - Michelle B. 
+    - artistNames:
+      - David Maclean

@@ -37,3 +37,12 @@ artistData:
         y: 1967
         m: 11
         d: 23
+    - artistNames:
+      - Nigel Godrich
+      dob:
+        y: 1971
+        m: 2
+        d: 28
+      artistRoles:
+      - producer
+      - sound engineer

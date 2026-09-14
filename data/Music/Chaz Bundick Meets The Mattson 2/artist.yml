@@ -25,9 +25,17 @@ artistData:
       - keyboards
     - artistNames:
       - Jared Mattson
+      dob:
+        y: 1988
+        m: 1
+        d: 1
       artistRoles:
       - guitar
     - artistNames:
       - Jonathan Mattson
+      dob:
+        y: 1990
+        m: 3
+        d: 15
       artistRoles:
       - drums

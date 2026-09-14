@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-CAM
-  members: []
+  members:
+    - artistNames:
+      - Katrina Leskanich
+      dob:
+        y: 1960
+        m: 6
+        d: 10
+    - artistNames:
+      - Vince de la Cruz
+    - artistNames:
+      - Kimberly Rew
+    - artistNames:
+      - Alex Cooper
+      dob:
+        y: 1958
+        m: 7
+        d: 1

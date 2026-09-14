@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-ID
-  members: []
+  members:
+    - artistNames:
+      - Josh Ritter
+      dob:
+        y: 1976
+        m: 10
+        d: 21

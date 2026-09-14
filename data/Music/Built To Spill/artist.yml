@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 5
         d: 20
+    - artistNames:
+      - Brett Netson
+      dob:
+        y: 1970
+        m: 12
+        d: 31

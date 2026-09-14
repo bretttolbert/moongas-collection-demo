@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Christopher Cross
+      dob:
+        y: 1951
+        m: 5
+        d: 3

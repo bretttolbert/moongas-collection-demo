@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WMD
-  members: []
+  members:
+    - artistNames:
+      - Lenni Kuras
+    - artistNames:
+      - Rod Temperton
+    - artistNames:
+      - Ricky Bailey
+    - artistNames:
+      - K. B. W. Smith
+    - artistNames:
+      - Michael McDonald
+    - artistNames:
+      - David Grant

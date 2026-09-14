@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Sango
+      dob:
+        y: 1990
+        m: 1
+        d: 1

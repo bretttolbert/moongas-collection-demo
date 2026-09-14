@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Greentea Peng
+  dob:
+    y: 1996
+    m: 1
+    d: 25
   city: London
   countryCode: GB
   languageCodes:

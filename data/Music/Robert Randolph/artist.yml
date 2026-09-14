@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Robert Randolph
+      dob:
+        y: 1970
+        m: 8
+        d: 8

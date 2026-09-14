@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: SE-C
-  members: []
+  members:
+    - artistNames:
+      - Magnus Zingmark
+      dob:
+        y: 1974
+    - artistNames:
+      - Oscar Simonsson
+      dob:
+        y: 1974

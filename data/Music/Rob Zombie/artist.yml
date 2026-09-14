@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Rob Zombie
+      dob:
+        y: 1965
+        m: 1
+        d: 12
+      artistRoles:
+      - vocals
+      - guitar
+      - director
+    - artistNames:
+      - John 5
+      dob:
+        y: 1971
+        m: 7
+        d: 31
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Piggy D
+      dob:
+        y: 1981
+        m: 5
+        d: 15
+      artistRoles:
+      - bass
+    - artistNames:
+      - Ginger Fish
+      dob:
+        y: 1971
+        m: 9
+        d: 28
+      artistRoles:
+      - drums

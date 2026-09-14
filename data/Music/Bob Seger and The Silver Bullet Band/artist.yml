@@ -65,3 +65,24 @@ artistData:
       artistRoles:
       - backing vocals
       - percussion
+    - artistNames:
+      - Kenney McAlpine
+      artistRoles:
+      - bass
+    - artistNames:
+      - Michael "Mickey" McCarty
+      artistRoles:
+      - drums
+    - artistNames:
+      - Tom Werman
+      artistRoles:
+      - producer
+    - artistNames:
+      - John "J.R." Robinson
+      artistRoles:
+      - drums
+    - artistNames:
+      - Greg "Fingers" Taylor
+      artistRoles:
+      - keyboards
+      - backing vocals

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Landon Jacobs
+      dob:
+        y: 1991
+        m: 1
+        d: 1
+    - artistNames:
+      - Cody Phillips
+      dob:
+        y: 1991
+        m: 1
+        d: 1
+    - artistNames:
+      - Wyatt Peterson
+      dob:
+        y: 1991
+        m: 1
+        d: 1

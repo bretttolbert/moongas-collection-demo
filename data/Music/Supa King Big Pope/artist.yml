@@ -7,3 +7,7 @@ artistData:
   members: []
   languageCodes:
   - en
+  dob: 
+    y: 1985
+    m: 6
+    d: 15

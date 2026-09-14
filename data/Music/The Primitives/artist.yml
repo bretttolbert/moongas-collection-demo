@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-COV
-  members: []
+  members:
+    - artistNames:
+      - Tracy Tracy
+      dob:
+        y: 1967
+        m: 6
+        d: 28
+    - artistNames:
+      - Paul Court
+      dob:
+        y: 1965
+        m: 5
+        d: 12
+    - artistNames:
+      - Tig Williams
+      dob:
+        y: 1965
+        m: 9
+        d: 27
+    - artistNames:
+      - Pete D. C. Smith
+      dob:
+        y: 1965
+        m: 12
+        d: 31

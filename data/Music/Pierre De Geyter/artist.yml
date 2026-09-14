@@ -7,3 +7,11 @@ artistData:
   members: []
   languageCodes:
   - fr
+  dob:
+    y: 1848
+    m: 10
+    d: 23
+  dod:
+    y: 1932
+    m: 7
+    d: 18

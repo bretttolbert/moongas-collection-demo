@@ -13,3 +13,22 @@ artistData:
         y: 1976
         m: 7
         d: 1
+      artistRoles:
+      - vocals
+      - rap
+    - artistNames:
+      - J. R. Rotem
+      artistRoles:
+      - producer
+    - artistNames:
+      - Lil Wayne
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - T-Pain
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Rick Ross
+      artistRoles:
+      - featured artist
