@@ -5,11 +5,11 @@ artistData:
   countryCode: GB
   languageCodes:
   - en
-  - regionCode: GB-ENG
-  - members:
+  regionCode: GB-ENG
+  members:
     - artistNames:
       - Stephen Wilkinson
-    - dob:
+      dob:
         y: 1984
         m: 7
         d: 1

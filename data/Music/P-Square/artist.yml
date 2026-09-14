@@ -19,3 +19,16 @@ artistData:
         y: 1981
         m: 11
         d: 18
+  members: 
+    - artistNames:
+      - Peter Okoye
+      dob:
+        y: 1981
+        m: 11
+        d: 18
+    - artistNames:
+      - Paul Okoye
+      dob:
+        y: 1981
+        m: 11
+        d: 18
