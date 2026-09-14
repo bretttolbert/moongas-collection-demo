@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Luke Temple
+      dob:
+        y: 1983
+        m: 1
+        d: 1
+    - artistNames:
+      - Michael Bloch
+    - artistNames:
+      - Kristina Lieberson
+    - artistNames:
+      - Peter Hale
+    - artistNames:
+      - Matt Romano

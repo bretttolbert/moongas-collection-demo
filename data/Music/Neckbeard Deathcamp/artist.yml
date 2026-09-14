@@ -6,4 +6,6 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - "Neckbeard Deathcamp"

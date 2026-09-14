@@ -25,3 +25,7 @@ artistData:
         y: 1971
         m: 4
         d: 29
+      artistRoles:
+      - guitar
+      - keyboards
+      - backing vocals

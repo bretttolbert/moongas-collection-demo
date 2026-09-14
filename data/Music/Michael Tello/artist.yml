@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Michael Tello
+      dob:
+        y: 1980
+        m: 1
+        d: 1

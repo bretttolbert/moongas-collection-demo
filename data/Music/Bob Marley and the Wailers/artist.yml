@@ -68,3 +68,43 @@ artistData:
       artistRoles:
       - drums
       - percussion
+    - artistNames:
+      - Rita Marley
+      dob:
+        y: 1946
+        m: 7
+        d: 25
+      artistRoles:
+      - vocals
+      - backing vocals
+    - artistNames:
+      - Al Anderson
+      dob:
+        y: 1953
+        m: 1
+        d: 6
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Tyrone Downie
+      dob:
+        y: 1955
+        m: 5
+        d: 12
+      artistRoles:
+      - keyboards
+      - backing vocals
+    - artistNames:
+      - Carlton "Carlie" Barrett
+      dob:
+        y: 1950
+        m: 12
+        d: 17
+      dod:
+        y: 1987
+        m: 4
+        d: 2
+      artistRoles:
+      - drums
+      - percussion

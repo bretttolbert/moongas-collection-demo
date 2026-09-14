@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VT
-  members: []
+  members:
+    - artistNames:
+      - Dana Foote
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Sam O'Neill
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Maxx Danziger
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Alex Amini
+      dob:
+        y: 1998
+        m: 5
+        d: 12

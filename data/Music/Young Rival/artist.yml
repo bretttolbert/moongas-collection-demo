@@ -25,3 +25,9 @@ artistData:
         y: 1984
         m: 9
         d: 10
+    - artistNames:
+      - Lisa Lobsinger
+      dob:
+        y: 1983
+        m: 1
+        d: 20

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-67
-  members: []
+  members:
+    - artistNames:
+      - Kalash
+      dob:
+        y: 1995
+        m: 4
+        d: 12

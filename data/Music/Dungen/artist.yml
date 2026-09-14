@@ -41,3 +41,12 @@ artistData:
         d: 21
       artistRoles:
       - drums
+    - artistNames:
+      - Maria Håkansson
+      dob:
+        y: 1981
+        m: 6
+        d: 15
+      artistRoles:
+      - vocals
+      - keyboards

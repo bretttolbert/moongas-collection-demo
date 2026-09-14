@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 6
         d: 12
+    - artistNames:
+      - Josh Tillman
+      dob:
+        y: 1981
+        m: 5
+        d: 3

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Mormor
+  dob:
+    y: 1996
+    m: 10
+    d: 1
   city: Toronto
   countryCode: CA
   languageCodes:

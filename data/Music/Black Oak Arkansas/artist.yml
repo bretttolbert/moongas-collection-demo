@@ -55,3 +55,9 @@ artistData:
         y: 1950
         m: 6
         d: 12
+    - artistNames:
+      - John "J.J." Daugherty
+      dob:
+        y: 1950
+        m: 6
+        d: 12
