@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Pokey LaFarge
+      dob:
+        y: 1983
+        m: 6
+        d: 26
