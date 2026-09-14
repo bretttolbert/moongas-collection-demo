@@ -17,3 +17,7 @@ artistData:
       - Jürgen von Knoblauch
     - artistNames:
       - DJ T.
+      dob:
+        y: 1971
+        m: 1
+        d: 1

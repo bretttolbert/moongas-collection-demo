@@ -6,4 +6,52 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Vernon Bullock
+      dob:
+        y: 1944
+        m: 1
+        d: 1
+    - artistNames:
+      - Edna Wright
+      dob:
+        y: 1943
+        m: 1
+        d: 1
+    - artistNames:
+      - Leslie Wilson
+      dob:
+        y: 1949
+        m: 1
+        d: 1
+    - artistNames:
+      - Melvin Franklin
+      dob:
+        y: 1942
+        m: 10
+        d: 13
+    - artistNames:
+      - William "Billy" Jones
+      dob:
+        y: 1949
+        m: 1
+        d: 1
+    - artistNames:
+      - Linda Jones
+      dob:
+        y: 1944
+        m: 1
+        d: 1
+    - artistNames:
+      - Johnny Harris
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - Michael "Mike" McCoy
+      dob:
+        y: 1946
+        m: 1
+        d: 1

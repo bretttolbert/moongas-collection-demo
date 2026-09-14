@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Don Toliver
+  dob:
+    y: 1994
+    m: 6
+    d: 12
   city: Houston
   countryCode: US
   languageCodes:

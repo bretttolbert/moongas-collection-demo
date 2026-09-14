@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WYK
-  members: []
+  members:
+    - artistNames:
+      - Ian Astbury
+      dob:
+        y: 1962
+        m: 5
+        d: 14
+    - artistNames:
+      - Billy Duffy
+      dob:
+        y: 1961
+        m: 4
+        d: 12
+    - artistNames:
+      - Jamie Stewart
+      dob:
+        y: 1969
+        m: 9
+        d: 24
+    - artistNames:
+      - John Tempesta
+      dob:
+        y: 1968
+        m: 7
+        d: 26
+    - artistNames:
+      - Chris Wyse
+      dob:
+        y: 1970
+        m: 1
+        d: 4

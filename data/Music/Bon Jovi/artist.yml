@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Jon Bon Jovi
+      dob:
+        y: 1962
+        m: 3
+        d: 2
+    - artistNames:
+      - Richie Sambora
+      dob:
+        y: 1959
+        m: 7
+        d: 11
+    - artistNames:
+      - David Bryan
+      dob:
+        y: 1962
+        m: 2
+        d: 7
+    - artistNames:
+      - Tico Torres
+      dob:
+        y: 1953
+        m: 10
+        d: 7
+    - artistNames:
+      - Hugh McDonald
+      dob:
+        y: 1950
+        m: 12
+        d: 28

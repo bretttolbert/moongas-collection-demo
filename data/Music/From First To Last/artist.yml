@@ -43,3 +43,15 @@ artistData:
         y: 1981
         m: 11
         d: 25
+    - artistNames:
+      - Matt Good
+      dod:
+        y: 2023
+        m: 5
+        d: 12
+    - artistNames:
+      - Jonny Craig
+      dod:
+        y: 2021
+        m: 10
+        d: 24

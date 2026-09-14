@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Daniel Fetherston
+    - artistNames:
+      - Brian Profilio
+    - artistNames:
+      - Jared Tankel
+    - artistNames:
+      - Mike Boulton
+    - artistNames:
+      - Thomas Brenneck
+    - artistNames:
+      - Dave Guy
+    - artistNames:
+      - John H. Davis
+    - artistNames:
+      - John "J" McCauley
+    - artistNames:
+      - Chris "C" D. Smith
+    - artistNames:
+      - Eric "E" B. Johnson

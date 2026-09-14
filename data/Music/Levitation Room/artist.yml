@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Lucas Fitzsimons
+      dob:
+        y: 1993
+        m: 6
+        d: 15
+    - artistNames:
+      - Javi S. 
+    - artistNames:
+      - Daniel G. 
+    - artistNames:
+      - Chris A.

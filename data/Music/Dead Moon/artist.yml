@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OR
-  members: []
+  members:
+    - artistNames:
+      - Fred Cole
+      dob:
+        y: 1948
+        m: 11
+        d: 1
+      dod:
+        y: 2022
+        m: 11
+        d: 9
+    - artistNames:
+      - Toody Cole
+    - artistNames:
+      - Andrew Loomis
+      dob:
+        y: 1964
+      dod:
+        y: 2021
+        m: 12
+        d: 31

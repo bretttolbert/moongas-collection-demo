@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Fidel Castro
+  dob:
+    y: 1926
+    m: 8
+    d: 13
+  dod:
+    y: 2016
+    m: 11
+    d: 25
   city: Birán
   countryCode: CU
   regionCode: CU-11

@@ -31,3 +31,9 @@ artistData:
         y: 1992
         m: 11
         d: 5
+    - artistNames:
+      - Sam McDonald
+      dob:
+        y: 1994
+        m: 4
+        d: 25

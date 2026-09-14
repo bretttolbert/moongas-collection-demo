@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IN
-  members: []
+  members:
+    - artistNames:
+      - Matt Myers
+      dob:
+        y: 1987
+        m: 1
+        d: 1
+    - artistNames:
+      - Zak Appleby
+      dob:
+        y: 1988
+        m: 3
+        d: 15
+    - artistNames:
+      - Katie Toupin
+      dob:
+        y: 1990
+        m: 5
+        d: 1
+    - artistNames:
+      - Shane Cody
+      dob:
+        y: 1987
+        m: 9
+        d: 12

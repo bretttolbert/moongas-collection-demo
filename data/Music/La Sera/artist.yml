@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Katy Goodman
+      dob:
+        y: 1986
+        m: 3
+        d: 29
+    - artistNames:
+      - Todd Wisenbaker
+      dob:
+        y: 1985
+        m: 5
+        d: 1
+    - artistNames:
+      - Jason Boesel
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Dan Elkan
+      dob:
+        y: 1980
+        m: 6
+        d: 1
