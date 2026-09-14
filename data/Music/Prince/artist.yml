@@ -17,3 +17,39 @@ artistData:
         y: 2016
         m: 4
         d: 21
+    - artistNames:
+      - Sheila E.
+      dob:
+        y: 1957
+        m: 12
+        d: 12
+    - artistNames:
+      - Wendy Melvoin
+      dob:
+        y: 1964
+        m: 1
+        d: 26
+    - artistNames:
+      - Lisa Coleman
+      dob:
+        y: 1960
+        m: 8
+        d: 17
+    - artistNames:
+      - Morris Day
+      dob:
+        y: 1957
+        m: 12
+        d: 13
+    - artistNames:
+      - Apollonia Kotero
+      dob:
+        y: 1959
+        m: 8
+        d: 2
+    - artistNames:
+      - The Revolution
+    - artistNames:
+      - The New Power Generation
+    - artistNames:
+      - 3rdeyegirl

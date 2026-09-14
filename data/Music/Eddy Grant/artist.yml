@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GY-DE
-  members: []
+  members:
+    - artistNames:
+      - Eddy Grant
+      dob:
+        y: 1948
+        m: 5
+        d: 5

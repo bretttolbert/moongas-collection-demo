@@ -29,3 +29,19 @@ artistData:
       artistRoles:
       - guitar
       - vocals
+    - artistNames:
+      - Daniel O'Sullivan
+      dob:
+        y: 1982
+        m: 5
+        d: 1
+      artistRoles:
+      - bass
+    - artistNames:
+      - David A. S. Smith
+      dob:
+        y: 1985
+        m: 3
+        d: 15
+      artistRoles:
+      - drums

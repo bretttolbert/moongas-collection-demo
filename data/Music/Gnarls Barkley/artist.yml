@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - CeeLo Green
+      dob:
+        y: 1974
+        m: 5
+        d: 30
+    - artistNames:
+      - Danger Mouse
+      dob:
+        y: 1977
+        m: 7
+        d: 29

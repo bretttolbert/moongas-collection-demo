@@ -53,3 +53,9 @@ artistData:
         y: 1946
         m: 10
         d: 19
+    - artistNames:
+      - Florence LaRue
+      dob:
+        y: 1944
+        m: 2
+        d: 4

@@ -13,3 +13,27 @@ artistData:
         y: 1990
         m: 4
         d: 2
+    - artistNames:
+      - Wale
+      dob:
+        y: 1984
+        m: 9
+        d: 21
+    - artistNames:
+      - Soulja Boy
+      dob:
+        y: 1990
+        m: 7
+        d: 28
+    - artistNames:
+      - 2 Chainz
+      dob:
+        y: 1977
+        m: 9
+        d: 12
+    - artistNames:
+      - Future
+      dob:
+        y: 1983
+        m: 11
+        d: 20

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-NLE
-  members: []
+  members:
+    - artistNames:
+      - Jorge "Chiquis" Amaro
+      dob:
+        y: 1975
+        m: 1
+        d: 1
+    - artistNames:
+      - Javier "Javi" Arriaga
+      dob:
+        y: 1976
+        m: 2
+        d: 2
+    - artistNames:
+      - Ricardo "Ricky" Arreola
+      dob:
+        y: 1974
+        m: 3
+        d: 3
+    - artistNames:
+      - José "Pepe" Bañuelos
+      dob:
+        y: 1973
+        m: 4
+        d: 4
+    - artistNames:
+      - Fernando "Fer" Arreola
+      dob:
+        y: 1972
+        m: 5
+        d: 5

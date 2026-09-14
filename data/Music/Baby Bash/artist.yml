@@ -14,7 +14,17 @@ artistData:
   members:
     - artistNames:
       - Baby Bash
+      dob:
+        y: 1975
+        m: 10
+        d: 18
+      artistRoles:
+      - rapper
+    - artistNames:
       - Ronald Ray Bryant
+      artistRoles:
+      - rapper
+    - artistNames:
       - Baby Beesh
       artistRoles:
       - rapper

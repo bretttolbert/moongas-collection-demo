@@ -37,3 +37,15 @@ artistData:
         y: 1974
         m: 6
         d: 12
+    - artistNames:
+      - Ole Alexander Halstensgård
+      dob:
+        y: 1980
+        m: 4
+        d: 29
+    - artistNames:
+      - Lars Are Nedland
+      dob:
+        y: 1975
+        m: 1
+        d: 1

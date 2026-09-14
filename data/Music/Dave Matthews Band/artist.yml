@@ -43,3 +43,27 @@ artistData:
         y: 1967
         m: 5
         d: 15
+    - artistNames:
+      - Peter Griesar
+      dob:
+        y: 1967
+        m: 6
+        d: 14
+    - artistNames:
+      - Butch Taylor
+      dob:
+        y: 1965
+        m: 1
+        d: 1
+    - artistNames:
+      - Rashawn Ross
+      dob:
+        y: 1982
+        m: 11
+        d: 15
+    - artistNames:
+      - Tim Reynolds
+      dob:
+        y: 1967
+        m: 5
+        d: 15

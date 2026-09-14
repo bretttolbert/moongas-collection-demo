@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Sister Nancy
+      dob:
+        y: 1969
+        m: 1
+        d: 1

@@ -19,3 +19,7 @@ artistData:
       - Nick Zinner
     - artistNames:
       - Jake Luppen
+      dob:
+        y: 1993
+        m: 3
+        d: 24

@@ -13,3 +13,9 @@ artistData:
         y: 1995
         m: 6
         d: 15
+    - artistNames:
+      - [Additional Member Name]
+      dob:
+        y: [Year]
+        m: [Month]
+        d: [Day]

@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 2
         d: 14
+    - artistNames:
+      - Jason Schwartzman
+      dob:
+        y: 1980
+        m: 6
+        d: 26

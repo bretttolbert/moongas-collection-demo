@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Kieran O'Brien
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Chris O'Dowd
+      artistRoles:
+      - bass
+    - artistNames:
+      - Dave "D" Dyer
+      artistRoles:
+      - drums
+    - artistNames:
+      - Rachael O'Brien
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Mark "M" McCarthy
+      artistRoles:
+      - guitar
+      - backing vocals

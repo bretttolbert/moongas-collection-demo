@@ -37,3 +37,27 @@ artistData:
         y: 1988
         m: 7
         d: 7
+    - artistNames:
+      - Josh Freese
+      dob:
+        y: 1972
+        m: 12
+        d: 25
+    - artistNames:
+      - Chris Vrenna
+      dob:
+        y: 1970
+        m: 2
+        d: 23
+    - artistNames:
+      - Richard Patrick
+      dob:
+        y: 1970
+        m: 5
+        d: 10
+    - artistNames:
+      - Jerome Dillon
+      dob:
+        y: 1970
+        m: 5
+        d: 15

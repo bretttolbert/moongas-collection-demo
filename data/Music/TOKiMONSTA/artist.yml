@@ -3,6 +3,10 @@ artistData:
   - TOKiMONSTA
   city: Los Angeles
   countryCode: US
+  dob:
+    y: 1989
+    m: 2
+    d: 26
   languageCodes:
   - en
   regionCode: US-CA

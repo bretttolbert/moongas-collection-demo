@@ -31,3 +31,9 @@ artistData:
         y: 1961
         m: 7
         d: 10
+    - artistNames:
+      - John McDermott
+      dob:
+        y: 1961
+        m: 3
+        d: 20

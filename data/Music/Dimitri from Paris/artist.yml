@@ -13,3 +13,7 @@ artistData:
         y: 1970
         m: 5
         d: 27
+      artistRoles:
+      - producer
+      - DJ
+      - remixer

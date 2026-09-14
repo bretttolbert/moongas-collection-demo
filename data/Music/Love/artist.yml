@@ -29,6 +29,10 @@ artistData:
         d: 15
     - artistNames:
       - Johnny Eccles
+      dob:
+        y: 1943
+        m: 4
+        d: 5
     - artistNames:
       - Ken Forssi
       dob:
@@ -41,5 +45,13 @@ artistData:
         d: 1
     - artistNames:
       - Michael Stuart
+      dob:
+        y: 1949
+        m: 7
+        d: 1
     - artistNames:
       - Tjay Cantrelli
+      dob:
+        y: 1946
+        m: 5
+        d: 1

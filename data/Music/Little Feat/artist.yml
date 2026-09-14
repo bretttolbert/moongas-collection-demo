@@ -67,3 +67,15 @@ artistData:
         y: 2021
         m: 8
         d: 29
+    - artistNames:
+      - John McFee
+      dob:
+        y: 1950
+        m: 3
+        d: 15
+    - artistNames:
+      - Lenny Castro
+      dob:
+        y: 1947
+        m: 4
+        d: 17

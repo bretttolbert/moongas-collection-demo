@@ -31,3 +31,9 @@ artistData:
         y: 1986
         m: 11
         d: 5
+    - artistNames:
+      - Chris Kinison
+      dob:
+        y: 1988
+        m: 9
+        d: 12

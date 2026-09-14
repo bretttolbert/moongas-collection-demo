@@ -33,3 +33,13 @@ artistData:
       - John A. McGowan
       artistRoles:
       - bass
+    - artistNames:
+      - John McGowan
+      artistRoles:
+      - bass
+    - artistNames:
+      - Kurt Ralske
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards

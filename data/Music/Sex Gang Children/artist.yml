@@ -31,3 +31,15 @@ artistData:
         y: 1963
         m: 7
         d: 30
+    - artistNames:
+      - Paul "P" McCarthy
+      dob:
+        y: 1965
+        m: 9
+        d: 10
+    - artistNames:
+      - Mark "M" Hurst
+      dob:
+        y: 1964
+        m: 4
+        d: 25

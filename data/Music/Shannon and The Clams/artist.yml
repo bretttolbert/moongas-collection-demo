@@ -34,3 +34,8 @@ artistData:
       artistRoles:
       - keyboards
       - vocals
+    - artistNames:
+      - Maxx McGarrigle
+      artistRoles:
+      - guitar
+      - backing vocals

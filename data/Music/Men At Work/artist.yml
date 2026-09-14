@@ -41,3 +41,15 @@ artistData:
         y: 2012
         m: 4
         d: 15
+    - artistNames:
+      - John "Jock" McDonald
+      dob:
+        y: 1955
+        m: 2
+        d: 18
+    - artistNames:
+      - David "Davo" O'Leary
+      dob:
+        y: 1958
+        m: 3
+        d: 1

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - David Hidalgo
+      dob:
+        y: 1954
+        m: 10
+        d: 6
+    - artistNames:
+      - Louie Pérez
+      dob:
+        y: 1954
+        m: 11
+        d: 12
+    - artistNames:
+      - Cesar Rosas
+      dob:
+        y: 1963
+        m: 8
+        d: 23
+    - artistNames:
+      - Conrad Lozano
+      dob:
+        y: 1954
+        m: 1
+        d: 24
+    - artistNames:
+      - Steve Berlin
+      dob:
+        y: 1955
+        m: 9
+        d: 14

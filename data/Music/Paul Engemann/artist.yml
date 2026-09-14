@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Paul Engemann
+  dob:
+    y: 1954
+    m: 6
+    d: 27
   city: Miami
   countryCode: US
   languageCodes:

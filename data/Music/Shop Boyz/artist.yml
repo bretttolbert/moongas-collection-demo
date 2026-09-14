@@ -6,4 +6,23 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Duke
+      - Demetrius "D" McCoy
+      dob:
+        y: 1985
+        m: 6
+        d: 15
+    - artistNames:
+      - C. D. "Cee" McCoy
+      dob:
+        y: 1986
+        m: 3
+        d: 22
+    - artistNames:
+      - J. R. "J-Rock" McCoy
+      dob:
+        y: 1984
+        m: 11
+        d: 10

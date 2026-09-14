@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - John Coltrane
+  dob:
+    y: 1926
+    m: 9
+    d: 23
+  dod:
+    y: 1967
+    m: 7
+    d: 17
   city: Hamlet
   countryCode: US
   languageCodes:

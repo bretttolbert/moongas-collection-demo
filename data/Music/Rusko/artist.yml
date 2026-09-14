@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LDS
-  members: []
+  members:
+    - artistNames:
+      - Christopher Mercer
+      dob:
+        y: 1985
+        m: 1
+        d: 26

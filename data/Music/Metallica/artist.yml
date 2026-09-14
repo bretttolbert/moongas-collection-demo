@@ -6,4 +6,49 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - James Hetfield
+      dob:
+        y: 1963
+        m: 8
+        d: 3
+      artistRoles:
+      - vocals
+      - rhythm guitar
+    - artistNames:
+      - Lars Ulrich
+      dob:
+        y: 1963
+        m: 12
+        d: 26
+      artistRoles:
+      - drums
+    - artistNames:
+      - Kirk Hammett
+      dob:
+        y: 1962
+        m: 11
+        d: 18
+      artistRoles:
+      - lead guitar
+    - artistNames:
+      - Robert Trujillo
+      dob:
+        y: 1964
+        m: 10
+        d: 23
+      artistRoles:
+      - bass
+    - artistNames:
+      - Cliff Burton
+      dob:
+        y: 1962
+        m: 2
+        d: 10
+      dod:
+        y: 1986
+        m: 9
+        d: 27
+      artistRoles:
+      - bass

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Treach
+      dob:
+        y: 1970
+        m: 12
+        d: 2
+    - artistNames:
+      - Vin Rock
+      dob:
+        y: 1970
+        m: 10
+        d: 2
+    - artistNames:
+      - Kay Gee
+      dob:
+        y: 1970
+        m: 7
+        d: 15

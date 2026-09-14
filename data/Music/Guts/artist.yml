@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Guts
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+      artistRoles:
+      - producer
+      - musician
+      - DJ

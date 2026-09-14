@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Guizmo
+      dob:
+        y: 1996
+        m: 1
+        d: 1

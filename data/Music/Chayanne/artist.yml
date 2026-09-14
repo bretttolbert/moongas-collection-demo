@@ -18,17 +18,33 @@ artistData:
       - dance
     - artistNames:
       - José Luis Rodríguez
+      dob:
+        y: 1943
+        m: 1
+        d: 14
       artistRoles:
       - guitar
     - artistNames:
       - Kany García
+      dob:
+        y: 1981
+        m: 9
+        d: 15
       artistRoles:
       - backing vocals
     - artistNames:
       - Luis Fonsi
+      dob:
+        y: 1978
+        m: 4
+        d: 15
       artistRoles:
       - backing vocals
     - artistNames:
       - Ana Gabriel
+      dob:
+        y: 1955
+        m: 12
+        d: 10
       artistRoles:
       - backing vocals

@@ -32,3 +32,43 @@ artistData:
         d: 10
       artistRoles:
       - drums
+    - artistNames:
+      - Herb Alexander
+      dob:
+        y: 1964
+        m: 6
+        d: 29
+      artistRoles:
+      - drums
+    - artistNames:
+      - Brian Mantia
+      dob:
+        y: 1970
+        m: 10
+        d: 18
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jay Lane
+      dob:
+        y: 1970
+        m: 3
+        d: 21
+      artistRoles:
+      - drums
+    - artistNames:
+      - Larry LaLonde
+      dob:
+        y: 1970
+        m: 9
+        d: 2
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tim Alexander
+      dob:
+        y: 1966
+        m: 4
+        d: 10
+      artistRoles:
+      - drums

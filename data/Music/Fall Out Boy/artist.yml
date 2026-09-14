@@ -43,3 +43,22 @@ artistData:
         d: 21
       artistRoles:
       - drums
+    - artistNames:
+      - John O'Callaghan
+      dob:
+        y: 1985
+        m: 7
+        d: 20
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - William Beckett
+      dob:
+        y: 1985
+        m: 3
+        d: 23
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards

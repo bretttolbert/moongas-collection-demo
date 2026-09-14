@@ -13,3 +13,22 @@ artistData:
         y: 1970
         m: 4
         d: 6
+    - artistNames:
+      - Pierre-Antoine Grison
+      dob:
+        y: 1970
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Philippe Cohen Solal
+      dob:
+        y: 1970
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Eric D. Clark
+      dob:
+        y: 1970
+      artistRoles:
+      - vocals
+      - percussion

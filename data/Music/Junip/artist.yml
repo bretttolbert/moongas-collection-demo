@@ -15,5 +15,13 @@ artistData:
         d: 21
     - artistNames:
       - Elias Araya
+      dob:
+        y: 1980
+        m: 1
+        d: 1
     - artistNames:
       - Tobias Winterkorn
+      dob:
+        y: 1980
+        m: 3
+        d: 15

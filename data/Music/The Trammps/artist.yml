@@ -49,3 +49,15 @@ artistData:
         y: 1945
         m: 8
         d: 10
+    - artistNames:
+      - Charles "Chuck" Barksdale
+      dob:
+        y: 1945
+        m: 9
+        d: 15
+    - artistNames:
+      - Robert "Bobby" Smith
+      dob:
+        y: 1943
+        m: 3
+        d: 5

@@ -41,3 +41,23 @@ artistData:
         y: 1944
         m: 2
         d: 15
+    - artistNames:
+      - Barbara Acklin
+      dob:
+        y: 1943
+        m: 3
+        d: 28
+      dod:
+        y: 1998
+        m: 11
+        d: 27
+    - artistNames:
+      - Johnny Carter
+      dob:
+        y: 1939
+        m: 1
+        d: 1
+      dod:
+        y: 2009
+        m: 3
+        d: 31

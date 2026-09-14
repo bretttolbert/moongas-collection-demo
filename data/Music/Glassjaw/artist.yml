@@ -49,3 +49,12 @@ artistData:
         d: 3
       artistRoles:
       - drums
+    - artistNames:
+      - Michael Koryta
+      dob:
+        y: 1980
+        m: 5
+        d: 15
+      artistRoles:
+      - keyboards
+      - backing vocals

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Dwight Yoakam
+      dob:
+        y: 1966
+        m: 10
+        d: 23

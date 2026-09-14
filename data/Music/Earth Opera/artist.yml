@@ -37,3 +37,9 @@ artistData:
         y: 1962
         m: 6
         d: 15
+    - artistNames:
+      - John "Jody" Stecher
+      dob:
+        y: 1943
+        m: 3
+        d: 24

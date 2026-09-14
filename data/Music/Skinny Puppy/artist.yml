@@ -41,3 +41,19 @@ artistData:
         y: 1963
         m: 4
         d: 18
+    - artistNames:
+      - Ken "Hiwatt" Marshall
+      dob:
+        y: 1961
+        m: 3
+        d: 16
+    - artistNames:
+      - D. M. M. (Dwayne Goettel)
+      dob:
+        y: 1964
+        m: 11
+        d: 19
+      dod:
+        y: 1995
+        m: 8
+        d: 23

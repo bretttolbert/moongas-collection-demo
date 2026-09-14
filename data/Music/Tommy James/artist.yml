@@ -17,3 +17,8 @@ artistData:
       - vocals
       - guitar
       - songwriter
+    - artistNames:
+      - The Shondells
+      artistRoles:
+      - backing vocals
+      - instruments

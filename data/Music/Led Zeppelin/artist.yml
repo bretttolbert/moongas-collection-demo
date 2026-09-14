@@ -35,3 +35,11 @@ artistData:
         y: 1980
         m: 9
         d: 25
+    - artistNames:
+      - Jason Bonham
+      dob:
+        y: 1966
+        m: 3
+        d: 15
+      artistRoles:
+      - drums

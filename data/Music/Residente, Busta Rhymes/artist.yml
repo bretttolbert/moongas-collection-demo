@@ -1,9 +1,22 @@
 artistData:
   artistNames:
-  - Residente, Busta Rhymes
+  - Residente
+  - Busta Rhymes
   city: San Juan
   countryCode: PR
   languageCodes:
   - es
-  regionCode: US-PR
-  members: []
+  regionCode: PR-SJ
+  members:
+    - artistNames:
+      - Residente
+      dob:
+        y: 1978
+        m: 2
+        d: 23
+    - artistNames:
+      - Busta Rhymes
+      dob:
+        y: 1972
+        m: 5
+        d: 20

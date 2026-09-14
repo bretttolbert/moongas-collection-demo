@@ -43,3 +43,21 @@ artistData:
         y: 1970
         m: 6
         d: 28
+    - artistNames:
+      - Doug Aldrich
+      dob:
+        y: 1964
+        m: 2
+        d: 19
+    - artistNames:
+      - Marco Mendoza
+      dob:
+        y: 1963
+        m: 6
+        d: 8
+    - artistNames:
+      - Brian Ruedy
+      dob:
+        y: 1970
+        m: 3
+        d: 15

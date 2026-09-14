@@ -26,3 +26,19 @@ artistData:
         y: 1972
         m: 8
         d: 16
+    - artistNames:
+      - Laura Lynch
+      dob:
+        y: 1973
+        m: 7
+        d: 24
+      dod:
+        y: 1999
+        m: 1
+        d: 1
+    - artistNames:
+      - Robison's daughter
+      dob:
+        y: 2005
+        m: 2
+        d: 14

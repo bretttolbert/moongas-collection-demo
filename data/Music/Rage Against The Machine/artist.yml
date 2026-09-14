@@ -41,3 +41,16 @@ artistData:
         d: 5
       artistRoles:
       - drums
+    - artistNames:
+      - Chris Cornell
+      dob:
+        y: 1964
+        m: 7
+        d: 20
+      artistRoles:
+      - backing vocals
+      - guitar
+      dod:
+        y: 2017
+        m: 5
+        d: 18

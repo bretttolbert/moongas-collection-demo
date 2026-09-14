@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: NL-LI
-  members: []
+  members:
+    - artistNames:
+      - Koen Smits
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Yves D. 
+      dob:
+        y: 1990
+        m: 1
+        d: 1

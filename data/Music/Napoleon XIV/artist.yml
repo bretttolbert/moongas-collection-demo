@@ -13,3 +13,7 @@ artistData:
         y: 1938
         m: 2
         d: 3
+      artistRoles:
+      - vocals
+      - songwriter
+      - producer

@@ -32,12 +32,6 @@ artistData:
         m: 4
         d: 30
     - artistNames:
-      - Mic Michaeli
-      dob:
-        y: 1963
-        m: 1
-        d: 22
-    - artistNames:
       - Peter Olsson
       dob:
         y: 1961

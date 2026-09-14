@@ -59,3 +59,20 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Paul Young
+      dob:
+        y: 1956
+        m: 1
+        d: 17
+      artistRoles:
+      - lead vocals
+    - artistNames:
+      - Chris Neil
+      dob:
+        y: 1950
+        m: 3
+        d: 1
+      artistRoles:
+      - producer
+      - keyboards

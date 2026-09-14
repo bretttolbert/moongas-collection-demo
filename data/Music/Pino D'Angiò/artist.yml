@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - it
   regionCode: IT-NA
-  members: []
+  members:
+    - artistNames:
+      - Pino D'Angiò
+      dob:
+        y: 1957
+        m: 1
+        d: 1

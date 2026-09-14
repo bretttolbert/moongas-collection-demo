@@ -37,3 +37,9 @@ artistData:
         y: 1975
         m: 3
         d: 5
+    - artistNames:
+      - José "Pepe" Esquivel
+      dob:
+        y: 1978
+        m: 6
+        d: 12

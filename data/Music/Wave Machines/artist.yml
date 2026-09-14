@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 4
         d: 4
+    - artistNames:
+      - Rob Doran
+      dob:
+        y: 1981
+        m: 5
+        d: 5

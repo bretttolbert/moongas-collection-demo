@@ -41,3 +41,9 @@ artistData:
         y: 1958
         m: 11
         d: 27
+    - artistNames:
+      - Barry Adamson
+      dob:
+        y: 1961
+        m: 6
+        d: 4

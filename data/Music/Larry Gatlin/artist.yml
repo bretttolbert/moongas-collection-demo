@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Larry Gatlin
+      dob:
+        y: 1948
+        m: 5
+        d: 2
+    - artistNames:
+      - Steve Gatlin
+      dob:
+        y: 1950
+        m: 6
+        d: 24
+    - artistNames:
+      - Rudy Gatlin
+      dob:
+        y: 1952
+        m: 8
+        d: 25

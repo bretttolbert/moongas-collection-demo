@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 6
         d: 30
+    - artistNames:
+      - Jeff Kite
+      dob:
+        y: 1988
+        m: 11
+        d: 1

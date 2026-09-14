@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Leon Michels
+      dob:
+        y: 1982
+        m: 10
+        d: 12
+    - artistNames:
+      - Thomas Brenneck
+      dob:
+        y: 1982
+        m: 5
+        d: 10
+    - artistNames:
+      - Nick Movshon
+      dob:
+        y: 1983
+        m: 1
+        d: 15
+    - artistNames:
+      - El Michels Affair
+      artistRoles:
+      - bandleader
+      - producer
+      - composer

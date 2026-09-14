@@ -37,3 +37,15 @@ artistData:
         y: 1949
         m: 6
         d: 31
+    - artistNames:
+      - Carl Verheyen
+      dob:
+        y: 1953
+        m: 3
+        d: 24
+    - artistNames:
+      - Mark Hart
+      dob:
+        y: 1953
+        m: 11
+        d: 2

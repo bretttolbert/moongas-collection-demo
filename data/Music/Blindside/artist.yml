@@ -37,3 +37,9 @@ artistData:
         y: 1976
         m: 6
         d: 15
+    - artistNames:
+      - Pontus Hjelm
+      dob:
+        y: 1980
+        m: 12
+        d: 1

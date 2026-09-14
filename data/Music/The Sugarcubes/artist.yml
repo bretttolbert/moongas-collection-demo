@@ -43,3 +43,9 @@ artistData:
         y: 1965
         m: 3
         d: 1
+    - artistNames:
+      - Jón Þór Birgisson
+      dob:
+        y: 1965
+        m: 5
+        d: 1

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Neko Case
+      dob:
+        y: 1970
+        m: 9
+        d: 8

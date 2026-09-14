@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 8
         d: 15
+    - artistNames:
+      - Nigel Pulsford
+      dob:
+        y: 1969
+        m: 8
+        d: 15

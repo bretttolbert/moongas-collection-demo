@@ -13,3 +13,21 @@ artistData:
         y: 1981
         m: 1
         d: 15
+    - artistNames:
+      - David H. "Dave" Dwyer
+      dob:
+        y: 1980
+        m: 5
+        d: 20
+    - artistNames:
+      - Chris "Cris" Dwyer
+      dob:
+        y: 1983
+        m: 3
+        d: 10
+    - artistNames:
+      - Greg "G" Dwyer
+      dob:
+        y: 1985
+        m: 7
+        d: 25

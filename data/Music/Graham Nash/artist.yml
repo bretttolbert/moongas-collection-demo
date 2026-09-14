@@ -29,3 +29,27 @@ artistData:
         y: 1945
         m: 11
         d: 12
+    - artistNames:
+      - Greg Reeves
+      dob:
+        y: 1949
+        m: 5
+        d: 1
+      artistRoles:
+      - bass
+    - artistNames:
+      - Joe Lala
+      dob:
+        y: 1947
+        m: 11
+        d: 3
+      artistRoles:
+      - percussion
+    - artistNames:
+      - Dallas Taylor
+      dob:
+        y: 1948
+        m: 5
+        d: 7
+      artistRoles:
+      - drums

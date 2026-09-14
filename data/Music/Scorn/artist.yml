@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WMD
-  members: []
+  members:
+    - artistNames:
+      - Mick Harris
+      dob:
+        y: 1968
+        m: 11
+        d: 15
+    - artistNames:
+      - Chris Carter
+      dob:
+        y: 1960
+        m: 4
+        d: 24
+    - artistNames:
+      - T. M. Stevens
+      dob:
+        y: 1951
+        m: 10
+        d: 24

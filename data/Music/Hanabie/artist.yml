@@ -7,3 +7,7 @@ artistData:
   members: []
   languageCodes:
   - jp
+  dob:
+    y: 2000
+    m: 1
+    d: 1

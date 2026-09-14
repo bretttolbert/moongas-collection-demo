@@ -13,3 +13,11 @@ artistData:
         y: 1969
         m: 3
         d: 27
+    - artistNames:
+      - Kōji Morimoto
+    - artistNames:
+      - Masanori Ikeda
+    - artistNames:
+      - Kazuya Yoshii
+    - artistNames:
+      - Takashi Yoshimura

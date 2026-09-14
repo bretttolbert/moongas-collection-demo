@@ -37,3 +37,28 @@ artistData:
         y: 1972
         m: 6
         d: 7
+    - artistNames:
+      - John Leckie
+      artistRoles:
+      - producer
+    - artistNames:
+      - Richard Ashcroft
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Nick McCabe
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Simon Jones
+      artistRoles:
+      - bass
+    - artistNames:
+      - Pete Salisbury
+      artistRoles:
+      - drums
+    - artistNames:
+      - Mark Collins
+      artistRoles:
+      - guitar

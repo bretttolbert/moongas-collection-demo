@@ -43,3 +43,9 @@ artistData:
         y: 1971
         m: 11
         d: 12
+    - artistNames:
+      - D. Scott
+      dob:
+        y: 1971
+        m: 4
+        d: 15

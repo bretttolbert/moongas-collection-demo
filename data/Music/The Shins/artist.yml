@@ -53,3 +53,15 @@ artistData:
         y: 2018
         m: 7
         d: 3
+    - artistNames:
+      - Geronimo L. 
+      dob:
+        y: 1975
+        m: 5
+        d: 10
+    - artistNames:
+      - Casey Foubert
+      dob:
+        y: 1979
+        m: 4
+        d: 12

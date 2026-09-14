@@ -31,3 +31,15 @@ artistData:
         y: 1964
         m: 2
         d: 18
+    - artistNames:
+      - Steven "Steve" Brown
+      dob:
+        y: 1963
+        m: 3
+        d: 15
+    - artistNames:
+      - Robert "Bob" White
+      dob:
+        y: 1962
+        m: 7
+        d: 22

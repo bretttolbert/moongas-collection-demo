@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - George Howard
+      dob:
+        y: 1956
+        m: 2
+        d: 15
+      dod:
+        y: 1998
+        m: 4
+        d: 20

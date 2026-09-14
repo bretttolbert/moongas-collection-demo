@@ -26,7 +26,11 @@ artistData:
         m: 3
         d: 15
     - artistNames:
-      - Katja L. 
+      - Katja L.
+      dob:
+        y: 1965
+        m: 10
+        d: 20
     - artistNames:
       - Vom
       dob:

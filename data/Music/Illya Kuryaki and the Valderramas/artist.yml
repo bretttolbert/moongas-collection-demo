@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - es
   regionCode: AR-C
-  members: []
+  members:
+    - artistNames:
+      - Dante Spinetta
+      dob:
+        y: 1974
+        m: 12
+        d: 23
+    - artistNames:
+      - Emmanuel Horvilleur
+      dob:
+        y: 1974
+        m: 1
+        d: 14

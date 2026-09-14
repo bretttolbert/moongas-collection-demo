@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Erlend Øye
+      dob:
+        y: 1975
+        m: 11
+        d: 21
+    - artistNames:
+      - Marcin Öz
+    - artistNames:
+      - Daniel Nentwig
+    - artistNames:
+      - Lars Stalfors

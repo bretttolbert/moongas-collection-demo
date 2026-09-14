@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Eric B.
+      dob:
+        y: 1968
+        m: 11
+        d: 8
+    - artistNames:
+      - Rakim
+      dob:
+        y: 1968
+        m: 1
+        d: 28

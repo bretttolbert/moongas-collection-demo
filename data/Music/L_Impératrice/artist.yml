@@ -19,3 +19,7 @@ artistData:
       - Hugo O'Farrill
     - artistNames:
       - Maïa Barouh
+      dob:
+        y: 1990
+        m: 1
+        d: 1

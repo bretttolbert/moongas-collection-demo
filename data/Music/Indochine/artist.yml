@@ -43,3 +43,19 @@ artistData:
         y: 1969
         m: 11
         d: 3
+    - artistNames:
+      - Eric Goubin
+      dob:
+        y: 1969
+        m: 1
+        d: 1
+    - artistNames:
+      - Kim Fowley
+      dob:
+        y: 1939
+        m: 7
+        d: 21
+      dod:
+        y: 2015
+        m: 1
+        d: 15

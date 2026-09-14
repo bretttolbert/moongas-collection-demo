@@ -35,7 +35,19 @@ artistData:
         d: 12
     - artistNames:
       - Alfa Anderson
+      dob:
+        y: 1954
+        m: 11
+        d: 10
     - artistNames:
       - Luci Martin
+      dob:
+        y: 1954
+        m: 1
+        d: 1
     - artistNames:
       - Norma Jean Wright
+      dob:
+        y: 1955
+        m: 11
+        d: 15

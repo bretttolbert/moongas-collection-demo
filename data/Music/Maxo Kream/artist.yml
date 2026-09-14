@@ -13,3 +13,19 @@ artistData:
         y: 1993
         m: 5
         d: 29
+    - artistNames:
+      - Kream
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - T$AN
+      artistRoles:
+      - collaborator
+    - artistNames:
+      - Lil Uzi Vert
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - A$AP Rocky
+      artistRoles:
+      - featured artist

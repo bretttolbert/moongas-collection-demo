@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: CL-RM
-  members: []
+  members:
+    - artistNames:
+      - Jorge González
+      dob:
+        y: 1964
+        m: 12
+        d: 6
+    - artistNames:
+      - Claudio Narea
+      dob:
+        y: 1964
+        m: 6
+        d: 29
+    - artistNames:
+      - Miguel Tapia
+      dob:
+        y: 1965
+        m: 1
+        d: 12
+    - artistNames:
+      - Fernando Llorca
+      dob:
+        y: 1965
+        m: 11
+        d: 25

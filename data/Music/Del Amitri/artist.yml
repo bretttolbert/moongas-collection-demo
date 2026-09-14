@@ -67,3 +67,21 @@ artistData:
         y: 1966
         m: 6
         d: 6
+    - artistNames:
+      - Brian McFadden
+      dob:
+        y: 1966
+        m: 8
+        d: 8
+    - artistNames:
+      - David Scott
+      dob:
+        y: 1966
+        m: 10
+        d: 10
+    - artistNames:
+      - John McGlynn
+      dob:
+        y: 1966
+        m: 12
+        d: 12

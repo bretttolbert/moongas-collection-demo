@@ -50,3 +50,16 @@ artistData:
       artistRoles:
       - keyboards
       - violin
+    - artistNames:
+      - John McGeoch
+      dob:
+        y: 1955
+        m: 6
+        d: 25
+      artistRoles:
+      - guitar
+      - backing vocals
+      dod:
+        y: 2004
+        m: 3
+        d: 4

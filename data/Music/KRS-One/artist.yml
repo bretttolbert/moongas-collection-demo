@@ -16,3 +16,29 @@ artistData:
       artistRoles:
       - vocals
       - songwriting
+    - artistNames:
+      - Scott La Rock
+      dob:
+        y: 1962
+        m: 4
+        d: 2
+      artistRoles:
+      - DJ
+      - production
+      dod:
+        y: 1987
+        m: 8
+        d: 27
+    - artistNames:
+      - DJ Kenny Parker
+      artistRoles:
+      - DJ
+      - production
+    - artistNames:
+      - Buckshot
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Boogie Down Productions
+      artistRoles:
+      - group

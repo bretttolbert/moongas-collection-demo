@@ -31,3 +31,13 @@ artistData:
         y: 1953
         m: 10
         d: 26
+    - artistNames:
+      - Ricky Wilson
+      dob:
+        y: 1953
+        m: 3
+        d: 19
+      dod:
+        y: 1985
+        m: 10
+        d: 12

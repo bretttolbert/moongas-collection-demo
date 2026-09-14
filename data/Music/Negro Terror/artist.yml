@@ -23,3 +23,7 @@ artistData:
       - D. R.
       artistRoles:
       - drums
+  dob:
+    y: 2015
+    m: 1
+    d: 1

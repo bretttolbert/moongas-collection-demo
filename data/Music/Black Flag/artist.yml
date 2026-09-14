@@ -49,3 +49,21 @@ artistData:
         y: 1960
         m: 1
         d: 1
+    - artistNames:
+      - Chuck Dukowski
+      dob:
+        y: 1954
+        m: 5
+        d: 1
+    - artistNames:
+      - Brian Migdol
+      dob:
+        y: 1961
+        m: 1
+        d: 1
+    - artistNames:
+      - Anthony Martinez
+      dob:
+        y: 1961
+        m: 1
+        d: 1

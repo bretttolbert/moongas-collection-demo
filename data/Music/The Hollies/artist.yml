@@ -43,3 +43,19 @@ artistData:
         y: 1946
         m: 1
         d: 8
+    - artistNames:
+      - Eric Haydock
+      dob:
+        y: 1943
+        m: 1
+        d: 3
+    - artistNames:
+      - Carl Wayne
+      dob:
+        y: 1943
+        m: 8
+        d: 18
+      dod:
+        y: 2004
+        m: 4
+        d: 31

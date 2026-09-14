@@ -43,3 +43,15 @@ artistData:
         y: 1946
         m: 3
         d: 8
+    - artistNames:
+      - Michael K. 
+      dob:
+        y: 1947
+        m: 1
+        d: 1
+    - artistNames:
+      - John D. 
+      dob:
+        y: 1946
+        m: 9
+        d: 15

@@ -18,13 +18,25 @@ artistData:
       - vocals
     - artistNames:
       - Other Member 1
+      dob:
+        y: 1985
+        m: 6
+        d: 10
       artistRoles:
       - instrument
     - artistNames:
       - Other Member 2
+      dob:
+        y: 1990
+        m: 3
+        d: 22
       artistRoles:
       - instrument
     - artistNames:
       - Other Member 3
+      dob:
+        y: 1992
+        m: 8
+        d: 5
       artistRoles:
       - instrument

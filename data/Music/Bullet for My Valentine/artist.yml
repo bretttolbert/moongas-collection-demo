@@ -31,3 +31,15 @@ artistData:
         y: 1980
         m: 5
         d: 15
+    - artistNames:
+      - Jamie Mathias
+      dob:
+        y: 1983
+        m: 6
+        d: 15
+    - artistNames:
+      - Jay James
+      dob:
+        y: 1986
+        m: 11
+        d: 25

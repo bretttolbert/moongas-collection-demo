@@ -37,3 +37,15 @@ artistData:
         y: 1974
         m: 1
         d: 30
+    - artistNames:
+      - Ricardo "El Gallo" Cárdenas
+      dob:
+        y: 1976
+        m: 4
+        d: 25
+    - artistNames:
+      - Mario "El Chino" Cárdenas
+      dob:
+        y: 1980
+        m: 2
+        d: 14

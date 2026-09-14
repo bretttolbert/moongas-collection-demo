@@ -31,3 +31,9 @@ artistData:
         y: 1968
         m: 12
         d: 5
+    - artistNames:
+      - Diego Herrera
+      dob:
+        y: 1964
+        m: 11
+        d: 19

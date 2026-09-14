@@ -49,3 +49,15 @@ artistData:
         y: 1985
         m: 7
         d: 20
+    - artistNames:
+      - Djadja
+      dob:
+        y: 1990
+        m: 3
+        d: 10
+    - artistNames:
+      - Dany Synthé
+      dob:
+        y: 1990
+        m: 4
+        d: 1

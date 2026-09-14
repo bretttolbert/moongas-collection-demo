@@ -40,3 +40,12 @@ artistData:
         d: 26
       artistRoles:
       - drums
+    - artistNames:
+      - Eric Stefani
+      dob:
+        y: 1967
+        m: 4
+        d: 17
+      artistRoles:
+      - keyboards
+      - backing vocals

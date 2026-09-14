@@ -37,3 +37,9 @@ artistData:
         y: 1985
         m: 6
         d: 30
+    - artistNames:
+      - Matt Kallman
+      dob:
+        y: 1984
+        m: 10
+        d: 12

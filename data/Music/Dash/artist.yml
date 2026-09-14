@@ -25,3 +25,15 @@ artistData:
         y: 1993
         m: 12
         d: 1
+    - artistNames:
+      - Yung Bans
+      dob:
+        y: 1999
+        m: 1
+        d: 24
+    - artistNames:
+      - Lil Yachty
+      dob:
+        y: 1997
+        m: 8
+        d: 23

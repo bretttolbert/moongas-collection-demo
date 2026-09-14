@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: CD-KN
-  members: []
+  members:
+    - artistNames:
+      - William Kalubi
+      dob:
+        y: 1992
+        m: 5
+        d: 10

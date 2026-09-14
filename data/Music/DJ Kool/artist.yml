@@ -13,3 +13,18 @@ artistData:
         y: 1966
         m: 1
         d: 1
+      artistRoles:
+      - vocals
+      - DJ
+    - artistNames:
+      - KRS-One
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Doug E. Fresh
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Fatman Scoop
+      artistRoles:
+      - vocals

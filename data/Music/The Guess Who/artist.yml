@@ -57,3 +57,21 @@ artistData:
         y: 1997
         m: 1
         d: 14
+    - artistNames:
+      - Bill Wallace
+      dob:
+        y: 1949
+        m: 1
+        d: 1
+    - artistNames:
+      - Donnie McDougall
+      dob:
+        y: 1948
+        m: 5
+        d: 30
+    - artistNames:
+      - Michael McGowan
+      dob:
+        y: 1946
+        m: 8
+        d: 15

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Konshens
+      dob:
+        y: 1985
+        m: 1
+        d: 11

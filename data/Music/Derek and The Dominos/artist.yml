@@ -45,3 +45,15 @@ artistData:
         y: 1971
         m: 10
         d: 29
+    - artistNames:
+      - Jim Price
+      dob:
+        y: 1944
+        m: 4
+        d: 8
+    - artistNames:
+      - Rita Coolidge
+      dob:
+        y: 1945
+        m: 5
+        d: 1

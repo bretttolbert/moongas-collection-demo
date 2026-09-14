@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-BC
-  members: []
+  members:
+    - artistNames:
+      - Jonah Yano
+      dob:
+        y: 1998
+        m: 5
+        d: 10

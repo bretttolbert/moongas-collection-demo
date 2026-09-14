@@ -67,3 +67,21 @@ artistData:
         y: 1967
         m: 12
         d: 5
+    - artistNames:
+      - Helen McCookerybook
+      dob:
+        y: 1962
+        m: 1
+        d: 1
+    - artistNames:
+      - Chris Bowsher
+      dob:
+        y: 1965
+        m: 3
+        d: 15
+    - artistNames:
+      - Mike Sweeney
+      dob:
+        y: 1960
+        m: 10
+        d: 10

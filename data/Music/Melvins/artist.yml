@@ -31,3 +31,19 @@ artistData:
         y: 1976
         m: 1
         d: 15
+    - artistNames:
+      - Lori Black
+      dob:
+        y: 1969
+        m: 9
+        d: 22
+      artistRoles:
+      - bass
+    - artistNames:
+      - Mike Dillard
+      dob:
+        y: 1965
+        m: 12
+        d: 29
+      artistRoles:
+      - drums

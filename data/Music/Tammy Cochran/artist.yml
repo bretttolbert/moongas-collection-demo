@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Tammy Cochran
+      dob:
+        y: 1972
+        m: 11
+        d: 30

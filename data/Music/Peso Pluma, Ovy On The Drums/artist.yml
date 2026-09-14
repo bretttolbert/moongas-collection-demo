@@ -20,3 +20,12 @@ artistData:
         y: 1997
         m: 8
         d: 24
+    - artistNames:
+      - Manuel "Ovy" Onofre
+      dob:
+        y: 1997
+        m: 8
+        d: 24
+      artistRoles:
+      - producer
+      - songwriter

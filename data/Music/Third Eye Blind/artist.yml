@@ -37,3 +37,21 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Tony Fredianelli
+      dob:
+        y: 1973
+        m: 4
+        d: 14
+    - artistNames:
+      - Kryz Reid
+      dob:
+        y: 1980
+        m: 5
+        d: 17
+    - artistNames:
+      - Scott D. Smith
+      dob:
+        y: 1970
+        m: 9
+        d: 15

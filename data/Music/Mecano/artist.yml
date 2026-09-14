@@ -25,3 +25,6 @@ artistData:
         y: 1969
         m: 12
         d: 28
+      artistRoles:
+      - vocals
+      - keyboards

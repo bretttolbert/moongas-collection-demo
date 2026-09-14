@@ -43,3 +43,9 @@ artistData:
         y: 1975
         m: 11
         d: 30
+    - artistNames:
+      - J. M. H. McGowan
+      dob:
+        y: 1975
+        m: 11
+        d: 30

@@ -37,3 +37,9 @@ artistData:
         y: 1961
         m: 3
         d: 23
+    - artistNames:
+      - Keri Kelli
+      dob:
+        y: 1968
+        m: 6
+        d: 27

@@ -13,3 +13,39 @@ artistData:
         y: 1983
         m: 9
         d: 25
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+      - drums
+      - producer
+    - artistNames:
+      - Ludwig Göransson
+      dob:
+        y: 1984
+        m: 9
+        d: 1
+      artistRoles:
+      - composer
+      - producer
+    - artistNames:
+      - Derek Minor
+      artistRoles:
+      - producer
+    - artistNames:
+      - Chris Hartz
+      artistRoles:
+      - drums
+    - artistNames:
+      - Ibra Ake
+      artistRoles:
+      - creative director
+    - artistNames:
+      - Fam Udeorji
+      artistRoles:
+      - producer
+    - artistNames:
+      - Thundercat
+      artistRoles:
+      - bass
+      - vocals

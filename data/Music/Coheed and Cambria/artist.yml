@@ -50,3 +50,16 @@ artistData:
       artistRoles:
       - drums
       - percussion
+    - artistNames:
+      - Michael Todd
+      dob:
+        y: 1982
+        m: 7
+        d: 25
+      artistRoles:
+      - bass
+      - backing vocals
+      dod:
+        y: 2021
+        m: 7
+        d: 1

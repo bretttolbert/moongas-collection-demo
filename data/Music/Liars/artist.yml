@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Angus Andrew
+      dob:
+        y: 1972
+        m: 4
+        d: 24
+    - artistNames:
+      - Aaron Hemphill
+      dob:
+        y: 1978
+        m: 1
+        d: 1
+    - artistNames:
+      - Julian Gross
+      dob:
+        y: 1978
+        m: 8
+        d: 15
+    - artistNames:
+      - Chad VanGaalen
+      dob:
+        y: 1980
+        m: 9
+        d: 29

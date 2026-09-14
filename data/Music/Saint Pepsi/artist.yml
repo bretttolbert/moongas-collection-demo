@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Ryan DeRobertis
+      dob:
+        y: 1994
+        m: 6
+        d: 12

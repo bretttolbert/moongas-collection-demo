@@ -31,3 +31,9 @@ artistData:
         y: 1989
         m: 8
         d: 1
+    - artistNames:
+      - Lisa H. 
+      dob:
+        y: 1991
+        m: 5
+        d: 15

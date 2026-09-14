@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Jesse Lacey
+      dob:
+        y: 1978
+        m: 7
+        d: 10
+    - artistNames:
+      - Vincent Accardi
+      dob:
+        y: 1982
+        m: 4
+        d: 5
+    - artistNames:
+      - Garrett Tierney
+      dob:
+        y: 1980
+        m: 12
+        d: 12
+    - artistNames:
+      - Brian Lane
+      dob:
+        y: 1980
+        m: 5
+        d: 24

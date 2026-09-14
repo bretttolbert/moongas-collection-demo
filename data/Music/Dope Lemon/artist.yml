@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-NSW
-  members: []
+  members:
+    - artistNames:
+      - Angus Stone
+      dob:
+        y: 1986
+        m: 4
+        d: 27
+    - artistNames:
+      - Matt Stone
+      dob:
+        y: 1988
+        m: 11
+        d: 15

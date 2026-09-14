@@ -13,3 +13,22 @@ artistData:
         y: 1990
         m: 6
         d: 15
+      artistRoles:
+      - vocals
+      - rapper
+    - artistNames:
+      - DJ Tameil
+      artistRoles:
+      - producer
+    - artistNames:
+      - Tasha Cobbs
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Mykki Blanco
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Azealia Banks
+      artistRoles:
+      - featured artist

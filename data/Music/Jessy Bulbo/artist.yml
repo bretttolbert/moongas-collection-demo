@@ -13,3 +13,9 @@ artistData:
         y: 1974
         m: 6
         d: 1
+    - artistNames:
+      - José Luis "Choche" Castañeda
+    - artistNames:
+      - Jorge "Pato" Castañeda
+    - artistNames:
+      - Fernando "Nando" Castañeda

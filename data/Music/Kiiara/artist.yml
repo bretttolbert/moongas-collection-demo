@@ -13,3 +13,9 @@ artistData:
         y: 1996
         m: 5
         d: 24
+    - artistNames:
+      - Kiiara's Collaborators
+      artistRoles:
+      - vocals
+      - songwriting
+      - production

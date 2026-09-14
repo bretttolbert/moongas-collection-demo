@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Simon Green
+      dob:
+        y: 1979
+        m: 3
+        d: 30

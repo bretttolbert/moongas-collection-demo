@@ -31,3 +31,9 @@ artistData:
         y: 1963
         m: 2
         d: 10
+    - artistNames:
+      - Razz
+      dod:
+        y: 2023
+        m: 5
+        d: 15

@@ -55,3 +55,11 @@ artistData:
         d: 15
       artistRoles:
       - keyboards
+    - artistNames:
+      - Anna K. 
+      dob:
+        y: 1985
+        m: 6
+        d: 25
+      artistRoles:
+      - backing vocals

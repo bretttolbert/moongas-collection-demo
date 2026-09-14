@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Tristram T. W. "Tris" McCall
+      dob:
+        y: 1965
+        m: 5
+        d: 25

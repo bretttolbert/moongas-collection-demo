@@ -16,3 +16,19 @@ artistData:
       artistRoles:
       - backing vocals
       - instruments
+    - artistNames:
+      - John Doe
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Jane Smith
+      artistRoles:
+      - bass
+    - artistNames:
+      - Mike Johnson
+      artistRoles:
+      - drums
+    - artistNames:
+      - Sarah Brown
+      artistRoles:
+      - keyboards

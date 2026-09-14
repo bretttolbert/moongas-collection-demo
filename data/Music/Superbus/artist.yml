@@ -37,3 +37,9 @@ artistData:
         y: 1982
         m: 2
         d: 28
+    - artistNames:
+      - Émilie Satt
+      dob:
+        y: 1985
+        m: 5
+        d: 1

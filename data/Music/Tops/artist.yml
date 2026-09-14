@@ -31,3 +31,21 @@ artistData:
         y: 1991
         m: 6
         d: 15
+    - artistNames:
+      - Aidan O'Neill
+      dob:
+        y: 1991
+        m: 6
+        d: 15
+    - artistNames:
+      - Jane Penny
+      dob:
+        y: 1993
+        m: 10
+        d: 25
+    - artistNames:
+      - Simon Dufour
+      dob:
+        y: 1991
+        m: 6
+        d: 15

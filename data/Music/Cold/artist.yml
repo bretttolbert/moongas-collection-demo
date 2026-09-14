@@ -49,3 +49,9 @@ artistData:
         y: 1976
         m: 1
         d: 18
+    - artistNames:
+      - Jason D. Ward
+      dob:
+        y: 1972
+        m: 9
+        d: 15

@@ -37,3 +37,9 @@ artistData:
         y: 1985
         m: 11
         d: 20
+    - artistNames:
+      - Daniel "Danny" Myers
+      dob:
+        y: 1989
+        m: 4
+        d: 10

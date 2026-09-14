@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MD
-  members: []
+  members:
+    - artistNames:
+      - Whitney McAuliffe
+      dob:
+        y: 1981
+        m: 6
+        d: 15
+    - artistNames:
+      - Michael Nau
+      dob:
+        y: 1980
+        m: 9
+        d: 22

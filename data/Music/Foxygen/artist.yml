@@ -19,3 +19,13 @@ artistData:
         y: 1989
         m: 8
         d: 24
+    - artistNames:
+      - Shannon McArdle
+    - artistNames:
+      - Jason Schwartzman
+    - artistNames:
+      - Anna Waronker
+    - artistNames:
+      - Dan McMahon
+    - artistNames:
+      - Michael McDonald

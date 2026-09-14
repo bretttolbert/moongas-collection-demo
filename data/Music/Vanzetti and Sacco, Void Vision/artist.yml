@@ -6,4 +6,17 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Vanzetti
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Sacco
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Void Vision
+      artistRoles:
+      - synthesizer
+      - production

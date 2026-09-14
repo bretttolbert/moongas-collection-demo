@@ -32,3 +32,20 @@ artistData:
           artistRoles:
             - accordion
             - production
+        - artistNames:
+          - 'Jorge Balvin'
+          artistRoles:
+            - guitar
+        - artistNames:
+          - 'Santiago de la Torre'
+          artistRoles:
+            - drums
+        - artistNames:
+          - 'Ana María'
+          artistRoles:
+            - vocals
+        - artistNames:
+          - 'Carlos Vives'
+          artistRoles:
+            - vocals
+            - guitar

@@ -37,3 +37,9 @@ artistData:
         y: 1978
         m: 5
         d: 12
+    - artistNames:
+      - Frédéric "Fred" Dussart
+      dob:
+        y: 1978
+        m: 5
+        d: 12

@@ -37,19 +37,51 @@ artistData:
         d: 7
     - artistNames:
       - Ray Greene
+      dob:
+        y: 1962
+        m: 4
+        d: 14
     - artistNames:
       - Marcus Scott
+      dob:
+        y: 1983
+        m: 5
+        d: 3
     - artistNames:
       - Adolfo "Fito" de la Parra
+      dob:
+        y: 1947
+        m: 11
+        d: 2
     - artistNames:
       - Tony Lindsay
+      dob:
+        y: 1964
+        m: 6
+        d: 15
     - artistNames:
       - Roger Smith
+      dob:
+        y: 1955
+        m: 1
+        d: 1
     - artistNames:
       - Doc Kupka
     - artistNames:
       - Bruce Conte
+      dob:
+        y: 1953
+        m: 2
+        d: 10
     - artistNames:
       - Lenny Pickett
+      dob:
+        y: 1956
+        m: 4
+        d: 13
     - artistNames:
       - Greg Adams
+      dob:
+        y: 1951
+        m: 8
+        d: 25

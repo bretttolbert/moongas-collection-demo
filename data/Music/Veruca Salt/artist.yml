@@ -59,3 +59,21 @@ artistData:
       artistRoles:
       - drums
       - percussion
+    - artistNames:
+      - Doug McCombs
+      dob:
+        y: 1964
+        m: 2
+        d: 1
+      artistRoles:
+      - bass
+      - guitar
+    - artistNames:
+      - John McEntire
+      dob:
+        y: 1970
+        m: 6
+        d: 26
+      artistRoles:
+      - drums
+      - percussion

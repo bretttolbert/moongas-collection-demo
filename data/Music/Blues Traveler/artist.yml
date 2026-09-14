@@ -22,8 +22,12 @@ artistData:
       - Bobby Sheehan
       dob:
         y: 1968
+        m: 12
+        d: 12
       dod:
         y: 1999
+        m: 8
+        d: 20
       artistRoles:
       - bass
     - artistNames:
@@ -48,5 +52,9 @@ artistData:
       - guitar
     - artistNames:
       - Brendan Hill
+      dob:
+        y: 1970
+        m: 11
+        d: 23
       artistRoles:
       - drums

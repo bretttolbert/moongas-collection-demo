@@ -13,6 +13,10 @@ artistData:
         y: 1973
         m: 12
         d: 8
+      dod:
+        y: 2020
+        m: 1
+        d: 31
     - artistNames:
       - Alan Jansson
       dob:

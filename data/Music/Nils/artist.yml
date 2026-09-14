@@ -13,3 +13,24 @@ artistData:
         y: 1982
         m: 9
         d: 20
+    - artistNames:
+      - Anne Müller
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+      artistRoles:
+      - cello
+    - artistNames:
+      - Felix Klopotek
+      artistRoles:
+      - sound engineer
+    - artistNames:
+      - Simon Scott
+      artistRoles:
+      - drums
+    - artistNames:
+      - Rachael Dadd
+      artistRoles:
+      - vocals
+      - guitar

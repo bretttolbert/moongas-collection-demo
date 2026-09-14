@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-OCC
-  members: []
+  members:
+    - artistNames:
+      - Jain
+      dob:
+        y: 1992
+        m: 2
+        d: 7
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards

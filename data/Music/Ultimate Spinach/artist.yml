@@ -55,3 +55,9 @@ artistData:
         y: 1945
         m: 7
         d: 30
+    - artistNames:
+      - John "J." D. McGuire
+      dob:
+        y: 1946
+        m: 8
+        d: 2

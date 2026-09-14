@@ -55,3 +55,15 @@ artistData:
         y: 1937
         m: 8
         d: 28
+    - artistNames:
+      - Bob E. Dyer
+      dob:
+        y: 1941
+        m: 8
+        d: 12
+    - artistNames:
+      - Jerry McGee
+      dob:
+        y: 1946
+        m: 5
+        d: 6

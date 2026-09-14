@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - pt
   regionCode: BR-PB
-  members: []
+  members:
+    - artistNames:
+      - Geraldo Vandré
+      dob:
+        y: 1935
+        m: 9
+        d: 12

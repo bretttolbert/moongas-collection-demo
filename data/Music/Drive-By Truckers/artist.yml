@@ -43,3 +43,9 @@ artistData:
         y: 1980
         m: 4
         d: 15
+    - artistNames:
+      - David Barbe
+      dob:
+        y: 1967
+        m: 5
+        d: 18

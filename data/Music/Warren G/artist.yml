@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Warren Griffin III
+      dob:
+        y: 1970
+        m: 11
+        d: 10

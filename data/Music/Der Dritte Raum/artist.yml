@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - de
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Ralf Hildenbeutel
+      dob:
+        y: 1970
+        m: 5
+        d: 1
+    - artistNames:
+      - Thomas W. Wiegand
+      dob:
+        y: 1971
+        m: 8
+        d: 15

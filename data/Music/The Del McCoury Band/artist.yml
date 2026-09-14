@@ -37,3 +37,15 @@ artistData:
         y: 1970
         m: 5
         d: 10
+    - artistNames:
+      - Cody Kilby
+      dob:
+        y: 1980
+        m: 8
+        d: 18
+    - artistNames:
+      - Mike Bub
+      dob:
+        y: 1971
+        m: 4
+        d: 1

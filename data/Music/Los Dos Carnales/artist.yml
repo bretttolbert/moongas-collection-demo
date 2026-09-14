@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-COA
-  members: []
+  members:
+    - artistNames:
+      - Joel Hinojosa
+    - artistNames:
+      - Imanol Hinojosa

@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Brian Borcherdt
+      dob:
+        y: 1976
+        m: 11
+        d: 27
+    - artistNames:
+      - Leon Taheny
+      dob:
+        y: 1980
+        m: 4
+        d: 17

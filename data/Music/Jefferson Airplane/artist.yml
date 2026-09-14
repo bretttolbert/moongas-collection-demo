@@ -55,3 +55,23 @@ artistData:
         y: 2005
         m: 1
         d: 28
+    - artistNames:
+      - Skip Spence
+      dob:
+        y: 1946
+        m: 4
+        d: 18
+      dod:
+        y: 2020
+        m: 4
+        d: 16
+    - artistNames:
+      - Papa John Creach
+      dob:
+        y: 1917
+        m: 5
+        d: 28
+      dod:
+        y: 1994
+        m: 2
+        d: 22

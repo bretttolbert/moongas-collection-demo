@@ -43,3 +43,9 @@ artistData:
         y: 1954
         m: 3
         d: 30
+    - artistNames:
+      - David "Davy" O'Neill
+      dob:
+        y: 1955
+        m: 1
+        d: 10

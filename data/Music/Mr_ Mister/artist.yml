@@ -31,3 +31,9 @@ artistData:
         y: 1955
         m: 4
         d: 10
+    - artistNames:
+      - David "Dave" McKean
+      dob:
+        y: 1954
+        m: 8
+        d: 21

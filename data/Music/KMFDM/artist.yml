@@ -37,3 +37,15 @@ artistData:
         y: 1966
         m: 12
         d: 14
+    - artistNames:
+      - En Esch
+      dob:
+        y: 1968
+        m: 11
+        d: 4
+    - artistNames:
+      - Günter Schulz
+      dob:
+        y: 1966
+        m: 5
+        d: 31

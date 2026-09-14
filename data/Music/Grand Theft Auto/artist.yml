@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Sam Houser
+      dob:
+        y: 1971
+        m: 1
+        d: 1
+    - artistNames:
+      - Dan Houser
+      dob:
+        y: 1974
+        m: 2
+        d: 1
+    - artistNames:
+      - Leslie Benzies
+      dob:
+        y: 1971
+        m: 4
+        d: 1
+    - artistNames:
+      - Aaron Garbut
+      dob:
+        y: 1975
+        m: 5
+        d: 1
+    - artistNames:
+      - Imran Sarwar
+      dob:
+        y: 1980
+        m: 6
+        d: 1

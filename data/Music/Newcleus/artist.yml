@@ -27,3 +27,8 @@ artistData:
       - J. R. "Ricky" Johnson
     - artistNames:
       - J. D. "Daryl" Johnson
+  dob:
+    y: 1983
+    m: 1
+    d: 1
+  members: []

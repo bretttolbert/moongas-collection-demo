@@ -19,3 +19,15 @@ artistData:
         y: 1980
         m: 1
         d: 1
+    - artistNames:
+      - Marco "Mako" Rizzo
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Francesca "Frankie" Gallo
+      dob:
+        y: 1980
+        m: 1
+        d: 1

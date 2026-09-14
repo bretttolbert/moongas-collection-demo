@@ -13,3 +13,25 @@ artistData:
         y: 1972
         m: 6
         d: 29
+    - artistNames:
+      - Cut Chemist
+      dob:
+        y: 1973
+        m: 10
+        d: 4
+    - artistNames:
+      - DJ Shadow
+      artistRoles:
+      - producer
+      - turntables
+      - sampler
+    - artistNames:
+      - James Lavelle
+      artistRoles:
+      - producer
+      - turntables
+    - artistNames:
+      - Dave "DJ" D
+      artistRoles:
+      - turntables
+      - sampler

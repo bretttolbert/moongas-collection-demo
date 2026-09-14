@@ -31,3 +31,7 @@ artistData:
       - Jorja Smith
       artistRoles:
       - vocals
+      dob:
+        y: 1997
+        m: 6
+        d: 11

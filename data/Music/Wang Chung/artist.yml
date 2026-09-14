@@ -19,3 +19,15 @@ artistData:
         y: 1961
         m: 3
         d: 15
+    - artistNames:
+      - Darren Costin
+      dob:
+        y: 1961
+        m: 9
+        d: 27
+    - artistNames:
+      - Rob Dean
+      dob:
+        y: 1961
+        m: 5
+        d: 23

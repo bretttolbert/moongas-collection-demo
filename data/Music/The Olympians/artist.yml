@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - John Doe
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Jane Smith
+      dob:
+        y: 1985
+        m: 5
+        d: 10
+    - artistNames:
+      - Mike Johnson
+      dob:
+        y: 1990
+        m: 3
+        d: 15
+    - artistNames:
+      - Sarah Brown
+      dob:
+        y: 1992
+        m: 7
+        d: 20

@@ -13,3 +13,16 @@ artistData:
         y: 1961
         m: 5
         d: 17
+      artistRoles:
+      - vocals
+      - keyboards
+      - piano
+    - artistNames:
+      - Nicky Ryan
+      artistRoles:
+      - producer
+      - arranger
+    - artistNames:
+      - Roma Ryan
+      artistRoles:
+      - lyricist

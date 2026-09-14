@@ -51,3 +51,9 @@ artistData:
         y: 1944
         m: 10
         d: 29
+    - artistNames:
+      - Patrick Moraz
+      dob:
+        y: 1948
+        m: 6
+        d: 24

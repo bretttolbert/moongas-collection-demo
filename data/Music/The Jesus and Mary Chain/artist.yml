@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 6
         d: 1
+    - artistNames:
+      - John Moore
+      dob:
+        y: 1967
+        m: 5
+        d: 1

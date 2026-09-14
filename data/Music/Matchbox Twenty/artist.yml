@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Rob Thomas
+      dob:
+        y: 1972
+        m: 2
+        d: 14
+    - artistNames:
+      - Kyle Cook
+      dob:
+        y: 1975
+        m: 8
+        d: 31
+    - artistNames:
+      - Brian Yale
+      dob:
+        y: 1975
+        m: 5
+        d: 26
+    - artistNames:
+      - Paul Doucette
+      dob:
+        y: 1975
+        m: 3
+        d: 22
+    - artistNames:
+      - Adam Gaynor
+      dob:
+        y: 1969
+        m: 5
+        d: 10

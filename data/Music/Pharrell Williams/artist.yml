@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Pharrell Williams
+  dob:
+    y: 1973
+    m: 4
+    d: 5
   city: Virginia Beach
   countryCode: US
   languageCodes:

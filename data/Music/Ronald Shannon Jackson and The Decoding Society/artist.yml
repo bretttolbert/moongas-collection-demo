@@ -6,4 +6,2910 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Ronald Shannon Jackson
+      dob:
+        y: 1940
+        m: 1
+        d: 12
+      dod:
+        y: 2019
+        m: 10
+        d: 19
+    - artistNames:
+      - Melvin Gibbs
+    - artistNames:
+      - J. T. Lewis
+    - artistNames:
+      - Vernon Reid
+    - artistNames:
+      - David Murray
+    - artistNames:
+      - Billy Bang
+    - artistNames:
+      - Craig Harris
+    - artistNames:
+      - John Zorn
+    - artistNames:
+      - William Hooker
+    - artistNames:
+      - James Blood Ulmer
+    - artistNames:
+      - David S. Ware
+    - artistNames:
+      - Charles Gayle
+    - artistNames:
+      - William Parker
+    - artistNames:
+      - Hamid Drake
+    - artistNames:
+      - Don Pullen
+    - artistNames:
+      - Carla Bley
+    - artistNames:
+      - Geri Allen
+    - artistNames:
+      - John Carter
+    - artistNames:
+      - Archie Shepp
+    - artistNames:
+      - Sun Ra
+    - artistNames:
+      - Cecil Taylor
+    - artistNames:
+      - Anthony Braxton
+    - artistNames:
+      - Ornette Coleman
+    - artistNames:
+      - Albert Ayler
+    - artistNames:
+      - Pharoah Sanders
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Jack DeJohnette
+    - artistNames:
+      - Roy Haynes
+    - artistNames:
+      - Billy Cobham
+    - artistNames:
+      - Dennis Chambers
+    - artistNames:
+      - Vinnie Colaiuta
+    - artistNames:
+      - Steve Gadd
+    - artistNames:
+      - Dave Weckl
+    - artistNames:
+      - Simon Phillips
+    - artistNames:
+      - Chad Wackerman
+    - artistNames:
+      - Terry Bozzio
+    - artistNames:
+      - Mike Portnoy
+    - artistNames:
+      - Neil Peart
+    - artistNames:
+      - Buddy Rich
+    - artistNames:
+      - Gene Krupa
+    - artistNames:
+      - Louie Bellson
+    - artistNames:
+      - Shelly Manne
+    - artistNames:
+      - Max Roach
+    - artistNames:
+      - Art Blakey
+    - artistNames:
+      - Elvin Jones
+    - artistNames:
+      - Tony Williams

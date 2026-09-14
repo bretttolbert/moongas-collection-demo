@@ -32,8 +32,14 @@ artistData:
         m: 6
         d: 30
     - artistNames:
-      - Doron S. 
+      - Doron S.
       dob:
         y: 1992
         m: 8
         d: 14
+    - artistNames:
+      - T. J. H. 
+      dob:
+        y: 1992
+        m: 11
+        d: 5

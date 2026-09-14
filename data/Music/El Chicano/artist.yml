@@ -43,3 +43,15 @@ artistData:
         y: 1958
         m: 1
         d: 1
+    - artistNames:
+      - John "Johnny" De La Rosa
+      dob:
+        y: 1949
+        m: 9
+        d: 12
+    - artistNames:
+      - Richard "Richie" Salas
+      dob:
+        y: 1950
+        m: 4
+        d: 20

@@ -25,3 +25,9 @@ artistData:
         y: 1970
         m: 5
         d: 19
+    - artistNames:
+      - Chris Ballew
+      dob:
+        y: 1969
+        m: 1
+        d: 23

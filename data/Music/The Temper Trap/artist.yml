@@ -31,3 +31,9 @@ artistData:
         y: 1981
         m: 1
         d: 1
+    - artistNames:
+      - Joseph Greer
+      dob:
+        y: 1984
+        m: 4
+        d: 15

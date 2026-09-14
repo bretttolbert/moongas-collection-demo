@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-NC
-  members: []
+  members:
+    - artistNames:
+      - Raquel Sainz
+    - artistNames:
+      - Laura G. R.
+    - artistNames:
+      - Iñaki M.
+    - artistNames:
+      - Aitor M.

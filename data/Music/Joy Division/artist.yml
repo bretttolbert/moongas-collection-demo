@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-MAN
-  members: []
+  members:
+    - artistNames:
+      - Ian Curtis
+      dob:
+        y: 1956
+        m: 7
+        d: 15
+      dod:
+        y: 1980
+        m: 5
+        d: 18
+    - artistNames:
+      - Bernard Sumner
+      dob:
+        y: 1956
+        m: 1
+        d: 4
+    - artistNames:
+      - Peter Hook
+      dob:
+        y: 1956
+        m: 2
+        d: 13
+    - artistNames:
+      - Stephen Morris
+      dob:
+        y: 1957
+        m: 1
+        d: 28

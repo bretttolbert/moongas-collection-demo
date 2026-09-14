@@ -29,3 +29,19 @@ artistData:
         y: 1965
         m: 11
         d: 20
+    - artistNames:
+      - Kate Schellenbach
+      dob:
+        y: 1966
+        m: 11
+        d: 8
+      artistRoles:
+      - drums
+    - artistNames:
+      - Mix Master Mike
+      dob:
+        y: 1970
+        m: 4
+        d: 21
+      artistRoles:
+      - turntables

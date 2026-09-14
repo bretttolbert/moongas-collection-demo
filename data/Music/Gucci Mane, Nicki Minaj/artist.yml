@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Gucci Mane
+      dob:
+        y: 1980
+        m: 2
+        d: 12
+    - artistNames:
+      - Nicki Minaj
+      dob:
+        y: 1982
+        m: 12
+        d: 8

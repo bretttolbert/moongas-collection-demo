@@ -17,3 +17,9 @@ artistData:
         y: 1997
         m: 8
         d: 13
+    - artistNames:
+      - King Curtis
+      artistRoles:
+      - saxophone
+      - vocals
+      - bandleader

@@ -35,3 +35,9 @@ artistData:
         y: 2005
         m: 2
         d: 25
+    - artistNames:
+      - Langston Hughes
+      dob:
+        y: 1941
+        m: 2
+        d: 1

@@ -41,3 +41,9 @@ artistData:
         y: 1966
         m: 6
         d: 18
+    - artistNames:
+      - Davey MacKinnon
+      dob:
+        y: 1964
+        m: 11
+        d: 4

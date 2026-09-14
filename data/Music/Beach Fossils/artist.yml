@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Dustin Payseur
+      dob:
+        y: 1989
+        m: 2
+        d: 15
+    - artistNames:
+      - Tommy Gardner
+    - artistNames:
+      - Nick Mccray
+    - artistNames:
+      - Zachary D. Smith
+      dob:
+        y: 1990
+        m: 3
+        d: 20

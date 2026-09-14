@@ -59,3 +59,15 @@ artistData:
         y: 1971
         m: 8
         d: 1
+    - artistNames:
+      - Lorraine McIntosh
+      dob:
+        y: 1971
+        m: 11
+        d: 1
+    - artistNames:
+      - Derek McKenzie
+      dob:
+        y: 1965
+        m: 6
+        d: 1

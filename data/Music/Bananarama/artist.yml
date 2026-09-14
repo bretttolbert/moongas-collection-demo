@@ -39,3 +39,12 @@ artistData:
         d: 15
       artistRoles:
       - vocals
+    - artistNames:
+      - Nina Persson
+      dob:
+        y: 1974
+        m: 9
+        d: 6
+      artistRoles:
+      - vocals
+      - guitar

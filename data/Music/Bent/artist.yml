@@ -9,7 +9,19 @@ artistData:
   members:
     - artistNames:
       - Jay D. Smith
+      dob:
+        y: 1971
+        m: 5
+        d: 22
     - artistNames:
       - Nic W. Smith
+      dob:
+        y: 1973
+        m: 8
+        d: 15
     - artistNames:
       - Simon Mills
+      dob:
+        y: 1970
+        m: 3
+        d: 10

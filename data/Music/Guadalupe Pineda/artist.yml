@@ -13,3 +13,5 @@ artistData:
         y: 1955
         m: 8
         d: 23
+      artistRoles:
+      - vocals

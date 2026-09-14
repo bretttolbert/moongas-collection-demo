@@ -19,12 +19,20 @@ artistData:
         y: 1950
         m: 1
         d: 23
+      dod:
+        y: 2022
+        m: 2
+        d: 8
     - artistNames:
       - Gustavo Cerati
       dob:
         y: 1967
         m: 8
         d: 11
+      dod:
+        y: 2014
+        m: 9
+        d: 4
     - artistNames:
       - Fito Páez
       dob:

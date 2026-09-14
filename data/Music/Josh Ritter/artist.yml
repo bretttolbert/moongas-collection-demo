@@ -13,3 +13,24 @@ artistData:
         y: 1976
         m: 10
         d: 21
+    - artistNames:
+      - Sam Kassirer
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+      artistRoles:
+      - keyboards
+      - guitar
+    - artistNames:
+      - Zachariah Hickman
+      dob:
+        y: 1980
+        m: 5
+        d: 15
+      artistRoles:
+      - bass
+    - artistNames:
+      - Josh's band members
+      artistRoles:
+      - various

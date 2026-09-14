@@ -13,3 +13,12 @@ artistData:
         y: 1990
         m: 1
         d: 1
+    - artistNames:
+      - M's Collaborator
+      dob:
+        y: 1992
+        m: 5
+        d: 15
+      artistRoles:
+      - producer
+      - songwriter

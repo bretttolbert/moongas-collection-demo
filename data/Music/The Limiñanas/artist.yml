@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Marie Limiñana
+      dob:
+        y: 1980
+        m: 1
+        d: 1
     - artistNames:
       - Lionel Limiñana
+      dob:
+        y: 1975
+        m: 5
+        d: 15

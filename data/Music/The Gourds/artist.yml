@@ -37,3 +37,9 @@ artistData:
         y: 1971
         m: 11
         d: 5
+    - artistNames:
+      - John E. Conley
+      dob:
+        y: 1970
+        m: 7
+        d: 15

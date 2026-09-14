@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Dan Auerbach
+  dob:
+    y: 1979
+    m: 5
+    d: 14
   city: Akron
   countryCode: US
   languageCodes:

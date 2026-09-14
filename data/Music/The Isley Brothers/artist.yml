@@ -45,3 +45,9 @@ artistData:
         y: 1939
         m: 4
         d: 1
+    - artistNames:
+      - Chris Jasper
+      dob:
+        y: 1951
+        m: 12
+        d: 30

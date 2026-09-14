@@ -31,3 +31,9 @@ artistData:
         y: 1965
         m: 12
         d: 3
+    - artistNames:
+      - Daniel Mezquita
+      dob:
+        y: 1964
+        m: 10
+        d: 19

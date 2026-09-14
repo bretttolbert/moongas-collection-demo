@@ -43,3 +43,7 @@ artistData:
       - Yvonne D'Angelo
     - artistNames:
       - Jennifer Gira
+      dob:
+        y: 1969
+        m: 4
+        d: 25

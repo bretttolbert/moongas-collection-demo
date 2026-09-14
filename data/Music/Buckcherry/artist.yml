@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 12
         d: 14
+    - artistNames:
+      - Jonathan "J.B." Bright
+      dob:
+        y: 1980
+        m: 8
+        d: 15

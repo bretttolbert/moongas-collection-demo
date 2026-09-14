@@ -16,3 +16,19 @@ artistData:
       artistRoles:
       - vocals
       - guitar
+    - artistNames:
+      - Ayo Shina Peters
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Tunde Peters
+      artistRoles:
+      - drums
+    - artistNames:
+      - Funmi Peters
+      artistRoles:
+      - bass
+    - artistNames:
+      - Wale Peters
+      artistRoles:
+      - percussion

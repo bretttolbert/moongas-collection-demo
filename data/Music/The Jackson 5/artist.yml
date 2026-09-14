@@ -43,3 +43,9 @@ artistData:
         y: 1961
         m: 10
         d: 29
+    - artistNames:
+      - Jermaine Jackson
+      dod:
+        y: 2023
+        m: 10
+        d: 1

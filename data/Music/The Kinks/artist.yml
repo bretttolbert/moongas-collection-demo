@@ -57,3 +57,15 @@ artistData:
         y: 2018
         m: 1
         d: 20
+    - artistNames:
+      - Rasa Don
+      dob:
+        y: 1944
+        m: 9
+        d: 12
+    - artistNames:
+      - Dave Clarke
+      dob:
+        y: 1945
+        m: 3
+        d: 1

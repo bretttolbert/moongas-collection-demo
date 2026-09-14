@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Kix Brooks
+      dob:
+        y: 1964
+        m: 5
+        d: 12
+    - artistNames:
+      - Ronnie Dunn
+      dob:
+        y: 1953
+        m: 6
+        d: 1

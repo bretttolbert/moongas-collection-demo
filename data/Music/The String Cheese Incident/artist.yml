@@ -44,3 +44,15 @@ artistData:
         y: 1974
         m: 1
         d: 1
+    - artistNames:
+      - Chris Pandolfi
+      dob:
+        y: 1979
+        m: 3
+        d: 26
+    - artistNames:
+      - Nershi's Wife
+      dob:
+        y: 1970
+        m: 6
+        d: 15

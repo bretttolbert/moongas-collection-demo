@@ -31,3 +31,9 @@ artistData:
         y: 1965
         m: 8
         d: 30
+    - artistNames:
+      - Bruce "The Boss" McDonald
+      dob:
+        y: 1963
+        m: 11
+        d: 12

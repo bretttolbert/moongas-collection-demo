@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 1
         d: 5
+    - artistNames:
+      - Maxx Danziger
+      dob:
+        y: 1990
+        m: 3
+        d: 15

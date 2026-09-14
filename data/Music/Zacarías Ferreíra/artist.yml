@@ -13,3 +13,6 @@ artistData:
         y: 1978
         m: 6
         d: 10
+      artistRoles:
+      - vocals
+      - guitar

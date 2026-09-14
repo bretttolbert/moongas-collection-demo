@@ -45,3 +45,25 @@ artistData:
         y: 1948
         m: 6
         d: 15
+    - artistNames:
+      - Henry McCullough
+      dob:
+        y: 1943
+        m: 7
+        d: 21
+      dod:
+        y: 2016
+        m: 6
+        d: 14
+    - artistNames:
+      - Geoff Britton
+      dob:
+        y: 1948
+        m: 2
+        d: 15
+    - artistNames:
+      - Laurence Juber
+      dob:
+        y: 1952
+        m: 11
+        d: 12

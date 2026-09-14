@@ -41,3 +41,9 @@ artistData:
         y: 1948
         m: 11
         d: 15
+    - artistNames:
+      - T. D. Jakes
+      dob:
+        y: 1957
+        m: 6
+        d: 9

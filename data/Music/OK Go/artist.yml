@@ -31,3 +31,9 @@ artistData:
         y: 1979
         m: 4
         d: 24
+    - artistNames:
+      - Michael McHugh
+      dob:
+        y: 1976
+        m: 9
+        d: 12

@@ -65,3 +65,37 @@ artistData:
       artistRoles:
       - drums
       - percussion
+    - artistNames:
+      - Johnnie Bassett
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Chris "C.C." Cummings
+      artistRoles:
+      - drums
+    - artistNames:
+      - David Teegarden
+      artistRoles:
+      - drums
+      - percussion
+    - artistNames:
+      - Michael "Mickey" McGowan
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jim "Moose" Brown
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Joe McGinty
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Tom "T-Bone" Wolk
+      artistRoles:
+      - bass
+    - artistNames:
+      - Don Brewer
+      artistRoles:
+      - drums
+      - backing vocals

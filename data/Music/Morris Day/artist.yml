@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Morris Day
+      dob:
+        y: 1957
+        m: 12
+        d: 13

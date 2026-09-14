@@ -34,3 +34,12 @@ artistData:
       artistRoles:
       - bass
       - vocals
+    - artistNames:
+      - Lindsay Jamieson
+      dob:
+        y: 1970
+        m: 6
+        d: 15
+      artistRoles:
+      - drums
+      - backing vocals

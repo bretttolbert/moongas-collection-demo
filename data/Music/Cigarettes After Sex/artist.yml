@@ -21,3 +21,9 @@ artistData:
         y: 1985
         m: 8
         d: 23
+    - artistNames:
+      - Jennifer Miro
+      dob:
+        y: 1986
+        m: 2
+        d: 10

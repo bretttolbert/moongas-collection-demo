@@ -31,3 +31,9 @@ artistData:
         y: 1980
         m: 3
         d: 22
+    - artistNames:
+      - The Duke of Pannekoeken
+      dob:
+        y: 1978
+        m: 8
+        d: 12

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - IAMDDB
+      dob:
+        y: 1996
+        m: 3
+        d: 5

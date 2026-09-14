@@ -45,3 +45,15 @@ artistData:
         y: 2014
         m: 2
         d: 17
+    - artistNames:
+      - David Kendrick
+      dob:
+        y: 1955
+        m: 12
+        d: 22
+    - artistNames:
+      - Josh Freese
+      dob:
+        y: 1972
+        m: 12
+        d: 25

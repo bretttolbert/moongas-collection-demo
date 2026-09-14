@@ -37,3 +37,21 @@ artistData:
         y: 1990
         m: 8
         d: 15
+    - artistNames:
+      - Shiny Joe Ryan
+      dob:
+        y: 1990
+        m: 5
+        d: 10
+    - artistNames:
+      - Jamie L. Terry
+      dob:
+        y: 1990
+        m: 6
+        d: 12
+    - artistNames:
+      - Sam Pannett
+      dob:
+        y: 1991
+        m: 1
+        d: 20

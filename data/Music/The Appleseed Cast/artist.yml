@@ -37,3 +37,15 @@ artistData:
         y: 1976
         m: 11
         d: 18
+    - artistNames:
+      - Steven C. 
+      dob:
+        y: 1980
+        m: 6
+        d: 20
+    - artistNames:
+      - Johnathon H. 
+      dob:
+        y: 1982
+        m: 1
+        d: 10

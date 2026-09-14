@@ -41,3 +41,9 @@ artistData:
         y: 1974
         m: 1
         d: 1
+    - artistNames:
+      - Xer0
+      dob:
+        y: 1980
+        m: 5
+        d: 1

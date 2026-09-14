@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Eminem
+  dob:
+    y: 1972
+    m: 10
+    d: 17
   city: Detroit
   countryCode: US
   languageCodes:

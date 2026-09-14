@@ -44,3 +44,7 @@ artistData:
       - Dale Bozzio
       artistRoles:
       - vocals
+      dob:
+        y: 1955
+        m: 3
+        d: 2

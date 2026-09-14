@@ -37,3 +37,9 @@ artistData:
         y: 1934
         m: 5
         d: 15
+    - artistNames:
+      - John "Johnny" Seals
+      dob:
+        y: 1934
+        m: 5
+        d: 15

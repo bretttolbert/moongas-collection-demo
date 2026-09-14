@@ -21,3 +21,7 @@ artistData:
       - Chris L. "C. J." D. McCoy
     - artistNames:
       - Brian "B. J." J. McCoy
+      dob:
+        y: 1976
+        m: 1
+        d: 1

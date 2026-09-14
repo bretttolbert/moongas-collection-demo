@@ -7,3 +7,13 @@ artistData:
   - en
   regionCode: DE-BY
   members: []
+  dob: 
+    y: 1994
+  genre: 
+    - stoner rock
+    - psychedelic rock
+  activeYears: 
+    - 1994-present
+  label: 
+    - Elektrohasch Records
+    - Stickman Records

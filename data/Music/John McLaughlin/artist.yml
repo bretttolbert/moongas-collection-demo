@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-DNC
-  members: []
+  members:
+    - artistNames:
+      - John McLaughlin
+      dob:
+        y: 1942
+        m: 1
+        d: 4

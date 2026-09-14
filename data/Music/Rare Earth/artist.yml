@@ -57,3 +57,19 @@ artistData:
         d: 22
       artistRoles:
       - keyboards
+    - artistNames:
+      - Kenny James
+      dob:
+        y: 1946
+        m: 8
+        d: 12
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - Michael "Mike" Urso
+      dob:
+        y: 1949
+        m: 2
+        d: 15
+      artistRoles:
+      - bass

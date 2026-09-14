@@ -6,4 +6,23 @@ artistData:
   languageCodes:
   - es
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Eydie Gorme
+      dob:
+        y: 1928
+        m: 8
+        d: 16
+      dod:
+        y: 2013
+        m: 2
+        d: 10
+    - artistNames:
+      - Trio Los Panchos
+      members:
+        - artistNames:
+          - Chucho Navarro
+        - artistNames:
+          - Alfredo Gil
+        - artistNames:
+          - José Luis Arcaraz

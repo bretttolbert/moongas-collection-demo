@@ -31,3 +31,9 @@ artistData:
         y: 1965
         m: 12
         d: 31
+    - artistNames:
+      - Debbie Smith
+      dob:
+        y: 1970
+        m: 1
+        d: 1

@@ -13,3 +13,13 @@ artistData:
         y: 1969
         m: 3
         d: 5
+    - artistNames:
+      - Hocus Pocus
+    - artistNames:
+      - Kery James
+    - artistNames:
+      - Oxmo Puccino
+    - artistNames:
+      - Salif Keita
+    - artistNames:
+      - Soprano

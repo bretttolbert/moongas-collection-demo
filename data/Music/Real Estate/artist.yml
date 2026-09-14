@@ -37,3 +37,9 @@ artistData:
         y: 1986
         m: 6
         d: 12
+    - artistNames:
+      - Jonny Kosmowski
+      dob:
+        y: 1987
+        m: 11
+        d: 22

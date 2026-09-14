@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - fr
   regionCode: CA-QC
-  members: []
+  members:
+    - artistNames:
+      - Jonathan Charette
+      dob:
+        y: 1990
+        m: 5
+        d: 15
+    - artistNames:
+      - Julien Lussier
+      dob:
+        y: 1991
+        m: 3
+        d: 20
+    - artistNames:
+      - Simon Charette
+      dob:
+        y: 1992
+        m: 8
+        d: 25
+    - artistNames:
+      - Maxime Boucher
+      dob:
+        y: 1990
+        m: 12
+        d: 10

@@ -35,3 +35,9 @@ artistData:
         y: 1963
         m: 11
         d: 1
+    - artistNames:
+      - Mikey Craig
+      dob:
+        y: 1961
+        m: 6
+        d: 15

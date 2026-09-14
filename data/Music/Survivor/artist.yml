@@ -53,3 +53,15 @@ artistData:
         y: 1952
         m: 2
         d: 12
+    - artistNames:
+      - Peterik
+      dob:
+        y: 1950
+        m: 11
+        d: 11
+    - artistNames:
+      - Sullivan
+      dob:
+        y: 1955
+        m: 2
+        d: 24

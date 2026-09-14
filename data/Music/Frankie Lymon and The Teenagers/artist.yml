@@ -19,11 +19,35 @@ artistData:
         d: 27
     - artistNames:
       - Herman Santiago
+      dob:
+        y: 1943
+        m: 4
+        d: 15
     - artistNames:
       - Jimmy Merchant
+      dob:
+        y: 1940
+        m: 10
+        d: 6
     - artistNames:
       - Joe Negroni
+      dob:
+        y: 1932
+        m: 9
+        d: 9
+      dod:
+        y: 1978
+        m: 2
+        d: 5
     - artistNames:
       - Clarence "Sonny" McEwen
+      dob:
+        y: 1940
+        m: 1
+        d: 1
     - artistNames:
       - Ralph "Chico" McEwen
+      dob:
+        y: 1942
+        m: 6
+        d: 24

@@ -37,3 +37,19 @@ artistData:
         y: 1963
         m: 10
         d: 31
+    - artistNames:
+      - Herman Rarebell
+      dob:
+        y: 1949
+        m: 11
+        d: 18
+      dod:
+        y: 2023
+        m: 1
+        d: 1
+    - artistNames:
+      - Uli Jon Roth
+      dob:
+        y: 1954
+        m: 12
+        d: 18

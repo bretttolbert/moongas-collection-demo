@@ -55,3 +55,15 @@ artistData:
         y: 1961
         m: 8
         d: 12
+    - artistNames:
+      - Charlie "Cholly" Atkins
+      dob:
+        y: 1939
+        m: 10
+        d: 12
+    - artistNames:
+      - Nathan Leftenant
+      dob:
+        y: 1960
+        m: 6
+        d: 15

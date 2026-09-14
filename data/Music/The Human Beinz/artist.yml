@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - John "Johnny" E. "Beinz" Beinhorn
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+    - artistNames:
+      - Michael "Mike" D. "Beinz" Beinhorn
+      dob:
+        y: 1945
+        m: 3
+        d: 15
+    - artistNames:
+      - Richard "Rick" D. "Beinz" Beinhorn
+      dob:
+        y: 1944
+        m: 5
+        d: 20
+    - artistNames:
+      - Joe "Joey" A. "Beinz" Beinhorn
+      dob:
+        y: 1947
+        m: 7
+        d: 10

@@ -50,3 +50,19 @@ artistData:
         d: 22
       artistRoles:
       - drums
+    - artistNames:
+      - Jim Murray
+      dob:
+        y: 1947
+        m: 7
+        d: 10
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Matthew Kelly
+      dob:
+        y: 1947
+        m: 11
+        d: 1
+      artistRoles:
+      - bass

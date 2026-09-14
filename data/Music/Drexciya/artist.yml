@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Gerald Donald
+      dob:
+        y: 1970
+    - artistNames:
+      - James Stinson
+      dob:
+        y: 1969
+      dod:
+        y: 2002
+        m: 9
+        d: 3

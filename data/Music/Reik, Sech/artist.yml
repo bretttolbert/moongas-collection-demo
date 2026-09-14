@@ -7,4 +7,28 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-BCN
-  members: []
+  members:
+    - artistNames:
+      - Jesús Alberto Navarro
+      dob:
+        y: 1986
+        m: 2
+        d: 13
+    - artistNames:
+      - Julio Ramírez
+      dob:
+        y: 1988
+        m: 6
+        d: 29
+    - artistNames:
+      - Bibi Marín
+      dob:
+        y: 1986
+        m: 4
+        d: 22
+    - artistNames:
+      - Sech
+      dob:
+        y: 1993
+        m: 11
+        d: 3

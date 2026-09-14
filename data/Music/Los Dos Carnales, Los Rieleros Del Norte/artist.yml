@@ -1,6 +1,7 @@
 artistData:
   artistNames:
-  - Los Dos Carnales, Los Rieleros Del Norte
+  - Los Dos Carnales
+  - Los Rieleros Del Norte
   city: San Pedro
   countryCode: MX
   languageCodes:

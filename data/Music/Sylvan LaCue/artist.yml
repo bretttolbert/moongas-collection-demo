@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Sylvan LaCue
+      dob:
+        y: 1993
+        m: 6
+        d: 23

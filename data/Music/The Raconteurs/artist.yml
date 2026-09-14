@@ -41,3 +41,12 @@ artistData:
         d: 12
       artistRoles:
       - drums
+    - artistNames:
+      - Rachael Yamagata
+      dob:
+        y: 1979
+        m: 9
+        d: 23
+      artistRoles:
+      - keyboards
+      - backing vocals

@@ -19,3 +19,15 @@ artistData:
         y: 1970
         m: 3
         d: 15
+    - artistNames:
+      - John McGowan
+      dob:
+        y: 1971
+        m: 9
+        d: 22
+    - artistNames:
+      - Mark O'Sullivan
+      dob:
+        y: 1970
+        m: 7
+        d: 14

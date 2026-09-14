@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - hi
   regionCode: IN-MH
-  members: []
+  members:
+    - artistNames:
+      - Viju Shah
+      artistRoles:
+      - music director
+    - artistNames:
+      - Alka Yagnik
+      dob:
+        y: 1970
+        m: 9
+        d: 20
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Udit Narayan
+      dob:
+        y: 1955
+        m: 12
+        d: 1
+      artistRoles:
+      - vocals

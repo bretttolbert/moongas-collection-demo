@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Jacob Read
+      dob:
+        y: 1995
+        m: 5
+        d: 10

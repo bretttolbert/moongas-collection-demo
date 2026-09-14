@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - pa
   regionCode: IN-PB
-  members: []
+  members:
+    - artistNames:
+      - Sultana Nooran
+    - artistNames:
+      - Jyoti Nooran

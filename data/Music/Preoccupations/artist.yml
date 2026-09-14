@@ -31,3 +31,9 @@ artistData:
         y: 1986
         m: 8
         d: 1
+    - artistNames:
+      - Katia McGowan
+      dob:
+        y: 1987
+        m: 11
+        d: 22

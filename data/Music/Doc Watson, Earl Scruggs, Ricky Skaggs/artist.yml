@@ -33,3 +33,9 @@ artistData:
         y: 1954
         m: 7
         d: 18
+      city: Cordell, Kentucky
+      countryCode: US
+      languageCodes:
+      - en
+      regionCode: US-KY
+      members: []

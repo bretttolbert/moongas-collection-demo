@@ -55,3 +55,15 @@ artistData:
         y: 1961
         m: 9
         d: 15
+    - artistNames:
+      - Lee "Kix" Thompson
+      dob:
+        y: 1961
+        m: 10
+        d: 7
+    - artistNames:
+      - "Bedders"
+      dob:
+        y: 1961
+        m: 1
+        d: 24

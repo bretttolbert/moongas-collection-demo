@@ -37,3 +37,9 @@ artistData:
         y: 1982
         m: 6
         d: 15
+    - artistNames:
+      - Brandon Steineckert
+      dob:
+        y: 1982
+        m: 4
+        d: 24

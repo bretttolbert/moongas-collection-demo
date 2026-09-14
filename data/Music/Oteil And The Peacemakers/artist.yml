@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Oteil Burbridge
+      dob:
+        y: 1975
+        m: 8
+        d: 24
+    - artistNames:
+      - John McLaughlin
+    - artistNames:
+      - Kofi Burbridge
+      dod:
+        y: 2019
+        m: 2
+        d: 15
+    - artistNames:
+      - J.J. Grey
+    - artistNames:
+      - Eric Krasno
+    - artistNames:
+      - Chris Robinson

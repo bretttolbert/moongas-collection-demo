@@ -6,4 +6,52 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Jerry Bell
+      dob:
+        y: 1955
+        m: 1
+        d: 1
+    - artistNames:
+      - Reggie Calloway
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Walter Morrison
+      dob:
+        y: 1955
+        m: 5
+        d: 5
+    - artistNames:
+      - Kevin McCord
+      dob:
+        y: 1955
+        m: 3
+        d: 3
+    - artistNames:
+      - Bobby Harris
+      dob:
+        y: 1950
+        m: 8
+        d: 8
+    - artistNames:
+      - Leon "Ndugu" Chancler
+      dob:
+        y: 1952
+        m: 6
+        d: 1
+    - artistNames:
+      - Michael "Mike" McCary
+      dob:
+        y: 1960
+        m: 2
+        d: 2
+    - artistNames:
+      - Gregory "Greg" Williams
+      dob:
+        y: 1955
+        m: 4
+        d: 4

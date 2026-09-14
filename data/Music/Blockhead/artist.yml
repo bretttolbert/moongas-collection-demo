@@ -14,8 +14,26 @@ artistData:
         m: 1
         d: 1
     - artistNames:
-      - David "Blockhead" S. 
+      - David "Blockhead" S.
       dob:
         y: 1975
         m: 9
         d: 10
+    - artistNames:
+      - Aesop Rock
+      dob:
+        y: 1976
+        m: 6
+        d: 5
+      artistRoles:
+      - vocals
+      - lyrics
+    - artistNames:
+      - Rob Sonic
+      dob:
+        y: 1977
+        m: 1
+        d: 15
+      artistRoles:
+      - vocals
+      - production

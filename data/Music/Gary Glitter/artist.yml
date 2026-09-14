@@ -13,3 +13,13 @@ artistData:
         y: 1944
         m: 5
         d: 8
+    - artistNames:
+      - Paul Gadd
+      dob:
+        y: 1944
+        m: 5
+        d: 8
+      artistRoles:
+      - vocals
+      - guitar
+      - songwriter

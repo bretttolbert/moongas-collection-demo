@@ -41,3 +41,28 @@ artistData:
         d: 28
       artistRoles:
       - drums
+    - artistNames:
+      - Mike Riggs
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Rob "Blasko" Nicholson
+      dob:
+        y: 1972
+        m: 4
+        d: 23
+      artistRoles:
+      - bass
+    - artistNames:
+      - Scott Humphrey
+      dob:
+        y: 1965
+        m: 2
+        d: 15
+      artistRoles:
+      - keyboards
+      - programming

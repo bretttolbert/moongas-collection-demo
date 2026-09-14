@@ -39,3 +39,15 @@ artistData:
         y: 1978
         m: 9
         d: 7
+    - artistNames:
+      - Zak Starkey
+      dob:
+        y: 1965
+        m: 9
+        d: 13
+    - artistNames:
+      - Simon Townshend
+      dob:
+        y: 1963
+        m: 10
+        d: 10

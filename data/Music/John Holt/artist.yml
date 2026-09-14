@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - John Holt
+      dob:
+        y: 1947
+        m: 7
+        d: 11
+      dod:
+        y: 2014
+        m: 10
+        d: 19

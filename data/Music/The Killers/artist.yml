@@ -31,3 +31,15 @@ artistData:
         y: 1976
         m: 2
         d: 15
+    - artistNames:
+      - Ted Sablay
+      dob:
+        y: 1981
+        m: 5
+        d: 15
+    - artistNames:
+      - Jake Blanton
+      dob:
+        y: 1984
+        m: 3
+        d: 7

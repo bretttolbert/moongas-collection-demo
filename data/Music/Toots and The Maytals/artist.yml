@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Frederick "Toots" Hibbert
+      dob:
+        y: 1942
+        m: 12
+        d: 8
+      dod:
+        y: 2020
+        m: 9
+        d: 11
+    - artistNames:
+      - Jerry Matthias
+    - artistNames:
+      - Nathaniel "Jerry" Mathias
+    - artistNames:
+      - Ralph "T" Johnson
+    - artistNames:
+      - Jackie Jackson
+    - artistNames:
+      - Paul Douglas
+    - artistNames:
+      - Lloyd "Bread" McDonald
+    - artistNames:
+      - Winston "Bunny" McKenzie
+    - artistNames:
+      - Carl "Carly" Dawkins
+    - artistNames:
+      - Lloyd "Bobby" Johnson
+    - artistNames:
+      - Alton Ellis

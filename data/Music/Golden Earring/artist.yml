@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: NL-ZH
-  members: []
+  members:
+    - artistNames:
+      - Barry Hay
+      dob:
+        y: 1948
+        m: 7
+        d: 14
+    - artistNames:
+      - George Kooymans
+      dob:
+        y: 1948
+        m: 3
+        d: 11
+    - artistNames:
+      - Rinus Gerritsen
+      dob:
+        y: 1946
+        m: 11
+        d: 6
+    - artistNames:
+      - Cesar Zuiderwijk
+      dob:
+        y: 1948
+        m: 9
+        d: 18

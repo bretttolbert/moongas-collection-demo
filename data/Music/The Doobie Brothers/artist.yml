@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Tom Johnston
+      dob:
+        y: 1947
+        m: 8
+        d: 15
+    - artistNames:
+      - Patrick Simmons
+      dob:
+        y: 1948
+        m: 10
+        d: 19
+    - artistNames:
+      - Tiran Porter
+      dob:
+        y: 1952
+        m: 6
+        d: 2
+    - artistNames:
+      - John McFee
+      dob:
+        y: 1950
+        m: 3
+        d: 15
+    - artistNames:
+      - Jeff "Skunk" Baxter
+      dob:
+        y: 1948
+        m: 12
+        d: 13
+    - artistNames:
+      - Michael McDonald
+      dob:
+        y: 1952
+        m: 2
+        d: 12

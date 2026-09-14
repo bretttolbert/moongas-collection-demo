@@ -31,3 +31,9 @@ artistData:
         y: 1981
         m: 4
         d: 7
+    - artistNames:
+      - Josh Moreau
+      dob:
+        y: 1980
+        m: 10
+        d: 12

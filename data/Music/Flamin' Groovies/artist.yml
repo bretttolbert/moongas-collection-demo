@@ -45,3 +45,9 @@ artistData:
         y: 1947
         m: 8
         d: 24
+    - artistNames:
+      - Tim Lynch
+      dob:
+        y: 1950
+        m: 2
+        d: 3

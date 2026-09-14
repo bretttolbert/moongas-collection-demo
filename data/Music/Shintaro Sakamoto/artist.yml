@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - ja
   regionCode: JP-27
-  members: []
+  members:
+    - artistNames:
+      - Shintaro Sakamoto
+      dob:
+        y: 1980
+        m: 4
+        d: 3

@@ -23,3 +23,15 @@ artistData:
         y: 1999
         m: 1
         d: 25
+    - artistNames:
+      - John "Jellybean" Benitez
+      dob:
+        y: 1961
+        m: 4
+        d: 15
+    - artistNames:
+      - David "Davy" O'Leary
+      dob:
+        y: 1960
+        m: 11
+        d: 20

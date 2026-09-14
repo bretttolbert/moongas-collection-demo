@@ -67,3 +67,21 @@ artistData:
         y: 1987
         m: 2
         d: 21
+    - artistNames:
+      - Hayley Williams
+      dob:
+        y: 1989
+        m: 12
+        d: 27
+    - artistNames:
+      - Keltie Knight
+      dob:
+        y: 1986
+        m: 9
+        d: 24
+    - artistNames:
+      - Jessy Greene
+      dob:
+        y: 1980
+        m: 5
+        d: 3

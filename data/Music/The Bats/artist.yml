@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: NZ-CAN
-  members: []
+  members:
+    - artistNames:
+      - Robert Scott
+      dob:
+        y: 1961
+        m: 11
+        d: 24
+    - artistNames:
+      - Mick Elborado
+    - artistNames:
+      - Paul Kean
+    - artistNames:
+      - Kaye Woodward
+      dob:
+        y: 1965
+        m: 2
+        d: 12
+    - artistNames:
+      - John O'Connor

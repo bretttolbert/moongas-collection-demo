@@ -31,3 +31,8 @@ artistData:
         y: 1970
         m: 3
         d: 9
+    - artistNames:
+      - Minor Threat
+      artistRoles:
+      - punk rock band
+      - influence on Fugazi

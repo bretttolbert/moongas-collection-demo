@@ -37,3 +37,9 @@ artistData:
         y: 1995
         m: 11
         d: 10
+    - artistNames:
+      - Jordan Jones
+      dob:
+        y: 1996
+        m: 1
+        d: 12

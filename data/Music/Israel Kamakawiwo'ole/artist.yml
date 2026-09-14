@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Israel Kamakawiwo'ole
+  dob:
+    y: 1959
+    m: 5
+    d: 20
+  dod:
+    y: 1997
+    m: 6
+    d: 26
   city: Honolulu
   countryCode: US
   languageCodes:

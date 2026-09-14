@@ -29,3 +29,9 @@ artistData:
         y: 1971
         m: 1
         d: 1
+    - artistNames:
+      - Brandt Sandeno
+      dob:
+        y: 1971
+        m: 4
+        d: 1

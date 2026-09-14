@@ -31,3 +31,9 @@ artistData:
         y: 1982
         m: 3
         d: 21
+    - artistNames:
+      - Jason White
+      dob:
+        y: 1973
+        m: 11
+        d: 11

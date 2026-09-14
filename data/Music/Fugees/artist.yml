@@ -25,3 +25,15 @@ artistData:
         y: 1972
         m: 10
         d: 19
+    - artistNames:
+      - John Forte
+      dob:
+        y: 1975
+        m: 3
+        d: 30
+    - artistNames:
+      - Jerry Wonder
+      dob:
+        y: 1972
+        m: 7
+        d: 15

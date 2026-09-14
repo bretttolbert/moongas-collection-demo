@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Bruce Hornsby
+      dob:
+        y: 1954
+        m: 11
+        d: 23
+    - artistNames:
+      - John Molo
+    - artistNames:
+      - George Marinelli
+    - artistNames:
+      - Joe Puerta
+    - artistNames:
+      - David Mansfield
+    - artistNames:
+      - Danny Kortchmar
+    - artistNames:
+      - J. T. Thomas
+    - artistNames:
+      - Rob Wasserman
+    - artistNames:
+      - David "Fingers" Haynes
+    - artistNames:
+      - Chris Stainton

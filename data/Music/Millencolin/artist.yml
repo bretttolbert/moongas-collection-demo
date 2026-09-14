@@ -31,3 +31,9 @@ artistData:
         y: 1974
         m: 5
         d: 27
+    - artistNames:
+      - Gustav Öhman
+      dob:
+        y: 1975
+        m: 8
+        d: 24

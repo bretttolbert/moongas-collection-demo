@@ -21,3 +21,7 @@ artistData:
       - Brian G. 
     - artistNames:
       - Chris Cohen
+      dob:
+        y: 1980
+        m: 1
+        d: 1

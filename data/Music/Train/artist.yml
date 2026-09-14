@@ -55,3 +55,15 @@ artistData:
         y: 1972
         m: 3
         d: 5
+    - artistNames:
+      - Nicole Atkins
+      dob:
+        y: 1979
+        m: 10
+        d: 1
+    - artistNames:
+      - Jonny Lang
+      dob:
+        y: 1981
+        m: 1
+        d: 29

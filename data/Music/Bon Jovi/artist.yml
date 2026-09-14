@@ -49,3 +49,15 @@ artistData:
         y: 1966
         m: 3
         d: 10
+    - artistNames:
+      - Everett Bradley
+      dob:
+        y: 1965
+        m: 12
+        d: 1
+    - artistNames:
+      - Bobby Bandiera
+      dob:
+        y: 1954
+        m: 11
+        d: 30

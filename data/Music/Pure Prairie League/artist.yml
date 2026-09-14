@@ -55,3 +55,15 @@ artistData:
         y: 1945
         m: 12
         d: 18
+    - artistNames:
+      - Mike McGinnis
+      dob:
+        y: 1951
+        m: 9
+        d: 15
+    - artistNames:
+      - Billy H. McGinnis
+      dob:
+        y: 1953
+        m: 2
+        d: 10

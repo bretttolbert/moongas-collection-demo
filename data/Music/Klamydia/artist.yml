@@ -37,3 +37,21 @@ artistData:
         y: 1974
         m: 8
         d: 5
+    - artistNames:
+      - Jani "Jansku" Kallio
+      dob:
+        y: 1972
+        m: 6
+        d: 15
+    - artistNames:
+      - Jari "Jari" Kallio
+      dob:
+        y: 1973
+        m: 7
+        d: 10
+    - artistNames:
+      - Jarkko "Jarkka" Kallio
+      dob:
+        y: 1974
+        m: 8
+        d: 5

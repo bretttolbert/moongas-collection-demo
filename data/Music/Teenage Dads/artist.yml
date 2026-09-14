@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-VIC
-  members: []
+  members:
+    - artistNames:
+      - Josh McKenzie
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Jake McKenzie
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Sam O'Connell
+      dob:
+        y: 1998
+        m: 5
+        d: 12
+    - artistNames:
+      - Max McKenzie
+      dob:
+        y: 1998
+        m: 5
+        d: 12

@@ -13,3 +13,56 @@ artistData:
         y: 1957
         m: 1
         d: 4
+    - artistNames:
+      - Emory Gordy Jr.
+      dob:
+        y: 1949
+        m: 9
+        d: 4
+      artistRoles:
+      - bass
+      - producer
+    - artistNames:
+      - Richie McDonald
+      dob:
+        y: 1969
+        m: 9
+        d: 6
+      artistRoles:
+      - vocals
+    - artistNames:
+      - John Anderson
+      dob:
+        y: 1954
+        m: 12
+        d: 13
+      artistRoles:
+      - vocals
+    - artistNames:
+      - George Jones
+      dob:
+        y: 1931
+        m: 9
+        d: 12
+      dod:
+        y: 2013
+        m: 4
+        d: 26
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Vince Gill
+      dob:
+        y: 1957
+        m: 4
+        d: 12
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Travis Tritt
+      dob:
+        y: 1963
+        m: 2
+        d: 9
+      artistRoles:
+      - vocals

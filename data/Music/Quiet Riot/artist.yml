@@ -55,3 +55,9 @@ artistData:
         y: 1980
         m: 1
         d: 8
+    - artistNames:
+      - Greg Leon
+      dob:
+        y: 1963
+        m: 10
+        d: 29

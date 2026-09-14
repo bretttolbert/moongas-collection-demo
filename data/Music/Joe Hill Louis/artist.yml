@@ -47,3 +47,23 @@ artistData:
         y: 1983
         m: 4
         d: 30
+    - artistNames:
+      - Howlin' Wolf
+      dob:
+        y: 1910
+        m: 6
+        d: 10
+      dod:
+        y: 1976
+        m: 1
+        d: 10
+    - artistNames:
+      - Little Walter
+      dob:
+        y: 1930
+        m: 5
+        d: 1
+      dod:
+        y: 1968
+        m: 2
+        d: 15

@@ -19,3 +19,6 @@ artistData:
         y: 1946
         m: 7
         d: 3
+      artistRoles:
+      - vocals
+      - guitar

@@ -55,3 +55,15 @@ artistData:
         y: 1933
         m: 7
         d: 24
+    - artistNames:
+      - Mike Pyne
+      dob:
+        y: 1938
+        m: 1
+        d: 1
+    - artistNames:
+      - John Surman
+      dob:
+        y: 1944
+        m: 8
+        d: 30

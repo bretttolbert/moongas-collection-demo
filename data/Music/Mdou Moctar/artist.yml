@@ -13,3 +13,11 @@ artistData:
         y: 1988
         m: 10
         d: 1
+    - artistNames:
+      - Mahamadou Souleymane
+    - artistNames:
+      - Ibrahim Ag Alhabib
+    - artistNames:
+      - Moussa Ag Keyna
+    - artistNames:
+      - Abdoulaye Abarry

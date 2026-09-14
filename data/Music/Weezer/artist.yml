@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Rivers Cuomo
+      dob:
+        y: 1970
+        m: 6
+        d: 13
+    - artistNames:
+      - Brian Bell
+      dob:
+        y: 1969
+        m: 12
+        d: 9
+    - artistNames:
+      - Scott Shriner
+      dob:
+        y: 1970
+        m: 10
+        d: 7
+    - artistNames:
+      - Patrick Wilson
+      dob:
+        y: 1973
+        m: 2
+        d: 1

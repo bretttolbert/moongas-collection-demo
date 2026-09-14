@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 2
         d: 12
+    - artistNames:
+      - James "Jim" McCulloch
+      dob:
+        y: 1981
+        m: 11
+        d: 5

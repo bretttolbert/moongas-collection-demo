@@ -31,3 +31,9 @@ artistData:
         y: 1972
         m: 8
         d: 25
+    - artistNames:
+      - John McCauley
+      dob:
+        y: 1973
+        m: 4
+        d: 30

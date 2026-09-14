@@ -31,3 +31,15 @@ artistData:
         y: 1972
         m: 2
         d: 8
+    - artistNames:
+      - A Tribe Called Quest
+      dob:
+        y: 1985
+        m: 11
+        d: 13
+    - artistNames:
+      - The Chemical Brothers
+      dob:
+        y: 1989
+        m: 6
+        d: 1

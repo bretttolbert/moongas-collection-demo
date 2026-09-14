@@ -35,3 +35,9 @@ artistData:
         y: 1962
         m: 11
         d: 28
+    - artistNames:
+      - Hiro Yamamoto
+      dob:
+        y: 1961
+        m: 10
+        d: 13

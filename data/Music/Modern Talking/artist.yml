@@ -19,3 +19,21 @@ artistData:
         y: 1953
         m: 2
         d: 7
+    - artistNames:
+      - Linda de Mol
+      dob:
+        y: 1965
+        m: 4
+        d: 8
+    - artistNames:
+      - Lian Ross
+      dob:
+        y: 1966
+        m: 6
+        d: 10
+    - artistNames:
+      - Eric Singleton
+      dob:
+        y: 1965
+        m: 11
+        d: 24

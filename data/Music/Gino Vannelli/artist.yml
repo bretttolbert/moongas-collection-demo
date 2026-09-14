@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Gino Vannelli
+  dob:
+    y: 1952
+    m: 6
+    d: 16
   city: Montréal
   countryCode: CA
   languageCodes:

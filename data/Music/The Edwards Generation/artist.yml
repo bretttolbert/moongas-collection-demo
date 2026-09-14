@@ -31,3 +31,15 @@ artistData:
         y: 1989
         m: 1
         d: 30
+    - artistNames:
+      - David Edwards
+      dob:
+        y: 1990
+        m: 4
+        d: 12
+    - artistNames:
+      - Emily Edwards
+      dob:
+        y: 1992
+        m: 8
+        d: 19

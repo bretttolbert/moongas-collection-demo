@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Dan Auerbach
+      dob:
+        y: 1980
+        m: 5
+        d: 14
+    - artistNames:
+      - Patrick Carney
+      dob:
+        y: 1980
+        m: 4
+        d: 15

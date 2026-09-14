@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - de
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Thomas K. 
+      dob:
+        y: 1975
+        m: 6
+        d: 12
+    - artistNames:
+      - Michael H.
+      dob:
+        y: 1978
+        m: 3
+        d: 22
+    - artistNames:
+      - Stefan L.
+      dob:
+        y: 1980
+        m: 11
+        d: 5
+    - artistNames:
+      - Anna S.
+      dob:
+        y: 1985
+        m: 4
+        d: 18

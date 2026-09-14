@@ -31,3 +31,15 @@ artistData:
         y: 1978
         m: 11
         d: 12
+    - artistNames:
+      - Luis "Lucho" Cárdenas
+      dob:
+        y: 1980
+        m: 4
+        d: 10
+    - artistNames:
+      - Fernando "Nano" Cárdenas
+      dob:
+        y: 1983
+        m: 2
+        d: 5

@@ -13,3 +13,7 @@ artistData:
         y: 1988
         m: 5
         d: 15
+      artistRoles:
+      - producer
+      - DJ
+      - musician

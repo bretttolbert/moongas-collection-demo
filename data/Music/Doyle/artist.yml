@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Doyle Wolfgang von Frankenstein
+      dob:
+        y: 1964
+        m: 1
+        d: 15
+    - artistNames:
+      - Alex Story
+    - artistNames:
+      - Brandon Strate
+    - artistNames:
+      - Dr. Chud
+      dob:
+        y: 1970
+        m: 5
+        d: 23
+    - artistNames:
+      - Acey Slade

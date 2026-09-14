@@ -13,3 +13,18 @@ artistData:
         y: 1970
         m: 8
         d: 8
+    - artistNames:
+      - Marcus Randolph
+      dob:
+        y: 1974
+      artistRoles:
+      - drums
+    - artistNames:
+      - Danyel Morgan
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jason Crosby
+      artistRoles:
+      - keyboards
+      - violin

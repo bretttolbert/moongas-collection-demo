@@ -60,3 +60,16 @@ artistData:
       artistRoles:
       - fiddle
       - mandolin
+    - artistNames:
+      - Ciarán M. Ó hEadhra
+      dob:
+        y: 1970
+      artistRoles:
+      - accordion
+    - artistNames:
+      - Lisa Hannigan
+      dob:
+        y: 1981
+      artistRoles:
+      - vocals
+      - guitar

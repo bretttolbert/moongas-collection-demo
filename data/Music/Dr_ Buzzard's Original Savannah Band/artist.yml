@@ -43,3 +43,15 @@ artistData:
         y: 1952
         m: 4
         d: 22
+    - artistNames:
+      - Ritchie "Richie" Cason
+      dob:
+        y: 1951
+        m: 7
+        d: 10
+    - artistNames:
+      - T. M. Stevens
+      dob:
+        y: 1951
+        m: 10
+        d: 1

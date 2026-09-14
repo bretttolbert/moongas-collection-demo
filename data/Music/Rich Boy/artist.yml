@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Rich Boy
+      dob:
+        y: 1986
+        m: 3
+        d: 2

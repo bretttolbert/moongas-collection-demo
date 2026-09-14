@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - ro
   regionCode: RO-B
-  members: []
+  members:
+    - artistNames:
+      - Florin Salam
+      dob:
+        y: 1986
+        m: 10
+        d: 1

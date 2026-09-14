@@ -13,3 +13,11 @@ artistData:
         y: 1980
         m: 12
         d: 29
+    - artistNames:
+      - Alice Russell
+    - artistNames:
+      - Quantic Soul Orchestra
+    - artistNames:
+      - Nickodemus
+    - artistNames:
+      - The Quantic Soul Orchestra

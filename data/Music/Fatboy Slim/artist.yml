@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Norman Cook
+      dob:
+        y: 1963
+        m: 7
+        d: 31

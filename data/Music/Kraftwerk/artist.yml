@@ -47,3 +47,9 @@ artistData:
         y: 1956
         m: 9
         d: 4
+    - artistNames:
+      - Emil Schult
+      dob:
+        y: 1946
+        m: 4
+        d: 29

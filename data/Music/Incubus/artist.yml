@@ -37,3 +37,13 @@ artistData:
         y: 1974
         m: 1
         d: 21
+    - artistNames:
+      - Alex "Dirk" Katunich
+      dob:
+        y: 1976
+        m: 6
+        d: 18
+      dod:
+        y: 2023
+        m: 1
+        d: 15

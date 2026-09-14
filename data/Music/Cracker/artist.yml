@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - David Lowery
+      dob:
+        y: 1964
+        m: 2
+        d: 10
+    - artistNames:
+      - Johnny Hickman
+      dob:
+        y: 1964
+        m: 5
+        d: 11
+    - artistNames:
+      - Davey Faragher
+      dob:
+        y: 1969
+        m: 6
+        d: 1
+    - artistNames:
+      - Michael Urbano
+      dob:
+        y: 1961
+        m: 4
+        d: 29

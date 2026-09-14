@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Blag Dahlia
+      dob:
+        y: 1963
+        m: 4
+        d: 20
+    - artistNames:
+      - HeWhoCannotBeNamed
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Nick Oliveri
+      dob:
+        y: 1971
+        m: 10
+        d: 28
+    - artistNames:
+      - Greg Hetson
+      dob:
+        y: 1963
+        m: 3
+        d: 31
+    - artistNames:
+      - Rex Everything
+      dob:
+        y: 1970
+        m: 6
+        d: 15

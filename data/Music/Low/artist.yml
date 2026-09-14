@@ -25,3 +25,9 @@ artistData:
         y: 1974
         m: 5
         d: 12
+    - artistNames:
+      - Zak Sally
+      dob:
+        y: 1974
+        m: 10
+        d: 18

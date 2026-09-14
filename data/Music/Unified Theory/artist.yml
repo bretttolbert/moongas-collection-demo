@@ -37,3 +37,9 @@ artistData:
         y: 1968
         m: 11
         d: 2
+    - artistNames:
+      - John "J" McGhee
+      dob:
+        y: 1971
+        m: 3
+        d: 15

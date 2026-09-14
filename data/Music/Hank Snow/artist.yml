@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-NS
-  members: []
+  members:
+    - artistNames:
+      - Hank Snow
+      dob:
+        y: 1914
+        m: 5
+        d: 9
+      dod:
+        y: 1999
+        m: 12
+        d: 20

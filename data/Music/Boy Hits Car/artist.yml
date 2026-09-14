@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Tavis Werts
+      dob:
+        y: 1975
+        m: 4
+        d: 12
+    - artistNames:
+      - John D. Moyer
+      dob:
+        y: 1974
+        m: 9
+        d: 25
+    - artistNames:
+      - Chris G. W. Hurst
+      dob:
+        y: 1976
+        m: 6
+        d: 18
+    - artistNames:
+      - J. J. C. Hurst
+      dob:
+        y: 1978
+        m: 3
+        d: 5

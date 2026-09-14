@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Stanley Burrell
+      dob:
+        y: 1962
+        m: 3
+        d: 30

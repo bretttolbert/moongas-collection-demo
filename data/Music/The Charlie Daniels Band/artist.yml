@@ -6,4 +6,72 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Charlie Daniels
+      dob:
+        y: 1936
+        m: 10
+        d: 28
+      dod:
+        y: 2020
+        m: 7
+        d: 6
+    - artistNames:
+      - Taz DiGregorio
+      dob:
+        y: 1946
+      dod:
+        y: 2020
+        m: 9
+        d: 13
+    - artistNames:
+      - Bruce Brown
+    - artistNames:
+      - Charlie Hayward
+    - artistNames:
+      - John "J.D." McCauley
+    - artistNames:
+      - Joel "Taz" DiGregorio
+    - artistNames:
+      - David "D.J." Smith
+    - artistNames:
+      - Billy Cox
+    - artistNames:
+      - Chris Cagle
+    - artistNames:
+      - Tom Crain
+    - artistNames:
+      - Fred Edwards
+    - artistNames:
+      - Jim McBrayer
+    - artistNames:
+      - Gary Allen
+    - artistNames:
+      - Mike Curb
+    - artistNames:
+      - John McEuen
+    - artistNames:
+      - John "J.D." McCauley
+    - artistNames:
+      - Doug Gray
+    - artistNames:
+      - John "J.D." McCauley
+    - artistNames:
+      - Chris Cagle
+    - artistNames:
+      - Billy Cox
+    - artistNames:
+      - David "D.J." Smith
+    - artistNames:
+      - Fred Edwards
+    - artistNames:
+      - Jim McBrayer
+    - artistNames:
+      - Gary Allen
+    - artistNames:
+      - Mike Curb
+    - artistNames:
+      - John McEuen
+    - artistNames:
+      - Doug Gray

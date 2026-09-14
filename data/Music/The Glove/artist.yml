@@ -41,3 +41,12 @@ artistData:
       artistRoles:
       - vocals
       - keyboards
+    - artistNames:
+      - John McGeoch
+      dob:
+        y: 1955
+        m: 6
+        d: 25
+      artistRoles:
+      - guitar
+      - keyboards

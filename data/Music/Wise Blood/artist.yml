@@ -13,3 +13,15 @@ artistData:
         y: 1990
         m: 5
         d: 30
+    - artistNames:
+      - Michael D. Laufman
+      dob:
+        y: 1992
+        m: 3
+        d: 15
+    - artistNames:
+      - Alex K. Laufman
+      dob:
+        y: 1994
+        m: 8
+        d: 22

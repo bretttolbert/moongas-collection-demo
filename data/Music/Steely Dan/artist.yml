@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Walter Becker
+      dob:
+        y: 1970
+        m: 2
+        d: 20
+      dod:
+        y: 2017
+        m: 9
+        d: 3
+    - artistNames:
+      - Donald Fagen
+      dob:
+        y: 1948
+        m: 1
+        d: 10

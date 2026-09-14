@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Doechii
+      dob:
+        y: 1998
+        m: 1
+        d: 25

@@ -32,3 +32,11 @@ artistData:
       - Boris
       artistRoles:
       - guitar
+    - artistNames:
+      - Lili
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Titi
+      artistRoles:
+      - backing vocals

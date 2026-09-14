@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Joanne "Jomanda" Thomas
+      dob:
+        y: 1969
+        m: 5
+        d: 1
+    - artistNames:
+      - David "DJ" Thomas
+      dob:
+        y: 1970
+        m: 8
+        d: 15
+    - artistNames:
+      - Jomanda "Jo" Thomas
+      dob:
+        y: 1971
+        m: 3
+        d: 20

@@ -25,3 +25,9 @@ artistData:
         y: 1970
         m: 10
         d: 15
+    - artistNames:
+      - Rocco Stern
+      dob:
+        y: 1968
+        m: 5
+        d: 12

@@ -19,3 +19,15 @@ artistData:
         y: 1990
         m: 8
         d: 22
+    - artistNames:
+      - Jono Ma
+      dob:
+        y: 1990
+        m: 8
+        d: 22
+    - artistNames:
+      - Michael Macias
+      dob:
+        y: 1993
+        m: 5
+        d: 15

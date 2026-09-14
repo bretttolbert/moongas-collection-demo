@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Pluto
+      dob:
+        y: 1995
+        m: 6
+        d: 15
     - artistNames:
       - YK Niece
+      dob:
+        y: 1996
+        m: 3
+        d: 22

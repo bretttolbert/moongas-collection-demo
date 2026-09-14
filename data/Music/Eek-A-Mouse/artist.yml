@@ -13,3 +13,8 @@ artistData:
         y: 1957
         m: 11
         d: 19
+    - artistNames:
+      - Eek-A-Mouse's Band
+      artistRoles:
+      - backing vocals
+      - instruments

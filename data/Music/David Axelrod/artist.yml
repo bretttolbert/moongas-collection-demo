@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - David Axelrod
+      dob:
+        y: 1931
+        m: 2
+        d: 15

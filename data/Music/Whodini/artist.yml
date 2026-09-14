@@ -29,3 +29,9 @@ artistData:
         y: 1964
         m: 2
         d: 18
+    - artistNames:
+      - DJ Davy DMX
+      dob:
+        y: 1964
+        m: 5
+        d: 1

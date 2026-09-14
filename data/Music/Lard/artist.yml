@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jello Biafra
+      dob:
+        y: 1958
+        m: 6
+        d: 17
+    - artistNames:
+      - Paul Leary
+      dob:
+        y: 1963
+        m: 3
+        d: 17
+    - artistNames:
+      - Jeff Pinkus
+      dob:
+        y: 1965
+        m: 4
+        d: 12
+    - artistNames:
+      - Brian Beattie
+      dob:
+        y: 1964
+        m: 7
+        d: 22

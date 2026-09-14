@@ -60,3 +60,20 @@ artistData:
         d: 11
       artistRoles:
       - guitar
+    - artistNames:
+      - Jon Dette
+      dob:
+        y: 1970
+        m: 4
+        d: 12
+      artistRoles:
+      - drums
+    - artistNames:
+      - Mike Patton
+      dob:
+        y: 1968
+        m: 1
+        d: 27
+      artistRoles:
+      - vocals
+      - guitar

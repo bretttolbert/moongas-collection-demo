@@ -41,3 +41,33 @@ artistData:
         y: 1948
         m: 5
         d: 26
+    - artistNames:
+      - Bob Welch
+      dob:
+        y: 1946
+        m: 11
+        d: 31
+      dod:
+        y: 2012
+        m: 6
+        d: 7
+    - artistNames:
+      - Peter Green
+      dob:
+        y: 1946
+        m: 10
+        d: 29
+      dod:
+        y: 2020
+        m: 7
+        d: 25
+    - artistNames:
+      - Danny Kirwan
+      dob:
+        y: 1950
+        m: 5
+        d: 13
+      dod:
+        y: 2018
+        m: 6
+        d: 8

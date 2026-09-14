@@ -17,5 +17,13 @@ artistData:
       - Kieran Adams
     - artistNames:
       - Sam Oppenheim
+      dob:
+        y: 1996
+        m: 3
+        d: 12
     - artistNames:
       - Jaden Oppenheim
+      dob:
+        y: 1994
+        m: 8
+        d: 22

@@ -25,3 +25,9 @@ artistData:
         y: 1978
         m: 4
         d: 15
+    - artistNames:
+      - Dan Eldon
+      dob:
+        y: 1976
+        m: 10
+        d: 15

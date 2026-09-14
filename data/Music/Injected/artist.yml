@@ -31,3 +31,9 @@ artistData:
         y: 1974
         m: 11
         d: 30
+    - artistNames:
+      - Michael "M" McCarty
+      dob:
+        y: 1978
+        m: 2
+        d: 14

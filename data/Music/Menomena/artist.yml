@@ -31,3 +31,9 @@ artistData:
         y: 1978
         m: 7
         d: 18
+    - artistNames:
+      - Michael D. Johnson
+      dob:
+        y: 1980
+        m: 4
+        d: 10

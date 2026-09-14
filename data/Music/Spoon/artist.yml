@@ -31,3 +31,9 @@ artistData:
         y: 1985
         m: 1
         d: 1
+    - artistNames:
+      - Gerardo Larios
+      dob:
+        y: 1985
+        m: 6
+        d: 24

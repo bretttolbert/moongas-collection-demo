@@ -18,3 +18,7 @@ artistData:
       artistRoles:
       - backing vocals
       - instruments
+      dob:
+        y: 1950
+        m: 6
+        d: 15

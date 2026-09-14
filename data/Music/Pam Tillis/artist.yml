@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Pam Tillis
+  dob:
+    y: 1957
+    m: 7
+    d: 24
   city: Plant City
   countryCode: US
   languageCodes:

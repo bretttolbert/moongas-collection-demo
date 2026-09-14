@@ -75,3 +75,25 @@ artistData:
         y: 1948
         m: 12
         d: 28
+    - artistNames:
+      - Charles "Chubby" Tavares
+      dob:
+        y: 1944
+        m: 5
+        d: 1
+    - artistNames:
+      - Eddie Holman
+      dob:
+        y: 1946
+        m: 10
+        d: 3
+    - artistNames:
+      - Melvin Franklin
+      dob:
+        y: 1942
+        m: 10
+        d: 13
+      dod:
+        y: 1995
+        m: 2
+        d: 23

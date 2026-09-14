@@ -31,3 +31,9 @@ artistData:
         y: 1968
         m: 7
         d: 2
+    - artistNames:
+      - Edgar "Eddie" Sanchéz
+      dob:
+        y: 1970
+        m: 4
+        d: 22

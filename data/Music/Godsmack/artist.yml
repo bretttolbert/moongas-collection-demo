@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Sully Erna
+      dob:
+        y: 1977
+        m: 2
+        d: 7
+    - artistNames:
+      - Tony Rombola
+      dob:
+        y: 1974
+        m: 10
+        d: 24
+    - artistNames:
+      - Robbie Merrill
+      dob:
+        y: 1971
+        m: 1
+        d: 24
+    - artistNames:
+      - Shannon Larkin
+      dob:
+        y: 1968
+        m: 4
+        d: 24

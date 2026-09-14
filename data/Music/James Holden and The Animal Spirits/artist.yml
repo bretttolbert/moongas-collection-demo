@@ -13,3 +13,11 @@ artistData:
         y: 1980
         m: 10
         d: 7
+    - artistNames:
+      - Tom Edwards
+    - artistNames:
+      - Anna Caragnano
+    - artistNames:
+      - Lottie Holden
+    - artistNames:
+      - Sam Dungate

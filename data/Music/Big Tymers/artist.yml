@@ -19,3 +19,9 @@ artistData:
         y: 1969
         m: 2
         d: 15
+    - artistNames:
+      - Lil Wayne
+      dob:
+        y: 1982
+        m: 9
+        d: 27

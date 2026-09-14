@@ -50,3 +50,12 @@ artistData:
         d: 31
       artistRoles:
       - drums
+    - artistNames:
+      - James Dewees
+      dob:
+        y: 1979
+        m: 2
+        d: 15
+      artistRoles:
+      - keyboards
+      - backing vocals

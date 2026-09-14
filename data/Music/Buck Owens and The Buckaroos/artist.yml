@@ -39,6 +39,8 @@ artistData:
         d: 13
     - artistNames:
       - Willie Cantu
+      dob:
+        y: 1939
     - artistNames:
       - Tom Brumley
       dob:
@@ -51,13 +53,31 @@ artistData:
         d: 18
     - artistNames:
       - Jim Shaw
+      dob:
+        y: 1934
     - artistNames:
       - Donnie Rich
+      dob:
+        y: 1964
     - artistNames:
       - Jerry Wiggins
+      dob:
+        y: 1938
     - artistNames:
       - Billy Mize
+      dob:
+        y: 1929
     - artistNames:
       - Roy Clark
+      dob:
+        y: 1933
+      dod:
+        y: 2018
+      m: 11
+      d: 15
     - artistNames:
       - Susan Raye
+      dob:
+        y: 1944
+        m: 1
+        d: 8

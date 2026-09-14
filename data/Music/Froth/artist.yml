@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Nick Ventura
+      dob:
+        y: 1990
+        m: 5
+        d: 15
+    - artistNames:
+      - Cameron Allen
+      dob:
+        y: 1991
+        m: 8
+        d: 22
+    - artistNames:
+      - Tashaki Miyaki
+      dob:
+        y: 1992
+        m: 3
+        d: 10
+    - artistNames:
+      - Max Kuehn
+      dob:
+        y: 1990
+        m: 11
+        d: 30

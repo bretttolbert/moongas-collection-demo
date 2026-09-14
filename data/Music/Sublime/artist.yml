@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Bradley Nowell
+      dob:
+        y: 1968
+        m: 2
+        d: 22
+      dod:
+        y: 1996
+        m: 5
+        d: 25
+    - artistNames:
+      - Eric Wilson
+    - artistNames:
+      - Bud Gaugh

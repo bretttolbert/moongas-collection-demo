@@ -37,3 +37,9 @@ artistData:
         y: 1969
         m: 6
         d: 4
+    - artistNames:
+      - Mike D'Antonio
+      dob:
+        y: 1970
+        m: 2
+        d: 22

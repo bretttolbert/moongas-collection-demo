@@ -23,3 +23,9 @@ artistData:
         y: 1954
         m: 2
         d: 18
+      city: Englewood
+      countryCode: US
+      languageCodes:
+      - en
+      regionCode: US-NJ
+      members: []

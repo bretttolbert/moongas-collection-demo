@@ -13,3 +13,8 @@ artistData:
         y: 1994
         m: 11
         d: 24
+      artistRoles:
+      - vocals
+      - guitar
+      - producer
+      - songwriter

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Charles Wright
+      dob:
+        y: 1940
+        m: 2
+        d: 24
+    - artistNames:
+      - Melvin "Wah Wah" Watson
+    - artistNames:
+      - Al "The Funky Drummer" McKay
+    - artistNames:
+      - Joe "The Hawk" Harris
+    - artistNames:
+      - John "J.J." Johnson
+    - artistNames:
+      - John "Bobby" McCoy
+    - artistNames:
+      - Charles "Chas" Wright

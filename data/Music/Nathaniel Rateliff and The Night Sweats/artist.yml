@@ -15,13 +15,37 @@ artistData:
         d: 7
     - artistNames:
       - Joseph Pope III
+      dob:
+        y: 1980
+        m: 1
+        d: 1
     - artistNames:
       - Luke Mossman
+      dob:
+        y: 1985
+        m: 4
+        d: 15
     - artistNames:
       - Andrew Hozier-Byrne
+      dob:
+        y: 1990
+        m: 3
+        d: 17
     - artistNames:
       - Patrick Meese
+      dob:
+        y: 1983
+        m: 6
+        d: 10
     - artistNames:
       - Jessy Greene
+      dob:
+        y: 1980
+        m: 2
+        d: 14
     - artistNames:
       - Mark Shusterman
+      dob:
+        y: 1982
+        m: 5
+        d: 20

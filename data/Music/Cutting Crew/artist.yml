@@ -25,7 +25,19 @@ artistData:
         d: 31
     - artistNames:
       - Colin Farley
+      dob:
+        y: 1964
+        m: 10
+        d: 8
     - artistNames:
       - Martin Beedle
+      dob:
+        y: 1964
+        m: 5
+        d: 22
     - artistNames:
       - David E. Williams
+      dob:
+        y: 1961
+        m: 4
+        d: 17

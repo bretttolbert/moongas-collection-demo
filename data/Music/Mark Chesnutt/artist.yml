@@ -13,3 +13,39 @@ artistData:
         y: 1970
         m: 9
         d: 6
+    - artistNames:
+      - Keith Gattis
+      dob:
+        y: 1970
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Mike Johnson
+      dob:
+        y: 1969
+      artistRoles:
+      - bass
+    - artistNames:
+      - John Wesley Ryles
+      dob:
+        y: 1948
+      artistRoles:
+      - vocals
+    - artistNames:
+      - John Anderson
+      dob:
+        y: 1954
+      artistRoles:
+      - vocals
+    - artistNames:
+      - John Rich
+      dob:
+        y: 1974
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Randy Travis
+      dob:
+        y: 1959
+      artistRoles:
+      - vocals

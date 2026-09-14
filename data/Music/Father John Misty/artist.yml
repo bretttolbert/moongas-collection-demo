@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MD
-  members: []
+  members:
+    - artistNames:
+      - Josh Tillman
+      dob:
+        y: 1981
+        m: 5
+        d: 3

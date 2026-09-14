@@ -31,3 +31,15 @@ artistData:
         y: 1982
         m: 3
         d: 24
+    - artistNames:
+      - Andrew Wade
+      dob:
+        y: 1982
+        m: 3
+        d: 24
+    - artistNames:
+      - Chris Chaney
+      dob:
+        y: 1972
+        m: 11
+        d: 14

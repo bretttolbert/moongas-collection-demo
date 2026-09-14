@@ -25,3 +25,15 @@ artistData:
         y: 1948
         m: 1
         d: 1
+    - artistNames:
+      - Ken Boothe
+      dob:
+        y: 1948
+        m: 3
+        d: 22
+    - artistNames:
+      - Horace Andy
+      dob:
+        y: 1952
+        m: 2
+        d: 19

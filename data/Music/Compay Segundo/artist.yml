@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - es
   regionCode: CU-13
-  members: []
+  members:
+    - artistNames:
+      - Máximo Francisco Repilado Muñoz
+      dob:
+        y: 1907
+        m: 11
+        d: 18
+      dod:
+        y: 2003
+        m: 7
+        d: 14

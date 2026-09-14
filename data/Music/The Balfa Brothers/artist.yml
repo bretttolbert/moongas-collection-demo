@@ -43,3 +43,12 @@ artistData:
       artistRoles:
       - bass
       - vocals
+    - artistNames:
+      - L. J. Balfa
+      dob:
+        y: 1941
+        m: 8
+        d: 15
+      artistRoles:
+      - drums
+      - vocals

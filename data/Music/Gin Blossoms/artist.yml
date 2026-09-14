@@ -37,3 +37,13 @@ artistData:
         y: 1966
         m: 4
         d: 14
+    - artistNames:
+      - Doug Hopkins
+      dob:
+        y: 1967
+        m: 2
+        d: 12
+      dod:
+        y: 1993
+        m: 12
+        d: 5

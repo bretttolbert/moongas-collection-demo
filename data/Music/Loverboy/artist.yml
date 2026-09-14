@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-AB
-  members: []
+  members:
+    - artistNames:
+      - Mike Reno
+      dob:
+        y: 1961
+        m: 1
+        d: 8
+    - artistNames:
+      - Paul Dean
+      dob:
+        y: 1956
+        m: 11
+        d: 27
+    - artistNames:
+      - Doug Johnson
+      dob:
+        y: 1956
+        m: 6
+        d: 22
+    - artistNames:
+      - Scott Smith
+      dob:
+        y: 1950
+        m: 9
+        d: 27
+      dod:
+        y: 2000
+        m: 11
+        d: 30
+    - artistNames:
+      - Matt Frenette
+      dob:
+        y: 1954
+        m: 6
+        d: 5

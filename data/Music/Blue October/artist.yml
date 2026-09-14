@@ -37,3 +37,9 @@ artistData:
         y: 1976
         m: 10
         d: 22
+    - artistNames:
+      - Michael D. Daugherty
+      dob:
+        y: 1980
+        m: 6
+        d: 15

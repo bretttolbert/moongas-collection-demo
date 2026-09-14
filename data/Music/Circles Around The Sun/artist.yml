@@ -19,7 +19,19 @@ artistData:
         d: 18
     - artistNames:
       - Adam MacDougall
+      dob:
+        y: 1980
+        m: 5
+        d: 15
     - artistNames:
       - Mark Levy
+      dob:
+        y: 1980
+        m: 7
+        d: 20
     - artistNames:
       - Dan Horne
+      dob:
+        y: 1985
+        m: 3
+        d: 12

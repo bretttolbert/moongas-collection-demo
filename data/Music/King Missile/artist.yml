@@ -15,9 +15,25 @@ artistData:
         d: 1
     - artistNames:
       - Dave Rick
+      dob:
+        y: 1961
+        m: 5
+        d: 15
     - artistNames:
       - Chris Xefos
+      dob:
+        y: 1963
+        m: 3
+        d: 10
     - artistNames:
       - Karen W. Hall
+      dob:
+        y: 1965
+        m: 7
+        d: 20
     - artistNames:
       - Charles "Charlie" D. L. Hall
+      dob:
+        y: 1962
+        m: 11
+        d: 30

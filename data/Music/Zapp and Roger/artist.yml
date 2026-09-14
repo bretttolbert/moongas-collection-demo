@@ -51,3 +51,9 @@ artistData:
         y: 1978
         m: 5
         d: 15
+    - artistNames:
+      - Shirley Troutman
+      dob:
+        y: 1956
+        m: 8
+        d: 12

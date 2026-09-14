@@ -25,3 +25,9 @@ artistData:
         y: 1991
         m: 4
         d: 15
+    - artistNames:
+      - Tom Renaud
+      dob:
+        y: 1988
+        m: 1
+        d: 1

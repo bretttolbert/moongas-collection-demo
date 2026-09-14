@@ -31,3 +31,19 @@ artistData:
         y: 1980
         m: 4
         d: 30
+    - artistNames:
+      - David "Chalo" Quintana
+      dob:
+        y: 1966
+        m: 10
+        d: 1
+    - artistNames:
+      - Dennis Danell
+      dob:
+        y: 1961
+        m: 8
+        d: 9
+      dod:
+        y: 2000
+        m: 2
+        d: 29

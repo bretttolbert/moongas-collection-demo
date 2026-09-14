@@ -17,6 +17,10 @@ artistData:
       - Vince de la Cruz
     - artistNames:
       - Kimberly Rew
+      dob:
+        y: 1961
+        m: 11
+        d: 4
     - artistNames:
       - Alex Cooper
       dob:

@@ -4,6 +4,16 @@ artistData:
   city: 'Paris'
   countryCode: FR
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Dave Blume
+    - artistNames:
+      - Ron Haffkine
+    - artistNames:
+      - Ralph C. Carney
+    - artistNames:
+      - David "Davy" Johnstone
+    - artistNames:
+      - John Hall
   languageCodes:
   - en

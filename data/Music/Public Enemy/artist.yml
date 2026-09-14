@@ -39,11 +39,25 @@ artistData:
         d: 1
     - artistNames:
       - Khari Wynn
+      dob:
+        y: 1980
+        m: 1
+        d: 1
     - artistNames:
       - Jahi
+      dob:
+        y: 1971
+        m: 1
+        d: 1
     - artistNames:
       - S1W
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - Chuck D's son
+    - artistNames:
       - DJ Chuckie
+    - artistNames:
       - DJ Lord

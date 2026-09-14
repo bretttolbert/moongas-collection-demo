@@ -31,3 +31,9 @@ artistData:
         y: 1965
         m: 10
         d: 12
+    - artistNames:
+      - John McCready
+      dob:
+        y: 1965
+        m: 7
+        d: 20

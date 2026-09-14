@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Kurtis Blow
+      dob:
+        y: 1959
+        m: 8
+        d: 9
+      artistRoles:
+      - vocals
+      - rapper

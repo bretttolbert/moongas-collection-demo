@@ -55,3 +55,9 @@ artistData:
         y: 1962
         m: 8
         d: 12
+    - artistNames:
+      - J. T. Taylor
+      dob:
+        y: 1953
+        m: 8
+        d: 16

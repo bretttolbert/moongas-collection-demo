@@ -6,4 +6,80 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Gregg Allman
+      dob:
+        y: 1947
+        m: 12
+        d: 8
+      dod:
+        y: 2017
+        m: 5
+        d: 27
+    - artistNames:
+      - Duane Allman
+      dob:
+        y: 1946
+        m: 11
+        d: 20
+      dod:
+        y: 1971
+        m: 10
+        d: 29
+    - artistNames:
+      - Dickey Betts
+      dob:
+        y: 1943
+        m: 12
+        d: 12
+    - artistNames:
+      - Berry Oakley
+      dob:
+        y: 1948
+        m: 4
+        d: 4
+      dod:
+        y: 1972
+        m: 11
+        d: 11
+    - artistNames:
+      - Butch Trucks
+      dob:
+        y: 1947
+        m: 5
+        d: 11
+      dod:
+        y: 2017
+        m: 1
+        d: 24
+    - artistNames:
+      - Jaimoe
+      dob:
+        y: 1951
+        m: 7
+        d: 8
+    - artistNames:
+      - Oteil Burbridge
+      dob:
+        y: 1967
+        m: 8
+        d: 12
+    - artistNames:
+      - Marc Quinones
+      dob:
+        y: 1967
+        m: 12
+        d: 15
+    - artistNames:
+      - Derek Trucks
+      dob:
+        y: 1979
+        m: 6
+        d: 8
+    - artistNames:
+      - Warren Haynes
+      dob:
+        y: 1960
+        m: 4
+        d: 6

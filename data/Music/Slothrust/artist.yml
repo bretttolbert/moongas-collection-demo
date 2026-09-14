@@ -25,3 +25,9 @@ artistData:
         y: 1990
         m: 9
         d: 20
+    - artistNames:
+      - John O'Reilly
+      dob:
+        y: 1991
+        m: 2
+        d: 14

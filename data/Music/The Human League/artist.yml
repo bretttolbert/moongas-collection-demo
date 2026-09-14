@@ -49,3 +49,15 @@ artistData:
         y: 1958
         m: 10
         d: 23
+    - artistNames:
+      - Adrian Wright
+      dob:
+        y: 1960
+        m: 5
+        d: 17
+    - artistNames:
+      - David Beevers
+      dob:
+        y: 1963
+        m: 1
+        d: 1

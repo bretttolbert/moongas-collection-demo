@@ -48,3 +48,12 @@ artistData:
         d: 5
       artistRoles:
       - keyboards
+    - artistNames:
+      - David "Dave" D. Brown
+      dob:
+        y: 1971
+        m: 3
+        d: 15
+      artistRoles:
+      - backing vocals
+      - guitar

@@ -17,6 +17,10 @@ artistData:
       - B.o.B
       - Bobby Ray Simmons Jr.
       - Bobby Ray
+      dob:
+        y: 1988
+        m: 11
+        d: 15
       artistRoles:
       - rapper
       - singer

@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jacoby Shaddix
+      dob:
+        y: 1976
+        m: 7
+        d: 28
+      artistRoles:
+      - lead vocals
+    - artistNames:
+      - Jerry Horton
+      dob:
+        y: 1976
+        m: 3
+        d: 10
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Tobin Esperance
+      dob:
+        y: 1978
+        m: 11
+        d: 11
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Tony Palermo
+      dob:
+        y: 1982
+        m: 4
+        d: 30
+      artistRoles:
+      - drums

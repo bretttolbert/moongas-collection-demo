@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-NLE
-  members: []
+  members:
+    - artistNames:
+      - Enrique "Kico" Arreola
+    - artistNames:
+      - Miguel "Micky" Arreola
+    - artistNames:
+      - José "Choche" Luis
+    - artistNames:
+      - Fernando "Fher" Arreola
+    - artistNames:
+      - Javier "Javi" Arreola

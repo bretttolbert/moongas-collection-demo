@@ -31,3 +31,15 @@ artistData:
         y: 1968
         m: 1
         d: 28
+    - artistNames:
+      - Latin Thug
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Young De
+      dob:
+        y: 1988
+        m: 1
+        d: 1

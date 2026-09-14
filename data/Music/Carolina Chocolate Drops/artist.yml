@@ -31,3 +31,15 @@ artistData:
         y: 1985
         m: 10
         d: 3
+    - artistNames:
+      - Joe Newberry
+      dob:
+        y: 1965
+        m: 5
+        d: 1
+    - artistNames:
+      - Hubby Jenkins
+      dob:
+        y: 1985
+        m: 9
+        d: 1

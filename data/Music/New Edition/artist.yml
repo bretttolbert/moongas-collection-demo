@@ -43,3 +43,27 @@ artistData:
         y: 1968
         m: 5
         d: 8
+    - artistNames:
+      - Jaden Smith
+      dob:
+        y: 1998
+        m: 7
+        d: 8
+    - artistNames:
+      - Keshia Knight Pulliam
+      dob:
+        y: 1979
+        m: 4
+        d: 9
+    - artistNames:
+      - Tisha Campbell
+      dob:
+        y: 1969
+        m: 10
+        d: 13
+    - artistNames:
+      - Angela Bassett
+      dob:
+        y: 1958
+        m: 8
+        d: 16

@@ -13,3 +13,9 @@ artistData:
         y: 1980
         m: 5
         d: 15
+    - artistNames:
+      - Chris "Cancerslug" C.
+    - artistNames:
+      - Mike "Cancerslug" D.
+    - artistNames:
+      - John "Cancerslug" S.

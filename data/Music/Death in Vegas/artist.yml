@@ -43,3 +43,15 @@ artistData:
         y: 1984
         m: 5
         d: 1
+    - artistNames:
+      - Jehnny Beth
+      dob:
+        y: 1984
+        m: 4
+        d: 24
+    - artistNames:
+      - Brian Eno
+      dob:
+        y: 1948
+        m: 5
+        d: 15

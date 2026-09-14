@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-64
-  members: []
+  members:
+    - artistNames:
+      - Marlon Magnée
+    - artistNames:
+      - Sacha Got
+    - artistNames:
+      - Sam Lefebvre
+    - artistNames:
+      - Noé Delmas
+    - artistNames:
+      - Clémence Quélen
+    - artistNames:
+      - Alice Dufour

@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - de
   regionCode: DE-BY
-  members: []
+  members:
+    - artistNames:
+      - Richard Strauss
+      dob:
+        y: 1864
+        m: 6
+        d: 11
+      dod:
+        y: 1949
+        m: 9
+        d: 8

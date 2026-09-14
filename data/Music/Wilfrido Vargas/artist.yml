@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: DO-18
-  members: []
+  members:
+    - artistNames:
+      - Wilfrido Vargas
+      dob:
+        y: 1949
+        m: 4
+        d: 24

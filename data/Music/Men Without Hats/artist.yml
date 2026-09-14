@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-QC
-  members: []
+  members:
+    - artistNames:
+      - Ivan Doroschuk
+      dob:
+        y: 1961
+        m: 11
+        d: 28
+    - artistNames:
+      - Stefan Doroschuk
+      dob:
+        y: 1963
+        m: 5
+        d: 22
+    - artistNames:
+      - Colin Doroschuk
+      dob:
+        y: 1965
+        m: 3
+        d: 15
+    - artistNames:
+      - Louise Reny
+      dob:
+        y: 1965
+        m: 7
+        d: 30
+    - artistNames:
+      - David Houghton
+      dob:
+        y: 1960
+        m: 8
+        d: 12

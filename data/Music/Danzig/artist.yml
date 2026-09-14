@@ -13,3 +13,21 @@ artistData:
         y: 1955
         m: 6
         d: 23
+    - artistNames:
+      - John Christ
+      dob:
+        y: 1969
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Eerie Von
+      dob:
+        y: 1964
+      artistRoles:
+      - bass
+    - artistNames:
+      - Chuck Biscuits
+      dob:
+        y: 1963
+      artistRoles:
+      - drums

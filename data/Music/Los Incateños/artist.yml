@@ -1,9 +1,9 @@
 artistData:
   artistNames:
   - Los Incateños
-  city: ''
+  city: Buenos Aires
   countryCode: AR
   languageCodes:
   - es
-  regionCode: ''
+  regionCode: AR-C
   members: []

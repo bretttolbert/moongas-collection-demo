@@ -37,3 +37,9 @@ artistData:
         y: 1954
         m: 9
         d: 10
+    - artistNames:
+      - Gerald "Gerry" McGhee
+      dob:
+        y: 1955
+        m: 12
+        d: 25

@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 4
         d: 4
+    - artistNames:
+      - Jonny Phillips
+      dob:
+        y: 1971
+        m: 5
+        d: 1

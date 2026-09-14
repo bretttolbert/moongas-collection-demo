@@ -47,3 +47,25 @@ artistData:
         y: 2018
         m: 6
         d: 6
+    - artistNames:
+      - Frank Watkins
+      dob:
+        y: 1968
+        m: 4
+        d: 21
+      dod:
+        y: 2020
+        m: 11
+        d: 18
+    - artistNames:
+      - Kyle Severn
+      dob:
+        y: 1970
+        m: 10
+        d: 15
+    - artistNames:
+      - Adam Dutkiewicz
+      dob:
+        y: 1980
+        m: 1
+        d: 1

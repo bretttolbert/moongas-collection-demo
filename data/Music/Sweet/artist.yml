@@ -13,6 +13,10 @@ artistData:
         y: 1945
         m: 10
         d: 5
+      dod:
+        y: 1997
+        m: 4
+        d: 10
     - artistNames:
       - Steve Priest
       dob:

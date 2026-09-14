@@ -37,3 +37,9 @@ artistData:
         y: 1984
         m: 4
         d: 20
+    - artistNames:
+      - Dan H. 
+      dob:
+        y: 1984
+        m: 11
+        d: 5

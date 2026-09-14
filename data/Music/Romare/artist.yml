@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Romare
+      dob:
+        y: 1989
+        m: 1
+        d: 1

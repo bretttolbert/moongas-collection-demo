@@ -35,3 +35,11 @@ artistData:
       - Fernando Mendoza
       artistRoles:
       - guitar
+    - artistNames:
+      - Miguel Mendoza
+      artistRoles:
+      - accordion
+    - artistNames:
+      - Ricardo Mendoza
+      artistRoles:
+      - percussion

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WMD
-  members: []
+  members:
+    - artistNames:
+      - Roland Gift
+      dob:
+        y: 1961
+        m: 5
+        d: 28
+    - artistNames:
+      - David Steele
+      dob:
+        y: 1961
+        m: 4
+        d: 9
+    - artistNames:
+      - Andy Cox
+      dob:
+        y: 1961
+        m: 12
+        d: 1

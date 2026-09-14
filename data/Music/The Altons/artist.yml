@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Alton G. McDonald
+      dob:
+        y: 1990
+        m: 6
+        d: 15
+    - artistNames:
+      - Alton J. Smith
+      dob:
+        y: 1992
+        m: 4
+        d: 20
+    - artistNames:
+      - Alton R. Johnson
+      dob:
+        y: 1988
+        m: 11
+        d: 5
+    - artistNames:
+      - Alton K. Brown
+      dob:
+        y: 1991
+        m: 3
+        d: 30

@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Juan Atkins
+      dob:
+        y: 1962
+        m: 12
+        d: 12
+      artistRoles:
+      - synthesizer
+      - vocals
+    - artistNames:
+      - Rick Davis
+      artistRoles:
+      - synthesizer
+      - drum machine

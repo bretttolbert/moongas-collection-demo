@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: BE-VLG
-  members: []
+  members:
+    - artistNames:
+      - Wouter De Backer
+      dob:
+        y: 1980
+        m: 5
+        d: 21

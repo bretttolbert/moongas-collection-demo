@@ -43,6 +43,10 @@ artistData:
       - bass guitar
       - backing vocals
       - harmonica
+      dob:
+        y: 1963
+        m: 7
+        d: 2
     - artistNames:
       - Michael Steele
       artistRoles:

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Chris Corner
+      dob:
+        y: 1970
+        m: 11
+        d: 23
+    - artistNames:
+      - Kelli Ali
+      dob:
+        y: 1974
+        m: 4
+        d: 29
+    - artistNames:
+      - Ian Pickering
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - David Westlake
+      dob:
+        y: 1970
+        m: 5
+        d: 15
+    - artistNames:
+      - James Lavelle
+      dob:
+        y: 1971
+        m: 1
+        d: 1

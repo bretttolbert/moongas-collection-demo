@@ -37,3 +37,9 @@ artistData:
         y: 1953
         m: 11
         d: 11
+    - artistNames:
+      - José Luis "Che" Reyes
+      dob:
+        y: 1954
+        m: 3
+        d: 5

@@ -37,3 +37,15 @@ artistData:
         y: 1975
         m: 4
         d: 10
+    - artistNames:
+      - Adam Lazzara
+      dob:
+        y: 1981
+        m: 9
+        d: 22
+    - artistNames:
+      - John Nolan
+      dob:
+        y: 1978
+        m: 5
+        d: 24

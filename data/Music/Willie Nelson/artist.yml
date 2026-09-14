@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Willie Nelson
+  dob:
+    y: 1933
+    m: 4
+    d: 29
   city: Abbott
   countryCode: US
   languageCodes:

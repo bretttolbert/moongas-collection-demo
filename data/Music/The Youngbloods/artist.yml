@@ -35,3 +35,13 @@ artistData:
         y: 1945
         m: 1
         d: 1
+    - artistNames:
+      - David "Banana" O'Connor
+      dob:
+        y: 1942
+        m: 11
+        d: 5
+      dod:
+        y: 2021
+        m: 8
+        d: 19

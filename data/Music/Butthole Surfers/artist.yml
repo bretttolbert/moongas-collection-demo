@@ -37,3 +37,9 @@ artistData:
         y: 1965
         m: 4
         d: 10
+    - artistNames:
+      - Shannon Selberg
+      dob:
+        y: 1966
+        m: 7
+        d: 22

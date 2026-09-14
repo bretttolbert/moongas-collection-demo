@@ -25,6 +25,10 @@ artistData:
         d: 9
     - artistNames:
       - King Geedorah
+      dob:
+        y: 1971
+        m: 1
+        d: 9
     - artistNames:
       - Zev Love X
       dob:

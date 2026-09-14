@@ -49,3 +49,27 @@ artistData:
         y: 1971
         m: 8
         d: 18
+    - artistNames:
+      - Luciano Rojas
+      dob:
+        y: 1970
+        m: 5
+        d: 14
+    - artistNames:
+      - Andrés Bobe
+      dob:
+        y: 1971
+        m: 5
+        d: 24
+    - artistNames:
+      - Zeta Bosio
+      dob:
+        y: 1962
+        m: 12
+        d: 21
+    - artistNames:
+      - Fernando Lamas
+      dob:
+        y: 1971
+        m: 8
+        d: 18

@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - DJ Kemit
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - DJ Spinna
+      dob:
+        y: 1974
+        m: 4
+        d: 15
+    - artistNames:
+      - J. Dilla
+      dob:
+        y: 1974
+        m: 2
+        d: 7
+      dod:
+        y: 2006
+        m: 2
+        d: 10
+    - artistNames:
+      - Questlove
+      dob:
+        y: 1971
+        m: 1
+        d: 20
+    - artistNames:
+      - Talib Kweli
+      dob:
+        y: 1975
+        m: 10
+        d: 3

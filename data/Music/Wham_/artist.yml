@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-HRT
-  members: []
+  members:
+    - artistNames:
+      - George Michael
+      dob:
+        y: 1963
+        m: 6
+        d: 25
+      dod:
+        y: 2016
+        m: 12
+        d: 25
+    - artistNames:
+      - Andrew Ridgeley
+      dob:
+        y: 1963
+        m: 1
+        d: 26

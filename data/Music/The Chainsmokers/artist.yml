@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Andrew Taggart
+      dob:
+        y: 1989
+        m: 12
+        d: 31
+    - artistNames:
+      - Alex Pall
+      dob:
+        y: 1985
+        m: 5
+        d: 16

@@ -19,6 +19,10 @@ artistData:
         y: 1967
         m: 9
         d: 30
+      dod:
+        y: 1995
+        m: 10
+        d: 21
     - artistNames:
       - Shannon Elizabeth
       dob:

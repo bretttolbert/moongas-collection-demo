@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Jim Hall
+      dob:
+        y: 1930
+        m: 12
+        d: 4
+      dod:
+        y: 2013
+        m: 12
+        d: 10

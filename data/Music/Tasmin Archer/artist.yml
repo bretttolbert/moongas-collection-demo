@@ -13,3 +13,19 @@ artistData:
         y: 1969
         m: 8
         d: 3
+    - artistNames:
+      - Paul Statham
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Ian Caple
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - John McGowan
+      artistRoles:
+      - bass
+    - artistNames:
+      - Mark Brzezicki
+      artistRoles:
+      - drums

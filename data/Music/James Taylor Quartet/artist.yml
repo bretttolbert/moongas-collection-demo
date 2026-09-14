@@ -21,3 +21,7 @@ artistData:
       - Chris Allen
     - artistNames:
       - Paul McKenzie
+      dob:
+        y: 1970
+        m: 5
+        d: 15

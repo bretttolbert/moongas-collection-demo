@@ -49,3 +49,9 @@ artistData:
         y: 1984
         m: 8
         d: 30
+    - artistNames:
+      - A. J. Haynes
+      dob:
+        y: 1987
+        m: 11
+        d: 18

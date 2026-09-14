@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 7
         d: 16
+    - artistNames:
+      - Kevin "D" Thornton
+      dob:
+        y: 1971
+        m: 6
+        d: 21

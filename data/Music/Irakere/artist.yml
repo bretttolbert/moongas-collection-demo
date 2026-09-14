@@ -35,5 +35,13 @@ artistData:
       - Manuel "Guajiro" Mirabal
     - artistNames:
       - Silvio Rodríguez
+      dob:
+        y: 1949
+        m: 11
+        d: 29
     - artistNames:
       - Pablo Milanés
+      dob:
+        y: 1943
+        m: 2
+        d: 24

@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - Joseph Nathan "King" Oliver
+      dob:
+        y: 1885
+        m: 12
+        d: 19
+      dod:
+        y: 1938
+        m: 4
+        d: 8

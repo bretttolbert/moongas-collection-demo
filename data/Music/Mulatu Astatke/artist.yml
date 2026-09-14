@@ -13,3 +13,27 @@ artistData:
         y: 1927
         m: 4
         d: 19
+    - artistNames:
+      - Getatchew Mekuria
+      dob:
+        y: 1929
+        m: 1
+        d: 1
+    - artistNames:
+      - Hailu Mergia
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+    - artistNames:
+      - Ayalew Mesfin
+      dob:
+        y: 1941
+        m: 1
+        d: 1
+    - artistNames:
+      - Mahmoud Ahmed
+      dob:
+        y: 1941
+        m: 5
+        d: 8

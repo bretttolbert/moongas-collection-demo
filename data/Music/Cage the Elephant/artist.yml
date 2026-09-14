@@ -37,3 +37,9 @@ artistData:
         y: 1990
         m: 10
         d: 14
+    - artistNames:
+      - Nick Bockrath
+      dob:
+        y: 1990
+        m: 7
+        d: 1

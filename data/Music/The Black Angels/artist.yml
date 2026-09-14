@@ -37,3 +37,9 @@ artistData:
         y: 1982
         m: 4
         d: 10
+    - artistNames:
+      - Sam Phelps
+      dob:
+        y: 1984
+        m: 8
+        d: 18

@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Hashim
+      dob:
+        y: 1969
+        m: 1
+        d: 1
+      artistRoles:
+      - producer
+      - musician

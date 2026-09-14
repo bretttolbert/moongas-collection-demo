@@ -33,3 +33,9 @@ artistData:
         y: 1967
         m: 4
         d: 18
+    - artistNames:
+      - Pete Garner
+      dob:
+        y: 1965
+        m: 6
+        d: 15

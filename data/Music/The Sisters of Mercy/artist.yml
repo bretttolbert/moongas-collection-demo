@@ -30,3 +30,12 @@ artistData:
       artistRoles:
       - drums
       - programming
+    - artistNames:
+      - Patricia Morrison
+      dob:
+        y: 1962
+        m: 2
+        d: 15
+      artistRoles:
+      - bass
+      - backing vocals

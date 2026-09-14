@@ -20,6 +20,10 @@ artistData:
         y: 1957
         m: 7
         d: 18
+      dod:
+        y: 2023
+        m: 11
+        d: 11
     - artistNames:
       - Jah Wobble
       dob:

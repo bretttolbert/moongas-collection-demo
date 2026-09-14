@@ -19,3 +19,7 @@ artistData:
         y: 1940
         m: 4
         d: 26
+      artistRoles:
+      - producer
+      - composer
+      - electronic music pioneer

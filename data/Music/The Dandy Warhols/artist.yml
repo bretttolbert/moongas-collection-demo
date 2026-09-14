@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OR
-  members: []
+  members:
+    - artistNames:
+      - Courtney Taylor-Taylor
+      dob:
+        y: 1969
+        m: 7
+        d: 18
+    - artistNames:
+      - Peter Holmström
+      dob:
+        y: 1971
+        m: 1
+        d: 31
+    - artistNames:
+      - Zia McCabe
+      dob:
+        y: 1973
+        m: 11
+        d: 2
+    - artistNames:
+      - Brent DeBoer
+      dob:
+        y: 1973
+        m: 11
+        d: 6

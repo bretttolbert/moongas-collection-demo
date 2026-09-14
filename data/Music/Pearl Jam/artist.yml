@@ -59,3 +59,19 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Dave Abbruzzese
+      dob:
+        y: 1968
+        m: 5
+        d: 17
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jack Irons
+      dob:
+        y: 1962
+        m: 7
+        d: 18
+      artistRoles:
+      - drums

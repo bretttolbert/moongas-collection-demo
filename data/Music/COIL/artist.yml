@@ -45,3 +45,9 @@ artistData:
         y: 1968
         m: 5
         d: 1
+    - artistNames:
+      - Danny Hyde
+      dob:
+        y: 1964
+        m: 7
+        d: 15

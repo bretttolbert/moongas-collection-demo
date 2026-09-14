@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Billy Bragg
+      dob:
+        y: 1957
+        m: 12
+        d: 20

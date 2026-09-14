@@ -42,3 +42,15 @@ artistData:
         y: 2022
         m: 10
         d: 28
+    - artistNames:
+      - Bruce Loose
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Skip Greer
+      dob:
+        y: 1961
+        m: 3
+        d: 15

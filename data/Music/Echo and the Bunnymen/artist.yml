@@ -61,3 +61,19 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Liz McLarnon
+      dob:
+        y: 1979
+        m: 12
+        d: 15
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - John McNally
+      dob:
+        y: 1970
+        m: 6
+        d: 20
+      artistRoles:
+      - percussion

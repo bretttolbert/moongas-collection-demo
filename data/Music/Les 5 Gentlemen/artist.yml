@@ -37,3 +37,9 @@ artistData:
         y: 1948
         m: 2
         d: 8
+    - artistNames:
+      - Jean-Pierre Ménard
+      dob:
+        y: 1949
+        m: 6
+        d: 25

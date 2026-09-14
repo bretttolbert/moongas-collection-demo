@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Erik Francis Schrody
+      dob:
+        y: 1969
+        m: 8
+        d: 18

@@ -31,3 +31,23 @@ artistData:
         y: 1967
         m: 11
         d: 2
+    - artistNames:
+      - Darius Rucker
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Mark Bryan
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Dean Felber
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Jim Sonefeld
+      artistRoles:
+      - drums
+      - backing vocals

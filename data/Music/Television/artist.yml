@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Tom Verlaine
+      dob:
+        y: 1949
+        m: 12
+        d: 13
+    - artistNames:
+      - Richard Lloyd
+      dob:
+        y: 1946
+        m: 10
+        d: 25
+    - artistNames:
+      - Fred Smith
+      dob:
+        y: 1948
+        m: 2
+        d: 17
+    - artistNames:
+      - Billy Ficca
+      dob:
+        y: 1950
+        m: 5
+        d: 15

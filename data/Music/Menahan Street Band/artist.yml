@@ -43,3 +43,15 @@ artistData:
         y: 1982
         m: 10
         d: 1
+    - artistNames:
+      - Michael "Mike" McGinnis
+      dob:
+        y: 1982
+        m: 6
+        d: 1
+    - artistNames:
+      - Eric "Duke" Boulanger
+      dob:
+        y: 1981
+        m: 4
+        d: 1

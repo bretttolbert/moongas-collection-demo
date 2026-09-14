@@ -6,4 +6,29 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Jim Heath
+      dob:
+        y: 1961
+        m: 11
+        d: 2
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Jimbo Wallace
+      dob:
+        y: 1964
+        m: 3
+        d: 12
+      artistRoles:
+      - bass
+    - artistNames:
+      - Scott Churilla
+      dob:
+        y: 1970
+        m: 6
+        d: 15
+      artistRoles:
+      - drums

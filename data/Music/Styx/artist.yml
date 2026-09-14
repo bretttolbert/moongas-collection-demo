@@ -59,3 +59,9 @@ artistData:
         y: 1955
         m: 2
         d: 13
+    - artistNames:
+      - Dennis DeYoung
+      dob:
+        y: 1947
+        m: 2
+        d: 18

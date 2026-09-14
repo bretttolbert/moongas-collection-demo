@@ -21,3 +21,15 @@ artistData:
         y: 1991
         m: 6
         d: 22
+    - artistNames:
+      - Alice Glass
+      dod:
+        y: 2014
+        m: 10
+        d: 24
+    - artistNames:
+      - Ethan Kath
+      dob:
+        y: 1982
+        m: 1
+        d: 1

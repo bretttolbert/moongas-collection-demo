@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - Sam Shepherd
+      dob:
+        y: 1986
+        m: 11
+        d: 6

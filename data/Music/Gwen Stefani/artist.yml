@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Gwen Stefani
+  dob:
+    y: 1969
+    m: 10
+    d: 3
   city: Fullerton
   countryCode: US
   languageCodes:

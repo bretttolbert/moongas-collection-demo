@@ -23,3 +23,9 @@ artistData:
         y: 1966
         m: 6
         d: 22
+    - artistNames:
+      - DJ Frank T
+      dob:
+        y: 1970
+        m: 1
+        d: 1

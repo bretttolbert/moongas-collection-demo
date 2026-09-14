@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - John McCrea
+      dob:
+        y: 1969
+        m: 6
+        d: 13
+    - artistNames:
+      - Vince DiFiore
+      dob:
+        y: 1968
+        m: 4
+        d: 24
+    - artistNames:
+      - Gabe Nelson
+      dob:
+        y: 1970
+        m: 7
+        d: 10
+    - artistNames:
+      - Todd Roper
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Xan McCrea
+      dob:
+        y: 1971
+        m: 3
+        d: 15

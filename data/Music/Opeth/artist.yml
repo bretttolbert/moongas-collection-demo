@@ -48,3 +48,28 @@ artistData:
         d: 19
       artistRoles:
       - keyboards
+    - artistNames:
+      - Per Wiberg
+      dob:
+        y: 1974
+        m: 3
+        d: 5
+      artistRoles:
+      - keyboards
+      - backing vocals
+    - artistNames:
+      - Åsa Jinder
+      dob:
+        y: 1972
+        m: 1
+        d: 1
+      artistRoles:
+      - violin
+    - artistNames:
+      - Linda Åkerfeldt
+      dob:
+        y: 1976
+        m: 8
+        d: 10
+      artistRoles:
+      - backing vocals

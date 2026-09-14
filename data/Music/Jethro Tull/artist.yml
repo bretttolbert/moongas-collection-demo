@@ -48,3 +48,36 @@ artistData:
         d: 10
       artistRoles:
       - drums
+    - artistNames:
+      - Dave Pegg
+      dob:
+        y: 1947
+        m: 11
+        d: 2
+      artistRoles:
+      - bass
+    - artistNames:
+      - Martin Allcock
+      dob:
+        y: 1951
+        m: 12
+        d: 5
+      artistRoles:
+      - keyboards
+      - guitar
+    - artistNames:
+      - Ian Carr
+      dob:
+        y: 1949
+        m: 4
+        d: 1
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - Gerry Conway
+      dob:
+        y: 1947
+        m: 7
+        d: 14
+      artistRoles:
+      - drums

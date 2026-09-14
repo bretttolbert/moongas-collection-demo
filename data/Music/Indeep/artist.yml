@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Reggie Griffin
+    - artistNames:
+      - Michael Cleveland
+    - artistNames:
+      - Darlene Davis
+    - artistNames:
+      - Tasha Thomas

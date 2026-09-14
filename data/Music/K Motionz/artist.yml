@@ -7,3 +7,7 @@ artistData:
   - en
   regionCode: GB-WMD
   members: []
+  dob: 
+    y: 1995
+    m: 6
+    d: 15

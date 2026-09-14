@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - R. Castillo
+      dob:
+        y: 1985
+        m: 6
+        d: 15

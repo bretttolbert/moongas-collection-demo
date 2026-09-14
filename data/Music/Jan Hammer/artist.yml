@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CZ-10
-  members: []
+  members:
+    - artistNames:
+      - Jan Hammer
+      dob:
+        y: 1948
+        m: 4
+        d: 17

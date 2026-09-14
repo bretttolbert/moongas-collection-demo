@@ -13,3 +13,10 @@ artistData:
         y: 1986
         m: 5
         d: 23
+    - artistNames:
+      - Com Truise
+      artistRoles:
+      - producer
+      - electronic music artist
+      - synthesizer
+      - sound designer

@@ -13,3 +13,36 @@ artistData:
         y: 1974
         m: 5
         d: 27
+    - artistNames:
+      - Trina
+      dob:
+        y: 1978
+        m: 12
+        d: 3
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Rick Ross
+      dob:
+        y: 1976
+        m: 1
+        d: 28
+      artistRoles:
+      - vocals
+    - artistNames:
+      - CeeLo Green
+      dob:
+        y: 1974
+        m: 5
+        d: 30
+      artistRoles:
+      - vocals
+    - artistNames:
+      - DJ Khaled
+      dob:
+        y: 1975
+        m: 11
+        d: 26
+      artistRoles:
+      - producer
+      - vocals

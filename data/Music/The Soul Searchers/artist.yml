@@ -45,3 +45,33 @@ artistData:
         y: 1984
         m: 9
         d: 21
+    - artistNames:
+      - Chrisette Michele
+      dob:
+        y: 1982
+        m: 12
+        d: 8
+    - artistNames:
+      - Fat Trel
+      dob:
+        y: 1990
+        m: 11
+        d: 26
+    - artistNames:
+      - GoldLink
+      dob:
+        y: 1993
+        m: 5
+        d: 18
+    - artistNames:
+      - Logic
+      dob:
+        y: 1990
+        m: 1
+        d: 22
+    - artistNames:
+      - Shy Glizzy
+      dob:
+        y: 1992
+        m: 5
+        d: 12

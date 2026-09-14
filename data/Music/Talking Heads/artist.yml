@@ -31,3 +31,13 @@ artistData:
         y: 1949
         m: 2
         d: 21
+    - artistNames:
+      - Bernie Worrell
+      dob:
+        y: 1944
+        m: 4
+        d: 19
+      dod:
+        y: 2016
+        m: 6
+        d: 24

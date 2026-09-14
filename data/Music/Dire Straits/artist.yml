@@ -55,3 +55,15 @@ artistData:
         y: 1949
         m: 3
         d: 7
+    - artistNames:
+      - Mickey Simmonds
+      dob:
+        y: 1950
+        m: 1
+        d: 1
+    - artistNames:
+      - Paul Franklin
+      dob:
+        y: 1960
+        m: 12
+        d: 18

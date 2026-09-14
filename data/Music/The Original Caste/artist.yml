@@ -37,3 +37,15 @@ artistData:
         y: 1946
         m: 1
         d: 1
+    - artistNames:
+      - Bruce Allen
+      dob:
+        y: 1946
+        m: 9
+        d: 15
+    - artistNames:
+      - Don McCaw
+      dob:
+        y: 1948
+        m: 4
+        d: 12

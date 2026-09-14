@@ -24,3 +24,9 @@ artistData:
         y: 1956
         m: 8
         d: 2
+      city: Sevilla
+      countryCode: ES
+      languageCodes:
+      - es
+      regionCode: ES-AN
+      members: []

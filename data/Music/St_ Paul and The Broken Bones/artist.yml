@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Paul Janeway
+      dob:
+        y: 1989
+        m: 1
+        d: 16
+    - artistNames:
+      - Jesse Phillips
+      dob:
+        y: 1988
+        m: 4
+        d: 24
+    - artistNames:
+      - Al Gamble
+    - artistNames:
+      - Browan Lollar
+    - artistNames:
+      - Andrew Lee
+    - artistNames:
+      - Chad Fisher
+    - artistNames:
+      - Marlon Patton

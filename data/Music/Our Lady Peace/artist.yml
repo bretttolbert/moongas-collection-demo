@@ -43,3 +43,9 @@ artistData:
         y: 1970
         m: 10
         d: 1
+    - artistNames:
+      - Jason "J" McCoy
+      dob:
+        y: 1971
+        m: 3
+        d: 15

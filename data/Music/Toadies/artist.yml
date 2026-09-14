@@ -36,3 +36,12 @@ artistData:
       - Darrel Herbert
       artistRoles:
       - guitar
+    - artistNames:
+      - Chris Wyse
+      dob:
+        y: 1970
+        m: 11
+        d: 24
+      artistRoles:
+      - bass
+      - backing vocals

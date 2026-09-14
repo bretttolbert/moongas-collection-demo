@@ -19,3 +19,44 @@ artistData:
         y: 1953
         m: 10
         d: 5
+    - artistNames:
+      - Earle Mankey
+      dob:
+        y: 1953
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+      - keyboards
+    - artistNames:
+      - Jim Mankey
+      dob:
+        y: 1953
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Anna Waronker
+      dob:
+        y: 1969
+        m: 9
+        d: 30
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Steve McDonald
+      dob:
+        y: 1960
+        m: 12
+        d: 14
+      artistRoles:
+      - bass
+    - artistNames:
+      - Dinky Dawson
+      dob:
+        y: 1945
+        m: 6
+        d: 1
+      artistRoles:
+      - sound engineer

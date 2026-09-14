@@ -15,5 +15,13 @@ artistData:
         d: 18
     - artistNames:
       - Sean Redman
+      dob:
+        y: 1996
+        m: 5
+        d: 15
     - artistNames:
       - Tabor Allen
+      dob:
+        y: 1996
+        m: 3
+        d: 10

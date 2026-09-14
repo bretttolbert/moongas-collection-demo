@@ -6,4 +6,42 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - James Murphy
+      dob:
+        y: 1980
+        m: 2
+        d: 4
+    - artistNames:
+      - Nancy Whang
+    - artistNames:
+      - Pat Mahoney
+    - artistNames:
+      - Tyler Pope
+    - artistNames:
+      - Al Doyle
+    - artistNames:
+      - Gavin Russom
+    - artistNames:
+      - David Scott Stone
+    - artistNames:
+      - Matt Thornley
+    - artistNames:
+      - Korey Richey
+    - artistNames:
+      - Mark Pisapia
+    - artistNames:
+      - Nancy Whang
+    - artistNames:
+      - Tyler Pope
+    - artistNames:
+      - Al Doyle
+    - artistNames:
+      - Gavin Russom
+    - artistNames:
+      - David Scott Stone
+    - artistNames:
+      - Matt Thornley
+    - artistNames:
+      - Korey Richey

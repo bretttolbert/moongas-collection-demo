@@ -31,6 +31,10 @@ artistData:
         y: 1964
         m: 1
         d: 1
+      dod:
+        y: 2010
+        m: 1
+        d: 10
     - artistNames:
       - Pierre Sangra
       dob:

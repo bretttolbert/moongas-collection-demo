@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Lisa Loeb
+      dob:
+        y: 1968
+        m: 3
+        d: 11
+    - artistNames:
+      - Chad Gilbert
+    - artistNames:
+      - Jonathan Feinberg
+    - artistNames:
+      - Rick Lassiter
+    - artistNames:
+      - David D. M. Lichtenstein

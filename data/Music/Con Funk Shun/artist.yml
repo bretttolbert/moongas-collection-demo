@@ -38,12 +38,6 @@ artistData:
         m: 12
         d: 12
     - artistNames:
-      - John "J.J." Johnson
-      dob:
-        y: 1954
-        m: 12
-        d: 12
-    - artistNames:
       - J. D. Hall
       dob:
         y: 1955

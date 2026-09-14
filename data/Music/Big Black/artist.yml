@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Steve Albini
+      dob:
+        y: 1962
+        m: 7
+        d: 22
+    - artistNames:
+      - Santiago Durango
+      dob:
+        y: 1961
+        m: 10
+        d: 15
+    - artistNames:
+      - Jeff Pezzati
+      dob:
+        y: 1961
+        m: 8
+        d: 19
+    - artistNames:
+      - Roland
+      artistRoles:
+      - drums

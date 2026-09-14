@@ -31,3 +31,13 @@ artistData:
         y: 1976
         m: 5
         d: 21
+    - artistNames:
+      - Philippe Zdar
+      dob:
+        y: 1970
+        m: 11
+        d: 24
+      dod:
+        y: 2020
+        m: 6
+        d: 19

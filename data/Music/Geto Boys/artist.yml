@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Bushwick Bill
+      dob:
+        y: 1966
+        m: 11
+        d: 4
+      dod:
+        y: 2019
+        m: 6
+        d: 9
+    - artistNames:
+      - Scarface
+      dob:
+        y: 1970
+        m: 11
+        d: 9
+    - artistNames:
+      - Willie D
+      dob:
+        y: 1969
+        m: 11
+        d: 1

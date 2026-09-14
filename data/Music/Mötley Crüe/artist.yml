@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Vince Neil
+      dob:
+        y: 1961
+        m: 2
+        d: 8
+    - artistNames:
+      - Mick Mars
+      dob:
+        y: 1951
+        m: 5
+        d: 4
+    - artistNames:
+      - Nikki Sixx
+      dob:
+        y: 1958
+        m: 12
+        d: 10
+    - artistNames:
+      - Tommy Lee
+      dob:
+        y: 1962
+        m: 10
+        d: 3

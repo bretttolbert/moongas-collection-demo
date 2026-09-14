@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Patrick Earl Houston
+      dob:
+        y: 1973
+        m: 3
+        d: 8

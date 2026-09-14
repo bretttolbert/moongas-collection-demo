@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Ed Sheeran
+  dob:
+    y: 1991
+    m: 2
+    d: 17
   city: Halifax
   countryCode: GB
   languageCodes:

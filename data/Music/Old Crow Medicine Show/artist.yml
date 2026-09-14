@@ -55,3 +55,15 @@ artistData:
         y: 1954
         m: 3
         d: 16
+    - artistNames:
+      - Gillian Welch
+      dob:
+        y: 1971
+        m: 10
+        d: 2
+    - artistNames:
+      - David Rawlings
+      dob:
+        y: 1976
+        m: 5
+        d: 31

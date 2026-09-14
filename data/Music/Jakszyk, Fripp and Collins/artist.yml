@@ -25,3 +25,15 @@ artistData:
         y: 1947
         m: 1
         d: 5
+    - artistNames:
+      - Tony Levin
+      dob:
+        y: 1946
+        m: 6
+        d: 6
+    - artistNames:
+      - Gavin Harrison
+      dob:
+        y: 1963
+        m: 4
+        d: 28

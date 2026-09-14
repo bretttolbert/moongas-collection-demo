@@ -13,3 +13,11 @@ artistData:
         y: 1989
         m: 1
         d: 1
+    - artistNames:
+      - Nathan Goodman
+    - artistNames:
+      - Jeff Haley
+    - artistNames:
+      - Kevin Knight
+    - artistNames:
+      - Alex B. Smith

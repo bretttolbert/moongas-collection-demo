@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-EDH
-  members: []
+  members:
+    - artistNames:
+      - R. M. K. (Ricky)
+    - artistNames:
+      - D. M. (Davy)
+    - artistNames:
+      - D. M. (Duncan)
+    - artistNames:
+      - A. M. (Ally)
+    - artistNames:
+      - J. M. (Jock)

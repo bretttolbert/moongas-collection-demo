@@ -13,3 +13,19 @@ artistData:
         y: 1997
         m: 5
         d: 10
+      artistRoles:
+      - vocals
+      - guitar
+      - producer
+    - artistNames:
+      - Additional Member 1
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Additional Member 2
+      artistRoles:
+      - bass
+    - artistNames:
+      - Additional Member 3
+      artistRoles:
+      - drums

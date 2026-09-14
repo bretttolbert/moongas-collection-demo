@@ -23,3 +23,15 @@ artistData:
         y: 2020
         m: 2
         d: 24
+    - artistNames:
+      - Keith Mitchell
+      dob:
+        y: 1961
+        m: 1
+        d: 1
+    - artistNames:
+      - Suki Ewers
+      dob:
+        y: 1970
+        m: 5
+        d: 15

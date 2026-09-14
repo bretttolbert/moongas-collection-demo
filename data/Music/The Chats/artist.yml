@@ -25,3 +25,9 @@ artistData:
         y: 1995
         m: 8
         d: 20
+    - artistNames:
+      - Karl M. McCarthy
+      dob:
+        y: 1995
+        m: 11
+        d: 15

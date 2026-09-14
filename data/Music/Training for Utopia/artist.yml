@@ -31,3 +31,27 @@ artistData:
         y: 1975
         m: 1
         d: 30
+    - artistNames:
+      - John "J.D." McCauley
+      dob:
+        y: 1975
+        m: 1
+        d: 30
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Chad "Chadster" Johnson
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Bruce Fitzhugh
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Greg Minier
+      artistRoles:
+      - drums
+      - backing vocals

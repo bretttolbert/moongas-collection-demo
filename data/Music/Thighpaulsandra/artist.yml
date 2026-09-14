@@ -21,7 +21,19 @@ artistData:
         d: 21
     - artistNames:
       - Richard Formby
+      dob:
+        y: 1965
+        m: 1
+        d: 1
     - artistNames:
       - John Paul Jones
+      dob:
+        y: 1946
+        m: 1
+        d: 3
     - artistNames:
       - Chris Haskett
+      dob:
+        y: 1965
+        m: 4
+        d: 1

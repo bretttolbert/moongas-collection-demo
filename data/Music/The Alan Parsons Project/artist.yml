@@ -79,3 +79,59 @@ artistData:
         y: 1951
         m: 4
         d: 15
+    - artistNames:
+      - Ian Bairnson
+      dob:
+        y: 1953
+        m: 6
+        d: 3
+    - artistNames:
+      - Stuart Elliott
+      dob:
+        y: 1951
+        m: 2
+        d: 21
+    - artistNames:
+      - David Paton
+      dob:
+        y: 1956
+        m: 10
+        d: 29
+    - artistNames:
+      - Chris Rainbow
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+      dod:
+        y: 2015
+        m: 11
+        d: 25
+    - artistNames:
+      - Lenny Zakatek
+      dob:
+        y: 1949
+        m: 1
+        d: 1
+    - artistNames:
+      - Andrew Powell
+      dob:
+        y: 1949
+        m: 6
+        d: 3
+    - artistNames:
+      - John Miles
+      dob:
+        y: 1949
+        m: 4
+        d: 23
+      dod:
+        y: 2021
+        m: 12
+        d: 11
+    - artistNames:
+      - David Pack
+      dob:
+        y: 1951
+        m: 4
+        d: 15

@@ -50,3 +50,19 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Mike "Mikey" Malinin
+      dob:
+        y: 1970
+        m: 8
+        d: 10
+      artistRoles:
+      - drums
+    - artistNames:
+      - Greg Eklund
+      dob:
+        y: 1970
+        m: 10
+        d: 3
+      artistRoles:
+      - drums

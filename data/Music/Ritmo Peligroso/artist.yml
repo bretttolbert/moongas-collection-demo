@@ -31,3 +31,15 @@ artistData:
         y: 1972
         m: 11
         d: 30
+    - artistNames:
+      - Luis "El Chino" Pérez
+      dob:
+        y: 1975
+        m: 6
+        d: 15
+    - artistNames:
+      - Fernando "El Gato" Ruiz
+      dob:
+        y: 1978
+        m: 9
+        d: 20

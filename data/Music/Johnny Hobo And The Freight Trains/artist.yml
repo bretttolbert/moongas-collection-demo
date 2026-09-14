@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VT
-  members: []
+  members:
+    - artistNames:
+      - Noah "Johnny Hobo" Fisher
+      dob:
+        y: 1985
+        m: 6
+        d: 15
+    - artistNames:
+      - Various members
+      artistRoles:
+      - vocals
+      - guitar
+      - drums
+      - bass
+      - keyboards

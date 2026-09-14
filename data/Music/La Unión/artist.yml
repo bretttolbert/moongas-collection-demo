@@ -31,3 +31,9 @@ artistData:
         y: 1964
         m: 7
         d: 12
+    - artistNames:
+      - José Luis Fernández
+      dob:
+        y: 1965
+        m: 9
+        d: 3

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Gordon Lightfoot
+  dob:
+    y: 1938
+    m: 11
+    d: 17
   city: Orillia
   countryCode: CA
   languageCodes:

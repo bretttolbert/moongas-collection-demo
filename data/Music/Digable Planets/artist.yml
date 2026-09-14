@@ -6,4 +6,31 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Ishmael Butler
+      dob:
+        y: 1970
+        m: 10
+        d: 24
+      artistRoles:
+      - vocals
+      - producer
+    - artistNames:
+      - Craig Irving
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+      - producer
+    - artistNames:
+      - Ladybug Mecca
+      dob:
+        y: 1972
+        m: 6
+        d: 23
+      artistRoles:
+      - vocals
+      - lyrics

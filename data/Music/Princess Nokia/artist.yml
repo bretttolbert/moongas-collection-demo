@@ -13,3 +13,9 @@ artistData:
         y: 1992
         m: 6
         d: 20
+    - artistNames:
+      - Destiny Frasqueri
+      artistRoles:
+      - vocals
+      - songwriter
+      - producer

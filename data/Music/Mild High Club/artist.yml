@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Alexander Brettin
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Matt Muir
+    - artistNames:
+      - Ross Rothermel
+    - artistNames:
+      - Sam Wilkes
+    - artistNames:
+      - Sam Gendel

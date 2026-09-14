@@ -13,3 +13,9 @@ artistData:
         y: 1986
         m: 11
         d: 15
+    - artistNames:
+      - Billy Doss
+    - artistNames:
+      - Jeff Gitelman
+    - artistNames:
+      - Daniel Doss

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Francisco Javier Bautista
+      dob:
+        y: 1975
+        m: 12
+        d: 7

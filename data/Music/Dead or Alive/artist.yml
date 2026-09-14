@@ -41,3 +41,10 @@ artistData:
         y: 1961
       artistRoles:
       - guitar
+    - artistNames:
+      - David Ball
+      dob:
+        y: 1961
+      artistRoles:
+      - keyboards
+      - programming

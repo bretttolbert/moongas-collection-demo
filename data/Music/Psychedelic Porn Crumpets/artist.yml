@@ -37,3 +37,9 @@ artistData:
         y: 1992
         m: 9
         d: 30
+    - artistNames:
+      - James Hurst
+      dob:
+        y: 1993
+        m: 6
+        d: 12

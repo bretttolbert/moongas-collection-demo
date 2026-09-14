@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 4
         d: 1
+    - artistNames:
+      - Eric "The Kid" McNair
+      dob:
+        y: 1971
+        m: 3
+        d: 15

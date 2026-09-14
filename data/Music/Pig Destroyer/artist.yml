@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 10
         d: 14
+    - artistNames:
+      - Mike McKenzie
+      dob:
+        y: 1979
+        m: 5
+        d: 25

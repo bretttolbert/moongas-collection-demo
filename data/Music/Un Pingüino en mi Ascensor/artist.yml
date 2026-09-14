@@ -31,3 +31,9 @@ artistData:
         y: 1973
         m: 11
         d: 5
+    - artistNames:
+      - José Luis Ramos
+      dob:
+        y: 1975
+        m: 2
+        d: 28

@@ -37,3 +37,9 @@ artistData:
         y: 1982
         m: 11
         d: 22
+    - artistNames:
+      - Chris "Bubba" McCarty
+      dob:
+        y: 1984
+        m: 8
+        d: 23

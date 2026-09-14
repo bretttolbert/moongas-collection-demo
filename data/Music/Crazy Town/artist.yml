@@ -41,3 +41,13 @@ artistData:
         y: 2009
         m: 8
         d: 28
+    - artistNames:
+      - Adam Goldstein
+      dob:
+        y: 1973
+        m: 3
+        d: 30
+      dod:
+        y: 2009
+        m: 8
+        d: 28

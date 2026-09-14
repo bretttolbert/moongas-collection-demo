@@ -13,3 +13,7 @@ artistData:
         y: 1996
         m: 5
         d: 10
+      artistRoles:
+      - producer
+      - musician
+      - composer

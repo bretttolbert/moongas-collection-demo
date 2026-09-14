@@ -41,3 +41,12 @@ artistData:
         d: 8
       artistRoles:
       - drums
+    - artistNames:
+      - Ed Graham
+      dob:
+        y: 1980
+        m: 11
+        d: 14
+      artistRoles:
+      - drums
+      - backing vocals

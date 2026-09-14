@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Slick Rick
+  dob:
+    y: 1969
+    m: 1
+    d: 14
   city: London
   countryCode: GB
   languageCodes:

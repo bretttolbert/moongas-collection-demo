@@ -37,3 +37,15 @@ artistData:
         y: 1972
         m: 8
         d: 5
+    - artistNames:
+      - Carlton Bost
+      dob:
+        y: 1970
+        m: 12
+        d: 31
+    - artistNames:
+      - Michael "Mikey" D. 
+      dob:
+        y: 1973
+        m: 5
+        d: 15

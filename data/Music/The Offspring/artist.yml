@@ -43,3 +43,11 @@ artistData:
         y: 2023
         m: 5
         d: 1
+    - artistNames:
+      - Josh Freese
+      dob:
+        y: 1972
+        m: 12
+        d: 25
+      artistRoles:
+      - drums

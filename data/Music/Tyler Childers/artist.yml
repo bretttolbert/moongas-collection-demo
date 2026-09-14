@@ -13,3 +13,11 @@ artistData:
         y: 1991
         m: 6
         d: 21
+    - artistNames:
+      - Jesse Wells
+    - artistNames:
+      - James Barker
+    - artistNames:
+      - David McGraw
+    - artistNames:
+      - Adam Chaffins

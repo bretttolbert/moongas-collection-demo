@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Lee Ving
+      dob:
+        y: 1961
+        m: 4
+        d: 10
+    - artistNames:
+      - Philo Cramer
+    - artistNames:
+      - Burt Good
+    - artistNames:
+      - Spit Stix
+    - artistNames:
+      - Chris R. 
+    - artistNames:
+      - John Doe
+    - artistNames:
+      - Ed D. 
+    - artistNames:
+      - John "J" 
+    - artistNames:
+      - "D. Boon"

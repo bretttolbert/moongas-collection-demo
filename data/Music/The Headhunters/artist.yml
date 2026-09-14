@@ -55,3 +55,15 @@ artistData:
         y: 1954
         m: 10
         d: 29
+    - artistNames:
+      - Leon "Ndugu" Chancler
+      dob:
+        y: 1952
+        m: 6
+        d: 1
+    - artistNames:
+      - Wah Wah Watson
+      dob:
+        y: 1943
+        m: 2
+        d: 7

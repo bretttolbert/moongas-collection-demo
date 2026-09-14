@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - John Scofield
+      dob:
+        y: 1951
+        m: 12
+        d: 26

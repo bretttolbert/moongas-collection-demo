@@ -29,3 +29,8 @@ artistData:
       artistRoles:
       - guitar
       - keyboards
+    - artistNames:
+      - T. K.
+      artistRoles:
+      - percussion
+      - backing vocals

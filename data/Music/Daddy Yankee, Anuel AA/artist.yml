@@ -1,9 +1,22 @@
 artistData:
   artistNames:
-  - Daddy Yankee, Anuel AA
+  - Daddy Yankee
+  - Anuel AA
   city: San Juan
   countryCode: PR
   languageCodes:
   - es
-  regionCode: US-PR
-  members: []
+  regionCode: PR-001
+  members:
+    - artistNames:
+      - Daddy Yankee
+      dob:
+        y: 1976
+        m: 2
+        d: 3
+    - artistNames:
+      - Anuel AA
+      dob:
+        y: 1992
+        m: 11
+        d: 26

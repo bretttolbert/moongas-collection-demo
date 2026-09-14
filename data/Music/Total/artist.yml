@@ -35,3 +35,9 @@ artistData:
         y: 1971
         m: 12
         d: 15
+    - artistNames:
+      - Tasha Scott
+      dob:
+        y: 1971
+        m: 12
+        d: 15

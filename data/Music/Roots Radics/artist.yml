@@ -37,3 +37,21 @@ artistData:
         y: 1965
         m: 8
         d: 25
+    - artistNames:
+      - Michael "Mikey" Chung
+      dob:
+        y: 1958
+        m: 11
+        d: 1
+    - artistNames:
+      - Carlton "Carly" Barrett
+      dob:
+        y: 1950
+        m: 12
+        d: 17
+    - artistNames:
+      - Sly Dunbar
+      dob:
+        y: 1956
+        m: 5
+        d: 10

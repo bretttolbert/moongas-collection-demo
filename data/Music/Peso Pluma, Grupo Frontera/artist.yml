@@ -6,4 +6,33 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-JAL
-  members: []
+  members:
+    - artistNames:
+      - Peso Pluma
+      dob:
+        y: 1999
+        m: 6
+        d: 15
+    - artistNames:
+      - Grupo Frontera
+      members:
+        - artistNames:
+          - Edgar Barrera
+        - artistNames:
+          - Javier Solis
+        - artistNames:
+          - Luis R. Conriquez
+        - artistNames:
+          - Christian Nodal
+        - artistNames:
+          - Jhonny Caz
+        - artistNames:
+          - Jesse Huerta
+        - artistNames:
+          - Gera MX
+        - artistNames:
+          - Natanael Cano
+        - artistNames:
+          - Junior H
+        - artistNames:
+          - Fuerza Regida

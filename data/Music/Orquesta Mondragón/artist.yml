@@ -6,4 +6,53 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-SS
-  members: []
+  members:
+    - artistNames:
+      - Javier Gurruchaga
+      dob:
+        y: 1958
+        m: 3
+        d: 1
+    - artistNames:
+      - José Antonio Ramos
+    - artistNames:
+      - Juan Carlos Ramos
+    - artistNames:
+      - Fernando Aramburu
+    - artistNames:
+      - José Luis Armenteros
+    - artistNames:
+      - Javier Gurruchaga
+      artistRoles:
+      - vocals
+      - keyboards
+    - artistNames:
+      - Iñaki Uranga
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - José Antonio Ramos
+      artistRoles:
+      - bass
+    - artistNames:
+      - Juan Carlos Ramos
+      artistRoles:
+      - drums
+    - artistNames:
+      - Fernando Aramburu
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - José Luis Armenteros
+      artistRoles:
+      - saxophone
+    - artistNames:
+      - Iñaki Uranga
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Javier Gurruchaga
+      artistRoles:
+      - vocals
+      - keyboards

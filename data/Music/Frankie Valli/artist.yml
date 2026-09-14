@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Frankie Valli
+  dob:
+    y: 1934
+    m: 5
+    d: 3
   city: Newark
   countryCode: US
   languageCodes:

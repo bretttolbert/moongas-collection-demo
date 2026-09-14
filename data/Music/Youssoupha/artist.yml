@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - fr
   regionCode: CD-KN
-  members: []
+  members:
+    - artistNames:
+      - Youssoupha
+      dob:
+        y: 1979
+        m: 8
+        d: 29
+      artistRoles:
+      - vocals
+      - songwriting

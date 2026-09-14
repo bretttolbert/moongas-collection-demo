@@ -31,3 +31,9 @@ artistData:
         y: 1974
         m: 5
         d: 14
+    - artistNames:
+      - John K. Samson
+      dob:
+        y: 1974
+        m: 4
+        d: 7

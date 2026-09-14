@@ -39,3 +39,7 @@ artistData:
         d: 18
     - artistNames:
       - Michael "Mikey" D.
+      dob:
+        y: 1981
+        m: 3
+        d: 22

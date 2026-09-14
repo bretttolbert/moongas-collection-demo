@@ -37,3 +37,9 @@ artistData:
         y: 1983
         m: 4
         d: 7
+    - artistNames:
+      - David Lichtenstein
+      dob:
+        y: 1984
+        m: 6
+        d: 15

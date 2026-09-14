@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Bootie Brown
+      dob:
+        y: 1972
+        m: 6
+        d: 2
+    - artistNames:
+      - Fatlip
+      dob:
+        y: 1974
+        m: 3
+        d: 8
+    - artistNames:
+      - Slimkid3
+      dob:
+        y: 1970
+        m: 5
+        d: 19
+    - artistNames:
+      - Imani
+      dob:
+        y: 1971
+        m: 4
+        d: 29

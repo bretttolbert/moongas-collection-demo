@@ -33,3 +33,15 @@ artistData:
         y: 1971
         m: 1
         d: 1
+    - artistNames:
+      - Jens Gad
+      dob:
+        y: 1966
+        m: 5
+        d: 7
+    - artistNames:
+      - Lira
+      dob:
+        y: 1970
+        m: 7
+        d: 1

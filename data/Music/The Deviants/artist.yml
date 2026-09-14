@@ -13,6 +13,10 @@ artistData:
         y: 1943
         m: 10
         d: 3
+      dod:
+        y: 2013
+        m: 4
+        d: 29
     - artistNames:
       - Andy Colquhoun
       dob:

@@ -13,3 +13,40 @@ artistData:
         y: 1950
         m: 2
         d: 13
+    - artistNames:
+      - Tony Levin
+      dob:
+        y: 1946
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - David Rhodes
+      dob:
+        y: 1956
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Manu Katché
+      dob:
+        y: 1958
+      artistRoles:
+      - drums
+    - artistNames:
+      - Richard Wright
+      dob:
+        y: 1943
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Jerry Marotta
+      dob:
+        y: 1953
+      artistRoles:
+      - drums
+    - artistNames:
+      - Kate Bush
+      dob:
+        y: 1958
+      artistRoles:
+      - vocals

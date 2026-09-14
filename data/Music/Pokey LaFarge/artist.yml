@@ -13,3 +13,36 @@ artistData:
         y: 1983
         m: 6
         d: 26
+    - artistNames:
+      - Ryan Koenig
+      dob:
+        y: 1980
+      artistRoles:
+      - harmonica
+      - vocals
+    - artistNames:
+      - Chloe Feoranzo
+      dob:
+        y: 1993
+      artistRoles:
+      - clarinet
+      - saxophone
+      - vocals
+    - artistNames:
+      - Adam Hoskins
+      dob:
+        y: 1985
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Joey Glynn
+      dob:
+        y: 1980
+      artistRoles:
+      - bass
+    - artistNames:
+      - Matt Meyer
+      dob:
+        y: 1985
+      artistRoles:
+      - drums

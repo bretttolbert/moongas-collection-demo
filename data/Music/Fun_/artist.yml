@@ -36,3 +36,12 @@ artistData:
       - guitar
       - backing vocals
       - keyboards
+    - artistNames:
+      - Nate Ruess
+      dod:
+        y: 2023
+        m: 10
+        d: 15
+      artistRoles:
+      - vocals
+      - guitar

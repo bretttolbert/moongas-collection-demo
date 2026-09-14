@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Dan Snaith
+      dob:
+        y: 1978
+        m: 4
+        d: 19

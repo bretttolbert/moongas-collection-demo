@@ -67,3 +67,15 @@ artistData:
         y: 1961
         m: 6
         d: 1
+    - artistNames:
+      - C. J. Lewis
+      dob:
+        y: 1968
+        m: 1
+        d: 1
+    - artistNames:
+      - Earl 16
+      dob:
+        y: 1961
+        m: 6
+        d: 1

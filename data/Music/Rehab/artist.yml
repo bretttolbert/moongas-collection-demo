@@ -31,3 +31,9 @@ artistData:
         y: 1978
         m: 11
         d: 10
+    - artistNames:
+      - J. M. "Jesse" McCoy
+      dob:
+        y: 1980
+        m: 4
+        d: 12

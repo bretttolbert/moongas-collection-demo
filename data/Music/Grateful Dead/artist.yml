@@ -83,3 +83,21 @@ artistData:
         y: 1954
         m: 2
         d: 19
+    - artistNames:
+      - John Mayer
+      dob:
+        y: 1977
+        m: 10
+        d: 16
+    - artistNames:
+      - Oteil Burbridge
+      dob:
+        y: 1967
+        m: 8
+        d: 24
+    - artistNames:
+      - Jeff Chimenti
+      dob:
+        y: 1973
+        m: 5
+        d: 21

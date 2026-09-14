@@ -47,3 +47,9 @@ artistData:
         y: 1980
         m: 6
         d: 24
+    - artistNames:
+      - Nathan Good
+      dob:
+        y: 1980
+        m: 4
+        d: 15

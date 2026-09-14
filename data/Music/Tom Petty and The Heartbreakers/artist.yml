@@ -47,3 +47,13 @@ artistData:
         y: 1950
         m: 10
         d: 25
+    - artistNames:
+      - Howie Epstein
+      dob:
+        y: 1955
+        m: 12
+        d: 21
+      dod:
+        y: 2003
+        m: 2
+        d: 23

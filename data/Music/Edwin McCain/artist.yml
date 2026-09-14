@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-SC
-  members: []
+  members:
+    - artistNames:
+      - Edwin McCain
+      dob:
+        y: 1970
+        m: 1
+        d: 20

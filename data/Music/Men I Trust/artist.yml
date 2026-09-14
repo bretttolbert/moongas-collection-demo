@@ -25,3 +25,9 @@ artistData:
         y: 1994
         m: 7
         d: 15
+    - artistNames:
+      - Tania D. 
+      dob:
+        y: 1996
+        m: 1
+        d: 5

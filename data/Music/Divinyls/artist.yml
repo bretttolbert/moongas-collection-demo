@@ -39,3 +39,21 @@ artistData:
       - Ian "Pinky" McFarlane
       artistRoles:
       - guitar
+    - artistNames:
+      - John "J.J." McBride
+      artistRoles:
+      - keyboards
+      dob:
+        y: 1960
+    - artistNames:
+      - Michael "Mick" McEntee
+      artistRoles:
+      - guitar
+      dob:
+        y: 1961
+    - artistNames:
+      - David "Dave" McEntee
+      artistRoles:
+      - drums
+      dob:
+        y: 1962

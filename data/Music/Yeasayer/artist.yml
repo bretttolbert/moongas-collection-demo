@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Chris Keating
+      dob:
+        y: 1980
+        m: 4
+        d: 1
+    - artistNames:
+      - Anand Wilder
+      dob:
+        y: 1981
+        m: 5
+        d: 23
+    - artistNames:
+      - Ira Wolf Tuton
+      dob:
+        y: 1980
+        m: 1
+        d: 1

@@ -27,3 +27,9 @@ artistData:
         y: 1990
         m: 3
         d: 15
+    - artistNames:
+      - Andrew McCaffrey
+      dob:
+        y: 1993
+        m: 11
+        d: 30

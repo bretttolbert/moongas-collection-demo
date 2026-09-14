@@ -13,3 +13,13 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - John Dwyer
+    - artistNames:
+      - Kelley Stoltz
+    - artistNames:
+      - Shannon Lay
+    - artistNames:
+      - Thee Oh Sees
+    - artistNames:
+      - Ty Segall

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Jaret Reddick
+      dob:
+        y: 1975
+        m: 3
+        d: 6
+    - artistNames:
+      - Erik Chandler
+      dob:
+        y: 1974
+        m: 11
+        d: 15
+    - artistNames:
+      - Chris Burney
+      dob:
+        y: 1975
+        m: 4
+        d: 3
+    - artistNames:
+      - Gary Wiseman
+      dob:
+        y: 1975
+        m: 5
+        d: 12
+    - artistNames:
+      - Mike "The D" Dorsey
+      dob:
+        y: 1974
+        m: 8
+        d: 20

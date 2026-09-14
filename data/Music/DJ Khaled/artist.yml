@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - Khaled Mohamed Khaled
+      dob:
+        y: 1975
+        m: 11
+        d: 26

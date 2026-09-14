@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - LightSkinKeisha
+      dob:
+        y: 1996
+        m: 1
+        d: 4

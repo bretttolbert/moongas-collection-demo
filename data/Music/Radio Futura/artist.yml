@@ -37,3 +37,9 @@ artistData:
         y: 1963
         m: 7
         d: 5
+    - artistNames:
+      - José Antonio Ramos
+      dob:
+        y: 1962
+        m: 11
+        d: 30

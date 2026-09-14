@@ -17,3 +17,15 @@ artistData:
       - vocals
       - guitar
       - songwriter
+    - artistNames:
+      - Additional Member 1
+      artistRoles:
+      - bass
+    - artistNames:
+      - Additional Member 2
+      artistRoles:
+      - drums
+    - artistNames:
+      - Additional Member 3
+      artistRoles:
+      - keyboards

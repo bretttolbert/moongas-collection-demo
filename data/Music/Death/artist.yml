@@ -47,3 +47,21 @@ artistData:
         y: 1970
         m: 8
         d: 31
+    - artistNames:
+      - Chris Reifert
+      dob:
+        y: 1967
+        m: 11
+        d: 22
+    - artistNames:
+      - Bobby Koelble
+      dob:
+        y: 1971
+        m: 4
+        d: 27
+    - artistNames:
+      - Steve DiGiorgio
+      dob:
+        y: 1967
+        m: 11
+        d: 7

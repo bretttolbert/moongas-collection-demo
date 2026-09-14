@@ -37,3 +37,15 @@ artistData:
         y: 1951
         m: 11
         d: 21
+    - artistNames:
+      - Lisa Johnson
+      dob:
+        y: 1958
+        m: 3
+        d: 15
+    - artistNames:
+      - David "Dave" L. Johnson
+      dob:
+        y: 1954
+        m: 6
+        d: 30

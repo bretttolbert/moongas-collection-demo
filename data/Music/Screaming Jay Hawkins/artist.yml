@@ -17,3 +17,9 @@ artistData:
         y: 2000
         m: 2
         d: 12
+    - artistNames:
+      - Screaming Jay Hawkins
+      artistRoles:
+      - vocals
+      - piano
+      - songwriter

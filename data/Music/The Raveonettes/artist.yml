@@ -19,3 +19,9 @@ artistData:
         y: 1980
         m: 11
         d: 26
+    - artistNames:
+      - Jakob Hackner
+      dob:
+        y: 1980
+        m: 5
+        d: 15

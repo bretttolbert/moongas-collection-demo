@@ -49,3 +49,9 @@ artistData:
         y: 1947
         m: 8
         d: 27
+    - artistNames:
+      - Ian Gregory
+      dob:
+        y: 1961
+        m: 4
+        d: 1

@@ -43,3 +43,21 @@ artistData:
         y: 1954
         m: 7
         d: 21
+    - artistNames:
+      - Maria Hinojosa
+      dob:
+        y: 1954
+        m: 11
+        d: 20
+    - artistNames:
+      - Matt Katz-Bohen
+      dob:
+        y: 1969
+        m: 11
+        d: 15
+    - artistNames:
+      - Leigh Foxx
+      dob:
+        y: 1960
+        m: 9
+        d: 15

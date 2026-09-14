@@ -27,3 +27,7 @@ artistData:
       - David Byrne
     - artistNames:
       - Jerry Harrison
+      dob:
+        y: 1948
+        m: 2
+        d: 21

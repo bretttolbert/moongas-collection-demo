@@ -39,3 +39,7 @@ artistData:
       - John "J.T." Thomas
     - artistNames:
       - Michael "Mickey" Curry
+      dob:
+        y: 1956
+        m: 6
+        d: 24

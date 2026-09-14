@@ -13,3 +13,26 @@ artistData:
         y: 1970
         m: 5
         d: 23
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Juan Luis Guerra
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Anthony Santos
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Luis Miguel del Amargue
+      artistRoles:
+      - vocals
+    - artistNames:
+      - El Torito
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Frank Reyes
+      artistRoles:
+      - vocals

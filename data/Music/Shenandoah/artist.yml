@@ -37,3 +37,9 @@ artistData:
         y: 1960
         m: 2
         d: 15
+    - artistNames:
+      - John McGuire
+      dob:
+        y: 1965
+        m: 3
+        d: 12

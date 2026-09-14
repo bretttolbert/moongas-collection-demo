@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: BE-BRU
-  members: []
+  members:
+    - artistNames:
+      - Roger Jouret
+      dob:
+        y: 1954
+        m: 2
+        d: 24

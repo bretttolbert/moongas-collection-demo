@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Lexi Jayde
+      dob:
+        y: 2001
+        m: 4
+        d: 17
+    - artistNames:
+      - Joshua O'Connor
+    - artistNames:
+      - Tessa Violet
+    - artistNames:
+      - Jaden Hossler
+    - artistNames:
+      - Kira Kosarin

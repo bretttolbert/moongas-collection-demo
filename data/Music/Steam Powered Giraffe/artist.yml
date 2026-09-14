@@ -43,3 +43,8 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - The Archivist
+      artistRoles:
+      - keyboards
+      - backing vocals

@@ -15,13 +15,37 @@ artistData:
         d: 20
     - artistNames:
       - Michael "Tunes" Antunes
+      dob:
+        y: 1954
+        m: 5
+        d: 15
     - artistNames:
       - Patrick "Patsy" Lupo
+      dob:
+        y: 1953
+        m: 8
+        d: 10
     - artistNames:
       - Gary Gramolini
+      dob:
+        y: 1954
+        m: 11
+        d: 1
     - artistNames:
       - Kenny D'Ambrosio
+      dob:
+        y: 1955
+        m: 4
+        d: 12
     - artistNames:
       - John "J.T." Timmons
+      dob:
+        y: 1956
+        m: 9
+        d: 25
     - artistNames:
       - Scott "Scotty" McDonald
+      dob:
+        y: 1957
+        m: 2
+        d: 14

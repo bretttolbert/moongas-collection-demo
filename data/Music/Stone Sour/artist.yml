@@ -48,3 +48,15 @@ artistData:
         d: 23
       artistRoles:
       - bass
+    - artistNames:
+      - Shawn Economaki
+      dob:
+        y: 1979
+        m: 1
+        d: 1
+      artistRoles:
+      - bass
+      dod:
+        y: 2021
+        m: 9
+        d: 18

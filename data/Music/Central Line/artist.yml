@@ -37,3 +37,9 @@ artistData:
         y: 1959
         m: 7
         d: 25
+    - artistNames:
+      - David "Davy" Jones
+      dob:
+        y: 1958
+        m: 4
+        d: 10

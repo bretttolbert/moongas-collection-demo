@@ -37,3 +37,9 @@ artistData:
         y: 1965
         m: 6
         d: 15
+    - artistNames:
+      - J. Spaceman
+      dob:
+        y: 1965
+        m: 7
+        d: 18

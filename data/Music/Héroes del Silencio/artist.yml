@@ -40,3 +40,21 @@ artistData:
         d: 1
       artistRoles:
       - drums
+    - artistNames:
+      - Alberto Cereijo
+      dob:
+        y: 1968
+        m: 6
+        d: 18
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Luis Sanz
+      dob:
+        y: 1969
+        m: 3
+        d: 12
+      artistRoles:
+      - keyboards
+      - backing vocals

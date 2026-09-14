@@ -31,3 +31,9 @@ artistData:
         y: 1967
         m: 5
         d: 22
+    - artistNames:
+      - Mike McGinnis
+      dob:
+        y: 1965
+        m: 11
+        d: 24

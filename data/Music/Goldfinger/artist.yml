@@ -37,3 +37,15 @@ artistData:
         y: 1975
         m: 8
         d: 12
+    - artistNames:
+      - Brian Arthur
+      dob:
+        y: 1975
+        m: 11
+        d: 12
+    - artistNames:
+      - Chris Gaylor
+      dob:
+        y: 1980
+        m: 1
+        d: 1

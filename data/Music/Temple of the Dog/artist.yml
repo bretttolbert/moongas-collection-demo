@@ -41,3 +41,9 @@ artistData:
         y: 1972
         m: 11
         d: 28
+    - artistNames:
+      - Eddie Vedder
+      dob:
+        y: 1964
+        m: 12
+        d: 23

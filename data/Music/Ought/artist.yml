@@ -31,3 +31,9 @@ artistData:
         y: 1988
         m: 6
         d: 12
+    - artistNames:
+      - Joseph Yarmush
+      dob:
+        y: 1989
+        m: 9
+        d: 12

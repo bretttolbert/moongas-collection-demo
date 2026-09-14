@@ -39,3 +39,13 @@ artistData:
         y: 2000
         m: 12
         d: 24
+    - artistNames:
+      - Joe Long
+      dob:
+        y: 1939
+        m: 12
+        d: 5
+      dod:
+        y: 2022
+        m: 6
+        d: 18

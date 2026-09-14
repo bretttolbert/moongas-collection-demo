@@ -37,3 +37,9 @@ artistData:
         y: 1961
         m: 11
         d: 19
+    - artistNames:
+      - Mike McGlynn
+      dob:
+        y: 1961
+        m: 4
+        d: 25

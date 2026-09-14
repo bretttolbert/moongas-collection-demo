@@ -43,6 +43,10 @@ artistData:
       - drums
     - artistNames:
       - John Cooke
+      dob:
+        y: 1970
+        m: 8
+        d: 15
       artistRoles:
       - guitar
       - backing vocals

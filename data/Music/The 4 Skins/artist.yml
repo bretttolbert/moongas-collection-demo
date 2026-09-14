@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Cockney Rejects
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Gary Hodges
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tony "Porky" McCarthy
+      artistRoles:
+      - bass
+    - artistNames:
+      - Dave "Bri" Briars
+      artistRoles:
+      - drums

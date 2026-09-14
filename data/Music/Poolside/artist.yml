@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jeffrey Paradise
+    - artistNames:
+      - Filip Nikolic

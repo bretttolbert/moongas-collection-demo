@@ -13,3 +13,7 @@ artistData:
         y: 1972
         m: 3
         d: 4
+      artistRoles:
+      - vocals
+      - turntables
+      - production

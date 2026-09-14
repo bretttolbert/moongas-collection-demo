@@ -31,3 +31,9 @@ artistData:
         y: 1961
         m: 9
         d: 26
+    - artistNames:
+      - Helen Terry
+      dob:
+        y: 1962
+        m: 5
+        d: 27

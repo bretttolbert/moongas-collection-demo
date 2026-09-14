@@ -27,3 +27,7 @@ artistData:
       - Carlton Holmes
     - artistNames:
       - Alric Carter
+      dob:
+        y: 1989
+        m: 6
+        d: 15

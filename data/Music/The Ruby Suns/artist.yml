@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: NZ-AUK
-  members: []
+  members:
+    - artistNames:
+      - Ryan McPhun
+      dob:
+        y: 1981
+        m: 1
+        d: 1
+    - artistNames:
+      - Aroha Harawira
+    - artistNames:
+      - Thomas Edward
+    - artistNames:
+      - Chris O'Connor
+    - artistNames:
+      - Sam Taylor

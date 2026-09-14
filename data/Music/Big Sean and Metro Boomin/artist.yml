@@ -19,3 +19,9 @@ artistData:
         y: 1993
         m: 9
         d: 16
+      realName: Leland Tyler Wayne
+      city: St. Louis
+      countryCode: US
+      languageCodes:
+      - en
+      regionCode: US-MO

@@ -31,3 +31,11 @@ artistData:
       - Eulalio
       artistRoles:
       - trumpet
+    - artistNames:
+      - "Sergio"
+      artistRoles:
+      - percussion
+    - artistNames:
+      - "Jorge"
+      artistRoles:
+      - keyboards

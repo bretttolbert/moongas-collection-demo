@@ -13,3 +13,9 @@ artistData:
         y: 1969
         m: 1
         d: 15
+    - artistNames:
+      - Rob Dougan
+      artistRoles:
+      - composer
+      - producer
+      - musician

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Devin Copeland
+      dob:
+        y: 1970
+        m: 6
+        d: 4

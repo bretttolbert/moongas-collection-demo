@@ -45,3 +45,41 @@ artistData:
         y: 1945
         m: 1
         d: 1
+    - artistNames:
+      - Reginald "Reg" Presley
+      dob:
+        y: 1941
+        m: 6
+        d: 12
+      dod:
+        y: 2013
+        m: 2
+        d: 4
+    - artistNames:
+      - Chris "Chris" Britton
+      dob:
+        y: 1944
+        m: 6
+        d: 15
+    - artistNames:
+      - Peter "Pete" Staples
+      dob:
+        y: 1944
+        m: 5
+        d: 3
+    - artistNames:
+      - Ronald "Ronnie" Bond
+      dob:
+        y: 1943
+        m: 12
+        d: 24
+      dod:
+        y: 1992
+        m: 12
+        d: 13
+    - artistNames:
+      - David "Dave" Maggs
+      dob:
+        y: 1945
+        m: 1
+        d: 1

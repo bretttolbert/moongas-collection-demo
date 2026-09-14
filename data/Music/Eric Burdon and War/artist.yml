@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Eric Burdon
+      dob:
+        y: 1941
+        m: 5
+        d: 11
+    - artistNames:
+      - Howard Scott
+    - artistNames:
+      - Lee Oskar
+    - artistNames:
+      - B.B. Dickerson
+    - artistNames:
+      - Lonnie Jordan
+    - artistNames:
+      - Charles Miller
+    - artistNames:
+      - Harold Brown
+    - artistNames:
+      - Papa Dee Allen

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Billie Joe Armstrong
+      dob:
+        y: 1972
+        m: 2
+        d: 17
+    - artistNames:
+      - Mike Dirnt
+      dob:
+        y: 1972
+        m: 5
+        d: 4
+    - artistNames:
+      - Tré Cool
+      dob:
+        y: 1972
+        m: 12
+        d: 9

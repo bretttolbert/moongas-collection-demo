@@ -31,3 +31,9 @@ artistData:
         y: 1985
         m: 11
         d: 20
+    - artistNames:
+      - David "Davy" Hargreaves
+      dob:
+        y: 1984
+        m: 8
+        d: 12

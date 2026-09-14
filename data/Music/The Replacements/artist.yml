@@ -41,3 +41,21 @@ artistData:
         y: 1960
         m: 8
         d: 12
+    - artistNames:
+      - Peter Jesperson
+      dob:
+        y: 1954
+        m: 4
+        d: 14
+    - artistNames:
+      - Michael Bland
+      dob:
+        y: 1969
+        m: 5
+        d: 15
+    - artistNames:
+      - Josh Freese
+      dob:
+        y: 1972
+        m: 12
+        d: 25

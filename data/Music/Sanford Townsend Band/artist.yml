@@ -19,3 +19,15 @@ artistData:
         y: 1945
         m: 1
         d: 1
+    - artistNames:
+      - John "J.T." Townsend
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - John "Johnny" Smith
+      dob:
+        y: 1945
+        m: 1
+        d: 1

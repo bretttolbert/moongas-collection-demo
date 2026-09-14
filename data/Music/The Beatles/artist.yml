@@ -39,3 +39,6 @@ artistData:
         y: 1940
         m: 7
         d: 7
+      artistRoles:
+      - drums
+      - vocals

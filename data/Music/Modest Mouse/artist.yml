@@ -43,3 +43,9 @@ artistData:
         y: 1980
         m: 8
         d: 3
+    - artistNames:
+      - Benjamin Weikel
+      dob:
+        y: 1977
+        m: 10
+        d: 12

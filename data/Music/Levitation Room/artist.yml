@@ -23,3 +23,9 @@ artistData:
         y: 1992
         m: 4
         d: 20
+    - artistNames:
+      - Additional Member
+      dob:
+        y: 1990
+        m: 1
+        d: 1

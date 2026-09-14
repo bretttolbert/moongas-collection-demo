@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jordan Hesterman
+      dob:
+        y: 1989
+        m: 5
+        d: 14
+    - artistNames:
+      - Daniel O'Connor
+    - artistNames:
+      - Alisa Xayalith
+    - artistNames:
+      - Matthew L. Hesterman

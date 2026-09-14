@@ -15,10 +15,22 @@ artistData:
         d: 25
     - artistNames:
       - Dion Lunadon
+      dob:
+        y: 1981
+        m: 10
+        d: 5
     - artistNames:
       - Jason F. McCarty
+      dob:
+        y: 1986
+        m: 3
+        d: 12
     - artistNames:
       - Kelsey Wilson
+      dob:
+        y: 1989
+        m: 6
+        d: 14
     - artistNames:
       - Eric B. H. H.
     - artistNames:

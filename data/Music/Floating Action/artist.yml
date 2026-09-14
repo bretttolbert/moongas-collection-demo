@@ -19,3 +19,7 @@ artistData:
       - David McGraw
     - artistNames:
       - Josh Kauffman
+      dob:
+        y: 1983
+        m: 5
+        d: 15

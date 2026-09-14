@@ -70,3 +70,12 @@ artistData:
       - George "The Kid" O'Connor
       artistRoles:
       - bass
+    - artistNames:
+      - Matt "Murph" Murphy
+      dob:
+        y: 1976
+        m: 4
+        d: 15
+      artistRoles:
+      - guitar
+      - backing vocals

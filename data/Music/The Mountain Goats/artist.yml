@@ -15,7 +15,19 @@ artistData:
         d: 1
     - artistNames:
       - Peter Hughes
+      dob:
+        y: 1976
+        m: 4
+        d: 1
     - artistNames:
       - Jon Wurster
+      dob:
+        y: 1967
+        m: 10
+        d: 4
     - artistNames:
       - Matt Douglas
+      dob:
+        y: 1980
+        m: 6
+        d: 1

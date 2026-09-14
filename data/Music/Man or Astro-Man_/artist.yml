@@ -9,13 +9,29 @@ artistData:
   members:
     - artistNames:
       - CoCo
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - Birdstuff
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - Star Crunch
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - Dexter
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
-      - The Mysterious L. M. 
+      - The Mysterious L. M.
     - artistNames:
       - The Mysterious J. M.

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Nu-Mark
+      dob:
+        y: 1972
+        m: 3
+        d: 15

@@ -13,3 +13,15 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - DJ Ease
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - T. M. J.
+      dob:
+        y: 1970
+        m: 1
+        d: 1

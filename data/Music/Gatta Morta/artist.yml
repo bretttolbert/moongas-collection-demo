@@ -49,3 +49,13 @@ artistData:
       - vocals
       artistBands:
       - Mr. Phylzzz
+    - artistNames:
+      - New Member
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+      artistRoles:
+      - keyboard
+      artistBands:
+      - Gatta Morta

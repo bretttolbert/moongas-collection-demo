@@ -53,3 +53,15 @@ artistData:
         y: 1961
         m: 7
         d: 24
+    - artistNames:
+      - Peter Wolf
+      dob:
+        y: 1946
+        m: 3
+        d: 7
+    - artistNames:
+      - Craig Chaquico
+      dob:
+        y: 1954
+        m: 9
+        d: 27

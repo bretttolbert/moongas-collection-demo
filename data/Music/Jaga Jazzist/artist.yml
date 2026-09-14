@@ -67,3 +67,15 @@ artistData:
         y: 1983
         m: 9
         d: 30
+    - artistNames:
+      - Lars Håkon Haug
+      dob:
+        y: 1985
+        m: 1
+        d: 15
+    - artistNames:
+      - Håkon Mjåseth
+      dob:
+        y: 1986
+        m: 3
+        d: 12

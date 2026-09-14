@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 4
         d: 14
+    - artistNames:
+      - Julian Corrie
+      dob:
+        y: 1982
+        m: 6
+        d: 12

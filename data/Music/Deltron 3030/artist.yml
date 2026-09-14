@@ -19,11 +19,15 @@ artistData:
       - Dan the Automator
       dob:
         y: 1972
+        m: 8
+        d: 12
       artistRoles:
       - producer
     - artistNames:
       - Kid Koala
       dob:
         y: 1974
+        m: 10
+        d: 2
       artistRoles:
       - turntables

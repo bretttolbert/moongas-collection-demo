@@ -19,3 +19,21 @@ artistData:
         y: 1982
         m: 11
         d: 8
+    - artistNames:
+      - Carlitta Durand
+      dob:
+        y: 1985
+        m: 4
+        d: 1
+    - artistNames:
+      - YahZarah
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Darien Brockington
+      dob:
+        y: 1980
+        m: 5
+        d: 1

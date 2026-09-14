@@ -14,26 +14,32 @@ artistData:
         m: 1
         d: 3
     - artistNames:
-      -  Alpha Wann
+      - Alpha Wann
       dob:
         y: 1991
         m: 1
         d: 2
     - artistNames:
-      -  Sneazzy
+      - Sneazzy
       dob:
         y: 1993
         m: 5
         d: 1
     - artistNames:
-      -  Framal
+      - Framal
       dob:
         y: 1990
         m: 7
         d: 15
     - artistNames:
-      -  Don Dada
+      - Don Dada
       dob:
         y: 1990
         m: 8
         d: 20
+    - artistNames:
+      - 2zer
+      dob:
+        y: 1992
+        m: 4
+        d: 10

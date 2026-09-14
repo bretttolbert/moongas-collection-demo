@@ -13,3 +13,28 @@ artistData:
         y: 1946
         m: 7
         d: 3
+    - artistNames:
+      - Johnny Lee Cook
+      dob:
+        y: 1946
+        m: 7
+        d: 3
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Johnny Lee Johnson
+      dob:
+        y: 1946
+        m: 7
+        d: 3
+      artistRoles:
+      - drums
+    - artistNames:
+      - Johnny Lee Smith
+      dob:
+        y: 1946
+        m: 7
+        d: 3
+      artistRoles:
+      - bass

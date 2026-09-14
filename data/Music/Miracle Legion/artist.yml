@@ -31,3 +31,9 @@ artistData:
         y: 1954
         m: 6
         d: 15
+    - artistNames:
+      - John P. Strohm
+      dob:
+        y: 1966
+        m: 1
+        d: 1

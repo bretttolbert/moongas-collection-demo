@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Marty Robbins
+  dob:
+    y: 1925
+    m: 9
+    d: 26
+  dod:
+    y: 1982
+    m: 12
+    d: 7
   city: Glendale
   countryCode: US
   languageCodes:

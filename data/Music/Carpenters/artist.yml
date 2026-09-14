@@ -23,3 +23,13 @@ artistData:
         y: 1946
         m: 10
         d: 15
+    - artistNames:
+      - Agnes Carpenter
+      dob:
+        y: 1923
+        m: 7
+        d: 7
+      dod:
+        y: 2014
+        m: 11
+        d: 16

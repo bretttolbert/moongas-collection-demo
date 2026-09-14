@@ -35,3 +35,9 @@ artistData:
         y: 1955
         m: 8
         d: 21
+    - artistNames:
+      - Lisa Sledge
+      dob:
+        y: 1964
+        m: 4
+        d: 1

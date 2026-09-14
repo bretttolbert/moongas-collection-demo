@@ -39,3 +39,12 @@ artistData:
         d: 21
       artistRoles:
       - drums
+    - artistNames:
+      - Zoli Teglas
+      dob:
+        y: 1975
+        m: 5
+        d: 21
+      artistRoles:
+      - vocals
+      - guitar

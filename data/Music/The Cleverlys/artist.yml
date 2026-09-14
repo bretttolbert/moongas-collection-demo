@@ -31,3 +31,9 @@ artistData:
         y: 1988
         m: 11
         d: 5
+    - artistNames:
+      - Tyler Cleverly
+      dob:
+        y: 1990
+        m: 4
+        d: 20

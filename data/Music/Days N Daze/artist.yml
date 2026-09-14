@@ -31,3 +31,9 @@ artistData:
         y: 1988
         m: 8
         d: 20
+    - artistNames:
+      - Josh H. Daze
+      dob:
+        y: 1991
+        m: 4
+        d: 12

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Paul Wilson
+      dob:
+        y: 1934
+        m: 1
+        d: 15
+    - artistNames:
+      - Nate Nelson
+      dob:
+        y: 1932
+        m: 5
+        d: 4
+    - artistNames:
+      - Tommy Hunt
+      dob:
+        y: 1933
+        m: 6
+        d: 18
+    - artistNames:
+      - Johnny Carter
+      dob:
+        y: 1934
+        m: 1
+        d: 13
+    - artistNames:
+      - Zeke Carey
+      dob:
+        y: 1931
+        m: 10
+        d: 30

@@ -47,3 +47,15 @@ artistData:
         y: 1950
         m: 3
         d: 15
+    - artistNames:
+      - Michael "Mike" McGinnis
+      dob:
+        y: 1949
+        m: 4
+        d: 1
+    - artistNames:
+      - Chester Thompson
+      dob:
+        y: 1941
+        m: 7
+        d: 15

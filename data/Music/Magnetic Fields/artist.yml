@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 4
         d: 18
+    - artistNames:
+      - Daniel Handler
+      dob:
+        y: 1970
+        m: 2
+        d: 28

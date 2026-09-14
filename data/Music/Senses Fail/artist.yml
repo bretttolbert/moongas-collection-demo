@@ -37,3 +37,15 @@ artistData:
         y: 1981
         m: 5
         d: 17
+    - artistNames:
+      - Chris Hornbrook
+      dob:
+        y: 1980
+        m: 4
+        d: 21
+    - artistNames:
+      - Chris "Crispy" Kranes
+      dob:
+        y: 1983
+        m: 1
+        d: 1

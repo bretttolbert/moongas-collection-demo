@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Becky G
+  dob:
+    y: 1997
+    m: 3
+    d: 2
   city: Inglewood
   countryCode: US
   languageCodes:

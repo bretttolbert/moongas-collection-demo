@@ -25,7 +25,19 @@ artistData:
         d: 18
     - artistNames:
       - Paul Pilnick
+      dob:
+        y: 1947
+        m: 2
+        d: 12
     - artistNames:
       - Tony Williams
+      dob:
+        y: 1947
+        m: 3
+        d: 5
     - artistNames:
       - Ian Campbell
+      dob:
+        y: 1945
+        m: 6
+        d: 1

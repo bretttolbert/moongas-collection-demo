@@ -67,3 +67,15 @@ artistData:
         y: 2017
         m: 1
         d: 22
+    - artistNames:
+      - Bootsy Collins
+      dob:
+        y: 1951
+        m: 10
+        d: 26
+    - artistNames:
+      - Fred Wesley
+      dob:
+        y: 1943
+        m: 7
+        d: 4

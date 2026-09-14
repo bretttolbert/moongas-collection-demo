@@ -67,3 +67,33 @@ artistData:
         y: 2003
         m: 12
         d: 31
+    - artistNames:
+      - Vassar Clements
+      dob:
+        y: 1928
+        m: 4
+        d: 25
+      dod:
+        y: 2015
+        m: 8
+        d: 16
+    - artistNames:
+      - Jimmy Martin
+      dob:
+        y: 1927
+        m: 8
+        d: 10
+      dod:
+        y: 2005
+        m: 6
+        d: 14
+    - artistNames:
+      - Benny Martin
+      dob:
+        y: 1928
+        m: 1
+        d: 1
+      dod:
+        y: 2008
+        m: 4
+        d: 13

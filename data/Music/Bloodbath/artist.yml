@@ -49,3 +49,9 @@ artistData:
         y: 1971
         m: 4
         d: 25
+    - artistNames:
+      - Fredrik Norrman
+      dob:
+        y: 1974
+        m: 4
+        d: 24

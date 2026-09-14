@@ -32,3 +32,16 @@ artistData:
       artistRoles:
       - turntables
       - samples
+    - artistNames:
+      - Chad D
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tye Zamora
+      artistRoles:
+      - drums
+    - artistNames:
+      - DJ Product
+      artistRoles:
+      - turntables
+      - samples

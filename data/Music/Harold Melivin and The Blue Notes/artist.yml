@@ -29,9 +29,25 @@ artistData:
         d: 13
     - artistNames:
       - Lawrence Brown
+      dob:
+        y: 1939
+        m: 5
+        d: 1
     - artistNames:
       - Jerry Cummings
+      dob:
+        y: 1949
+        m: 4
+        d: 1
     - artistNames:
       - Billy Tolliver
+      dob:
+        y: 1940
+        m: 8
+        d: 15
     - artistNames:
       - Donnell Caron
+      dob:
+        y: 1945
+        m: 2
+        d: 10

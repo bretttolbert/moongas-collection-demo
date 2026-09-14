@@ -17,3 +17,7 @@ artistData:
       - Colin Sneed
     - artistNames:
       - Jacob McCauley
+      dob:
+        y: 1990
+        m: 5
+        d: 15

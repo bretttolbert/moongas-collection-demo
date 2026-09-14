@@ -37,3 +37,9 @@ artistData:
         y: 1942
         m: 11
         d: 12
+    - artistNames:
+      - Michael "Mike" McDonald
+      dob:
+        y: 1945
+        m: 2
+        d: 15

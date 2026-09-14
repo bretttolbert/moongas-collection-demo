@@ -31,3 +31,9 @@ artistData:
         y: 1987
         m: 8
         d: 30
+    - artistNames:
+      - Andrew Cohen
+      dob:
+        y: 1989
+        m: 4
+        d: 25

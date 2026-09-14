@@ -21,3 +21,7 @@ artistData:
       - Chris McCormack
     - artistNames:
       - Tom Driessler
+      dob:
+        y: 1988
+        m: 6
+        d: 15

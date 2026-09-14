@@ -37,3 +37,15 @@ artistData:
         y: 1972
         m: 2
         d: 1
+    - artistNames:
+      - Jorge "El Chato" Ceballos
+      dob:
+        y: 1975
+        m: 4
+        d: 12
+    - artistNames:
+      - Ricardo "Richie" Ceballos
+      dob:
+        y: 1978
+        m: 9
+        d: 30

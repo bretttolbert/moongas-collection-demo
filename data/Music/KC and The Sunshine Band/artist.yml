@@ -47,3 +47,27 @@ artistData:
         y: 1951
         m: 11
         d: 22
+    - artistNames:
+      - C. David
+      dob:
+        y: 1951
+        m: 11
+        d: 22
+    - artistNames:
+      - J. M. "Jellybean" Benitez
+      dob:
+        y: 1955
+        m: 11
+        d: 7
+    - artistNames:
+      - L. A. Reid
+      dob:
+        y: 1956
+        m: 6
+        d: 7
+    - artistNames:
+      - J. R. "Jellybean" Benitez
+      dob:
+        y: 1955
+        m: 11
+        d: 7

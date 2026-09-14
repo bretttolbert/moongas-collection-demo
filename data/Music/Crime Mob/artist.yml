@@ -31,3 +31,9 @@ artistData:
         y: 1984
         m: 7
         d: 12
+    - artistNames:
+      - C. D. D.
+      dob:
+        y: 1985
+        m: 11
+        d: 30

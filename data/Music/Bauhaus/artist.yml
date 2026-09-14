@@ -31,3 +31,21 @@ artistData:
         y: 1961
         m: 4
         d: 1
+    - artistNames:
+      - Peter Murphy
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Daniel Ash
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Kevin Haskins
+      artistRoles:
+      - drums
+    - artistNames:
+      - David J
+      artistRoles:
+      - bass
+      - vocals

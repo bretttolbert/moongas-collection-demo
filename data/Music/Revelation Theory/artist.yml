@@ -14,12 +14,6 @@ artistData:
         m: 4
         d: 24
     - artistNames:
-      - Chris "Crispy" Caffery
-      dob:
-        y: 1970
-        m: 4
-        d: 24
-    - artistNames:
       - John "J" D'Angelo
       dob:
         y: 1972

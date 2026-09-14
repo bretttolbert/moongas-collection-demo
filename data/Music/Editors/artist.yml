@@ -37,3 +37,13 @@ artistData:
         y: 1982
         m: 3
         d: 5
+    - artistNames:
+      - Chris Urbanowicz
+      dob:
+        y: 1982
+        m: 6
+        d: 26
+      dod:
+        y: 2016
+        m: 10
+        d: 14

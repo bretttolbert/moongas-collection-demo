@@ -15,9 +15,25 @@ artistData:
         d: 13
     - artistNames:
       - Perrin Cloutier
+      dob:
+        y: 1984
+        m: 5
+        d: 24
     - artistNames:
       - Paul Collins
+      dob:
+        y: 1983
+        m: 3
+        d: 15
     - artistNames:
       - Heather Trost
+      dob:
+        y: 1982
+        m: 7
+        d: 19
     - artistNames:
       - Nick Petree
+      dob:
+        y: 1985
+        m: 11
+        d: 8

@@ -31,3 +31,9 @@ artistData:
         y: 1973
         m: 3
         d: 19
+    - artistNames:
+      - Alfredo Hernandez
+      dob:
+        y: 1970
+        m: 6
+        d: 30

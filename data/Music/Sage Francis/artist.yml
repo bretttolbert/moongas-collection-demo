@@ -13,3 +13,27 @@ artistData:
         y: 1976
         m: 11
         d: 18
+    - artistNames:
+      - Buddy Peace
+    - artistNames:
+      - Reanimator
+    - artistNames:
+      - Themselves
+    - artistNames:
+      - B. Dolan
+      dob:
+        y: 1980
+        m: 6
+        d: 15
+    - artistNames:
+      - Cecil Otter
+      dob:
+        y: 1980
+        m: 2
+        d: 25
+    - artistNames:
+      - Aesop Rock
+      dob:
+        y: 1976
+        m: 6
+        d: 5

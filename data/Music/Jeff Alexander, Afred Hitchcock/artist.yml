@@ -7,4 +7,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jeff Alexander
+      dob:
+        y: 1910
+        m: 3
+        d: 7
+      dod:
+        y: 1995
+        m: 5
+        d: 15
+    - artistNames:
+      - Alfred Hitchcock
+      dob:
+        y: 1899
+        m: 8
+        d: 13
+      dod:
+        y: 1980
+        m: 4
+        d: 29

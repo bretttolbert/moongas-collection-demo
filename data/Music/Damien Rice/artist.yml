@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: IE-KE
-  members: []
+  members:
+    - artistNames:
+      - Damien Rice
+      dob:
+        y: 1973
+        m: 6
+        d: 7

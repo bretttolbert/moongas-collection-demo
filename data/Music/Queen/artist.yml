@@ -46,3 +46,11 @@ artistData:
         d: 19
       artistRoles:
       - bass
+    - artistNames:
+      - Adam Lambert
+      dob:
+        y: 1982
+        m: 1
+        d: 29
+      artistRoles:
+      - lead vocals

@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Jimmy Hall
+      dob:
+        y: 1946
+        m: 3
+        d: 24
+    - artistNames:
+      - Jack Hall
+      dob:
+        y: 1946
+        m: 4
+        d: 1
+    - artistNames:
+      - John Anthony
+      dob:
+        y: 1948
+        m: 5
+        d: 15
+    - artistNames:
+      - Lewis Ross
+      dob:
+        y: 1948
+        m: 6
+        d: 12
+    - artistNames:
+      - Mike McGinnis
+      dob:
+        y: 1948
+        m: 7
+        d: 19
+    - artistNames:
+      - Tommy Talton
+      dob:
+        y: 1949
+        m: 1
+        d: 1

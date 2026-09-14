@@ -43,3 +43,15 @@ artistData:
         y: 1963
         m: 2
         d: 1
+    - artistNames:
+      - Richard Fortus
+      dob:
+        y: 1966
+        m: 11
+        d: 17
+    - artistNames:
+      - Amanda Kramer
+      dob:
+        y: 1965
+        m: 1
+        d: 1

@@ -25,3 +25,9 @@ artistData:
         y: 1976
         m: 8
         d: 10
+    - artistNames:
+      - José Quijano
+      dob:
+        y: 1978
+        m: 12
+        d: 5

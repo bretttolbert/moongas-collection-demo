@@ -31,3 +31,64 @@ artistData:
     y: 2005
     m: 1
     d: 1
+  members:
+    - artistNames:
+      - Daniel Fetherston
+      dob:
+        y: 1980
+        m: 6
+        d: 15
+    - artistNames:
+      - Brian Profilio
+      dob:
+        y: 1982
+        m: 4
+        d: 22
+    - artistNames:
+      - Jared Tankel
+      dob:
+        y: 1981
+        m: 3
+        d: 10
+    - artistNames:
+      - Mike Boulton
+      dob:
+        y: 1983
+        m: 8
+        d: 5
+    - artistNames:
+      - Thomas Brenneck
+      dob:
+        y: 1980
+        m: 11
+        d: 20
+    - artistNames:
+      - Dave Guy
+      dob:
+        y: 1980
+        m: 7
+        d: 30
+    - artistNames:
+      - John H. Davis
+      dob:
+        y: 1981
+        m: 9
+        d: 12
+    - artistNames:
+      - John "J" McCauley
+      dob:
+        y: 1982
+        m: 2
+        d: 14
+    - artistNames:
+      - Chris "C" D. Smith
+      dob:
+        y: 1984
+        m: 5
+        d: 18
+    - artistNames:
+      - Eric "E" B. Johnson
+      dob:
+        y: 1983
+        m: 12
+        d: 1

@@ -31,3 +31,9 @@ artistData:
         y: 1976
         m: 6
         d: 12
+    - artistNames:
+      - Chris L. Smith
+      dob:
+        y: 1977
+        m: 11
+        d: 5

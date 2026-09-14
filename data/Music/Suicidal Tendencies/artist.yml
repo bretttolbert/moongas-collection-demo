@@ -37,3 +37,21 @@ artistData:
         y: 1964
         m: 6
         d: 19
+    - artistNames:
+      - Josh Paul
+      dob:
+        y: 1970
+        m: 5
+        d: 18
+    - artistNames:
+      - Dave Lombardo
+      dob:
+        y: 1965
+        m: 6
+        d: 16
+    - artistNames:
+      - Ben Weinman
+      dob:
+        y: 1975
+        m: 9
+        d: 8

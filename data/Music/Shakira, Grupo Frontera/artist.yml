@@ -15,4 +15,14 @@ artistData:
         d: 2
     - artistNames:
       - Grupo Frontera
-      members: []
+      members:
+        - artistNames:
+          - Jesse Huerta
+        - artistNames:
+          - Julio Preciado
+        - artistNames:
+          - Javier Huerta
+        - artistNames:
+          - Manuel Huerta
+        - artistNames:
+          - José Luis Huerta

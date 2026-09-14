@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Petey Pablo
+      dob:
+        y: 1976
+        m: 7
+        d: 22

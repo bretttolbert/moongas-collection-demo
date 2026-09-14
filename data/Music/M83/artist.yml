@@ -19,3 +19,21 @@ artistData:
         y: 1980
         m: 12
         d: 20
+    - artistNames:
+      - Morgan Kibby
+      dob:
+        y: 1980
+        m: 2
+        d: 2
+    - artistNames:
+      - Jordan Lawlor
+      dob:
+        y: 1985
+        m: 6
+        d: 25
+    - artistNames:
+      - Kaela Sinclair
+      dob:
+        y: 1991
+        m: 5
+        d: 10

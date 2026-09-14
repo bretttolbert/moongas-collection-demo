@@ -29,3 +29,23 @@ artistData:
         y: 2009
         m: 3
         d: 9
+    - artistNames:
+      - Major Harris
+      dob:
+        y: 1947
+        m: 2
+        d: 9
+      dod:
+        y: 2019
+        m: 11
+        d: 9
+    - artistNames:
+      - Talmadge Gough
+      dob:
+        y: 1943
+        m: 8
+        d: 18
+      dod:
+        y: 2021
+        m: 1
+        d: 23

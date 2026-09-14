@@ -25,3 +25,12 @@ artistData:
         y: 1970
         m: 4
         d: 1
+    - artistNames:
+      - John R. "Johnny" Shuffield
+      dob:
+        y: 1970
+        m: 4
+        d: 1
+      artistRoles:
+      - drums
+      - percussion

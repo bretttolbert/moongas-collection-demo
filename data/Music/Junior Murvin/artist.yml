@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Junior Murvin
+  dob:
+    y: 1946
+    m: 5
+    d: 5
   city: Saint James Parish
   countryCode: JM
   languageCodes:

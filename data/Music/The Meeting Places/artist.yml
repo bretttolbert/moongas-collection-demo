@@ -31,3 +31,15 @@ artistData:
         y: 1981
         m: 8
         d: 10
+    - artistNames:
+      - David Brown
+      dob:
+        y: 1983
+        m: 6
+        d: 5
+    - artistNames:
+      - Emily White
+      dob:
+        y: 1984
+        m: 12
+        d: 1

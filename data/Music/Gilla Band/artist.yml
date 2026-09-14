@@ -31,3 +31,9 @@ artistData:
         y: 1992
         m: 11
         d: 25
+    - artistNames:
+      - Ciaran O'Neill
+      dob:
+        y: 1991
+        m: 4
+        d: 18

@@ -37,3 +37,9 @@ artistData:
         y: 1965
         m: 8
         d: 17
+    - artistNames:
+      - David "Dave" D. 
+      dob:
+        y: 1955
+        m: 6
+        d: 12
