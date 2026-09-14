@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Mikael Åkerfeldt
+      dob:
+        y: 1974
+        m: 4
+        d: 17
+    - artistNames:
+      - Steven Wilson
+      dob:
+        y: 1967
+        m: 11
+        d: 3

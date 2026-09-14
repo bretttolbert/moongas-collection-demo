@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: SE-N
-  members: []
+  members:
+    - artistNames:
+      - Marie Fredriksson
+      dob:
+        y: 1958
+        m: 5
+        d: 30
+      dod:
+        y: 2019
+        m: 12
+        d: 9
+    - artistNames:
+      - Per Gessle
+      dob:
+        y: 1959
+        m: 1
+        d: 12

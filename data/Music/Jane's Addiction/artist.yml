@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Perry Farrell
+      dob:
+        y: 1960
+        m: 3
+        d: 29
+    - artistNames:
+      - Dave Navarro
+      dob:
+        y: 1967
+        m: 6
+        d: 7
+    - artistNames:
+      - Stephen Perkins
+      dob:
+        y: 1967
+        m: 9
+        d: 13
+    - artistNames:
+      - Eric Avery
+      dob:
+        y: 1965
+        m: 4
+        d: 25

@@ -14,3 +14,11 @@ artistData:
       - Nicolas Laugier
       dob:
         y: 1973
+  members:
+    - artistNames:
+      - Nicolas Laugier
+      dob:
+        y: 1973
+      artistRoles:
+      - producer
+      - remixer

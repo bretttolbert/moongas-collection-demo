@@ -13,3 +13,15 @@ artistData:
         y: 1942
         m: 5
         d: 7
+    - artistNames:
+      - The Blackbyrds
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - The Wailers
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - The Mighty Diamonds
+      artistRoles:
+      - backing vocals

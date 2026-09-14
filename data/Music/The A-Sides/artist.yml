@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Adam R. D. H. 
+    - artistNames:
+      - Chris D. 
+    - artistNames:
+      - Mike M. 
+    - artistNames:
+      - Greg B. 
+    - artistNames:
+      - John S.

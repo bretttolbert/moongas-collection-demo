@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Sisqó
+  dob:
+    y: 1978
+    m: 11
+    d: 9
   city: Baltimore
   countryCode: US
   languageCodes:

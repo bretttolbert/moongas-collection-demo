@@ -7,3 +7,11 @@ artistData:
   members: []
   languageCodes:
   - es
+  dob:
+    y: 1917
+    m: 4
+    d: 7
+  dod:
+    y: 2003
+    m: 2
+    d: 3

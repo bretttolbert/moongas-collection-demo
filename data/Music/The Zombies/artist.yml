@@ -51,3 +51,9 @@ artistData:
         y: 2018
         m: 1
         d: 20
+    - artistNames:
+      - Chris J. White
+      dob:
+        y: 1943
+        m: 3
+        d: 7

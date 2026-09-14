@@ -5,5 +5,11 @@ artistData:
   countryCode: PR
   languageCodes:
   - es
-  regionCode: US-PR
-  members: []
+  regionCode: PR-SJ
+  members:
+    - artistNames:
+      - Don Omar
+      dob:
+        y: 1978
+        m: 2
+        d: 10

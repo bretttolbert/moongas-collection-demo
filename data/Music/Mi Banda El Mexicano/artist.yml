@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-SIN
-  members: []
+  members:
+    - artistNames:
+      - José Luis "El Chino" González
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Juan Carlos "El Gato" López
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Javier "El Chino" Pérez
+      artistRoles:
+      - bass
+    - artistNames:
+      - Manuel "El Pato" Martínez
+      artistRoles:
+      - drums
+    - artistNames:
+      - Luis "El Pato" Hernández
+      artistRoles:
+      - keyboards

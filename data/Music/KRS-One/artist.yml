@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Lawrence Parker
+      dob:
+        y: 1965
+        m: 8
+        d: 20
+      artistRoles:
+      - vocals
+      - songwriting

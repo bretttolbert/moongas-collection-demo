@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Nadezhda Plevitskaya
+  dob:
+    y: 1884
+    m: 12
+    d: 5
   city: Vinnikovo
   countryCode: RU
   languageCodes:

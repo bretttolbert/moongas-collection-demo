@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Austin Lunn
+      dob:
+        y: 1987
+        m: 5
+        d: 21

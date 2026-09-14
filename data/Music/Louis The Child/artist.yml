@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Robby Hauldren
+      dob:
+        y: 1996
+        m: 2
+        d: 19
+    - artistNames:
+      - Freddy Kennett
+      dob:
+        y: 1996
+        m: 1
+        d: 1

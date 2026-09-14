@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Jimmy Bruno
+      dob:
+        y: 1964
+        m: 3
+        d: 12
+    - artistNames:
+      - John D'Angelo
+    - artistNames:
+      - Mike Boone

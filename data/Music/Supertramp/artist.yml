@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Roger Hodgson
+      dob:
+        y: 1950
+        m: 3
+        d: 21
+    - artistNames:
+      - Rick Davies
+      dob:
+        y: 1944
+        m: 7
+        d: 22
+    - artistNames:
+      - John Helliwell
+      dob:
+        y: 1945
+        m: 2
+        d: 15
+    - artistNames:
+      - Dougie Thomson
+      dob:
+        y: 1951
+        m: 3
+        d: 24
+    - artistNames:
+      - Bob Siebenberg
+      dob:
+        y: 1949
+        m: 6
+        d: 31

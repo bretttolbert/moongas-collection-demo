@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-COR
-  members: []
+  members:
+    - artistNames:
+      - Jean-Claude Petit
+      dob:
+        y: 1945
+        m: 3
+        d: 12
+    - artistNames:
+      - Michel Dussarat
+      dob:
+        y: 1946
+        m: 5
+        d: 20
+    - artistNames:
+      - Claude Giraud
+      dob:
+        y: 1944
+        m: 8
+        d: 15
+    - artistNames:
+      - Pierre Ménard
+      dob:
+        y: 1947
+        m: 11
+        d: 30
+    - artistNames:
+      - André Lamy
+      dob:
+        y: 1948
+        m: 2
+        d: 8

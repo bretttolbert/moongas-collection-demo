@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - George Michael
+  dob:
+    y: 1963
+    m: 6
+    d: 25
+  dod:
+    y: 2016
+    m: 12
+    d: 25
   city: London
   countryCode: GB
   languageCodes:

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Earl Stevens
+      dob:
+        y: 1967
+        m: 11
+        d: 15

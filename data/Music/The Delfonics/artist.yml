@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - William Hart
+      dob:
+        y: 1945
+        m: 10
+        d: 17
+    - artistNames:
+      - Wilbert Hart
+      dob:
+        y: 1943
+        m: 7
+        d: 16
+    - artistNames:
+      - Randy Cain
+      dob:
+        y: 1944
+        m: 8
+        d: 2
+      dod:
+        y: 2009
+        m: 3
+        d: 9

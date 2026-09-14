@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-RCT
-  members: []
+  members:
+    - artistNames:
+      - Tom Jones
+      dob:
+        y: 1940
+        m: 6
+        d: 7

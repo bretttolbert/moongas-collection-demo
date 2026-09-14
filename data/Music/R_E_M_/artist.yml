@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Michael Stipe
+      dob:
+        y: 1960
+        m: 1
+        d: 4
+    - artistNames:
+      - Peter Buck
+      dob:
+        y: 1966
+        m: 12
+        d: 12
+    - artistNames:
+      - Mike Mills
+      dob:
+        y: 1966
+        m: 12
+        d: 17
+    - artistNames:
+      - Bill Berry
+      dob:
+        y: 1958
+        m: 7
+        d: 31

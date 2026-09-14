@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Lee Ann Womack
+  dob:
+    y: 1970
+    m: 8
+    d: 19
   city: Jacksonville
   countryCode: US
   languageCodes:

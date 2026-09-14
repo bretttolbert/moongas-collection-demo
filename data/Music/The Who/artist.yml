@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Roger Daltrey
+      dob:
+        y: 1944
+        m: 3
+        d: 1
+    - artistNames:
+      - Pete Townshend
+      dob:
+        y: 1945
+        m: 5
+        d: 19
+    - artistNames:
+      - John Entwistle
+      dob:
+        y: 1944
+        m: 10
+        d: 9
+      dod:
+        y: 2002
+        m: 6
+        d: 27
+    - artistNames:
+      - Keith Moon
+      dob:
+        y: 1946
+        m: 8
+        d: 23
+      dod:
+        y: 1978
+        m: 9
+        d: 7

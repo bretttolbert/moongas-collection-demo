@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Adolph Thornton Jr.
+      dob:
+        y: 1990
+        m: 8
+        d: 11
+      dod:
+        y: 2021
+        m: 11
+        d: 17

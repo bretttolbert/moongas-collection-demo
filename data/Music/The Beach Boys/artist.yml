@@ -45,3 +45,15 @@ artistData:
         y: 1983
         m: 12
         d: 28
+    - artistNames:
+      - Bruce Johnston
+      dob:
+        y: 1942
+        m: 4
+        d: 27
+    - artistNames:
+      - David Marks
+      dob:
+        y: 1948
+        m: 8
+        d: 22

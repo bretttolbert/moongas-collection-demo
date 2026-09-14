@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Sean Redman
+    - artistNames:
+      - Angela R. M. 
+    - artistNames:
+      - Dakota B. 
+    - artistNames:
+      - Daniel A.

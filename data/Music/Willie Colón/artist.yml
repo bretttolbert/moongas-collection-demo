@@ -7,3 +7,7 @@ artistData:
   members: []
   languageCodes:
   - es
+  dob:
+    y: 1950
+    m: 4
+    d: 28

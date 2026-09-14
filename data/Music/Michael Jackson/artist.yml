@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Michael Jackson
+  dob:
+    y: 1958
+    m: 8
+    d: 29
   city: Gary
   countryCode: US
   languageCodes:

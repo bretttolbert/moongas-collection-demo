@@ -6,4 +6,52 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Ian Carr
+      dob:
+        y: 1933
+        m: 4
+        d: 21
+    - artistNames:
+      - Don Rendell
+      dob:
+        y: 1929
+        m: 5
+        d: 4
+    - artistNames:
+      - Chris Spedding
+      dob:
+        y: 1944
+        m: 6
+        d: 17
+    - artistNames:
+      - Jeff Clyne
+      dob:
+        y: 1937
+        m: 8
+        d: 12
+    - artistNames:
+      - Brian Smith
+      dob:
+        y: 1940
+        m: 2
+        d: 15
+    - artistNames:
+      - Alan Skidmore
+      dob:
+        y: 1942
+        m: 6
+        d: 21
+    - artistNames:
+      - Roy Babbington
+      dob:
+        y: 1940
+        m: 8
+        d: 30
+    - artistNames:
+      - John Marshall
+      dob:
+        y: 1933
+        m: 7
+        d: 24

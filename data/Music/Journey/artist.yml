@@ -67,3 +67,9 @@ artistData:
         y: 1964
         m: 8
         d: 17
+    - artistNames:
+      - Steve Perry
+      dob:
+        y: 1949
+        m: 1
+        d: 22

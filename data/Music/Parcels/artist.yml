@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-NSW
-  members: []
+  members:
+    - artistNames:
+      - Noah Hill
+    - artistNames:
+      - Patrick Hetherington
+    - artistNames:
+      - Anwar Jibawi
+    - artistNames:
+      - Jules Crommelin
+    - artistNames:
+      - Louie Swain

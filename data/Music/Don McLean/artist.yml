@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Don McLean
+  dob:
+    y: 1945
+    m: 10
+    d: 2
   city: New Rochelle
   countryCode: US
   languageCodes:

@@ -37,3 +37,15 @@ artistData:
         y: 1990
         m: 6
         d: 10
+    - artistNames:
+      - Dan Tyminski
+      dob:
+        y: 1967
+        m: 6
+        d: 20
+    - artistNames:
+      - Tim Austin
+      dob:
+        y: 1965
+        m: 3
+        d: 29

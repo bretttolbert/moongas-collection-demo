@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Jack Tatum
+      dob:
+        y: 1989
+        m: 1
+        d: 1

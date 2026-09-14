@@ -41,3 +41,13 @@ artistData:
         y: 1965
         m: 3
         d: 12
+    - artistNames:
+      - Dave "Blood" Kauffman
+      dob:
+        y: 1964
+        m: 12
+        d: 22
+      dod:
+        y: 2004
+        m: 4
+        d: 7

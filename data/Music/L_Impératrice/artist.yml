@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Charles de Boisseguin
+    - artistNames:
+      - Flore Benguigui
+    - artistNames:
+      - Tom Daveau
+    - artistNames:
+      - Achille Trocellier
+    - artistNames:
+      - Hugo O'Farrill
+    - artistNames:
+      - Maïa Barouh

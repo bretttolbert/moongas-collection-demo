@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Ed Sanders
+      dob:
+        y: 1939
+        m: 4
+        d: 17
+    - artistNames:
+      - Tuli Kupferberg
+      dob:
+        y: 1923
+        m: 9
+        d: 28
+      dod:
+        y: 2010
+        m: 7
+        d: 12
+    - artistNames:
+      - Ken Weaver
+      dob:
+        y: 1942
+        m: 1
+        d: 1
+    - artistNames:
+      - Peter Stampfel
+      dob:
+        y: 1944
+        m: 1
+        d: 29
+    - artistNames:
+      - Steve Weber
+      dob:
+        y: 1944
+        m: 4
+        d: 25

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Ozzy Osbourne
+  dob:
+    y: 1948
+    m: 12
+    d: 3
   city: Birmingham
   countryCode: GB
   languageCodes:

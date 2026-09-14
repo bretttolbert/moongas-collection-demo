@@ -37,3 +37,21 @@ artistData:
         y: 1948
         m: 4
         d: 22
+    - artistNames:
+      - Donald Byrd
+      dob:
+        y: 1932
+        m: 12
+        d: 9
+    - artistNames:
+      - Harvey Mason
+      dob:
+        y: 1970
+        m: 2
+        d: 22
+    - artistNames:
+      - Michael P. Mossman
+      dob:
+        y: 1954
+        m: 10
+        d: 29

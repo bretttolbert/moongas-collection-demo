@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-VIC
-  members: []
+  members:
+    - artistNames:
+      - Michael Macias
+      dob:
+        y: 1993
+        m: 5
+        d: 15
+    - artistNames:
+      - Jono Ma
+      dob:
+        y: 1990
+        m: 8
+        d: 22

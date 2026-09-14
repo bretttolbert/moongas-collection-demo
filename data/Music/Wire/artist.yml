@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Colin Newman
+      dob:
+        y: 1954
+        m: 12
+        d: 16
+    - artistNames:
+      - Graham Lewis
+      dob:
+        y: 1953
+        m: 8
+        d: 1
+    - artistNames:
+      - Bruce Gilbert
+      dob:
+        y: 1952
+        m: 12
+        d: 6
+    - artistNames:
+      - Robert Gotobed
+      dob:
+        y: 1955
+        m: 10
+        d: 15
+    - artistNames:
+      - Matt Simms
+      dob:
+        y: 1970
+        m: 1
+        d: 1

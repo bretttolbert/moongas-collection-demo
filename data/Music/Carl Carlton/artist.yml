@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Carl Carlton
+      dob:
+        y: 1953
+        m: 5
+        d: 21

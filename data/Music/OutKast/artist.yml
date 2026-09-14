@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - André 3000
+      dob:
+        y: 1975
+        m: 5
+        d: 27
+    - artistNames:
+      - Big Boi
+      dob:
+        y: 1975
+        m: 2
+        d: 1

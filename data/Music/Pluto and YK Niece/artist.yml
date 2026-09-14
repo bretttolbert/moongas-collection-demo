@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Pluto
+    - artistNames:
+      - YK Niece

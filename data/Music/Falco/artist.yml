@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Falco
+  dob:
+    y: 1957
+    m: 2
+    d: 19
+  dod:
+    y: 1998
+    m: 2
+    d: 6
   city: Vienna
   countryCode: AT
   languageCodes:

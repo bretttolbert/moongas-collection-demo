@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - John Feldmann
+      dob:
+        y: 1969
+        m: 2
+        d: 29
+    - artistNames:
+      - Darrin Pfeiffer
+      dob:
+        y: 1971
+        m: 3
+        d: 24
+    - artistNames:
+      - Kelly Lemieux
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Phil Sneed
+      dob:
+        y: 1975
+        m: 5
+        d: 21
+    - artistNames:
+      - Simon Williams
+      dob:
+        y: 1975
+        m: 8
+        d: 12

@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Harold Melvin
+      dob:
+        y: 1930
+        m: 6
+        d: 25
+      dod:
+        y: 1997
+        m: 3
+        d: 24
+    - artistNames:
+      - Teddy Pendergrass
+      dob:
+        y: 1950
+        m: 3
+        d: 26
+      dod:
+        y: 2010
+        m: 1
+        d: 13
+    - artistNames:
+      - Lawrence Brown
+    - artistNames:
+      - Jerry Cummings
+    - artistNames:
+      - Billy Tolliver
+    - artistNames:
+      - Donnell Caron

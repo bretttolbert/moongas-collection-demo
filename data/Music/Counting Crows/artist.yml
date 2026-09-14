@@ -49,3 +49,15 @@ artistData:
         y: 1963
         m: 3
         d: 23
+    - artistNames:
+      - Matthew Malley
+      dob:
+        y: 1968
+        m: 4
+        d: 12
+    - artistNames:
+      - Michael Urbano
+      dob:
+        y: 1961
+        m: 8
+        d: 1

@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Lil' Jay
+      dob:
+        y: 1984
+        m: 1
+        d: 1
+    - artistNames:
+      - Princess
+      dob:
+        y: 1985
+        m: 5
+        d: 25
+    - artistNames:
+      - Killa C
+      dob:
+        y: 1983
+        m: 3
+        d: 15
+    - artistNames:
+      - M.I.G.
+      dob:
+        y: 1984
+        m: 7
+        d: 12

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Bernard Wright
+  dob:
+    y: 1963
+    m: 11
+    d: 16
   city: New York City
   countryCode: US
   languageCodes:

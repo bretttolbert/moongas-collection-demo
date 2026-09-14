@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ESS
-  members: []
+  members:
+    - artistNames:
+      - Vince Clarke
+      dob:
+        y: 1960
+        m: 7
+        d: 3
+    - artistNames:
+      - Alison Moyet
+      dob:
+        y: 1961
+        m: 6
+        d: 18

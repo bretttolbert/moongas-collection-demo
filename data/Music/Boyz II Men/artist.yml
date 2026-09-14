@@ -35,3 +35,19 @@ artistData:
         y: 2021
         m: 2
         d: 24
+    - artistNames:
+      - Marc Nelson
+      dob:
+        y: 1971
+        m: 1
+        d: 23
+    - artistNames:
+      - Mike McCary
+      dob:
+        y: 1971
+        m: 3
+        d: 13
+      dod:
+        y: 2021
+        m: 2
+        d: 24

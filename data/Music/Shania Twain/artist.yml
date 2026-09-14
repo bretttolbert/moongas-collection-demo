@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Shania Twain
+  dob:
+    y: 1965
+    m: 8
+    d: 28
   city: Windsor
   countryCode: CA
   languageCodes:

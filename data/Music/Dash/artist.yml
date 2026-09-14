@@ -13,3 +13,15 @@ artistData:
         y: 1993
         m: 5
         d: 1
+    - artistNames:
+      - K$upreme
+      dob:
+        y: 1994
+        m: 6
+        d: 15
+    - artistNames:
+      - 24hrs
+      dob:
+        y: 1993
+        m: 12
+        d: 1

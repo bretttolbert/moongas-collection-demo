@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: ES-PV
-  members: []
+  members:
+    - artistNames:
+      - Ekhi Lopetegi
+      dob:
+        y: 1983
+    - artistNames:
+      - Guillermo Astrain
+      dob:
+        y: 1983
+    - artistNames:
+      - Jesús A. A. L. 
+      dob:
+        y: 1983
+    - artistNames:
+      - Iñigo V. 
+      dob:
+        y: 1983

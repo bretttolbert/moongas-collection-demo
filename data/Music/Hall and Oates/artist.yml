@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Daryl Hall
+      dob:
+        y: 1946
+        m: 10
+        d: 11
+    - artistNames:
+      - John Oates
+      dob:
+        y: 1948
+        m: 4
+        d: 7

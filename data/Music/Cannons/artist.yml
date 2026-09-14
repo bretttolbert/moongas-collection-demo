@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Michelle Joy
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Ryan Clapham
+      dob:
+        y: 1989
+        m: 6
+        d: 15
+    - artistNames:
+      - Paul Davis
+      dob:
+        y: 1988
+        m: 3
+        d: 20

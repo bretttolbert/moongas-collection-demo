@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Claudia Alexandra Madriz Meza
+      dob:
+        y: 1987
+        m: 6
+        d: 24

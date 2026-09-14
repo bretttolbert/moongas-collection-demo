@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: IE-LM
-  members: []
+  members:
+    - artistNames:
+      - Dolores O'Riordan
+      dob:
+        y: 1971
+        m: 9
+        d: 6
+      dod:
+        y: 2018
+        m: 1
+        d: 15
+    - artistNames:
+      - Noel Hogan
+      dob:
+        y: 1971
+        m: 12
+        d: 25
+    - artistNames:
+      - Mike Hogan
+      dob:
+        y: 1970
+        m: 6
+        d: 29
+    - artistNames:
+      - Fergal Lawler
+      dob:
+        y: 1971
+        m: 3
+        d: 4

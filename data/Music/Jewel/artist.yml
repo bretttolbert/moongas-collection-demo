@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Jewel
+  dob:
+    y: 1974
+    m: 5
+    d: 23
   city: Homer
   countryCode: US
   languageCodes:

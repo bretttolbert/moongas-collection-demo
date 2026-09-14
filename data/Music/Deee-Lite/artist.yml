@@ -6,4 +6,23 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Lady Miss Kier
+      dob:
+        y: 1963
+        m: 8
+        d: 15
+    - artistNames:
+      - Dmitry Brill
+      - DJ Dmitry
+      dob:
+        y: 1967
+        m: 5
+        d: 1
+    - artistNames:
+      - Towa Tei
+      dob:
+        y: 1964
+        m: 4
+        d: 7

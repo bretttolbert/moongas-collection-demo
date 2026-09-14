@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - es
   regionCode: CO-ANT
-  members: []
+  members:
+    - artistNames:
+      - BLESSD
+      dob:
+        y: 1999
+        m: 1
+        d: 1
+    - artistNames:
+      - Ovy On The Drums
+      dob:
+        y: 1995
+        m: 5
+        d: 10

@@ -10,13 +10,37 @@ artistData:
   members:
     - artistNames: 
       - Bill Nershi
+      dob:
+        y: 1968
+        m: 12
+        d: 20
     - artistNames: 
       - Michael Kang
+      dob:
+        y: 1971
+        m: 8
+        d: 15
     - artistNames: 
       - Michael Travis
+      dob:
+        y: 1970
+        m: 4
+        d: 15
     - artistNames: 
       - Keith Moseley
+      dob:
+        y: 1970
+        m: 5
+        d: 24
     - artistNames: 
       - Kyle Hollingsworth
+      dob:
+        y: 1971
+        m: 12
+        d: 18
     - artistNames: 
       - Jason Hann
+      dob:
+        y: 1974
+        m: 1
+        d: 1

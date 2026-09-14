@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - T.I.
+  dob:
+    y: 1980
+    m: 9
+    d: 25
   city: Atlanta
   countryCode: US
   languageCodes:

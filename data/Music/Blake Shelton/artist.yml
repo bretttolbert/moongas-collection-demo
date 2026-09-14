@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Blake Shelton
+  dob:
+    y: 1976
+    m: 6
+    d: 18
   city: Ada
   countryCode: US
   languageCodes:

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Michael Goldwasser
+      artistRoles:
+      - guitar
+      - producer
+    - artistNames:
+      - Victor Rice
+      artistRoles:
+      - bass
+      - producer
+    - artistNames:
+      - Eric Smith
+      artistRoles:
+      - drums
+    - artistNames:
+      - Toots and the Maytals
+      artistRoles:
+      - guest vocals
+    - artistNames:
+      - Matisyahu
+      artistRoles:
+      - guest vocals
+    - artistNames:
+      - Steel Pulse
+      artistRoles:
+      - guest vocals
+    - artistNames:
+      - The Wailers
+      artistRoles:
+      - guest vocals

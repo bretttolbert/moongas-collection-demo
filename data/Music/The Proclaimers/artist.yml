@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-SCT
-  members: []
+  members:
+    - artistNames:
+      - Charlie Reid
+      dob:
+        y: 1962
+        m: 3
+        d: 5
+    - artistNames:
+      - Craig Reid
+      dob:
+        y: 1962
+        m: 3
+        d: 5

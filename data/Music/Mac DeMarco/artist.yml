@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Mac DeMarco
+  dob:
+    y: 1990
+    m: 4
+    d: 30
   city: Duncan
   countryCode: CA
   languageCodes:

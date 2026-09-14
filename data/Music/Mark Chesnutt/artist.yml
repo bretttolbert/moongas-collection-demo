@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Mark Chesnutt
+      dob:
+        y: 1970
+        m: 9
+        d: 6

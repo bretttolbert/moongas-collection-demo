@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Adam Freeland
+      dob:
+        y: 1970
+        m: 12
+        d: 15
+    - artistNames:
+      - DJ Spooky
+      dob:
+        y: 1970
+        m: 11
+        d: 6
+    - artistNames:
+      - The Crystal Method
+      dob:
+        y: 1993
+        m: 1
+        d: 1
+    - artistNames:
+      - Amon Tobin
+      dob:
+        y: 1972
+        m: 2
+        d: 8

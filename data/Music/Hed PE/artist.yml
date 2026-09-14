@@ -6,4 +6,29 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jared Gomes
+      dob:
+        y: 1970
+        m: 1
+        d: 8
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Mawk
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Kalel
+      artistRoles:
+      - bass
+    - artistNames:
+      - Tye Zamora
+      artistRoles:
+      - drums
+    - artistNames:
+      - DJ Product
+      artistRoles:
+      - turntables
+      - samples

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Lyle Lovett
+  dob:
+    y: 1957
+    m: 11
+    d: 1
   city: Klein
   countryCode: US
   languageCodes:

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Dierks Bentley
+  dob:
+    y: 1975
+    m: 11
+    d: 20
   city: Phoenix
   countryCode: US
   languageCodes:

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Alex Brown Church
+      dob:
+        y: 1982
+        m: 1
+        d: 1

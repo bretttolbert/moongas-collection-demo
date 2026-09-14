@@ -13,3 +13,11 @@ artistData:
         y: 1974
         m: 6
         d: 6
+    - artistNames:
+      - Mike Timmons
+    - artistNames:
+      - Jason "J" D. McCoy
+    - artistNames:
+      - Chris L. "C. J." D. McCoy
+    - artistNames:
+      - Brian "B. J." J. McCoy

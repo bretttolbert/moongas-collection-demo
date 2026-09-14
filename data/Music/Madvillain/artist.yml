@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - MF DOOM
+      dob:
+        y: 1971
+        m: 1
+        d: 9
+      dod:
+        y: 2020
+        m: 10
+        d: 31
+    - artistNames:
+      - Madlib
+      dob:
+        y: 1973
+        m: 10
+        d: 24

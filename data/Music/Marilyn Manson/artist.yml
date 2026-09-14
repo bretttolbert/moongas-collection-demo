@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Marilyn Manson
+  dob:
+    y: 1969
+    m: 1
+    d: 5
   city: Canton
   countryCode: US
   languageCodes:

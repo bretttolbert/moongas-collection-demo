@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Gary Wright
+      dob:
+        y: 1943
+        m: 4
+        d: 26

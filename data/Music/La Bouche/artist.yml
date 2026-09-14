@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-HE
-  members: []
+  members:
+    - artistNames:
+      - Melanie Thornton
+      dob:
+        y: 1971
+        m: 5
+        d: 13
+      dod:
+        y: 2001
+        m: 11
+        d: 24
+    - artistNames:
+      - Lane McCray
+      dob:
+        y: 1966
+        m: 6
+        d: 22

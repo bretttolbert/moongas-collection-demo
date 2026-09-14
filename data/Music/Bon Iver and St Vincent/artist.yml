@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WI
-  members: []
+  members:
+    - artistNames:
+      - Justin Vernon
+      dob:
+        y: 1981
+        m: 4
+        d: 30
+    - artistNames:
+      - Annie Clark
+      dob:
+        y: 1982
+        m: 9
+        d: 28

@@ -27,3 +27,7 @@ artistData:
       - Chris "C" D. Smith
     - artistNames:
       - Eric "E" B. Johnson
+  dob:
+    y: 2005
+    m: 1
+    d: 1

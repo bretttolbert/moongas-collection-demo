@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Michael Sembello
+  dob:
+    y: 1954
+    m: 4
+    d: 17
   city: Philadelphia
   countryCode: US
   languageCodes:

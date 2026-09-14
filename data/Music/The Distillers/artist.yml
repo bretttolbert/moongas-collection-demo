@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Brody Dalle
+      dob:
+        y: 1979
+        m: 9
+        d: 1
+    - artistNames:
+      - Tony Bradley
+    - artistNames:
+      - Ryan Sinn
+    - artistNames:
+      - Andy Granelli
+      dob:
+        y: 1978
+        m: 4
+        d: 22
+    - artistNames:
+      - Hunter Burgan
+      dob:
+        y: 1981
+        m: 8
+        d: 1

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Dion
+  dob:
+    y: 1939
+    m: 7
+    d: 18
   city: New York City
   countryCode: US
   languageCodes:

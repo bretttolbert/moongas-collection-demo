@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-QC
-  members: []
+  members:
+    - artistNames:
+      - Jessy Caron
+      dob:
+        y: 1994
+        m: 4
+        d: 12
+    - artistNames:
+      - Emma Proulx
+      dob:
+        y: 1995
+        m: 2
+        d: 22
+    - artistNames:
+      - Jorge Requena
+      dob:
+        y: 1994
+        m: 7
+        d: 15

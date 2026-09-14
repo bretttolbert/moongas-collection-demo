@@ -28,6 +28,10 @@ artistData:
     - artistNames:
       - Lil Wayne
       - Dwayne Michael Carter Jr.
+      dob:
+        y: 1982
+        m: 9
+        d: 27
       artistRoles:
       - rapper
       - vocals

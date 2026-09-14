@@ -71,3 +71,27 @@ artistData:
         y: 1970
         m: 9
         d: 18
+    - artistNames:
+      - Streetlife
+      dob:
+        y: 1971
+        m: 11
+        d: 24
+    - artistNames:
+      - Killah Priest
+      dob:
+        y: 1970
+        m: 8
+        d: 16
+    - artistNames:
+      - Shyheim
+      dob:
+        y: 1979
+        m: 11
+        d: 14
+    - artistNames:
+      - Bronze Nazareth
+      dob:
+        y: 1980
+        m: 1
+        d: 1

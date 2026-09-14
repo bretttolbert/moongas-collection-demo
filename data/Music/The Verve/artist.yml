@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WGN
-  members: []
+  members:
+    - artistNames:
+      - Richard Ashcroft
+      dob:
+        y: 1971
+        m: 9
+        d: 11
+    - artistNames:
+      - Nick McCabe
+      dob:
+        y: 1970
+        m: 6
+        d: 14
+    - artistNames:
+      - Simon Jones
+      dob:
+        y: 1970
+        m: 9
+        d: 24
+    - artistNames:
+      - Pete Salisbury
+      dob:
+        y: 1971
+        m: 8
+        d: 11
+    - artistNames:
+      - Mark Collins
+      dob:
+        y: 1972
+        m: 6
+        d: 7

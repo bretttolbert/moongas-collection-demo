@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LUT
-  members: []
+  members:
+    - artistNames:
+      - Paul Young
+      dob:
+        y: 1956
+        m: 1
+        d: 17

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Enitan Adepitan
+      dob:
+        y: 1999
+        m: 3
+        d: 4

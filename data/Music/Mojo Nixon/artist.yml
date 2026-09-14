@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Mojo Nixon
+      dob:
+        y: 1961
+        m: 12
+        d: 2

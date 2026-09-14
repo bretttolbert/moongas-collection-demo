@@ -25,3 +25,15 @@ artistData:
         y: 1958
         m: 9
         d: 16
+    - artistNames:
+      - John Sparrow
+      dob:
+        y: 1964
+        m: 1
+        d: 1
+    - artistNames:
+      - Guy Hoffman
+      dob:
+        y: 1964
+        m: 8
+        d: 15

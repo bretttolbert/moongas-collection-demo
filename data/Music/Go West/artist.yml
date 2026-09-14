@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Peter Cox
+      dob:
+        y: 1961
+        m: 12
+        d: 17
+    - artistNames:
+      - Richard Drummie
+      dob:
+        y: 1961
+        m: 6
+        d: 16

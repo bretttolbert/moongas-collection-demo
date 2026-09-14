@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Robert Plant
+      dob:
+        y: 1948
+        m: 8
+        d: 20
+    - artistNames:
+      - Jimmy Page
+      dob:
+        y: 1944
+        m: 1
+        d: 9
+    - artistNames:
+      - John Paul Jones
+      dob:
+        y: 1946
+        m: 1
+        d: 3
+    - artistNames:
+      - John Bonham
+      dob:
+        y: 1948
+        m: 5
+        d: 31
+      dod:
+        y: 1980
+        m: 9
+        d: 25

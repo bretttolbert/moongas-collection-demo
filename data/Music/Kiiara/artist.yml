@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Kiiara
+      dob:
+        y: 1996
+        m: 5
+        d: 24

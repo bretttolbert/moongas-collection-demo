@@ -6,4 +6,46 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - David Shaw
+      dob:
+        y: 1982
+        m: 7
+        d: 27
+    - artistNames:
+      - Zack Feinberg
+      dob:
+        y: 1984
+        m: 4
+        d: 12
+    - artistNames:
+      - Andrew Campanelli
+      dob:
+        y: 1983
+        m: 1
+        d: 15
+    - artistNames:
+      - Rob Ingraham
+      dob:
+        y: 1985
+        m: 9
+        d: 3
+    - artistNames:
+      - George Gekas
+      dob:
+        y: 1983
+        m: 6
+        d: 22
+    - artistNames:
+      - Michael Girardot
+      dob:
+        y: 1985
+        m: 5
+        d: 19
+    - artistNames:
+      - Ed Williams
+      dob:
+        y: 1984
+        m: 8
+        d: 30

@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Sam France
+      dob:
+        y: 1990
+        m: 7
+        d: 26
+    - artistNames:
+      - Jonathan Rado
+      dob:
+        y: 1989
+        m: 8
+        d: 24

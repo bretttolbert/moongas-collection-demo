@@ -41,3 +41,21 @@ artistData:
         d: 14
       artistRoles:
       - drums
+    - artistNames:
+      - Heather McAdams
+      dob:
+        y: 1971
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Matt Walker
+      dob:
+        y: 1970
+        m: 8
+        d: 10
+      artistRoles:
+      - drums
+      - percussion

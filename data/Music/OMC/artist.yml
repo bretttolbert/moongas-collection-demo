@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: NZ-AUK
-  members: []
+  members:
+    - artistNames:
+      - Pauly Fuemana
+      dob:
+        y: 1973
+        m: 12
+        d: 8
+    - artistNames:
+      - Alan Jansson
+      dob:
+        y: 1966
+        m: 5
+        d: 23

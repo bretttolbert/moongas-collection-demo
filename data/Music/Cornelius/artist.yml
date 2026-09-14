@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - ja
   regionCode: JP-13
-  members: []
+  members:
+    - artistNames:
+      - Keigo Oyamada
+      dob:
+        y: 1969
+        m: 3
+        d: 27

@@ -19,9 +19,25 @@ artistData:
         d: 22
     - artistNames:
       - Scott Shields
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - Pablo Cook
+      dob:
+        y: 1970
+        m: 5
+        d: 1
     - artistNames:
       - Martin Slattery
+      dob:
+        y: 1970
+        m: 6
+        d: 1
     - artistNames:
       - Tymon Dogg
+      dob:
+        y: 1956
+        m: 5
+        d: 1

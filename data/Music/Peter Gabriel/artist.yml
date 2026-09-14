@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-SRY
-  members: []
+  members:
+    - artistNames:
+      - Peter Gabriel
+      dob:
+        y: 1950
+        m: 2
+        d: 13

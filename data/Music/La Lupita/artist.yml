@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Felipe "Pipo" Martínez
+    - artistNames:
+      - César "Chato" Mendoza
+    - artistNames:
+      - Jorge "Chilango" Lizardi
+    - artistNames:
+      - Javier "Javi" Lizardi
+    - artistNames:
+      - José "Pepe" Lizardi

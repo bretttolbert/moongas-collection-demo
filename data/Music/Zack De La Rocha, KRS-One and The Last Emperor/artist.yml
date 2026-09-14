@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Zack De La Rocha
+      dob:
+        y: 1970
+        m: 9
+        d: 12
+    - artistNames:
+      - KRS-One
+      dob:
+        y: 1965
+        m: 8
+        d: 20
+    - artistNames:
+      - The Last Emperor
+      dob:
+        y: 1978
+        m: 1
+        d: 1

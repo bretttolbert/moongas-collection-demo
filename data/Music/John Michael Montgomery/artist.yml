@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - John Michael Montgomery
+  dob:
+    y: 1973
+    m: 1
+    d: 20
   city: Danville
   countryCode: US
   languageCodes:

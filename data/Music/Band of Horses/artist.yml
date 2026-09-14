@@ -38,3 +38,30 @@ artistData:
       artistRoles:
       - keyboards
       - guitar
+    - artistNames:
+      - Tyler Ramsey
+      dob:
+        y: 1976
+        m: 10
+        d: 29
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Bill Reynolds
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Sera Cahoone
+      dob:
+        y: 1980
+        m: 5
+        d: 4
+      artistRoles:
+      - drums
+      - backing vocals

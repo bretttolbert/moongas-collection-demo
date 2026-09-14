@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Clementine Creevy
+      dob:
+        y: 1998
+        m: 11
+        d: 18
+    - artistNames:
+      - Sean Redman
+    - artistNames:
+      - Tabor Allen

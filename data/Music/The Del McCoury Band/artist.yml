@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Del McCoury
+      dob:
+        y: 1939
+        m: 2
+        d: 1
+    - artistNames:
+      - Rob McCoury
+      dob:
+        y: 1970
+        m: 3
+        d: 16
+    - artistNames:
+      - Ronnie McCoury
+      dob:
+        y: 1970
+        m: 3
+        d: 16
+    - artistNames:
+      - Jason Carter
+      dob:
+        y: 1975
+        m: 1
+        d: 1
+    - artistNames:
+      - Alan Bartram
+      dob:
+        y: 1970
+        m: 5
+        d: 10

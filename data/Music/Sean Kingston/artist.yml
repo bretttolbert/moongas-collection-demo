@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Sean Kingston
+  dob:
+    y: 1990
+    m: 2
+    d: 3
   city: Miami
   countryCode: US
   languageCodes:

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LUT
-  members: []
+  members:
+    - artistNames:
+      - Peter White
+      dob:
+        y: 1960
+        m: 2
+        d: 10

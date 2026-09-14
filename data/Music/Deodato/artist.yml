@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - pt
   regionCode: BR-RJ
-  members: []
+  members:
+    - artistNames:
+      - Eumir Deodato
+      dob:
+        y: 1943
+        m: 6
+        d: 22

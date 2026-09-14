@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Will Oldham
+      dob:
+        y: 1970
+        m: 12
+        d: 15

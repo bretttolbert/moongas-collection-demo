@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - George Jones
+  dob:
+    y: 1931
+    m: 9
+    d: 12
+  dod:
+    y: 2013
+    m: 4
+    d: 26
   city: Saratoga
   countryCode: US
   languageCodes:

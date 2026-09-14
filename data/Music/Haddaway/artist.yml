@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: TT-POS
-  members: []
+  members:
+    - artistNames:
+      - Haddaway
+      dob:
+        y: 1965
+        m: 1
+        d: 9

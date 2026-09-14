@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Leah Wellbaum
+      dob:
+        y: 1991
+        m: 4
+        d: 8
+    - artistNames:
+      - Kyle Bann
+      dob:
+        y: 1991
+        m: 5
+        d: 15
+    - artistNames:
+      - Adam Wasserman
+      dob:
+        y: 1990
+        m: 9
+        d: 20

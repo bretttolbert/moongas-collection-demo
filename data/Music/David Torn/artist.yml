@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - David Torn
+      dob:
+        y: 1953
+        m: 1
+        d: 26

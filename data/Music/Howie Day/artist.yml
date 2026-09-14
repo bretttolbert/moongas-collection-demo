@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-ME
-  members: []
+  members:
+    - artistNames:
+      - Howie Day
+      dob:
+        y: 1981
+        m: 1
+        d: 15

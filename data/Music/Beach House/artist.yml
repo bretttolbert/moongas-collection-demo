@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MD
-  members: []
+  members:
+    - artistNames:
+      - Victoria Legrand
+      dob:
+        y: 1986
+        m: 5
+        d: 28
+    - artistNames:
+      - Alex Scally
+      dob:
+        y: 1982
+        m: 4
+        d: 29

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Yellowman
+      dob:
+        y: 1965
+        m: 1
+        d: 15

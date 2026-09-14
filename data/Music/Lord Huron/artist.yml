@@ -21,3 +21,7 @@ artistData:
       - Tom Renaud
     - artistNames:
       - Kyle Kegerreis
+      dob:
+        y: 1991
+        m: 4
+        d: 15

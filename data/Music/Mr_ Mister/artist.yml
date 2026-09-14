@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AZ
-  members: []
+  members:
+    - artistNames:
+      - Richard Page
+      dob:
+        y: 1953
+        m: 4
+        d: 16
+    - artistNames:
+      - John Lang
+      dob:
+        y: 1958
+        m: 11
+        d: 12
+    - artistNames:
+      - Steve George
+      dob:
+        y: 1955
+        m: 12
+        d: 28
+    - artistNames:
+      - Pat Mastelotto
+      dob:
+        y: 1955
+        m: 4
+        d: 10

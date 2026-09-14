@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Jehnny Beth
+      dob:
+        y: 1984
+        m: 4
+        d: 24
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Gemma Thompson
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Ayse Hassan
+      artistRoles:
+      - bass
+    - artistNames:
+      - Fay Milton
+      artistRoles:
+      - drums
+    - artistNames:
+      - Tripcat
+      artistRoles:
+      - electronic music

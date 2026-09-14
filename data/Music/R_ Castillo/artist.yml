@@ -1,9 +1,9 @@
 artistData:
   artistNames:
   - R. Castillo
-  city: ''
+  city: Mexico City
   countryCode: MX
   languageCodes:
   - es
-  regionCode: ''
+  regionCode: MX-CMX
   members: []

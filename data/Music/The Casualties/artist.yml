@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Jorge Herrera
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Jake Kolatis
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Brian "Kato" McCormack
+      artistRoles:
+      - bass
+    - artistNames:
+      - Davey Havok
+      artistRoles:
+      - drums
+    - artistNames:
+      - Chris "Crispy" Cummings
+      artistRoles:
+      - guitar

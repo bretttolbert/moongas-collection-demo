@@ -18,4 +18,8 @@ artistData:
     - artistNames:
       - Daniel G. 
     - artistNames:
-      - Chris A.
+      - Chris A. 
+      dob:
+        y: 1992
+        m: 4
+        d: 20

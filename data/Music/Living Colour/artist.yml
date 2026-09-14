@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Corey Glover
+      dob:
+        y: 1970
+        m: 11
+        d: 6
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Vernon Reid
+      dob:
+        y: 1966
+        m: 8
+        d: 22
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Doug Wimbish
+      dob:
+        y: 1964
+        m: 4
+        d: 13
+      artistRoles:
+      - bass
+    - artistNames:
+      - Will Calhoun
+      dob:
+        y: 1964
+        m: 11
+        d: 22
+      artistRoles:
+      - drums

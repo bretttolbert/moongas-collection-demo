@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - tmh
   regionCode: NE-1
-  members: []
+  members:
+    - artistNames:
+      - Mdou Moctar
+      dob:
+        y: 1988
+        m: 10
+        d: 1

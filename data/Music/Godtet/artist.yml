@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-NSW
-  members: []
+  members:
+    - artistNames:
+      - Godtet
+      artistRoles:
+      - band

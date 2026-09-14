@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Donnie Emerson
+      dob:
+        y: 1951
+        m: 1
+        d: 1
+    - artistNames:
+      - Joe Emerson
+      dob:
+        y: 1954
+        m: 1
+        d: 1

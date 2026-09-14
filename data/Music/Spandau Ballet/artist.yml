@@ -37,3 +37,15 @@ artistData:
         y: 1960
         m: 10
         d: 25
+    - artistNames:
+      - Ross McCall
+      dob:
+        y: 1964
+        m: 11
+        d: 15
+    - artistNames:
+      - Richard Miller
+      dob:
+        y: 1960
+        m: 5
+        d: 1

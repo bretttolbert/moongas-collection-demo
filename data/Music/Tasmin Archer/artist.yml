@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WYK
-  members: []
+  members:
+    - artistNames:
+      - Tasmin Archer
+      dob:
+        y: 1969
+        m: 8
+        d: 3

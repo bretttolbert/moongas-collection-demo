@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-VIC
-  members: []
+  members:
+    - artistNames:
+      - Chris Cheney
+      dob:
+        y: 1979
+        m: 1
+        d: 2
+    - artistNames:
+      - Scott Owen
+      dob:
+        y: 1979
+        m: 6
+        d: 19
+    - artistNames:
+      - Andy Strachan
+      dob:
+        y: 1978
+        m: 5
+        d: 20

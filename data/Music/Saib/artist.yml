@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: MA-CAS
-  members: []
+  members:
+    - artistNames:
+      - Saib
+      dob:
+        y: 1996
+        m: 5
+        d: 10

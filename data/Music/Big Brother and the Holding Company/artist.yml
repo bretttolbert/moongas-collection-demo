@@ -49,3 +49,9 @@ artistData:
         y: 2021
         m: 12
         d: 20
+    - artistNames:
+      - Bob Mosley
+      dob:
+        y: 1942
+        m: 12
+        d: 4

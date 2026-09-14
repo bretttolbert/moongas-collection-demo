@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Finley Quaye
+  dob:
+    y: 1974
+    m: 3
+    d: 25
   city: Edinburgh
   countryCode: GB
   languageCodes:

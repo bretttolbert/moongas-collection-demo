@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Black Francis
+      dob:
+        y: 1965
+        m: 4
+        d: 12
+    - artistNames:
+      - Joey Santiago
+      dob:
+        y: 1965
+        m: 6
+        d: 10
+    - artistNames:
+      - Kim Deal
+      dob:
+        y: 1961
+        m: 6
+        d: 10
+    - artistNames:
+      - David Lovering
+      dob:
+        y: 1961
+        m: 4
+        d: 19

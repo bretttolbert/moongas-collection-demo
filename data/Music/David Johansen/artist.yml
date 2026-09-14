@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - David Johansen
+  dob:
+    y: 1950
+    m: 1
+    d: 9
   city: New York City
   countryCode: US
   languageCodes:

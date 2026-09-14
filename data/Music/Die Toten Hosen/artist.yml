@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - de
   regionCode: DE-NW
-  members: []
+  members:
+    - artistNames:
+      - Campino
+      dob:
+        y: 1962
+        m: 6
+        d: 22
+    - artistNames:
+      - Andreas von Holst
+      dob:
+        y: 1965
+        m: 4
+        d: 1
+    - artistNames:
+      - Michael Breitkopf
+      dob:
+        y: 1965
+        m: 3
+        d: 15
+    - artistNames:
+      - Katja L. 
+    - artistNames:
+      - Vom
+      dob:
+        y: 1965
+        m: 6
+        d: 1
+    - artistNames:
+      - Rocco
+      dob:
+        y: 1963
+        m: 12
+        d: 1

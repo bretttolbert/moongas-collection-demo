@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Jorge "El Chino" Cárdenas
+      dob:
+        y: 1970
+        m: 5
+        d: 15
+    - artistNames:
+      - José "Pepe" Cárdenas
+      dob:
+        y: 1972
+        m: 8
+        d: 22
+    - artistNames:
+      - Javier "El Gato" Cárdenas
+      dob:
+        y: 1975
+        m: 3
+        d: 10
+    - artistNames:
+      - Manuel "El Chato" Cárdenas
+      dob:
+        y: 1973
+        m: 11
+        d: 30

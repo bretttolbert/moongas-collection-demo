@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Jack Cooper
+      dob:
+        y: 1986
+        m: 1
+        d: 1
+    - artistNames:
+      - James Hoare
+      dob:
+        y: 1986
+        m: 5
+        d: 5
+    - artistNames:
+      - Veronica Falls
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - The Proper Ornaments
+      artistRoles:
+      - guitar
+      - vocals

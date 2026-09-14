@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Todd Snider
+  dob:
+    y: 1966
+    m: 10
+    d: 11
   city: Portland
   countryCode: US
   languageCodes:

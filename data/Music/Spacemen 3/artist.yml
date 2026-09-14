@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WAR
-  members: []
+  members:
+    - artistNames:
+      - Peter Kember
+      dob:
+        y: 1965
+        m: 11
+        d: 19
+    - artistNames:
+      - Jason Pierce
+      dob:
+        y: 1965
+        m: 7
+        d: 18
+    - artistNames:
+      - Will Carruthers
+      dob:
+        y: 1967
+        m: 1
+        d: 1
+    - artistNames:
+      - Sonic Boom
+      dob:
+        y: 1965
+        m: 11
+        d: 19
+    - artistNames:
+      - Rosco
+      dob:
+        y: 1965
+        m: 6
+        d: 15

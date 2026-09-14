@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-NSW
-  members: []
+  members:
+    - artistNames:
+      - Christina Amphlett
+      dob:
+        y: 1960
+        m: 10
+        d: 25
+      dod:
+        y: 2013
+        m: 4
+        d: 21
+    - artistNames:
+      - Mark McEntee
+      dob:
+        y: 1961
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Ricki Wilde
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jeremy Paul
+      artistRoles:
+      - drums
+    - artistNames:
+      - John McBride
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Ian "Pinky" McFarlane
+      artistRoles:
+      - guitar

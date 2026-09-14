@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: SE-O
-  members: []
+  members:
+    - artistNames:
+      - José González
+      dob:
+        y: 1978
+        m: 7
+        d: 21
+    - artistNames:
+      - Elias Araya
+    - artistNames:
+      - Tobias Winterkorn

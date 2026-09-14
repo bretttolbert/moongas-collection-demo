@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Guadalupe Pineda
+      dob:
+        y: 1955
+        m: 8
+        d: 23

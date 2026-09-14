@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Victor Jara
+  dob:
+    y: 1932
+    m: 9
+    d: 28
+  dod:
+    y: 1973
+    m: 9
+    d: 16
   city: Santiago
   countryCode: CL
   languageCodes:

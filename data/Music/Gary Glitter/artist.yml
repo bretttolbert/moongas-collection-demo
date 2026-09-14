@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Gary Glitter
+      dob:
+        y: 1944
+        m: 5
+        d: 8

@@ -6,4 +6,30 @@ artistData:
   languageCodes:
   - en
   regionCode: ES-IB
-  members: []
+  members:
+    - artistNames:
+      - Michael Cretu
+      dob:
+        y: 1957
+        m: 5
+        d: 18
+    - artistNames:
+      - Sandra Cretu
+      dob:
+        y: 1962
+        m: 5
+        d: 18
+    - artistNames:
+      - David Fairstein
+    - artistNames:
+      - Frank Peterson
+      dob:
+        y: 1963
+        m: 1
+        d: 1
+    - artistNames:
+      - Ruth-Ann Boyle
+      dob:
+        y: 1971
+        m: 1
+        d: 1

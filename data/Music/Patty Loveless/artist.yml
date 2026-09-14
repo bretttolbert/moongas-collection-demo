@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Patty Loveless
+      dob:
+        y: 1957
+        m: 1
+        d: 4

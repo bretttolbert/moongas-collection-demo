@@ -7,3 +7,7 @@ artistData:
   members: []
   languageCodes:
   - zh
+  dob:
+    y: 2020
+    m: 1
+    d: 1

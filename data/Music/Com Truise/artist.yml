@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Seth Haley
+      dob:
+        y: 1986
+        m: 5
+        d: 23

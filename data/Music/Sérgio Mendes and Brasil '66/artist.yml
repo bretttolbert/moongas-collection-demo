@@ -6,4 +6,27 @@ artistData:
   languageCodes:
   - es
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Sérgio Mendes
+      dob:
+        y: 1941
+        m: 2
+        d: 11
+    - artistNames:
+      - Lani Hall
+      dob:
+        y: 1945
+        m: 11
+        d: 6
+    - artistNames:
+      - Brasil '66
+      artistRoles:
+      - backing vocals
+      - percussion
+      - guitar
+      - bass
+      - drums
+      - keyboards
+      - horns
+      - strings

@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - David Byrne
+      dob:
+        y: 1952
+        m: 5
+        d: 14
+    - artistNames:
+      - Tina Weymouth
+      dob:
+        y: 1950
+        m: 11
+        d: 22
+    - artistNames:
+      - Chris Frantz
+      dob:
+        y: 1956
+        m: 5
+        d: 8
+    - artistNames:
+      - Jerry Harrison
+      dob:
+        y: 1949
+        m: 2
+        d: 21

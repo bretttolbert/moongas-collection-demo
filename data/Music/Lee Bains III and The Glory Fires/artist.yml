@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Lee Bains III
+      dob:
+        y: 1985
+        m: 5
+        d: 15
+    - artistNames:
+      - Blake Williamson
+    - artistNames:
+      - Matt Patton
+    - artistNames:
+      - John B. McKinnon
+    - artistNames:
+      - Josh Latham

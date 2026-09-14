@@ -1,9 +1,19 @@
 artistData:
   artistNames:
-  - Carín León, Grupo Frontera
+  - Carín León
+  - Grupo Frontera
   city: Hermosillo
   countryCode: MX
   languageCodes:
   - es
   regionCode: MX-SON
+  members:
+    - artistNames:
+      - Carín León
+      dob:
+        y: 1999
+        m: 10
+        d: 15
+    - artistNames:
+      - Grupo Frontera
   members: []

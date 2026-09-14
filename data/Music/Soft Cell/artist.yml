@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LDS
-  members: []
+  members:
+    - artistNames:
+      - Marc Almond
+      dob:
+        y: 1957
+        m: 7
+        d: 9
+    - artistNames:
+      - David Ball
+      dob:
+        y: 1961
+        m: 5
+        d: 2

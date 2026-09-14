@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Curtis Ousley
+      dob:
+        y: 1934
+        m: 2
+        d: 7
+      dod:
+        y: 1997
+        m: 8
+        d: 13

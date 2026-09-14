@@ -3,6 +3,10 @@ artistData:
   - Plini
   city: Sydney
   countryCode: AU
+  dob:
+    y: 1992
+    m: 4
+    d: 27
   languageCodes:
   - en
   regionCode: AU-NSW

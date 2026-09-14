@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - es
   regionCode: CO-ANT
-  members: []
+  members:
+    - artistNames:
+      - Maluma
+      dob:
+        y: 1994
+        m: 5
+        d: 28
+    - artistNames:
+      - The Weeknd
+      dob:
+        y: 1990
+        m: 2
+        d: 16

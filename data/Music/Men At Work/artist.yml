@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-VIC
-  members: []
+  members:
+    - artistNames:
+      - Colin Hay
+      dob:
+        y: 1953
+        m: 6
+        d: 29
+    - artistNames:
+      - Ron Strykert
+      dob:
+        y: 1955
+        m: 12
+        d: 23
+    - artistNames:
+      - John Rees
+      dob:
+        y: 1956
+        m: 1
+        d: 1
+    - artistNames:
+      - Jerry Speiser
+      dob:
+        y: 1956
+        m: 11
+        d: 22
+    - artistNames:
+      - Greg Ham
+      dob:
+        y: 1953
+        m: 9
+        d: 27
+      dod:
+        y: 2012
+        m: 4
+        d: 15

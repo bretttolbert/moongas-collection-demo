@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Leigh Nash
+      dob:
+        y: 1976
+        m: 6
+        d: 27
+    - artistNames:
+      - Matt Slocum
+      dob:
+        y: 1973
+        m: 4
+        d: 10

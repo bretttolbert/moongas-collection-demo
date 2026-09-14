@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Trent Reznor
+      dob:
+        y: 1965
+        m: 5
+        d: 17
+    - artistNames:
+      - Atticus Ross
+      dob:
+        y: 1980
+        m: 1
+        d: 7
+    - artistNames:
+      - Robin Finck
+      dob:
+        y: 1971
+        m: 11
+        d: 7
+    - artistNames:
+      - Alessandro Cortini
+      dob:
+        y: 1976
+        m: 5
+        d: 24
+    - artistNames:
+      - Ilan Rubin
+      dob:
+        y: 1988
+        m: 7
+        d: 7

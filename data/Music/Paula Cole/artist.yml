@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Paula Cole
+  dob:
+    y: 1969
+    m: 4
+    d: 5
   city: Rockport
   countryCode: US
   languageCodes:

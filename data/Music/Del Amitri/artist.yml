@@ -49,3 +49,21 @@ artistData:
         y: 1965
         m: 9
         d: 9
+    - artistNames:
+      - John McGlynn
+      dob:
+        y: 1966
+        m: 2
+        d: 2
+    - artistNames:
+      - Stuart Nisbet
+      dob:
+        y: 1966
+        m: 4
+        d: 4
+    - artistNames:
+      - Michael McDaid
+      dob:
+        y: 1966
+        m: 6
+        d: 6

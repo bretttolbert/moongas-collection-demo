@@ -19,3 +19,7 @@ artistData:
         d: 24
   languageCodes:
   - en
+  dob:
+    y: 2005
+    m: 1
+    d: 1

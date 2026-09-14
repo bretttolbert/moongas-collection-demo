@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Martha Johnson
+      dob:
+        y: 1955
+        m: 6
+        d: 28
+    - artistNames:
+      - Mark Gane
+      dob:
+        y: 1956
+        m: 9
+        d: 12
+    - artistNames:
+      - Tim Gane
+      dob:
+        y: 1956
+        m: 11
+        d: 12
+    - artistNames:
+      - Andy Haas
+      dob:
+        y: 1955
+        m: 3
+        d: 15
+    - artistNames:
+      - Paul Kersey
+      dob:
+        y: 1957
+        m: 4
+        d: 20

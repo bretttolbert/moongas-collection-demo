@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Ryan Tedder
+      dob:
+        y: 1979
+        m: 6
+        d: 26
+    - artistNames:
+      - Robb McDaniels
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Tasha Ray
+      dob:
+        y: 1981
+        m: 3
+        d: 15

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Jason Mraz
+  dob:
+    y: 1977
+    m: 6
+    d: 23
   city: Mechanicsville
   countryCode: US
   languageCodes:

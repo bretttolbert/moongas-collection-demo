@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Saúl Hernández
+      dob:
+        y: 1964
+        m: 1
+        d: 15
+    - artistNames:
+      - Sabo Romo
+      dob:
+        y: 1955
+        m: 1
+        d: 1
+    - artistNames:
+      - Alfonso André
+      dob:
+        y: 1970
+        m: 8
+        d: 15
+    - artistNames:
+      - César "Chino" Mendez
+      dob:
+        y: 1968
+        m: 12
+        d: 5

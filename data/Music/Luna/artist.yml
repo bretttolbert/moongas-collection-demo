@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Dean Wareham
+      dob:
+        y: 1963
+        m: 7
+        d: 4
+    - artistNames:
+      - Britta Phillips
+      dob:
+        y: 1963
+        m: 6
+        d: 29
+    - artistNames:
+      - Sean Eden
+      dob:
+        y: 1970
+        m: 3
+        d: 1
+    - artistNames:
+      - Lee Wall
+      dob:
+        y: 1970
+        m: 5
+        d: 15

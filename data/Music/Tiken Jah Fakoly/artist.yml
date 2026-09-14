@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: CI-31
-  members: []
+  members:
+    - artistNames:
+      - Tiken Jah Fakoly
+      dob:
+        y: 1968
+        m: 6
+        d: 23

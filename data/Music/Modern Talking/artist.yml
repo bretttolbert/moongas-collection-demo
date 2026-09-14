@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - Thomas Anders
+      dob:
+        y: 1963
+        m: 3
+        d: 4
+    - artistNames:
+      - Dieter Bohlen
+      dob:
+        y: 1953
+        m: 2
+        d: 7

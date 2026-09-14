@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - es
   regionCode: PY-ASU
-  members: []
+  members:
+    - artistNames:
+      - Carlos "Charly" García
+      dob:
+        y: 1947
+        m: 10
+        d: 23
+    - artistNames:
+      - Luis Alberto Spinetta
+      dob:
+        y: 1950
+        m: 1
+        d: 23
+    - artistNames:
+      - Gustavo Cerati
+      dob:
+        y: 1967
+        m: 8
+        d: 11
+    - artistNames:
+      - Fito Páez
+      dob:
+        y: 1963
+        m: 3
+        d: 13
+    - artistNames:
+      - Andrés Ciro Martínez
+      dob:
+        y: 1970
+        m: 1
+        d: 11

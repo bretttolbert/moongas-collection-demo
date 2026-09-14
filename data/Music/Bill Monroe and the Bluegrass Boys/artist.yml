@@ -6,4 +6,64 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KY
-  members: []
+  members:
+    - artistNames:
+      - Bill Monroe
+      dob:
+        y: 1911
+        m: 9
+        d: 13
+      dod:
+        y: 1996
+        m: 9
+        d: 9
+    - artistNames:
+      - Charlie Monroe
+      dob:
+        y: 1905
+        m: 12
+        d: 4
+      dod:
+        y: 1996
+        m: 5
+        d: 10
+    - artistNames:
+      - Lester Flatt
+      dob:
+        y: 1914
+        m: 6
+        d: 19
+      dod:
+        y: 1979
+        m: 5
+        d: 11
+    - artistNames:
+      - Earl Scruggs
+      dob:
+        y: 1924
+        m: 1
+        d: 6
+      dod:
+        y: 2012
+        m: 3
+        d: 28
+    - artistNames:
+      - Chubby Wise
+      dob:
+        y: 1915
+        m: 12
+        d: 18
+      dod:
+        y: 1996
+        m: 12
+        d: 12
+    - artistNames:
+      - Howard Watts
+      dob:
+        y: 1922
+        m: 1
+        d: 1
+      dod:
+        y: 2003
+        m: 12
+        d: 31

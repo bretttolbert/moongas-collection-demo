@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Tracy Byrd
+      dob:
+        y: 1966
+        m: 12
+        d: 17

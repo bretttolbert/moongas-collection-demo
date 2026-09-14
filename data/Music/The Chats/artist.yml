@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-QLD
-  members: []
+  members:
+    - artistNames:
+      - Eamon Sandwith
+      dob:
+        y: 1995
+        m: 9
+        d: 12
+    - artistNames:
+      - Matt Boggis
+      dob:
+        y: 1995
+        m: 10
+        d: 5
+    - artistNames:
+      - Josh Price
+      dob:
+        y: 1995
+        m: 8
+        d: 20

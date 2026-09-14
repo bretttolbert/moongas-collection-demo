@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-CRD
-  members: []
+  members:
+    - artistNames:
+      - Karl Hyde
+      dob:
+        y: 1967
+        m: 5
+        d: 10
+    - artistNames:
+      - Rick Smith
+      dob:
+        y: 1967
+        m: 1
+        d: 1

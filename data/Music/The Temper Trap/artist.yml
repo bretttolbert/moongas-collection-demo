@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-VIC
-  members: []
+  members:
+    - artistNames:
+      - Dougy Mandagi
+      dob:
+        y: 1981
+        m: 10
+        d: 24
+    - artistNames:
+      - Lorenzo Sillitto
+      dob:
+        y: 1982
+        m: 5
+        d: 12
+    - artistNames:
+      - Jonathon Aherne
+      dob:
+        y: 1982
+        m: 8
+        d: 4
+    - artistNames:
+      - Richard Andrew
+      dob:
+        y: 1981
+        m: 1
+        d: 1

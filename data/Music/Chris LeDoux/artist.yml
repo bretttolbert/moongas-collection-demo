@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Chris LeDoux
+  dob:
+    y: 1948
+    m: 1
+    d: 2
   city: Biloxi
   countryCode: US
   languageCodes:

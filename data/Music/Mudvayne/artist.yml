@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Chad Gray
+      dob:
+        y: 1971
+        m: 10
+        d: 15
+    - artistNames:
+      - Greg Tribbett
+      dob:
+        y: 1971
+        m: 10
+        d: 12
+    - artistNames:
+      - Ryan Martinie
+      dob:
+        y: 1974
+        m: 6
+        d: 6
+    - artistNames:
+      - Matthew McDonough
+      dob:
+        y: 1974
+        m: 1
+        d: 24

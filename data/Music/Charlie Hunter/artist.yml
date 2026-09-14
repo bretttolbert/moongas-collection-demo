@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-RI
-  members: []
+  members:
+    - artistNames:
+      - Charlie Hunter
+      dob:
+        y: 1971
+        m: 4
+        d: 23

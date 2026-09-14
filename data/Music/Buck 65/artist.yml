@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-NS
-  members: []
+  members:
+    - artistNames:
+      - Richard Terfry
+      dob:
+        y: 1972
+        m: 3
+        d: 4

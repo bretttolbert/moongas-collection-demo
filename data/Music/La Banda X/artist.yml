@@ -1,9 +1,9 @@
 artistData:
   artistNames:
   - La Banda X
-  city: ''
+  city: Mexico City
   countryCode: MX
   languageCodes:
   - es
-  regionCode: ''
+  regionCode: MX-CMX
   members: []

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Tom Browne
+      dob:
+        y: 1954
+        m: 10
+        d: 4

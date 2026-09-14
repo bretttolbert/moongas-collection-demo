@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Gavin Rossdale
+      dob:
+        y: 1965
+        m: 10
+        d: 30
+    - artistNames:
+      - Robin Goodridge
+      dob:
+        y: 1969
+        m: 3
+        d: 15
+    - artistNames:
+      - Dave Parsons
+      dob:
+        y: 1968
+        m: 6
+        d: 30
+    - artistNames:
+      - Chris Traynor
+      dob:
+        y: 1970
+        m: 8
+        d: 15

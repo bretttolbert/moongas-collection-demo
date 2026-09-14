@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Tim Cohen
+      dob:
+        y: 1982
+        m: 4
+        d: 24
+    - artistNames:
+      - Kyle Gibson
+      dob:
+        y: 1983
+        m: 6
+        d: 15
+    - artistNames:
+      - Shayde Sartin
+      dob:
+        y: 1984
+        m: 8
+        d: 10
+    - artistNames:
+      - Jonathan M. Cohen
+      dob:
+        y: 1981
+        m: 3
+        d: 5

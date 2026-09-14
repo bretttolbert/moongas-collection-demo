@@ -31,3 +31,7 @@ artistData:
       - Tania Cañaveral
     - artistNames:
       - Yuli Cañaveral
+      dob:
+        y: 1995
+        m: 6
+        d: 15

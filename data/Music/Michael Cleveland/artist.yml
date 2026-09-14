@@ -16,3 +16,15 @@ artistData:
       artistRoles:
       - fiddle
       - vocals
+    - artistNames:
+      - Other Member 1
+      artistRoles:
+      - instrument
+    - artistNames:
+      - Other Member 2
+      artistRoles:
+      - instrument
+    - artistNames:
+      - Other Member 3
+      artistRoles:
+      - instrument

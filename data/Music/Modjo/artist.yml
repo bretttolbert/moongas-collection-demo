@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Yann Destagnol
+      dob:
+        y: 1972
+        m: 1
+        d: 15
+    - artistNames:
+      - Romain Tranchart
+      dob:
+        y: 1972
+        m: 5
+        d: 14

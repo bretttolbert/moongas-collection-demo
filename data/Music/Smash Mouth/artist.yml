@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Steve Harwell
+      dob:
+        y: 1967
+        m: 1
+        d: 9
+    - artistNames:
+      - Paul De Lisle
+      dob:
+        y: 1963
+        m: 6
+        d: 6
+    - artistNames:
+      - Greg Camp
+      dob:
+        y: 1970
+        m: 7
+        d: 5
+    - artistNames:
+      - Michael "Mike" Klooster
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Kevin Coleman
+      dob:
+        y: 1970
+        m: 5
+        d: 24

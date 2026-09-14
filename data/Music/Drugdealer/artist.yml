@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Michael Collins
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Jessy Lanza
+    - artistNames:
+      - Ariel Pink
+    - artistNames:
+      - Weyes Blood
+    - artistNames:
+      - Natalie Mering

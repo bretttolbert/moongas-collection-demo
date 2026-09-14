@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - John Lennon
+      dob:
+        y: 1940
+        m: 10
+        d: 9
+      dod:
+        y: 1980
+        m: 12
+        d: 8
+    - artistNames:
+      - Paul McCartney
+      dob:
+        y: 1942
+        m: 6
+        d: 18
+    - artistNames:
+      - George Harrison
+      dob:
+        y: 1943
+        m: 2
+        d: 25
+      dod:
+        y: 2001
+        m: 11
+        d: 29
+    - artistNames:
+      - Ringo Starr
+      dob:
+        y: 1940
+        m: 7
+        d: 7

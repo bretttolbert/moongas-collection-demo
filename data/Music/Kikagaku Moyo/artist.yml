@@ -49,3 +49,15 @@ artistData:
         y: 1991
         m: 11
         d: 15
+    - artistNames:
+      - Kenta Matsumoto
+      dob:
+        y: 1992
+        m: 4
+        d: 5
+    - artistNames:
+      - Ryu Kurosawa
+      dob:
+        y: 1990
+        m: 8
+        d: 20

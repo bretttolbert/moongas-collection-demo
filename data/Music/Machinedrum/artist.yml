@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Travis Stewart
+      dob:
+        y: 1982
+        m: 10
+        d: 4

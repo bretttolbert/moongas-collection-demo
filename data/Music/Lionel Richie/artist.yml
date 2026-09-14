@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Lionel Richie
+  dob:
+    y: 1949
+    m: 6
+    d: 20
   city: Tuskegee
   countryCode: US
   languageCodes:

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: IL-TA
-  members: []
+  members:
+    - artistNames:
+      - Dennis Lloyd
+      dob:
+        y: 1994
+        m: 11
+        d: 24

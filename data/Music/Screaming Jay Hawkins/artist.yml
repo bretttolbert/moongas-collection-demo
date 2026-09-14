@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Jay Hawkins
+      dob:
+        y: 1929
+        m: 7
+        d: 18
+      dod:
+        y: 2000
+        m: 2
+        d: 12

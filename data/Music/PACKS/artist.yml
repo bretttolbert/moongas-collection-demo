@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Maya Oppenheim
+      dob:
+        y: 1998
+        m: 5
+        d: 15
+    - artistNames:
+      - Kieran Adams
+    - artistNames:
+      - Sam Oppenheim
+    - artistNames:
+      - Jaden Oppenheim

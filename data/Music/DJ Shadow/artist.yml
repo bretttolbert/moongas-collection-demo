@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Josh Davis
+      dob:
+        y: 1972
+        m: 6
+        d: 29

@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 5
         d: 3
+    - artistNames:
+      - Greg D'Angelo
+      dob:
+        y: 1970
+        m: 8
+        d: 1

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: DO-25
-  members: []
+  members:
+    - artistNames:
+      - Zacarías Ferreíra
+      dob:
+        y: 1978
+        m: 6
+        d: 10

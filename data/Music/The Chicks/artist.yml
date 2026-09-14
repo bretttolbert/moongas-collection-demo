@@ -7,4 +7,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Natalie Maines
+      dob:
+        y: 1974
+        m: 10
+        d: 14
+    - artistNames:
+      - Martie Maguire
+      dob:
+        y: 1969
+        m: 8
+        d: 12
+    - artistNames:
+      - Emily Robison
+      dob:
+        y: 1972
+        m: 8
+        d: 16

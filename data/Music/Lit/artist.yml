@@ -31,3 +31,9 @@ artistData:
         y: 1976
         m: 6
         d: 15
+    - artistNames:
+      - Chad Ginsburg
+      dob:
+        y: 1975
+        m: 10
+        d: 24

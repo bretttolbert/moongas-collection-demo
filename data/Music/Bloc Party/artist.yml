@@ -47,11 +47,19 @@ artistData:
       - drums
     - artistNames:
       - Louise Bartle
+      dob:
+        y: 1990
+        m: 1
+        d: 1
       artistRoles:
       - drums
       - percussion
     - artistNames:
       - Harry Deacon
+      dob:
+        y: 1995
+        m: 5
+        d: 15
       artistRoles:
       - bass
       - synthesizer

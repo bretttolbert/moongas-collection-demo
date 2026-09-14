@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - Frankie Beverly
+      dob:
+        y: 1946
+        m: 12
+        d: 6
+    - artistNames:
+      - McKinley "Bug" Jackson
+    - artistNames:
+      - Larry "Fuzzy" Haskins
+    - artistNames:
+      - Ron "Mickey" McFadden
+    - artistNames:
+      - Kelvin "Kenny" Beverly
+    - artistNames:
+      - Alton "Al" McCarty
+    - artistNames:
+      - Anthony "Tony" Smith
+    - artistNames:
+      - Charles "Chuck" B. Smith
+    - artistNames:
+      - David "Dave" McCoy
+    - artistNames:
+      - John "Johnny" McCoy

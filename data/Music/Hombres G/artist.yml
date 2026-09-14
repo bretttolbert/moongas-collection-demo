@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-MD
-  members: []
+  members:
+    - artistNames:
+      - David Summers
+      dob:
+        y: 1964
+        m: 4
+        d: 26
+    - artistNames:
+      - Javier Molina
+      dob:
+        y: 1964
+        m: 12
+        d: 14
+    - artistNames:
+      - Antonio Poza
+      dob:
+        y: 1965
+        m: 1
+        d: 1
+    - artistNames:
+      - Rafael Gutierrez
+      dob:
+        y: 1965
+        m: 12
+        d: 3

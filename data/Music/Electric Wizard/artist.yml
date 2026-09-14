@@ -6,4 +6,30 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Jus Oborn
+      dob:
+        y: 1970
+        m: 7
+        d: 21
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Liz Buckingham
+      dob:
+        y: 1971
+        m: 5
+        d: 15
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Rob Al-Issa
+      artistRoles:
+      - bass
+    - artistNames:
+      - Shaun Rutter
+      artistRoles:
+      - drums

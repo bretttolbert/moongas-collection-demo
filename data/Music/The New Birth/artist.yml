@@ -55,3 +55,15 @@ artistData:
         y: 1946
         m: 1
         d: 1
+    - artistNames:
+      - Charles "Chas" Jones
+      dob:
+        y: 1948
+        m: 1
+        d: 1
+    - artistNames:
+      - Patricia "Pat" Harris
+      dob:
+        y: 1947
+        m: 1
+        d: 1

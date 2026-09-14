@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Tim Smith
+      dob:
+        y: 1975
+        m: 5
+        d: 19
+    - artistNames:
+      - Eric Pulido
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Paul Alexander
+      dob:
+        y: 1976
+        m: 4
+        d: 15
+    - artistNames:
+      - McKenzie Smith
+      dob:
+        y: 1980
+        m: 10
+        d: 18
+    - artistNames:
+      - Jesse Chandler
+      dob:
+        y: 1981
+        m: 3
+        d: 12

@@ -31,3 +31,9 @@ artistData:
         y: 1987
         m: 9
         d: 12
+    - artistNames:
+      - David "Dave" Myers
+      dob:
+        y: 1985
+        m: 11
+        d: 20

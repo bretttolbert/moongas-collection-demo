@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CO
-  members: []
+  members:
+    - artistNames:
+      - Phillip Bailey
+      dob:
+        y: 1951
+        m: 6
+        d: 8

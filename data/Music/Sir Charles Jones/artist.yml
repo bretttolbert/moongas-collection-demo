@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Sir Charles Jones
+      dob:
+        y: 1970
+        m: 1
+        d: 1

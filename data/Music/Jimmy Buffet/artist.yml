@@ -1,6 +1,10 @@
 artistData:
   artistNames:
-  - Jimmy Buffet
+  - Jimmy Buffett
+  dob:
+    y: 1946
+    m: 12
+    d: 25
   city: Pascagoula
   countryCode: US
   languageCodes:

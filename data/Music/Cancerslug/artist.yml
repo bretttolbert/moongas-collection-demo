@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Adam "Cancerslug" M. 
+      dob:
+        y: 1980
+        m: 5
+        d: 15

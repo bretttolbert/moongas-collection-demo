@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Chris Stewart
+      dob:
+        y: 1986
+        m: 1
+        d: 1
+    - artistNames:
+      - Morgan Z
+      dob:
+        y: 1987
+        m: 6
+        d: 15

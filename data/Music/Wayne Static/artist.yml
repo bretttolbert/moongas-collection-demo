@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Wayne Static
+  dob:
+    y: 1965
+    m: 11
+    d: 4
   city: Muskegon
   countryCode: US
   languageCodes:

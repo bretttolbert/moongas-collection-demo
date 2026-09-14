@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - CoCo
+    - artistNames:
+      - Birdstuff
+    - artistNames:
+      - Star Crunch
+    - artistNames:
+      - Dexter
+    - artistNames:
+      - The Mysterious L. M. 
+    - artistNames:
+      - The Mysterious J. M.

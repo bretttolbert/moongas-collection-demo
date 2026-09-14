@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Sun Ra
+      dob:
+        y: 1914
+        m: 5
+        d: 22
+      dod:
+        y: 1993
+        m: 5
+        d: 30

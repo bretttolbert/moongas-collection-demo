@@ -13,6 +13,10 @@ artistData:
         y: 1985
         m: 4
         d: 25
+      dod:
+        y: 2023
+        m: 5
+        d: 12
     - artistNames:
       - Travis Richter
       dob:
@@ -31,6 +35,10 @@ artistData:
         y: 1986
         m: 3
         d: 26
+      dod:
+        y: 2021
+        m: 10
+        d: 24
     - artistNames:
       - Chad Gilbert
       dob:
@@ -43,15 +51,3 @@ artistData:
         y: 1981
         m: 11
         d: 25
-    - artistNames:
-      - Matt Good
-      dod:
-        y: 2023
-        m: 5
-        d: 12
-    - artistNames:
-      - Jonny Craig
-      dod:
-        y: 2021
-        m: 10
-        d: 24

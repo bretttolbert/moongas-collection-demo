@@ -6,4 +6,29 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Les Claypool
+      dob:
+        y: 1963
+        m: 9
+        d: 29
+      artistRoles:
+      - vocals
+      - bass
+    - artistNames:
+      - Larry LaLonde
+      dob:
+        y: 1970
+        m: 9
+        d: 2
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tim Alexander
+      dob:
+        y: 1966
+        m: 4
+        d: 10
+      artistRoles:
+      - drums

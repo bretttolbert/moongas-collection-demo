@@ -19,6 +19,10 @@ artistData:
         d: 9
     - artistNames:
       - Toody Cole
+      dob:
+        y: 1960
+        m: 1
+        d: 1
     - artistNames:
       - Andrew Loomis
       dob:

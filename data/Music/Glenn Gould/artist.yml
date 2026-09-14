@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Glenn Gould
+  dob:
+    y: 1932
+    m: 9
+    d: 25
+  dod:
+    y: 1982
+    m: 10
+    d: 4
   city: Toronto
   countryCode: CA
   languageCodes:

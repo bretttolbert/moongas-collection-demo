@@ -23,3 +23,9 @@ artistData:
         y: 1949
         m: 8
         d: 12
+      city: Glasgow
+      countryCode: GB
+      languageCodes:
+      - en
+      regionCode: GB-SCT
+      members: []

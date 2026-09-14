@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Marty Raybon
+      dob:
+        y: 1962
+        m: 7
+        d: 8
+    - artistNames:
+      - Mike McGuire
+      dob:
+        y: 1958
+        m: 1
+        d: 24
+    - artistNames:
+      - Jim Seales
+      dob:
+        y: 1956
+        m: 4
+        d: 21
+    - artistNames:
+      - Donny Lowery
+      dob:
+        y: 1964
+        m: 8
+        d: 25
+    - artistNames:
+      - Stan Thorn
+      dob:
+        y: 1960
+        m: 2
+        d: 15

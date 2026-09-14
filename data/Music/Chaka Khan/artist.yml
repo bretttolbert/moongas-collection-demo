@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Chaka Khan
+  dob:
+    y: 1953
+    m: 3
+    d: 23
   city: Chicago
   countryCode: US
   languageCodes:

@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Chris Frantz
+      dob:
+        y: 1951
+        m: 5
+        d: 8
+    - artistNames:
+      - Tina Weymouth
+      dob:
+        y: 1950
+        m: 11
+        d: 22
+    - artistNames:
+      - Steven Stanley
+    - artistNames:
+      - Adrian Belew
+    - artistNames:
+      - David Byrne
+    - artistNames:
+      - Jerry Harrison

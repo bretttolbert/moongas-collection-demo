@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Kenny G
+  dob:
+    y: 1956
+    m: 6
+    d: 5
   city: Seattle
   countryCode: US
   languageCodes:

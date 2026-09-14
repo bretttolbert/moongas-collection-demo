@@ -6,4 +6,33 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Vaden Todd Lewis
+      dob:
+        y: 1969
+        m: 9
+        d: 27
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Lisa Umbarger
+      dob:
+        y: 1970
+        m: 4
+        d: 16
+      artistRoles:
+      - bass
+    - artistNames:
+      - Mark Reznicek
+      dob:
+        y: 1970
+        m: 7
+        d: 30
+      artistRoles:
+      - drums
+    - artistNames:
+      - Darrel Herbert
+      artistRoles:
+      - guitar

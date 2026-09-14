@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Cakes Da Killa
+      dob:
+        y: 1990
+        m: 6
+        d: 15

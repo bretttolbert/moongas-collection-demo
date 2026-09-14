@@ -52,5 +52,9 @@ artistData:
       - guitar
     - artistNames:
       - Jamie Miller
+      dob:
+        y: 1980
+        m: 1
+        d: 3
       artistRoles:
       - drums

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-CAM
-  members: []
+  members:
+    - artistNames:
+      - Terry Reid
+      dob:
+        y: 1949
+        m: 11
+        d: 13

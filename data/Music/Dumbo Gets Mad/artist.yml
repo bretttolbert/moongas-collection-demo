@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: IT-45
-  members: []
+  members:
+    - artistNames:
+      - Vincent Gallo
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Andrea Rizzo
+      dob:
+        y: 1980
+        m: 1
+        d: 1

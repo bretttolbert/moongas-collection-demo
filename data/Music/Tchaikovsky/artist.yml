@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Tchaikovsky
+  dob:
+    y: 1840
+    m: 4
+    d: 25
   city: Votkinsk
   countryCode: RU
   languageCodes:

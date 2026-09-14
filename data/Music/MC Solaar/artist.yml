@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - fr
   regionCode: SN-DK
-  members: []
+  members:
+    - artistNames:
+      - MC Solaar
+      dob:
+        y: 1969
+        m: 3
+        d: 5

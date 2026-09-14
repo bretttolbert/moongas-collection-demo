@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-BC
-  members: []
+  members:
+    - artistNames:
+      - cEvin Key
+      dob:
+        y: 1961
+        m: 6
+        d: 15
+    - artistNames:
+      - Nivek Ogre
+      dob:
+        y: 1962
+        m: 11
+        d: 5
+    - artistNames:
+      - Dwayne Goettel
+      dob:
+        y: 1964
+        m: 11
+        d: 19
+      dod:
+        y: 1995
+        m: 8
+        d: 23
+    - artistNames:
+      - Bill Leeb
+      dob:
+        y: 1964
+        m: 9
+        d: 2
+    - artistNames:
+      - Mark Spybey
+      dob:
+        y: 1963
+        m: 4
+        d: 18

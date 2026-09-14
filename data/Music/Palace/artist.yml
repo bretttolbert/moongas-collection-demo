@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Leo Wyndham
+      dob:
+        y: 1994
+        m: 1
+        d: 1
+    - artistNames:
+      - Matt Hodges
+      dob:
+        y: 1994
+        m: 1
+        d: 1
+    - artistNames:
+      - Rupert Turner
+      dob:
+        y: 1994
+        m: 1
+        d: 1
+    - artistNames:
+      - Caspian Coberly
+      dob:
+        y: 1994
+        m: 1
+        d: 1

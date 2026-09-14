@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Ronnie DeVoe
+      dob:
+        y: 1967
+        m: 11
+        d: 17
+    - artistNames:
+      - Bobby Brown
+      dob:
+        y: 1969
+        m: 2
+        d: 5
+    - artistNames:
+      - Ricky Bell
+      dob:
+        y: 1967
+        m: 9
+        d: 18
+    - artistNames:
+      - Michael Bivins
+      dob:
+        y: 1968
+        m: 8
+        d: 10
+    - artistNames:
+      - Johnny Gill
+      dob:
+        y: 1966
+        m: 5
+        d: 22
+    - artistNames:
+      - Ralph Tresvant
+      dob:
+        y: 1968
+        m: 5
+        d: 8

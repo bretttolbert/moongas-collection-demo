@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AZ
-  members: []
+  members:
+    - artistNames:
+      - Joey Burns
+      dob:
+        y: 1976
+        m: 1
+        d: 1
+    - artistNames:
+      - John Convertino
+      dob:
+        y: 1970
+        m: 6
+        d: 1
+    - artistNames:
+      - Jacob Valenzuela
+      dob:
+        y: 1980
+        m: 5
+        d: 1
+    - artistNames:
+      - Martin Wenk
+      dob:
+        y: 1974
+        m: 3
+        d: 1
+    - artistNames:
+      - Paul Niehaus
+      dob:
+        y: 1972
+        m: 4
+        d: 1

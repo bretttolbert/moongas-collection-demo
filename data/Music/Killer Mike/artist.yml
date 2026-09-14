@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Michael Render
+      dob:
+        y: 1975
+        m: 4
+        d: 20

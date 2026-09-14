@@ -6,4 +6,44 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Chuck Schuldiner
+      dob:
+        y: 1967
+        m: 5
+        d: 13
+      dod:
+        y: 2001
+        m: 12
+        d: 13
+    - artistNames:
+      - Rick Rozz
+      dob:
+        y: 1966
+        m: 6
+        d: 14
+    - artistNames:
+      - Terry Butler
+      dob:
+        y: 1963
+        m: 11
+        d: 19
+    - artistNames:
+      - Bill Andrews
+      dob:
+        y: 1966
+        m: 5
+        d: 15
+    - artistNames:
+      - Scott Clendenin
+      dob:
+        y: 1970
+        m: 12
+        d: 18
+    - artistNames:
+      - Gene Hoglan
+      dob:
+        y: 1970
+        m: 8
+        d: 31

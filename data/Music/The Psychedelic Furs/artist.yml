@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Richard Butler
+      dob:
+        y: 1956
+        m: 6
+        d: 5
+    - artistNames:
+      - Tim Butler
+      dob:
+        y: 1961
+        m: 4
+        d: 1
+    - artistNames:
+      - John Ashton
+      dob:
+        y: 1960
+        m: 9
+        d: 17
+    - artistNames:
+      - Vince Ely
+      dob:
+        y: 1960
+        m: 4
+        d: 16
+    - artistNames:
+      - Roger Morris
+      dob:
+        y: 1961
+        m: 1
+        d: 1
+    - artistNames:
+      - Paul Garisto
+      dob:
+        y: 1963
+        m: 2
+        d: 1

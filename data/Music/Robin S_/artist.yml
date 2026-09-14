@@ -7,3 +7,7 @@ artistData:
   - en
   regionCode: US-NY
   members: []
+  dob:
+    y: 1962
+    m: 4
+    d: 27

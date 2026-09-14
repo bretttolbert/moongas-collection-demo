@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: IN-KA
-  members: []
+  members:
+    - artistNames:
+      - Hanumankind
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Kalmi
+      dob:
+        y: 1992
+        m: 5
+        d: 15

@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Carnie Wilson
+      dob:
+        y: 1968
+        m: 4
+        d: 29
+    - artistNames:
+      - Wendy Wilson
+      dob:
+        y: 1969
+        m: 10
+        d: 16
+    - artistNames:
+      - Chynna Phillips
+      dob:
+        y: 1968
+        m: 2
+        d: 12

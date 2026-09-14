@@ -2,6 +2,14 @@ artistData:
   artistNames:
   - Mozart
   - Wolfgang Amadeus Mozart
+  dob:
+    y: 1756
+    m: 1
+    d: 27
+  dod:
+    y: 1791
+    m: 12
+    d: 5
   city: Salzburg
   countryCode: AT
   languageCodes:

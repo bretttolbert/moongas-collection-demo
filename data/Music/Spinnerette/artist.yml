@@ -31,3 +31,9 @@ artistData:
         y: 1980
         m: 5
         d: 10
+    - artistNames:
+      - Josh Homme
+      dob:
+        y: 1973
+        m: 5
+        d: 17

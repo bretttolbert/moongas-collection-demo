@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-78
-  members: []
+  members:
+    - artistNames:
+      - Ludovic Navarre
+      dob:
+        y: 1970
+        m: 4
+        d: 6

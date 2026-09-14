@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-91
-  members: []
+  members:
+    - artistNames:
+      - Jennifer Ayache
+      dob:
+        y: 1981
+        m: 4
+        d: 1
+    - artistNames:
+      - François Charpentier
+      dob:
+        y: 1979
+        m: 5
+        d: 15
+    - artistNames:
+      - Michel Giovannetti
+      dob:
+        y: 1980
+        m: 6
+        d: 20
+    - artistNames:
+      - Gregoire Hargot
+      dob:
+        y: 1980
+        m: 9
+        d: 12
+    - artistNames:
+      - David Lory
+      dob:
+        y: 1982
+        m: 2
+        d: 28

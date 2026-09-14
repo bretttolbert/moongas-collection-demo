@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WV
-  members: []
+  members:
+    - artistNames:
+      - T. J. Cowgill
+      dob:
+        y: 1980
+        m: 6
+        d: 22
+    - artistNames:
+      - B. M. C. (Brian) 
+      dob:
+        y: 1980
+        m: 6
+        d: 22
+    - artistNames:
+      - A. J. (A.J.) 
+      dob:
+        y: 1980
+        m: 6
+        d: 22

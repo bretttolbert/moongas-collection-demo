@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Tom Eddy
+    - artistNames:
+      - Reed Juenger
+    - artistNames:
+      - Jordan Koplowitz
+    - artistNames:
+      - Mark Hunter

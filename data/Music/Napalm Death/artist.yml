@@ -6,4 +6,43 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-SOL
-  members: []
+  members:
+    - artistNames:
+      - Mark "Barney" Greenway
+      dob:
+        y: 1969
+        m: 3
+        d: 29
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Mitch Harris
+      dob:
+        y: 1966
+        m: 12
+        d: 7
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Shane Embury
+      dob:
+        y: 1966
+        m: 11
+        d: 6
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Danny Herrera
+      dob:
+        y: 1972
+        m: 1
+        d: 1
+      artistRoles:
+      - drums
+    - artistNames:
+      - John Cooke
+      artistRoles:
+      - guitar
+      - backing vocals

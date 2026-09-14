@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-PV
-  members: []
+  members:
+    - artistNames:
+      - Mikel Erentxun
+      dob:
+        y: 1965
+        m: 2
+        d: 23
+    - artistNames:
+      - Diego Vasallo
+      dob:
+        y: 1965
+        m: 4
+        d: 29
+    - artistNames:
+      - Jesús Cifuentes
+      dob:
+        y: 1965
+        m: 12
+        d: 12
+    - artistNames:
+      - José Antonio Ramos
+      dob:
+        y: 1965
+        m: 6
+        d: 15

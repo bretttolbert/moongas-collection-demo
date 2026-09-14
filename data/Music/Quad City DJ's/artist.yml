@@ -37,3 +37,9 @@ artistData:
         y: 1975
         m: 5
         d: 5
+    - artistNames:
+      - DJ Daryl
+      dob:
+        y: 1970
+        m: 6
+        d: 6

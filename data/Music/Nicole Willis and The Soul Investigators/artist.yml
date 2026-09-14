@@ -6,4 +6,17 @@ artistData:
   languageCodes:
   - en
   regionCode: FI-18
-  members: []
+  members:
+    - artistNames:
+      - Nicole Willis
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Jimi Tenor
+    - artistNames:
+      - The Soul Investigators
+      artistRoles:
+      - backing vocals
+      - instruments

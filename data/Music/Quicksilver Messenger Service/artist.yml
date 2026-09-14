@@ -6,4 +6,47 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - John Cipollina
+      dob:
+        y: 1943
+        m: 8
+        d: 24
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Dino Valenti
+      dob:
+        y: 1939
+        m: 4
+        d: 6
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Gary Duncan
+      dob:
+        y: 1946
+        m: 9
+        d: 4
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - David Freiberg
+      dob:
+        y: 1938
+        m: 12
+        d: 24
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Greg Elmore
+      dob:
+        y: 1946
+        m: 5
+        d: 22
+      artistRoles:
+      - drums

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Vico C
+      dob:
+        y: 1971
+        m: 9
+        d: 8

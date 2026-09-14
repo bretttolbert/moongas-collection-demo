@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Martin Courtney
+      dob:
+        y: 1985
+        m: 7
+        d: 19
+    - artistNames:
+      - Alex Bleeker
+      dob:
+        y: 1986
+        m: 1
+        d: 15
+    - artistNames:
+      - Julian Lynch
+      dob:
+        y: 1987
+        m: 3
+        d: 21
+    - artistNames:
+      - Matt Mondanile
+      dob:
+        y: 1985
+        m: 4
+        d: 28
+    - artistNames:
+      - Kyle Forester
+      dob:
+        y: 1986
+        m: 6
+        d: 12

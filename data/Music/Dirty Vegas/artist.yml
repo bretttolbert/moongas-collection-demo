@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Paul Harris
+      dob:
+        y: 1971
+        m: 4
+        d: 14
+    - artistNames:
+      - Ben Harris
+      dob:
+        y: 1973
+        m: 6
+        d: 12
+    - artistNames:
+      - Steve Smith
+      dob:
+        y: 1972
+        m: 8
+        d: 22

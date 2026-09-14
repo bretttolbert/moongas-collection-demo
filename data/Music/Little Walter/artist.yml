@@ -1,6 +1,14 @@
 artistData:
   artistNames:
   - Little Walter
+  dob:
+    y: 1930
+    m: 5
+    d: 31
+  dod:
+    y: 1968
+    m: 2
+    d: 15
   city: Marion
   countryCode: US
   languageCodes:

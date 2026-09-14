@@ -49,3 +49,15 @@ artistData:
         y: 1970
         m: 4
         d: 25
+    - artistNames:
+      - The Captain
+      dob:
+        y: 1978
+        m: 9
+        d: 12
+    - artistNames:
+      - The Doctor
+      dob:
+        y: 1980
+        m: 11
+        d: 5

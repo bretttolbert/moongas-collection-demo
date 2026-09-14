@@ -13,6 +13,10 @@ artistData:
       - vocals
       - guitar
       - drums
+      dob:
+        y: 1980
+        m: 5
+        d: 15
     - artistNames:
       - Ketil Mosnes
       artistRoles:
@@ -20,9 +24,17 @@ artistData:
       - programming
       - keyboards
       - backing vocals
+      dob:
+        y: 1981
+        m: 3
+        d: 22
     - artistNames:
       - Kevin O'Brien
       artistRoles:
       - vocals
       - guitar
       - keyboards
+      dob:
+        y: 1982
+        m: 7
+        d: 10

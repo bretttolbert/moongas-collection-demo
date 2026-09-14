@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-WA
-  members: []
+  members:
+    - artistNames:
+      - Jack McEwan
+      dob:
+        y: 1993
+        m: 4
+        d: 18
+    - artistNames:
+      - Luke Reynolds
+      dob:
+        y: 1992
+        m: 11
+        d: 22
+    - artistNames:
+      - Danny Caddy
+      dob:
+        y: 1993
+        m: 7
+        d: 2
+    - artistNames:
+      - Chris Young
+      dob:
+        y: 1993
+        m: 5
+        d: 15
+    - artistNames:
+      - Sam Phelan
+      dob:
+        y: 1992
+        m: 9
+        d: 30

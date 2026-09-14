@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Roberto Carlos Lange
+      dob:
+        y: 1980
+        m: 10
+        d: 1

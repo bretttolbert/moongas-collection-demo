@@ -7,4 +7,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Sonny Sandoval
+      dob:
+        y: 1974
+        m: 5
+        d: 16
+    - artistNames:
+      - Marcos Curiel
+      dob:
+        y: 1974
+        m: 11
+        d: 9
+    - artistNames:
+      - Traa Daniels
+      dob:
+        y: 1974
+        m: 1
+        d: 15
+    - artistNames:
+      - Wuv Bernardo
+      dob:
+        y: 1975
+        m: 11
+        d: 21

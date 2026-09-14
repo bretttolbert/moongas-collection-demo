@@ -7,3 +7,7 @@ artistData:
   - en
   regionCode: GB-LND
   members: []
+  dob: 
+    y: 1980
+    m: 1
+    d: 1

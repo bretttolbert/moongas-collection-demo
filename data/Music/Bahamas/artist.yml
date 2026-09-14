@@ -16,3 +16,15 @@ artistData:
       artistRoles:
       - vocals
       - guitar
+    - artistNames:
+      - Robbie D. 
+      artistRoles:
+      - bass
+    - artistNames:
+      - Darren E. 
+      artistRoles:
+      - drums
+    - artistNames:
+      - David D. 
+      artistRoles:
+      - keyboards

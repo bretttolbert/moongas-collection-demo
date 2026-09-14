@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Mark Hollis
+      dob:
+        y: 1955
+        m: 1
+        d: 4
+    - artistNames:
+      - Lee Harris
+      dob:
+        y: 1961
+        m: 12
+        d: 19
+    - artistNames:
+      - Paul Webb
+      dob:
+        y: 1964
+        m: 4
+        d: 8
+    - artistNames:
+      - Tim Friese-Greene
+      dob:
+        y: 1961
+        m: 5
+        d: 1

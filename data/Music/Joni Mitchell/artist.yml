@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Joni Mitchell
+  dob:
+    y: 1943
+    m: 11
+    d: 7
   city: Fort Macleod
   countryCode: CA
   languageCodes:

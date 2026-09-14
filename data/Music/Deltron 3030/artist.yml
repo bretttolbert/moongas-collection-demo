@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Del the Funky Homosapien
+      dob:
+        y: 1972
+        m: 8
+        d: 12
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Dan the Automator
+      dob:
+        y: 1972
+      artistRoles:
+      - producer
+    - artistNames:
+      - Kid Koala
+      dob:
+        y: 1974
+      artistRoles:
+      - turntables

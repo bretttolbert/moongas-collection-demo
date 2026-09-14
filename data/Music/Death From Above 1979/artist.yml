@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Jesse F. Keeler
+      dob:
+        y: 1980
+        m: 12
+        d: 11
+    - artistNames:
+      - Sebastien Grainger
+      dob:
+        y: 1979
+        m: 9
+        d: 11

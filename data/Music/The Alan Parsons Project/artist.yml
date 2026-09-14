@@ -63,3 +63,19 @@ artistData:
         y: 1949
         m: 6
         d: 3
+    - artistNames:
+      - John Miles
+      dob:
+        y: 1949
+        m: 4
+        d: 23
+      dod:
+        y: 2021
+        m: 12
+        d: 11
+    - artistNames:
+      - David Pack
+      dob:
+        y: 1951
+        m: 4
+        d: 15

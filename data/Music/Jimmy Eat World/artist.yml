@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AZ
-  members: []
+  members:
+    - artistNames:
+      - Jim Adkins
+      dob:
+        y: 1975
+        m: 8
+        d: 5
+    - artistNames:
+      - Zach Lind
+      dob:
+        y: 1978
+        m: 3
+        d: 15
+    - artistNames:
+      - Mitch Porter
+      dob:
+        y: 1977
+        m: 1
+        d: 1
+    - artistNames:
+      - Tom Linton
+      dob:
+        y: 1975
+        m: 5
+        d: 24
+    - artistNames:
+      - Chris Carrabba
+      dob:
+        y: 1975
+        m: 4
+        d: 10

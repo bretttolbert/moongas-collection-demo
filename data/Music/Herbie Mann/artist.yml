@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Herbie Mann
+      dob:
+        y: 1930
+        m: 4
+        d: 16
+      dod:
+        y: 2003
+        m: 7
+        d: 1

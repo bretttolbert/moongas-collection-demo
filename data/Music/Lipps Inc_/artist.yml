@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MN
-  members: []
+  members:
+    - artistNames:
+      - Cynthia Johnson
+      dob:
+        y: 1950
+        m: 7
+        d: 4
+    - artistNames:
+      - Steven Greenberg
+      dob:
+        y: 1952
+        m: 2
+        d: 24
+    - artistNames:
+      - David Rivkin
+      dob:
+        y: 1950
+        m: 9
+        d: 23
+    - artistNames:
+      - John E. "J.J." Johnson
+      dob:
+        y: 1951
+        m: 4
+        d: 12
+    - artistNames:
+      - Michael "Mike" L. Johnson
+      dob:
+        y: 1951
+        m: 11
+        d: 21

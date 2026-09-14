@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Alan Palomo
+      dob:
+        y: 1988
+        m: 5
+        d: 25
+    - artistNames:
+      - Dion Lunadon
+    - artistNames:
+      - Jason F. McCarty
+    - artistNames:
+      - Kelsey Wilson
+    - artistNames:
+      - Eric B. H. H.
+    - artistNames:
+      - Chris D. H.

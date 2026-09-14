@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Joe Harris
+      dob:
+        y: 1944
+        m: 1
+        d: 1
+    - artistNames:
+      - Virginia "V" McCoy
+      dob:
+        y: 1945
+        m: 3
+        d: 1
+    - artistNames:
+      - Billy "Bill" Smith
+      dob:
+        y: 1943
+        m: 5
+        d: 1

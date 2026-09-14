@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Melina Duterte
+      dob:
+        y: 1994
+        m: 4
+        d: 24

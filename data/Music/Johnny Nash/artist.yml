@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Johnny Nash
+      dob:
+        y: 1940
+        m: 8
+        d: 19
+      dod:
+        y: 2020
+        m: 10
+        d: 6

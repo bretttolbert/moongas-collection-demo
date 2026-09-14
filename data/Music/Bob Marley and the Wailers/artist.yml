@@ -39,6 +39,32 @@ artistData:
         y: 1947
         m: 4
         d: 10
+      dod:
+        y: 2021
+        m: 3
+        d: 2
       artistRoles:
       - percussion
       - vocals
+    - artistNames:
+      - Aston "Family Man" Barrett
+      dob:
+        y: 1946
+        m: 11
+        d: 22
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Carlton Barrett
+      dob:
+        y: 1950
+        m: 12
+        d: 17
+      dod:
+        y: 1987
+        m: 4
+        d: 2
+      artistRoles:
+      - drums
+      - percussion

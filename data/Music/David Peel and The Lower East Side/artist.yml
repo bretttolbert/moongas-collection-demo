@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - David Peel
+      dob:
+        y: 1943
+        m: 8
+        d: 3
+      dod:
+        y: 2017
+        m: 4
+        d: 6
+    - artistNames:
+      - The Lower East Side
+      artistRoles:
+      - backing band

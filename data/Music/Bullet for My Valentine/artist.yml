@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-BGE
-  members: []
+  members:
+    - artistNames:
+      - Matt Tuck
+      dob:
+        y: 1980
+        m: 1
+        d: 20
+    - artistNames:
+      - Michael Paget
+      dob:
+        y: 1980
+        m: 3
+        d: 13
+    - artistNames:
+      - Jason James
+      dob:
+        y: 1984
+        m: 6
+        d: 18
+    - artistNames:
+      - Moose
+      dob:
+        y: 1980
+        m: 5
+        d: 15

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Kurt Vile
+  dob:
+    y: 1980
+    m: 1
+    d: 3
   city: Philadelphia
   countryCode: US
   languageCodes:

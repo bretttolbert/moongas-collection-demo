@@ -1,9 +1,22 @@
 artistData:
   artistNames:
-  - Peso Pluma, Ovy On The Drums
+  - Peso Pluma
+  - Ovy On The Drums
   city: Zapopan
   countryCode: MX
   languageCodes:
   - es
   regionCode: MX-JAL
-  members: []
+  members:
+    - artistNames:
+      - Hassan Emilio Kabande Laija
+      dob:
+        y: 1999
+        m: 6
+        d: 15
+    - artistNames:
+      - Ovy On The Drums
+      dob:
+        y: 1997
+        m: 8
+        d: 24

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Luz Casal
+  dob:
+    y: 1958
+    m: 11
+    d: 9
   city: Boimorto
   countryCode: ES
   languageCodes:

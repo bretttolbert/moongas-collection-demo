@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-JAL
-  members: []
+  members:
+    - artistNames:
+      - Fher Olvera
+      dob:
+        y: 1967
+        m: 12
+        d: 8
+    - artistNames:
+      - Sergio Vallín
+      dob:
+        y: 1970
+        m: 11
+        d: 15
+    - artistNames:
+      - Juan Calleros
+      dob:
+        y: 1968
+        m: 3
+        d: 15
+    - artistNames:
+      - Alex González
+      dob:
+        y: 1968
+        m: 7
+        d: 2

@@ -77,3 +77,13 @@ artistData:
         y: 2018
         m: 11
         d: 6
+    - artistNames:
+      - Bev Bevan
+      dob:
+        y: 1945
+        m: 11
+        d: 24
+      dod:
+        y: 2021
+        m: 1
+        d: 14

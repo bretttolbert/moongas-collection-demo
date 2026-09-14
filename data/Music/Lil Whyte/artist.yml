@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Lil Whyte
+      dob:
+        y: 1982
+        m: 1
+        d: 28

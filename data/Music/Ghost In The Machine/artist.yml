@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Stuart Copeland
+      dob:
+        y: 1952
+        m: 7
+        d: 16
+    - artistNames:
+      - Andy Summers
+      dob:
+        y: 1942
+        m: 12
+        d: 31
+    - artistNames:
+      - Sting
+      dob:
+        y: 1951
+        m: 10
+        d: 2
+    - artistNames:
+      - Henry Padovani
+      dob:
+        y: 1952
+        m: 11
+        d: 22
+    - artistNames:
+      - Joe Sumner
+      dob:
+        y: 1976
+        m: 11
+        d: 23

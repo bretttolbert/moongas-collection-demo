@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Darrin O'Brien
+      dob:
+        y: 1970
+        m: 10
+        d: 30

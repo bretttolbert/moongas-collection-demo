@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Leon Haywood
+  dob:
+    y: 1942
+    m: 2
+    d: 15
   city: Houston
   countryCode: US
   languageCodes:

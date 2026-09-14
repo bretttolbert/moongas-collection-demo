@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Alex Ebert
+      dob:
+        y: 1983
+        m: 5
+        d: 1
+    - artistNames:
+      - Jade Castrinos
+    - artistNames:
+      - Christian Letts
+    - artistNames:
+      - Mark Noseworthy
+    - artistNames:
+      - Josh Collazo
+    - artistNames:
+      - Orpheo McCord
+    - artistNames:
+      - Kelsey Montague
+    - artistNames:
+      - Aaron Older
+    - artistNames:
+      - Nicole Pugliese
+    - artistNames:
+      - David B. Smith

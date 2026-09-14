@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - José Manuel
+    - artistNames:
+      - Juan Carlos
+    - artistNames:
+      - Luis Fernando
+    - artistNames:
+      - Miguel Ángel
+    - artistNames:
+      - Ricardo

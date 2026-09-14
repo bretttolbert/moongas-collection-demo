@@ -9,5 +9,23 @@ artistData:
   members:
     - artistNames:
       - Los Tigrillos
+      members:
+        - artistNames:
+          - Javier "Chino" Cárdenas
+        - artistNames:
+          - José "Pepe" Cárdenas
+        - artistNames:
+          - Juan "Pato" Cárdenas
+        - artistNames:
+          - Manuel "Manu" Cárdenas
     - artistNames:
       - Control
+      members:
+        - artistNames:
+          - José Luis "Choche" Cárdenas
+        - artistNames:
+          - Ricardo "Ricky" Cárdenas
+        - artistNames:
+          - Jorge "Jorgito" Cárdenas
+        - artistNames:
+          - Luis "Lucho" Cárdenas

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - es
   regionCode: AR-C
-  members: []
+  members:
+    - artistNames:
+      - Miguel Mateos
+      dob:
+        y: 1961
+        m: 2
+        d: 1
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+    - artistNames:
+      - Zeta Bosio
+      dob:
+        y: 1963
+        m: 10
+        d: 1
+      artistRoles:
+      - bass
+    - artistNames:
+      - Chiflo
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jorge "Locura" Gómez
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Juan Carlos "Chiflo" Ramos
+      artistRoles:
+      - drums

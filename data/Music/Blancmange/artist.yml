@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Neil Arthur
+      dob:
+        y: 1960
+        m: 6
+        d: 15
+    - artistNames:
+      - Berenice Scott
+      dob:
+        y: 1963
+        m: 1
+        d: 1

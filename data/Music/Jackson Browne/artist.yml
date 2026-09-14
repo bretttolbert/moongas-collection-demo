@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Jackson Browne
+  dob:
+    y: 1948
+    m: 10
+    d: 9
   city: Los Angeles
   countryCode: US
   languageCodes:

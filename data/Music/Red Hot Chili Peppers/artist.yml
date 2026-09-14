@@ -6,4 +6,46 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Anthony Kiedis
+      dob:
+        y: 1962
+        m: 11
+        d: 1
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Flea
+      dob:
+        y: 1962
+        m: 10
+        d: 16
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Chad Smith
+      dob:
+        y: 1961
+        m: 10
+        d: 25
+      artistRoles:
+      - drums
+    - artistNames:
+      - John Frusciante
+      dob:
+        y: 1970
+        m: 3
+        d: 5
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Josh Klinghoffer
+      dob:
+        y: 1979
+        m: 10
+        d: 3
+      artistRoles:
+      - guitar
+      - backing vocals

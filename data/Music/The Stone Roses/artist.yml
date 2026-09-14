@@ -6,4 +6,30 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - Ian Brown
+      dob:
+        y: 1963
+        m: 2
+        d: 20
+    - artistNames:
+      - John Squire
+      dob:
+        y: 1967
+        m: 11
+        d: 24
+    - artistNames:
+      - Mani
+      - Gary Mounfield
+      dob:
+        y: 1963
+        m: 1
+        d: 12
+    - artistNames:
+      - Reni
+      - Alan Wren
+      dob:
+        y: 1967
+        m: 4
+        d: 18

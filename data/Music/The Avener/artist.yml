@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-06
-  members: []
+  members:
+    - artistNames:
+      - Tristan Casara
+      dob:
+        y: 1990
+        m: 1
+        d: 15

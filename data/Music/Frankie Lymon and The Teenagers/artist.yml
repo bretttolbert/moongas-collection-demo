@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Frankie Lymon
+      dob:
+        y: 1942
+        m: 9
+        d: 30
+      dod:
+        y: 1968
+        m: 2
+        d: 27
+    - artistNames:
+      - Herman Santiago
+    - artistNames:
+      - Jimmy Merchant
+    - artistNames:
+      - Joe Negroni
+    - artistNames:
+      - Clarence "Sonny" McEwen
+    - artistNames:
+      - Ralph "Chico" McEwen

@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LUT
-  members: []
+  members:
+    - artistNames:
+      - Abbo
+      dob:
+        y: 1960
+        m: 4
+        d: 1
+    - artistNames:
+      - Frank
+      dob:
+        y: 1961
+        m: 6
+        d: 15
+    - artistNames:
+      - Razz
+      dob:
+        y: 1962
+        m: 8
+        d: 20
+    - artistNames:
+      - Spizz
+      dob:
+        y: 1963
+        m: 2
+        d: 10

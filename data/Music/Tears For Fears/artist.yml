@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-BAN
-  members: []
+  members:
+    - artistNames:
+      - Roland Orzabal
+      dob:
+        y: 1961
+        m: 8
+        d: 22
+    - artistNames:
+      - Curt Smith
+      dob:
+        y: 1961
+        m: 6
+        d: 24

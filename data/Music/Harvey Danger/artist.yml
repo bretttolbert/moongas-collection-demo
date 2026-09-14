@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Evan Sult
+      dob:
+        y: 1970
+        m: 10
+        d: 24
+    - artistNames:
+      - Sean Nelson
+      dob:
+        y: 1970
+        m: 1
+        d: 12
+    - artistNames:
+      - Aaron Huffman
+      dob:
+        y: 1971
+        m: 4
+        d: 14
+    - artistNames:
+      - John Roderick
+      dob:
+        y: 1970
+        m: 3
+        d: 19

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-BST
-  members: []
+  members:
+    - artistNames:
+      - Robert Del Naja
+      dob:
+        y: 1965
+        m: 1
+        d: 21
+    - artistNames:
+      - Grant Marshall
+      dob:
+        y: 1969
+        m: 12
+        d: 18
+    - artistNames:
+      - Andrew Vowles
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Horace Andy
+      dob:
+        y: 1951
+        m: 2
+        d: 19
+    - artistNames:
+      - Elizabeth Fraser
+      dob:
+        y: 1963
+        m: 8
+        d: 29

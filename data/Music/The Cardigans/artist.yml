@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: SE-F
-  members: []
+  members:
+    - artistNames:
+      - Nina Persson
+      dob:
+        y: 1974
+        m: 10
+        d: 6
+    - artistNames:
+      - Peter Svensson
+      dob:
+        y: 1974
+        m: 11
+        d: 18
+    - artistNames:
+      - Magnus Sveningsson
+      dob:
+        y: 1970
+        m: 5
+        d: 21
+    - artistNames:
+      - Bengt Lagerberg
+      dob:
+        y: 1970
+        m: 4
+        d: 6
+    - artistNames:
+      - Lars-Olof Johansson
+      dob:
+        y: 1970
+        m: 5
+        d: 18

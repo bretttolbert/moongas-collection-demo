@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Peter Cetera
+  dob:
+    y: 1943
+    m: 9
+    d: 13
   city: Chicago
   countryCode: US
   languageCodes:

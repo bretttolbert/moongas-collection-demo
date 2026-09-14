@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: DK-84
-  members: []
+  members:
+    - artistNames:
+      - Sune Rose Wagner
+      dob:
+        y: 1976
+        m: 10
+        d: 19
+    - artistNames:
+      - Sharin Foo
+      dob:
+        y: 1980
+        m: 11
+        d: 26

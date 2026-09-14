@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Robin Pecknold
+      dob:
+        y: 1986
+        m: 3
+        d: 30
+    - artistNames:
+      - Skyler Skjelset
+      dob:
+        y: 1986
+        m: 4
+        d: 24
+    - artistNames:
+      - Casey Wescott
+      dob:
+        y: 1984
+        m: 5
+        d: 15
+    - artistNames:
+      - Christian Wargo
+      dob:
+        y: 1980
+        m: 4
+        d: 24
+    - artistNames:
+      - Morgan Henderson
+      dob:
+        y: 1980
+        m: 6
+        d: 12

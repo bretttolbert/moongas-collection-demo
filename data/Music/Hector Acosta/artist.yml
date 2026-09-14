@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: DO-15
-  members: []
+  members:
+    - artistNames:
+      - Hector Acosta
+      dob:
+        y: 1970
+        m: 5
+        d: 23

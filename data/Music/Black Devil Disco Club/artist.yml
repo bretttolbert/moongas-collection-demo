@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Bernard Fevre
+      dob:
+        y: 1942
+        m: 1
+        d: 1

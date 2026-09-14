@@ -6,4 +6,49 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - Buckwheat Zydeco
+      dob:
+        y: 1947
+        m: 11
+        d: 14
+      artistRoles:
+      - accordion
+      - vocals
+    - artistNames:
+      - Michael Doucet
+      artistRoles:
+      - fiddle
+    - artistNames:
+      - Alton "Big Al" Carson
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Kevin Naquin
+      artistRoles:
+      - accordion
+    - artistNames:
+      - Geno Delafose
+      artistRoles:
+      - accordion
+    - artistNames:
+      - Chris Segura
+      artistRoles:
+      - drums
+    - artistNames:
+      - David Doucet
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tommy Alesi
+      artistRoles:
+      - bass
+    - artistNames:
+      - Eric Adcock
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - John "J.B." Batiste
+      artistRoles:
+      - saxophone

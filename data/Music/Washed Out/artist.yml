@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Ernest Greene
+      dob:
+        y: 1986
+        m: 11
+        d: 15

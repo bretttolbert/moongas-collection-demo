@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Chad Johnson
+      dob:
+        y: 1974
+        m: 8
+        d: 15
+    - artistNames:
+      - Bruce Fitzhugh
+      dob:
+        y: 1974
+        m: 6
+        d: 12
+    - artistNames:
+      - Greg Minier
+      dob:
+        y: 1974
+        m: 3
+        d: 22
+    - artistNames:
+      - John D. McCauley
+      dob:
+        y: 1975
+        m: 1
+        d: 30

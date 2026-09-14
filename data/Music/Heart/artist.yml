@@ -6,4 +6,64 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Ann Wilson
+      dob:
+        y: 1950
+        m: 6
+        d: 19
+    - artistNames:
+      - Nancy Wilson
+      dob:
+        y: 1954
+        m: 3
+        d: 16
+    - artistNames:
+      - Howard Leese
+      dob:
+        y: 1951
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Michael Derosier
+      dob:
+        y: 1950
+      artistRoles:
+      - drums
+    - artistNames:
+      - Roger Fisher
+      dob:
+        y: 1950
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Darian Sahanaja
+      dob:
+        y: 1970
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Ben Smith
+      dob:
+        y: 1963
+      artistRoles:
+      - drums
+    - artistNames:
+      - Chris Joyner
+      dob:
+        y: 1960
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Craig Bartock
+      dob:
+        y: 1965
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Dan Rothchild
+      dob:
+        y: 1974
+      artistRoles:
+      - bass

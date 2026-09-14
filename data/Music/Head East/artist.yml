@@ -43,3 +43,15 @@ artistData:
         y: 1952
         m: 8
         d: 20
+    - artistNames:
+      - Dan L. "Danny" McGowan
+      dob:
+        y: 1951
+        m: 10
+        d: 15
+    - artistNames:
+      - Greg C. "Greg" Henson
+      dob:
+        y: 1954
+        m: 3
+        d: 18

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Trever Keith
+      dob:
+        y: 1971
+        m: 11
+        d: 16
+    - artistNames:
+      - Chad Yaro
+      dob:
+        y: 1972
+        m: 3
+        d: 22
+    - artistNames:
+      - Scott Shiflett
+      dob:
+        y: 1975
+        m: 4
+        d: 15
+    - artistNames:
+      - Davey Havok
+      dob:
+        y: 1975
+        m: 11
+        d: 20
+    - artistNames:
+      - Chris Shiflett
+      dob:
+        y: 1980
+        m: 5
+        d: 6

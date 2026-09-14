@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Nayvadius DeMun Wilburn
+      dob:
+        y: 1983
+        m: 11
+        d: 20

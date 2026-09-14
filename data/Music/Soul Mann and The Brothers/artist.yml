@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Mann
+      artistRoles:
+      - vocals
+    - artistNames:
+      - The Brothers
+      artistRoles:
+      - backing vocals
+      - instruments

@@ -6,4 +6,50 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Emilio Castillo
+      dob:
+        y: 1949
+        m: 9
+        d: 24
+    - artistNames:
+      - Stephen "Doc" Kupka
+      dob:
+        y: 1945
+        m: 1
+        d: 29
+    - artistNames:
+      - Francis "Rocco" Prestia
+      dob:
+        y: 1951
+        m: 4
+        d: 12
+      dod:
+        y: 2020
+        m: 9
+        d: 29
+    - artistNames:
+      - David Garibaldi
+      dob:
+        y: 1946
+        m: 9
+        d: 7
+    - artistNames:
+      - Ray Greene
+    - artistNames:
+      - Marcus Scott
+    - artistNames:
+      - Adolfo "Fito" de la Parra
+    - artistNames:
+      - Tony Lindsay
+    - artistNames:
+      - Roger Smith
+    - artistNames:
+      - Doc Kupka
+    - artistNames:
+      - Bruce Conte
+    - artistNames:
+      - Lenny Pickett
+    - artistNames:
+      - Greg Adams

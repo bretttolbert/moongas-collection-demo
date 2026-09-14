@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Oliver Cheatham
+  dob:
+    y: 1948
+    m: 4
+    d: 1
   city: Detroit
   countryCode: US
   languageCodes:

@@ -4,6 +4,42 @@ artistData:
   city: Issaquah
   countryCode: US
   languageCodes:
-  - nan
+  - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Isaac Brock
+      dob:
+        y: 1975
+        m: 7
+        d: 9
+    - artistNames:
+      - Jeremiah Green
+      dob:
+        y: 1977
+        m: 3
+        d: 4
+    - artistNames:
+      - Eric Judy
+      dob:
+        y: 1976
+        m: 6
+        d: 15
+    - artistNames:
+      - Tom Peloso
+      dob:
+        y: 1974
+        m: 7
+        d: 22
+    - artistNames:
+      - Jim Fairchild
+      dob:
+        y: 1975
+        m: 4
+        d: 14
+    - artistNames:
+      - Russell Higbee
+      dob:
+        y: 1980
+        m: 8
+        d: 3

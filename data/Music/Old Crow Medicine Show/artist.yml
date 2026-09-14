@@ -6,4 +6,52 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Ketch Secor
+      dob:
+        y: 1982
+        m: 4
+        d: 27
+    - artistNames:
+      - Critter Fuqua
+      dob:
+        y: 1982
+        m: 4
+        d: 27
+    - artistNames:
+      - Willie Watson
+      dob:
+        y: 1982
+        m: 4
+        d: 27
+    - artistNames:
+      - Morgan Jahnig
+      dob:
+        y: 1982
+        m: 4
+        d: 27
+    - artistNames:
+      - Chance McCoy
+      dob:
+        y: 1985
+        m: 5
+        d: 15
+    - artistNames:
+      - Jerry Pentecost
+      dob:
+        y: 1985
+        m: 5
+        d: 15
+    - artistNames:
+      - Chris Eldridge
+      dob:
+        y: 1985
+        m: 5
+        d: 15
+    - artistNames:
+      - Tim O'Brien
+      dob:
+        y: 1954
+        m: 3
+        d: 16

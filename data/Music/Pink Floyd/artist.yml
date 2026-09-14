@@ -45,3 +45,36 @@ artistData:
         y: 1946
         m: 3
         d: 6
+    - artistNames:
+      - Clare Torry
+      dob:
+        y: 1947
+        m: 11
+        d: 7
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Bob Ezrin
+      dob:
+        y: 1949
+        m: 3
+        d: 25
+      artistRoles:
+      - producer
+    - artistNames:
+      - Guy Pratt
+      dob:
+        y: 1962
+        m: 1
+        d: 3
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jon Carin
+      dob:
+        y: 1962
+        m: 9
+        d: 21
+      artistRoles:
+      - keyboards
+      - guitar

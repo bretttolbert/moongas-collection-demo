@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MN
-  members: []
+  members:
+    - artistNames:
+      - Charlie Parr
+      dob:
+        y: 1980
+        m: 5
+        d: 29

@@ -25,3 +25,9 @@ artistData:
         y: 1981
         m: 6
         d: 15
+    - artistNames:
+      - Joe Haege
+      dob:
+        y: 1978
+        m: 7
+        d: 18

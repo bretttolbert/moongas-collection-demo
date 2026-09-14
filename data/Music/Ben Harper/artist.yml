@@ -13,3 +13,25 @@ artistData:
         y: 1969
         m: 10
         d: 28
+    - artistNames:
+      - Juan Nelson
+      dob:
+        y: 1965
+      artistRoles:
+      - bass
+    - artistNames:
+      - Oliver Charles
+      dob:
+        y: 1979
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jason Yates
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Michael Ward
+      dob:
+        y: 1966
+      artistRoles:
+      - guitar

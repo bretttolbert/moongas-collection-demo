@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Adam "MCA" Yauch
+      dob:
+        y: 1964
+        m: 8
+        d: 5
+      dod:
+        y: 2012
+        m: 5
+        d: 4
+    - artistNames:
+      - Adam "Ad-Rock" Horovitz
+      dob:
+        y: 1966
+        m: 10
+        d: 31
+    - artistNames:
+      - Michael "Mike D" Diamond
+      dob:
+        y: 1965
+        m: 11
+        d: 20

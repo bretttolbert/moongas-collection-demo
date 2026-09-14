@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Adrian Quesada
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Carlos Arriaga
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Javier Rojas
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - J. J. Mendez
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+    - artistNames:
+      - Kelsey O'Keefe
+      dob:
+        y: 1980
+        m: 1
+        d: 1

@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - fi
   regionCode: FI-17
-  members: []
+  members:
+    - artistNames:
+      - Jun-His
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Ontto
+      artistRoles:
+      - bass
+    - artistNames:
+      - Moit
+      artistRoles:
+      - drums
+    - artistNames:
+      - K. A. S. K.
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - V. K.
+      artistRoles:
+      - guitar
+      - keyboards

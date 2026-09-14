@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Jon Brion
+      dob:
+        y: 1963
+        m: 12
+        d: 8

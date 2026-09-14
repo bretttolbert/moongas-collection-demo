@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - OG Maco
+      dob:
+        y: 1992
+        m: 3
+        d: 23

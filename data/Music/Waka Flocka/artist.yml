@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Waka Flocka
+  dob:
+    y: 1986
+    m: 5
+    d: 31
   city: Atlanta
   countryCode: US
   languageCodes:

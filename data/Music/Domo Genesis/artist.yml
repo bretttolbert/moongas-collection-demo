@@ -3,6 +3,10 @@ artistData:
   - Domo Genesis
   city: Inglewood
   countryCode: US
+  dob:
+    y: 1991
+    m: 3
+    d: 9
   languageCodes:
   - en
   regionCode: US-CA

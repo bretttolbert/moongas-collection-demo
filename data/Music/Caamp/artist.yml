@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Taylor Meier
+      dob:
+        y: 1994
+        m: 1
+        d: 1
+    - artistNames:
+      - Evan Westfall
+      dob:
+        y: 1994
+        m: 1
+        d: 1
+    - artistNames:
+      - Matt Vinson
+      dob:
+        y: 1994
+        m: 1
+        d: 1

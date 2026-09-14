@@ -13,3 +13,10 @@ artistData:
         y: 1975
         m: 1
         d: 15
+    - artistNames:
+      - Various Collaborators
+      artistRoles:
+      - electronic music
+      - bass guitar
+      - drums
+      - production

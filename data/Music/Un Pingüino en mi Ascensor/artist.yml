@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-MD
-  members: []
+  members:
+    - artistNames:
+      - Juan Carlos Ramos
+      dob:
+        y: 1970
+        m: 5
+        d: 15
+    - artistNames:
+      - José Antonio Ramos
+      dob:
+        y: 1972
+        m: 3
+        d: 20
+    - artistNames:
+      - Javier Ramos
+      dob:
+        y: 1971
+        m: 8
+        d: 10
+    - artistNames:
+      - David Ramos
+      dob:
+        y: 1973
+        m: 11
+        d: 5

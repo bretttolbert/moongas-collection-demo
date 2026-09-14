@@ -3,6 +3,8 @@ artistData:
   - Emperor X
   dob:
     y: 1998
+    m: 1
+    d: 1
   city: Jacksonville
   countryCode: US
   regionCode: US-FL

@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - es
   regionCode: AR-X
-  members: []
+  members:
+    - artistNames:
+      - Alejo Stivel
+    - artistNames:
+      - Pablo "Pato" Gutiérrez
+    - artistNames:
+      - Juan "Pato" González
+    - artistNames:
+      - Diego "Chiflo" Sosa
+    - artistNames:
+      - Martín "Tito" González
+    - artistNames:
+      - Nicolás "Nico" González
+    - artistNames:
+      - Santiago "Santi" González
+    - artistNames:
+      - Juan "Juani" González
+    - artistNames:
+      - Andrés "Andy" González
+    - artistNames:
+      - Facundo "Facu" González

@@ -73,3 +73,51 @@ artistData:
         d: 11
       artistRoles:
       - vocals
+    - artistNames:
+      - SZA
+      dob:
+        y: 1990
+        m: 11
+        d: 8
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Megan Thee Stallion
+      dob:
+        y: 1995
+        m: 2
+        d: 15
+      artistRoles:
+      - vocals
+    - artistNames:
+      - H.E.R.
+      dob:
+        y: 1997
+        m: 6
+        d: 27
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Khalid
+      dob:
+        y: 1998
+        m: 2
+        d: 11
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Charlie Puth
+      dob:
+        y: 1991
+        m: 12
+        d: 2
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Dua Lipa
+      dob:
+        y: 1995
+        m: 8
+        d: 22
+      artistRoles:
+      - vocals

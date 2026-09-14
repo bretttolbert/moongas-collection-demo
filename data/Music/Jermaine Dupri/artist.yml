@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Jermaine Dupri
+  dob:
+    y: 1972
+    m: 9
+    d: 23
   city: Asheville
   countryCode: US
   languageCodes:

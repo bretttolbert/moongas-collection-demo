@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Jonny Pierce
+      dob:
+        y: 1989
+        m: 6
+        d: 23
+    - artistNames:
+      - Jacob Graham
+      dob:
+        y: 1988
+        m: 4
+        d: 12
+    - artistNames:
+      - Connor Hanwick
+      dob:
+        y: 1989
+        m: 11
+        d: 12
+    - artistNames:
+      - Zachary Smith
+      dob:
+        y: 1990
+        m: 1
+        d: 5

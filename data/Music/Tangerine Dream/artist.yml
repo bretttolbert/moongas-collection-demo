@@ -66,3 +66,16 @@ artistData:
       artistRoles:
       - keyboards
       - guitar
+    - artistNames:
+      - Michael Hoenig
+      dob:
+        y: 1946
+      artistRoles:
+      - synthesizers
+    - artistNames:
+      - Rainer Bloss
+      dob:
+        y: 1948
+      artistRoles:
+      - synthesizers
+      - keyboards

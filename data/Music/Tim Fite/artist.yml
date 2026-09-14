@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Tim Fite
+      dob:
+        y: 1980
+        m: 1
+        d: 1

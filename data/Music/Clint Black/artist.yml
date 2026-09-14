@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Clint Black
+      dob:
+        y: 1962
+        m: 2
+        d: 4

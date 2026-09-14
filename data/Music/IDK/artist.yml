@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - IDK
+      dob:
+        y: 1993
+        m: 5
+        d: 24

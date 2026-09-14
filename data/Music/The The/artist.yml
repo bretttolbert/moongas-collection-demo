@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Matt Johnson
+      dob:
+        y: 1961
+        m: 8
+        d: 15
+    - artistNames:
+      - Zeke Manyika
+      dob:
+        y: 1960
+        m: 11
+        d: 1
+    - artistNames:
+      - Johnny Marr
+      dob:
+        y: 1963
+        m: 10
+        d: 31
+    - artistNames:
+      - Tim Palmer
+      dob:
+        y: 1961
+        m: 7
+        d: 24
+    - artistNames:
+      - David Palmer
+      dob:
+        y: 1960
+        m: 5
+        d: 10

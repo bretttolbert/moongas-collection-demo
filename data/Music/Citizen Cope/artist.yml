@@ -13,3 +13,13 @@ artistData:
         y: 1971
         m: 7
         d: 20
+    - artistNames:
+      - Carlos Alomar
+    - artistNames:
+      - Chris Bruce
+    - artistNames:
+      - Rachael Yamagata
+    - artistNames:
+      - J. M. Silk
+    - artistNames:
+      - Eric Krasno

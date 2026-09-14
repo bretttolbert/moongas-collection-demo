@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Keith Charles
+      dob:
+        y: 1995
+        m: 6
+        d: 15

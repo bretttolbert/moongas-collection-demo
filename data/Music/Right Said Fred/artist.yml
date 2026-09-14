@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-WSX
-  members: []
+  members:
+    - artistNames:
+      - Fred Fairbrass
+      dob:
+        y: 1964
+        m: 4
+        d: 21
+    - artistNames:
+      - Richard Fairbrass
+      dob:
+        y: 1966
+        m: 4
+        d: 22

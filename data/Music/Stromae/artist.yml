@@ -3,6 +3,10 @@ artistData:
   - Stromae
   city: Brussels
   countryCode: BE
+  dob:
+    y: 1985
+    m: 3
+    d: 12
   languageCodes:
   - fr
   regionCode: BE-BRU

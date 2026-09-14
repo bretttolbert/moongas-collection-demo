@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Don Van Vliet
+      dob:
+        y: 1941
+        m: 1
+        d: 15
+      dod:
+        y: 2010
+        m: 12
+        d: 17

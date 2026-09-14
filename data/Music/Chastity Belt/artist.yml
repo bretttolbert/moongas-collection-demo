@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Julia Shapiro
+      dob:
+        y: 1990
+    - artistNames:
+      - Lydia Lund
+      dob:
+        y: 1990
+    - artistNames:
+      - Annie Truscott
+      dob:
+        y: 1990
+    - artistNames:
+      - Gretchen Grimm
+      dob:
+        y: 1990

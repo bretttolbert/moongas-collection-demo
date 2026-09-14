@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Brian Vollmer
+      dob:
+        y: 1963
+        m: 11
+        d: 30
+    - artistNames:
+      - Greg "Fritz" Hinz
+      dob:
+        y: 1964
+        m: 4
+        d: 24
+    - artistNames:
+      - Daryl Gray
+      dob:
+        y: 1964
+        m: 8
+        d: 22
+    - artistNames:
+      - Brent "The Doctor" Doerner
+      dob:
+        y: 1964
+        m: 5
+        d: 12
+    - artistNames:
+      - Peter Lesperance
+      dob:
+        y: 1965
+        m: 3
+        d: 15

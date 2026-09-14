@@ -44,3 +44,20 @@ artistData:
         d: 14
       artistRoles:
       - drums
+    - artistNames:
+      - Jake Brockman
+      dob:
+        y: 1980
+        m: 1
+        d: 1
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Paul Hemmings
+      dob:
+        y: 1969
+        m: 3
+        d: 10
+      artistRoles:
+      - guitar
+      - backing vocals

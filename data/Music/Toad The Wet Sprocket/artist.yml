@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Glen Phillips
+      dob:
+        y: 1970
+        m: 12
+        d: 29
+    - artistNames:
+      - Todd Nichols
+      dob:
+        y: 1969
+        m: 6
+        d: 19
+    - artistNames:
+      - Dean Dinning
+      dob:
+        y: 1969
+        m: 3
+        d: 26
+    - artistNames:
+      - Randy Guss
+      dob:
+        y: 1970
+        m: 4
+        d: 4

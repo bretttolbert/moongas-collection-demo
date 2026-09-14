@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Joe Diffie
+  dob:
+    y: 1958
+    m: 12
+    d: 28
   city: Tulsa
   countryCode: US
   languageCodes:

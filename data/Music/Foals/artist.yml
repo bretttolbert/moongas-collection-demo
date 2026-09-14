@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-ENG
-  members: []
+  members:
+    - artistNames:
+      - Yannis Philippakis
+      dob:
+        y: 1986
+        m: 4
+        d: 23
+    - artistNames:
+      - Jack Bevan
+      dob:
+        y: 1986
+        m: 12
+        d: 15
+    - artistNames:
+      - Walter Gervers
+      dob:
+        y: 1986
+        m: 5
+        d: 18
+    - artistNames:
+      - Jimmy Smith
+      dob:
+        y: 1989
+        m: 7
+        d: 15
+    - artistNames:
+      - Edwin Congreave
+      dob:
+        y: 1986
+        m: 9
+        d: 22

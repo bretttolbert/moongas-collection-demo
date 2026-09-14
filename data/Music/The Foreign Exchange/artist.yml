@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Phonte Coleman
+      dob:
+        y: 1980
+        m: 12
+        d: 28
+    - artistNames:
+      - Nicolay
+      dob:
+        y: 1982
+        m: 11
+        d: 8

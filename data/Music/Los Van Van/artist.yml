@@ -5,6 +5,16 @@ artistData:
   city: Havana
   countryCode: CU
   regionCode: CU-03
-  members: []
+  members:
+    - artistNames:
+      - Juan Formell
+      dob:
+        y: 1942
+        m: 8
+        d: 2
+      dod:
+        y: 2014
+        m: 5
+        d: 1
   languageCodes:
   - es

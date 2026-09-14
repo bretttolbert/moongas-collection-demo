@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: JM-01
-  members: []
+  members:
+    - artistNames:
+      - Masego
+      dob:
+        y: 1993
+        m: 6
+        d: 8

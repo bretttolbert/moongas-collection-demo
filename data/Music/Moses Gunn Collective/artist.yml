@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-QLD
-  members: []
+  members:
+    - artistNames:
+      - Moses Gunn
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Other Member 1
+    - artistNames:
+      - Other Member 2
+    - artistNames:
+      - Other Member 3
+    - artistNames:
+      - Other Member 4

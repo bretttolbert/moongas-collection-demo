@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Stephen Bruner
+      dob:
+        y: 1984
+        m: 10
+        d: 2

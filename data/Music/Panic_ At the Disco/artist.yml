@@ -43,3 +43,27 @@ artistData:
         y: 1990
         m: 8
         d: 14
+    - artistNames:
+      - Keltie Colleen
+      dob:
+        y: 1986
+        m: 9
+        d: 24
+    - artistNames:
+      - Ian Crawford
+      dob:
+        y: 1987
+        m: 5
+        d: 21
+    - artistNames:
+      - Mike Naran
+      dob:
+        y: 1986
+        m: 4
+        d: 24
+    - artistNames:
+      - Ashley Greene
+      dob:
+        y: 1987
+        m: 2
+        d: 21

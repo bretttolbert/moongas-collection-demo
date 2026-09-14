@@ -1,9 +1,9 @@
 artistData:
   artistNames:
   - LVNDSCAPE
-  city: ''
+  city: Amsterdam
   countryCode: NL
   languageCodes:
   - nl
-  regionCode: ''
+  regionCode: NL-NH
   members: []

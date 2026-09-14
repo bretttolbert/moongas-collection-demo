@@ -31,3 +31,15 @@ artistData:
         y: 1975
         m: 5
         d: 15
+    - artistNames:
+      - Davey Havok
+      dob:
+        y: 1975
+        m: 11
+        d: 20
+    - artistNames:
+      - Sean O'Donnell
+      dob:
+        y: 1970
+        m: 8
+        d: 15

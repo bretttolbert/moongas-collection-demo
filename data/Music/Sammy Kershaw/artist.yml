@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Sammy Kershaw
+  dob:
+    y: 1968
+    m: 2
+    d: 24
   city: Kaplan
   countryCode: US
   languageCodes:

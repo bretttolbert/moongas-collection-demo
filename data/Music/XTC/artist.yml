@@ -37,3 +37,15 @@ artistData:
         y: 1956
         m: 11
         d: 4
+    - artistNames:
+      - Geoff Britton
+      dob:
+        y: 1949
+        m: 6
+        d: 1
+    - artistNames:
+      - Maddy Prior
+      dob:
+        y: 1947
+        m: 8
+        d: 27

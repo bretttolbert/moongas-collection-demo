@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Chris Shinn
+      dob:
+        y: 1970
+        m: 5
+        d: 21
+    - artistNames:
+      - Brad Wilk
+      dob:
+        y: 1969
+        m: 9
+        d: 5
+    - artistNames:
+      - Dan Estrin
+      dob:
+        y: 1975
+        m: 8
+        d: 1
+    - artistNames:
+      - Chris Traynor
+      dob:
+        y: 1970
+        m: 4
+        d: 18
+    - artistNames:
+      - Chris "C" Caffery
+      dob:
+        y: 1968
+        m: 11
+        d: 2

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Toby Keith
+  dob:
+    y: 1961
+    m: 7
+    d: 8
   city: Clinton
   countryCode: US
   languageCodes:

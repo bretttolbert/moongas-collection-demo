@@ -6,4 +6,38 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - David Gates
+      dob:
+        y: 1940
+        m: 12
+        d: 11
+    - artistNames:
+      - James Griffin
+      dob:
+        y: 1943
+        m: 8
+        d: 10
+    - artistNames:
+      - Robb Royer
+      dob:
+        y: 1942
+        m: 4
+        d: 12
+    - artistNames:
+      - Mike Botts
+      dob:
+        y: 1943
+        m: 2
+        d: 15
+    - artistNames:
+      - Larry Knechtel
+      dob:
+        y: 1940
+        m: 3
+        d: 4
+      dod:
+        y: 2009
+        m: 8
+        d: 20

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AZ
-  members: []
+  members:
+    - artistNames:
+      - Robbie Pfeffer
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - J. J. D'Agostino
+      dob:
+        y: 1990
+        m: 3
+        d: 15
+    - artistNames:
+      - David H. D'Agostino
+      dob:
+        y: 1992
+        m: 5
+        d: 20
+    - artistNames:
+      - J. M. H. D'Agostino
+      dob:
+        y: 1992
+        m: 8
+        d: 30
+    - artistNames:
+      - J. A. D'Agostino
+      dob:
+        y: 1993
+        m: 11
+        d: 25

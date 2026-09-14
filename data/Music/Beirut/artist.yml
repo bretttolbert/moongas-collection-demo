@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NM
-  members: []
+  members:
+    - artistNames:
+      - Zach Condon
+      dob:
+        y: 1986
+        m: 2
+        d: 13
+    - artistNames:
+      - Perrin Cloutier
+    - artistNames:
+      - Paul Collins
+    - artistNames:
+      - Heather Trost
+    - artistNames:
+      - Nick Petree

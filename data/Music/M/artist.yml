@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - M
+      dob:
+        y: 1990
+        m: 1
+        d: 1

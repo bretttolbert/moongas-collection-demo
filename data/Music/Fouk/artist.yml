@@ -6,4 +6,13 @@ artistData:
   languageCodes:
   - en
   regionCode: NL-NB
-  members: []
+  members:
+    - artistNames:
+      - Fouk
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+      artistRoles:
+      - electronic music producer
+      - DJ

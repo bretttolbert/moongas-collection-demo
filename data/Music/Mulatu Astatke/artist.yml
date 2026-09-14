@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: ET-OR
-  members: []
+  members:
+    - artistNames:
+      - Mulatu Astatke
+      dob:
+        y: 1927
+        m: 4
+        d: 19

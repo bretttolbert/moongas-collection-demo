@@ -39,3 +39,39 @@ artistData:
         d: 5
       artistRoles:
       - drums
+    - artistNames:
+      - Ronnie James Dio
+      dob:
+        y: 1942
+        m: 7
+        d: 10
+      dod:
+        y: 2010
+        m: 5
+        d: 16
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Vinny Appice
+      dob:
+        y: 1957
+        m: 9
+        d: 13
+      artistRoles:
+      - drums
+    - artistNames:
+      - Adam Wakeman
+      dob:
+        y: 1974
+        m: 3
+        d: 18
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Gus G
+      dob:
+        y: 1980
+        m: 9
+        d: 12
+      artistRoles:
+      - guitar

@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-AB
-  members: []
+  members:
+    - artistNames:
+      - Terry Jacks
+      dob:
+        y: 1944
+        m: 3
+        d: 29
+    - artistNames:
+      - Susan Jacks
+      dob:
+        y: 1948
+        m: 8
+        d: 19
+    - artistNames:
+      - Craig McCaw
+      dob:
+        y: 1945
+        m: 10
+        d: 15
+    - artistNames:
+      - Thelma Houston
+      dob:
+        y: 1946
+        m: 5
+        d: 7
+    - artistNames:
+      - John McCaw
+      dob:
+        y: 1946
+        m: 1
+        d: 1

@@ -43,3 +43,9 @@ artistData:
         y: 1971
         m: 6
         d: 3
+    - artistNames:
+      - David Blomqvist
+      dob:
+        y: 1971
+        m: 4
+        d: 25

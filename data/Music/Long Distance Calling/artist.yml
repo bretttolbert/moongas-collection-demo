@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-NW
-  members: []
+  members:
+    - artistNames:
+      - David Jordan
+    - artistNames:
+      - Florian Füntmann
+    - artistNames:
+      - Janosch Harsche
+    - artistNames:
+      - Christoph Kling
+    - artistNames:
+      - Simon Götz

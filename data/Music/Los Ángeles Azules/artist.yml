@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Elías Mendoza
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Jorge Mejía
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Mario Mendoza
+      artistRoles:
+      - bass
+    - artistNames:
+      - Javier Solis
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - Manuel Mendoza
+      artistRoles:
+      - saxophone
+    - artistNames:
+      - Juan Carlos
+      artistRoles:
+      - drums
+    - artistNames:
+      - Fernando Mendoza
+      artistRoles:
+      - guitar

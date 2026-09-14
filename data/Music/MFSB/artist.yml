@@ -149,39 +149,3 @@ artistData:
         y: 1934
         m: 6
         d: 26
-    - artistNames:
-      - John "Johnny" Harris
-      dob:
-        y: 1945
-        m: 7
-        d: 20
-    - artistNames:
-      - Robert "Bob" Babbitt
-      dob:
-        y: 1938
-        m: 8
-        d: 15
-    - artistNames:
-      - Gerald "Jerry" Cohen
-      dob:
-        y: 1945
-        m: 4
-        d: 1
-    - artistNames:
-      - Richard "Richie" Rome
-      dob:
-        y: 1947
-        m: 3
-        d: 12
-    - artistNames:
-      - Charles "Charlie" DeChant
-      dob:
-        y: 1946
-        m: 5
-        d: 20
-    - artistNames:
-      - David "Dave" Grusin
-      dob:
-        y: 1934
-        m: 6
-        d: 26

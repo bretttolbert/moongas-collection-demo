@@ -6,4 +6,52 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Larry Blackmon
+      dob:
+        y: 1956
+        m: 5
+        d: 24
+    - artistNames:
+      - Tomi Jenkins
+      dob:
+        y: 1956
+        m: 4
+        d: 26
+    - artistNames:
+      - Aaron Mills
+      dob:
+        y: 1961
+        m: 1
+        d: 1
+    - artistNames:
+      - Charlie Singleton
+      dob:
+        y: 1954
+        m: 10
+        d: 12
+    - artistNames:
+      - Kevin Kendricks
+      dob:
+        y: 1959
+        m: 10
+        d: 17
+    - artistNames:
+      - Greg Moore
+      dob:
+        y: 1960
+        m: 3
+        d: 15
+    - artistNames:
+      - Reggie Calloway
+      dob:
+        y: 1961
+        m: 10
+        d: 24
+    - artistNames:
+      - Michael McGloiry
+      dob:
+        y: 1961
+        m: 8
+        d: 12

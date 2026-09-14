@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Tony Scalzo
+      dob:
+        y: 1968
+        m: 6
+        d: 29
+    - artistNames:
+      - Miles Zuniga
+      dob:
+        y: 1967
+        m: 9
+        d: 12
+    - artistNames:
+      - Joey Shuffield
+      dob:
+        y: 1970
+        m: 4
+        d: 1

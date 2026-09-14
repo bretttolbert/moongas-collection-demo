@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-IL
-  members: []
+  members:
+    - artistNames:
+      - Dalton Allison
+    - artistNames:
+      - Jake Hirshland
+    - artistNames:
+      - Matt Williams
+    - artistNames:
+      - Evan Hirshland
+    - artistNames:
+      - Casey McNulty

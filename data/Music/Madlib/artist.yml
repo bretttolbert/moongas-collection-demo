@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Otis Jackson Jr.
+      dob:
+        y: 1973
+        m: 10
+        d: 24

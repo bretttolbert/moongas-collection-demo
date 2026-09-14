@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Manu Chao
+  dob:
+    y: 1961
+    m: 6
+    d: 26
   city: Paris
   countryCode: FR
   languageCodes:

@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Brian Setzer
+      dob:
+        y: 1960
+        m: 4
+        d: 10
+    - artistNames:
+      - Mark Winchester
+    - artistNames:
+      - Bernie Dresel
+    - artistNames:
+      - Kevin McKendree
+    - artistNames:
+      - Paul Deakin
+    - artistNames:
+      - Johnny Hatton
+    - artistNames:
+      - Michael "Mike" Baird
+    - artistNames:
+      - John "Johnny" D'Angelo
+    - artistNames:
+      - John "J.J." Johnson

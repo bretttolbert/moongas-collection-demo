@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - ko
   regionCode: KR-11
-  members: []
+  members:
+    - artistNames:
+      - Jea
+      dob:
+        y: 1981
+        m: 9
+        d: 18
+    - artistNames:
+      - Miryo
+      dob:
+        y: 1986
+        m: 11
+        d: 2
+    - artistNames:
+      - Narsha
+      dob:
+        y: 1983
+        m: 6
+        d: 24
+    - artistNames:
+      - Gain
+      dob:
+        y: 1987
+        m: 9
+        d: 20

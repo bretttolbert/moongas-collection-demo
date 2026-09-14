@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-BC
-  members: []
+  members:
+    - artistNames:
+      - Jacob Hoggard
+      dob:
+        y: 1984
+        m: 7
+        d: 9
+    - artistNames:
+      - Dave Rosin
+      dob:
+        y: 1980
+        m: 6
+        d: 18
+    - artistNames:
+      - Tommy Mac
+      dob:
+        y: 1984
+        m: 5
+        d: 24
+    - artistNames:
+      - Chris Crippin
+      dob:
+        y: 1980
+        m: 1
+        d: 1

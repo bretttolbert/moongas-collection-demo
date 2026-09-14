@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CMX
-  members: []
+  members:
+    - artistNames:
+      - Pato
+    - artistNames:
+      - Chava
+    - artistNames:
+      - Tato
+    - artistNames:
+      - Rocco
+    - artistNames:
+      - Micky
+    - artistNames:
+      - Beto
+    - artistNames:
+      - Tino
+    - artistNames:
+      - Chuy
+    - artistNames:
+      - Gabo
+    - artistNames:
+      - Tavo

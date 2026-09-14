@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Carter King
+    - artistNames:
+      - Daniel Womack
+    - artistNames:
+      - Thomas Johnson
+    - artistNames:
+      - Justin Kinkel-Schuster
+    - artistNames:
+      - Chris McCauley

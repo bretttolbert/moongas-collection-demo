@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Peter Green
+  dob:
+    y: 1946
+    m: 10
+    d: 29
   city: London
   countryCode: GB
   languageCodes:

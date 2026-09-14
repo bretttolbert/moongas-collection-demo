@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AL
-  members: []
+  members:
+    - artistNames:
+      - Sanford Townsend
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - John Townsend
+      dob:
+        y: 1945
+        m: 1
+        d: 1

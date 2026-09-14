@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Mike Doughty
+      dob:
+        y: 1970
+        m: 6
+        d: 10

@@ -32,6 +32,7 @@ artistData:
       dod:
         y: 1985
         m: 12
+        d: 1
       city: Statesville
       countryCode: US
       regionCode: US-NC

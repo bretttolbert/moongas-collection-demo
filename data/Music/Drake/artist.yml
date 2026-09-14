@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-ON
-  members: []
+  members:
+    - artistNames:
+      - Aubrey Drake Graham
+      dob:
+        y: 1986
+        m: 10
+        d: 24

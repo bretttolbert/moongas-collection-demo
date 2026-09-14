@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Courtney Love
+  dob:
+    y: 1964
+    m: 7
+    d: 9
   city: San Francisco
   countryCode: US
   languageCodes:

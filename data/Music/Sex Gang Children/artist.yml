@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Andi Sex Gang
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Dave Roberts
+      dob:
+        y: 1962
+        m: 3
+        d: 15
+    - artistNames:
+      - John "Noddy" Noddy
+      dob:
+        y: 1961
+        m: 5
+        d: 20
+    - artistNames:
+      - Tony "T" T
+      dob:
+        y: 1963
+        m: 7
+        d: 30

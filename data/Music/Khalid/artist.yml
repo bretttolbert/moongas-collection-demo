@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Khalid
+  dob:
+    y: 1998
+    m: 2
+    d: 11
   city: El Paso
   countryCode: US
   languageCodes:

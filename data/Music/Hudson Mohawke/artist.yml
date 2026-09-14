@@ -13,3 +13,13 @@ artistData:
         y: 1986
         m: 2
         d: 11
+    - artistNames:
+      - TNGHT
+      artistRoles:
+      - producer
+      - DJ
+    - artistNames:
+      - Lunice
+      artistRoles:
+      - producer
+      - DJ

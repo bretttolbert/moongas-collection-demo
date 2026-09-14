@@ -7,3 +7,7 @@ artistData:
   - en
   regionCode: US-CA
   members: []
+  dob:
+    y: 1995
+    m: 6
+    d: 15

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-VA
-  members: []
+  members:
+    - artistNames:
+      - Steve Earle
+      dob:
+        y: 1955
+        m: 1
+        d: 17

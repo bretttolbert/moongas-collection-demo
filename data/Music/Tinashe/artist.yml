@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Tinashe
+  dob:
+    y: 1993
+    m: 2
+    d: 6
   city: Lexington
   countryCode: US
   languageCodes:

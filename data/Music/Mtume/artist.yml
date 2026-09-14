@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-PA
-  members: []
+  members:
+    - artistNames:
+      - James Mtume
+      dob:
+        y: 1953
+        m: 1
+        d: 3
+    - artistNames:
+      - Reggie Lucas
+      dob:
+        y: 1947
+        m: 1
+        d: 25
+      dod:
+        y: 2018
+        m: 5
+        d: 19

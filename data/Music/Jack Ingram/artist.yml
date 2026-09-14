@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Jack Ingram
+  dob:
+    y: 1972
+    m: 11
+    d: 15
   city: The Woodlands
   countryCode: US
   languageCodes:

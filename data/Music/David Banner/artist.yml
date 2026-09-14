@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MS
-  members: []
+  members:
+    - artistNames:
+      - David Banner
+      dob:
+        y: 1974
+        m: 4
+        d: 11
+      artistRoles:
+      - rapper
+      - producer
+      - actor

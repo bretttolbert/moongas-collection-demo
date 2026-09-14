@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-VER
-  members: []
+  members:
+    - artistNames:
+      - Joao
+      dob:
+        y: 1990
+        m: 1
+        d: 1
+    - artistNames:
+      - Joana
+      dob:
+        y: 1992
+        m: 5
+        d: 15
+    - artistNames:
+      - Juan
+      dob:
+        y: 1988
+        m: 3
+        d: 20

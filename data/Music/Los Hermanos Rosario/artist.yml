@@ -11,7 +11,28 @@ artistData:
   members:
     - artistNames:
       - Rafa Rosario
-      artistBands:
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
       - Luis Rosario
       artistRoles:
+      - vocals
+      - keyboards
+    - artistNames:
       - Tony Rosario
+      artistRoles:
+      - vocals
+      - bass
+    - artistNames:
+      - Jandy Rosario
+      artistRoles:
+      - drums
+    - artistNames:
+      - Elvin Rosario
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - Chiquito Rosario
+      artistRoles:
+      - saxophone

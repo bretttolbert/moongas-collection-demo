@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Edward Edwards
+      dob:
+        y: 1985
+        m: 6
+        d: 15
+    - artistNames:
+      - Sarah Edwards
+      dob:
+        y: 1987
+        m: 3
+        d: 22
+    - artistNames:
+      - Michael Edwards
+      dob:
+        y: 1983
+        m: 11
+        d: 5
+    - artistNames:
+      - Jessica Edwards
+      dob:
+        y: 1989
+        m: 1
+        d: 30

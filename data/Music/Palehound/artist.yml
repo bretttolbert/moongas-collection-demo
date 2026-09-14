@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Ellen Kempner
+      dob:
+        y: 1993
+        m: 4
+        d: 24
+    - artistNames:
+      - Alex Billig
+    - artistNames:
+      - Nick Zinner
+    - artistNames:
+      - Jake Luppen

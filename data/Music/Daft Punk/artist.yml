@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Thomas Bangalter
+      dob:
+        y: 1975
+        m: 1
+        d: 3
+    - artistNames:
+      - Guy-Manuel de Homem-Christo
+      dob:
+        y: 1974
+        m: 2
+        d: 8

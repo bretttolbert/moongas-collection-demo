@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - T. J. McCarthy
+      dob:
+        y: 1970
+        m: 7
+        d: 15
+    - artistNames:
+      - J. J. McCarthy
+      dob:
+        y: 1972
+        m: 3
+        d: 22
+    - artistNames:
+      - J. J. McCarthy
+      dob:
+        y: 1972
+        m: 3
+        d: 22
+    - artistNames:
+      - J. J. McCarthy
+      dob:
+        y: 1972
+        m: 3
+        d: 22

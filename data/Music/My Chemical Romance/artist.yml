@@ -6,4 +6,47 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Gerard Way
+      dob:
+        y: 1977
+        m: 4
+        d: 9
+      artistRoles:
+      - lead vocals
+      - guitar
+    - artistNames:
+      - Mikey Way
+      dob:
+        y: 1980
+        m: 9
+        d: 10
+      artistRoles:
+      - bass
+    - artistNames:
+      - Ray Toro
+      dob:
+        y: 1977
+        m: 7
+        d: 15
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Frank Iero
+      dob:
+        y: 1981
+        m: 10
+        d: 31
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Bob Bryar
+      dob:
+        y: 1980
+        m: 12
+        d: 31
+      artistRoles:
+      - drums

@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: CA-BC
-  members: []
+  members:
+    - artistNames:
+      - Carey Mercer
+      dob:
+        y: 1972
+        m: 6
+        d: 24
+    - artistNames:
+      - Melanie Campbell
+    - artistNames:
+      - Michael McNichol
+    - artistNames:
+      - Spencer Krug
+      dob:
+        y: 1980
+        m: 4
+        d: 5

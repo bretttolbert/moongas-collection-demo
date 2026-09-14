@@ -37,3 +37,15 @@ artistData:
         y: 1971
         m: 11
         d: 12
+    - artistNames:
+      - Brian McCandless
+      dob:
+        y: 1974
+        m: 3
+        d: 25
+    - artistNames:
+      - Jonny McCauley
+      dob:
+        y: 1976
+        m: 1
+        d: 18

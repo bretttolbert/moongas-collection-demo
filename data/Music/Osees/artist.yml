@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - John Dwyer
+      dob:
+        y: 1975
+        m: 11
+        d: 15
+    - artistNames:
+      - Brigid Dawson
+    - artistNames:
+      - Tim Hellman
+    - artistNames:
+      - Nick Zinner
+    - artistNames:
+      - Dan Rincon

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: NZ-AUK
-  members: []
+  members:
+    - artistNames:
+      - Liam Finn
+      dob:
+        y: 1983
+        m: 9
+        d: 24

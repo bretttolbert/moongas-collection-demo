@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-OCC
-  members: []
+  members:
+    - artistNames:
+      - Marie Limiñana
+    - artistNames:
+      - Lionel Limiñana

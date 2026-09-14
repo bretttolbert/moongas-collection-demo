@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Wiz Khalifa
+  dob:
+    y: 1987
+    m: 9
+    d: 8
   city: Minot
   countryCode: US
   languageCodes:

@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - The Weeknd
+  dob:
+    y: 1990
+    m: 2
+    d: 16
   city: Toronto
   countryCode: CA
   languageCodes:

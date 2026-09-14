@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - es
   regionCode: ES-MD
-  members: []
+  members:
+    - artistNames:
+      - José María Cano
+      dob:
+        y: 1961
+        m: 6
+        d: 21
+    - artistNames:
+      - Nacho Cano
+      dob:
+        y: 1961
+        m: 2
+        d: 24
+    - artistNames:
+      - Ana Torroja
+      dob:
+        y: 1969
+        m: 12
+        d: 28

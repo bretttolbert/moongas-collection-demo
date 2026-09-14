@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: AU-WA
-  members: []
+  members:
+    - artistNames:
+      - Jafunk
+      dob:
+        y: 1990
+        m: 1
+        d: 1

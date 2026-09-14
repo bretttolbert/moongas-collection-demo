@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: FR-PAC
-  members: []
+  members:
+    - artistNames:
+      - Anthony Gonzalez
+      dob:
+        y: 1980
+        m: 3
+        d: 13
+    - artistNames:
+      - Nicolas Fromageau
+      dob:
+        y: 1980
+        m: 12
+        d: 20

@@ -44,3 +44,24 @@ artistData:
       artistRoles:
       - saxophone
       - backing vocals
+    - artistNames:
+      - Craig Frost
+      dob:
+        y: 1949
+        m: 11
+        d: 1
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Pamela Moore
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - Mark Chatfield
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Doug Moffet
+      artistRoles:
+      - drums
+      - percussion

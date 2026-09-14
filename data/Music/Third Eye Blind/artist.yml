@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Stephan Jenkins
+      dob:
+        y: 1974
+        m: 9
+        d: 27
+    - artistNames:
+      - Kevin Cadogan
+      dob:
+        y: 1970
+        m: 3
+        d: 30
+    - artistNames:
+      - Arion Salazar
+      dob:
+        y: 1970
+        m: 6
+        d: 19
+    - artistNames:
+      - Brad Hargreaves
+      dob:
+        y: 1970
+        m: 10
+        d: 23
+    - artistNames:
+      - Jason "G" McLean
+      dob:
+        y: 1970
+        m: 1
+        d: 1

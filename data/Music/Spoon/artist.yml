@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TX
-  members: []
+  members:
+    - artistNames:
+      - Britt Daniel
+      dob:
+        y: 1971
+        m: 4
+        d: 14
+    - artistNames:
+      - Jim Eno
+      dob:
+        y: 1970
+        m: 4
+        d: 24
+    - artistNames:
+      - Rob Pope
+      dob:
+        y: 1973
+        m: 8
+        d: 15
+    - artistNames:
+      - Alex Fischel
+      dob:
+        y: 1985
+        m: 1
+        d: 1

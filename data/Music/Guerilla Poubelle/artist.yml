@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - François "Franz" Poubelle
+    - artistNames:
+      - Renaud "Renaud" Poubelle
+    - artistNames:
+      - Pierre "Pipo" Poubelle
+    - artistNames:
+      - Thomas "Tom" Poubelle

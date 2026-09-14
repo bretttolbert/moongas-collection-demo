@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-RDG
-  members: []
+  members:
+    - artistNames:
+      - Will Holland
+      dob:
+        y: 1980
+        m: 1
+        d: 1

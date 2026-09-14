@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Jakko Jakszyk
+      dob:
+        y: 1960
+        m: 6
+        d: 24
+    - artistNames:
+      - Robert Fripp
+      dob:
+        y: 1946
+        m: 5
+        d: 16
+    - artistNames:
+      - Mel Collins
+      dob:
+        y: 1947
+        m: 1
+        d: 5

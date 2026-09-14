@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-KS
-  members: []
+  members:
+    - artistNames:
+      - Chris Crisci
+      dob:
+        y: 1978
+        m: 8
+        d: 15
+    - artistNames:
+      - Nathan Ellis
+      dob:
+        y: 1980
+        m: 4
+        d: 24
+    - artistNames:
+      - Josh Baruth
+      dob:
+        y: 1980
+        m: 9
+        d: 12
+    - artistNames:
+      - Mike D. 
+      dob:
+        y: 1981
+        m: 3
+        d: 5
+    - artistNames:
+      - Brian McTernan
+      dob:
+        y: 1976
+        m: 11
+        d: 18

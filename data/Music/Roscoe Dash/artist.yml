@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AR
-  members: []
+  members:
+    - artistNames:
+      - Roscoe Dash
+      dob:
+        y: 1990
+        m: 4
+        d: 2

@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Jack Hues
+      dob:
+        y: 1961
+        m: 6
+        d: 21
+    - artistNames:
+      - Nick Feldman
+      dob:
+        y: 1961
+        m: 3
+        d: 15

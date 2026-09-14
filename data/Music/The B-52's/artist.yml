@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-GA
-  members: []
+  members:
+    - artistNames:
+      - Fred Schneider
+      dob:
+        y: 1951
+        m: 7
+        d: 1
+    - artistNames:
+      - Kate Pierson
+      dob:
+        y: 1948
+        m: 4
+        d: 27
+    - artistNames:
+      - Cindy Wilson
+      dob:
+        y: 1951
+        m: 2
+        d: 28
+    - artistNames:
+      - Keith Strickland
+      dob:
+        y: 1953
+        m: 10
+        d: 26

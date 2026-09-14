@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AR
-  members: []
+  members:
+    - artistNames:
+      - Jim Seals
+      dob:
+        y: 1937
+        m: 10
+        d: 17
+    - artistNames:
+      - Dash Crofts
+      dob:
+        y: 1938
+        m: 8
+        d: 14

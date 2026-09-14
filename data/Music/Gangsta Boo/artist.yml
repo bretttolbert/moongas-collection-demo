@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Gangsta Boo
+  dob:
+    y: 1979
+    m: 8
+    d: 7
   city: Memphis
   countryCode: US
   languageCodes:

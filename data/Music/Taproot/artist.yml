@@ -31,3 +31,9 @@ artistData:
         y: 1978
         m: 4
         d: 22
+    - artistNames:
+      - Greg Upchurch
+      dob:
+        y: 1974
+        m: 5
+        d: 1

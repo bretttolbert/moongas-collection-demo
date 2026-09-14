@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: DE-BE
-  members: []
+  members:
+    - artistNames:
+      - King Khan
+      dob:
+        y: 1976
+        m: 1
+        d: 19
+    - artistNames:
+      - BBQ
+      dob:
+        y: 1975
+        m: 5
+        d: 12
+    - artistNames:
+      - Mark "Bobby" B. 
+    - artistNames:
+      - Fredovitch
+    - artistNames:
+      - Wolfman
+    - artistNames:
+      - The Black Power
+    - artistNames:
+      - The Shrines

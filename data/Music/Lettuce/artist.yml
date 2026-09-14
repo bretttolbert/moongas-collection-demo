@@ -6,4 +6,24 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Adam Smirnoff
+    - artistNames:
+      - Ryan Zoidis
+    - artistNames:
+      - Eric Benny Bloom
+    - artistNames:
+      - Nigel Hall
+    - artistNames:
+      - Kofi Burbridge
+      dod:
+        y: 2019
+        m: 2
+        d: 3
+    - artistNames:
+      - Jesus Coomes
+    - artistNames:
+      - Carlton Holmes
+    - artistNames:
+      - Alric Carter

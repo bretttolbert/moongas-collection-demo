@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Steve Lacy
+  dob:
+    y: 1998
+    m: 9
+    d: 23
   city: Compton
   countryCode: US
   languageCodes:

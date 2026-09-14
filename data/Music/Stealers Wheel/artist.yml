@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-REN
-  members: []
+  members:
+    - artistNames:
+      - Gerry Rafferty
+      dob:
+        y: 1947
+        m: 4
+        d: 16
+      dod:
+        y: 2011
+        m: 1
+        d: 4
+    - artistNames:
+      - Joe Egan
+      dob:
+        y: 1946
+        m: 10
+        d: 18
+    - artistNames:
+      - Paul Pilnick
+    - artistNames:
+      - Tony Williams
+    - artistNames:
+      - Ian Campbell

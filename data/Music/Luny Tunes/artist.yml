@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - es
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Luny
+      dob:
+        y: 1979
+        m: 11
+        d: 29
+    - artistNames:
+      - Tunes
+      dob:
+        y: 1980
+        m: 2
+        d: 15

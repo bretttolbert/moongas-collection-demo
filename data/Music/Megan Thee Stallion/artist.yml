@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Megan Thee Stallion
+  dob:
+    y: 1995
+    m: 2
+    d: 15
   city: Houston
   countryCode: US
   languageCodes:

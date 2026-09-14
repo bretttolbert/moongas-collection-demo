@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Jonathan Wilson
+      dob:
+        y: 1979
+        m: 1
+        d: 10

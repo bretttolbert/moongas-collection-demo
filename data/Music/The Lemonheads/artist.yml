@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MA
-  members: []
+  members:
+    - artistNames:
+      - Evan Dando
+      dob:
+        y: 1967
+        m: 5
+        d: 4
+    - artistNames:
+      - Juliana Hatfield
+      dob:
+        y: 1967
+        m: 7
+        d: 27
+    - artistNames:
+      - Ben Deily
+      dob:
+        y: 1967
+        m: 3
+        d: 12
+    - artistNames:
+      - Nic Dalton
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Doug Easley
+      dob:
+        y: 1968
+        m: 8
+        d: 15
+    - artistNames:
+      - Chris Brokaw
+      dob:
+        y: 1970
+        m: 6
+        d: 9

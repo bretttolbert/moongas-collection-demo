@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NJ
-  members: []
+  members:
+    - artistNames:
+      - Lauryn Hill
+      dob:
+        y: 1975
+        m: 5
+        d: 26
+    - artistNames:
+      - Wyclef Jean
+      dob:
+        y: 1969
+        m: 10
+        d: 17
+    - artistNames:
+      - Pras Michel
+      dob:
+        y: 1972
+        m: 10
+        d: 19

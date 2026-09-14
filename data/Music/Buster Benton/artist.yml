@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-AR
-  members: []
+  members:
+    - artistNames:
+      - Buster Benton
+      dob:
+        y: 1932
+        m: 10
+        d: 19
+      dod:
+        y: 1996
+        m: 12
+        d: 8

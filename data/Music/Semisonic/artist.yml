@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MN
-  members: []
+  members:
+    - artistNames:
+      - Dan Wilson
+      dob:
+        y: 1967
+        m: 5
+        d: 20
+    - artistNames:
+      - John Munson
+      dob:
+        y: 1970
+        m: 1
+        d: 7
+    - artistNames:
+      - Jacob Slichter
+      dob:
+        y: 1970
+        m: 5
+        d: 19

@@ -6,4 +6,19 @@ artistData:
   languageCodes:
   - en
   regionCode: BE-VLG
-  members: []
+  members:
+    - artistNames:
+      - Jo Bogaert
+      dob:
+        y: 1965
+        m: 6
+        d: 15
+    - artistNames:
+      - Manuela Kamosi
+      artistRoles:
+      - vocals
+      - featured artist
+      dob:
+        y: 1970
+        m: 5
+        d: 12

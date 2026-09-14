@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-TN
-  members: []
+  members:
+    - artistNames:
+      - Wendy Rene
+      dob:
+        y: 1947
+        m: 9
+        d: 8

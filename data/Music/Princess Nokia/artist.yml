@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Destiny Nicole Frasqueri
+      dob:
+        y: 1992
+        m: 6
+        d: 20

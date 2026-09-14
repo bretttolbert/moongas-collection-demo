@@ -6,4 +6,30 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Kurt Ralske
+      dob:
+        y: 1965
+        m: 1
+        d: 1
+    - artistNames:
+      - Michael Stipe
+      artistRoles:
+      - vocals
+    - artistNames:
+      - John McEntire
+      artistRoles:
+      - drums
+    - artistNames:
+      - Chris Goss
+      artistRoles:
+      - guitar
+    - artistNames:
+      - David Pajo
+      artistRoles:
+      - guitar
+    - artistNames:
+      - John A. McGowan
+      artistRoles:
+      - bass

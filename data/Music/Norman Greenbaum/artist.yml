@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Norman Greenbaum
+  dob:
+    y: 1942
+    m: 11
+    d: 20
   city: Malden
   countryCode: US
   languageCodes:

@@ -19,6 +19,10 @@ artistData:
         y: 1964
         m: 6
         d: 7
+      dod:
+        y: 2020
+        m: 12
+        d: 23
     - artistNames:
       - Grandmaster Dee
       dob:

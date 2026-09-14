@@ -6,4 +6,18 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Max McElligott
+      dob:
+        y: 1989
+        m: 3
+        d: 18
+    - artistNames:
+      - Chris Hargreaves
+    - artistNames:
+      - Chris T-T
+    - artistNames:
+      - Chris McCormack
+    - artistNames:
+      - Tom Driessler

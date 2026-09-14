@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-BST
-  members: []
+  members:
+    - artistNames:
+      - Beth Gibbons
+      dob:
+        y: 1970
+        m: 1
+        d: 4
+    - artistNames:
+      - Geoff Barrow
+      dob:
+        y: 1971
+        m: 12
+        d: 9
+    - artistNames:
+      - Adrian Utley
+      dob:
+        y: 1966
+        m: 1
+        d: 25

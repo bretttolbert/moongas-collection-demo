@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-RI
-  members: []
+  members:
+    - artistNames:
+      - John Cafferty
+      dob:
+        y: 1952
+        m: 3
+        d: 20
+    - artistNames:
+      - Michael "Tunes" Antunes
+    - artistNames:
+      - Patrick "Patsy" Lupo
+    - artistNames:
+      - Gary Gramolini
+    - artistNames:
+      - Kenny D'Ambrosio
+    - artistNames:
+      - John "J.T." Timmons
+    - artistNames:
+      - Scott "Scotty" McDonald
