@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jesse Hasek
+      dob:
+        y: 1978
+        m: 5
+        d: 10
+    - artistNames:
+      - Matt Kallman
+      dob:
+        y: 1977
+        m: 8
+        d: 15
+    - artistNames:
+      - Brian M. McCarty
+      dob:
+        y: 1976
+        m: 4
+        d: 20
+    - artistNames:
+      - Chris D'Elia
+      dob:
+        y: 1980
+        m: 3
+        d: 29
+    - artistNames:
+      - Chris "Chad" Hasek
+      dob:
+        y: 1980
+        m: 1
+        d: 1

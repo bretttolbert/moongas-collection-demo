@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Herbie Hancock
+      dob:
+        y: 1940
+        m: 4
+        d: 12
+    - artistNames:
+      - Bennie Maupin
+      dob:
+        y: 1937
+        m: 8
+        d: 29
+    - artistNames:
+      - Paul Jackson
+      dob:
+        y: 1947
+        m: 3
+        d: 28
+    - artistNames:
+      - Mike Clark
+      dob:
+        y: 1946
+        m: 7
+        d: 3
+    - artistNames:
+      - Bill Summers
+      dob:
+        y: 1948
+        m: 4
+        d: 22

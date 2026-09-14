@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-DC
-  members: []
+  members:
+    - artistNames:
+      - Clarence Greenwood
+      dob:
+        y: 1971
+        m: 7
+        d: 20

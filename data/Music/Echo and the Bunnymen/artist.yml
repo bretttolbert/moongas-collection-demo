@@ -6,4 +6,41 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - Ian McCulloch
+      dob:
+        y: 1959
+        m: 5
+        d: 5
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Will Sergeant
+      dob:
+        y: 1962
+        m: 4
+        d: 12
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Les Pattinson
+      dob:
+        y: 1962
+        m: 5
+        d: 12
+      artistRoles:
+      - bass
+    - artistNames:
+      - Pete de Freitas
+      dob:
+        y: 1961
+        m: 8
+        d: 2
+      dod:
+        y: 1989
+        m: 6
+        d: 14
+      artistRoles:
+      - drums

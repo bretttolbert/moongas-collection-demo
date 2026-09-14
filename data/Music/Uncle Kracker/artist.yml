@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-MI
-  members: []
+  members:
+    - artistNames:
+      - Matthew Shafer
+      dob:
+        y: 1974
+        m: 6
+        d: 6

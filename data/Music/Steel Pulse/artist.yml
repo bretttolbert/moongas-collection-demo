@@ -47,3 +47,12 @@ artistData:
       artistRoles:
       - rap
       - backing vocals
+    - artistNames:
+      - Earl "Chinna" Smith
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Michael "Mikey" Boo
+      artistRoles:
+      - drums
+      - backing vocals

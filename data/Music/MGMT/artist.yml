@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CT
-  members: []
+  members:
+    - artistNames:
+      - Andrew VanWyngarden
+      dob:
+        y: 1983
+        m: 2
+        d: 1
+    - artistNames:
+      - Ben Goldwasser
+      dob:
+        y: 1983
+        m: 8
+        d: 17

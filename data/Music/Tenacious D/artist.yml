@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Jack Black
+      dob:
+        y: 1969
+        m: 8
+        d: 28
+    - artistNames:
+      - Kyle Gass
+      dob:
+        y: 1970
+        m: 7
+        d: 14

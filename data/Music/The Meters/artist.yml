@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-LA
-  members: []
+  members:
+    - artistNames:
+      - Art Neville
+      dob:
+        y: 1937
+        m: 12
+        d: 20
+    - artistNames:
+      - George Porter Jr.
+      dob:
+        y: 1947
+        m: 12
+        d: 26
+    - artistNames:
+      - Leo Nocentelli
+      dob:
+        y: 1946
+        m: 12
+        d: 15
+    - artistNames:
+      - Ziggy Modeliste
+      dob:
+        y: 1955
+        m: 12
+        d: 28

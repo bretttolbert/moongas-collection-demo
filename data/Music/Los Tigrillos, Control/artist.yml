@@ -6,4 +6,8 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-NLE
-  members: []
+  members:
+    - artistNames:
+      - Los Tigrillos
+    - artistNames:
+      - Control

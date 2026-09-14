@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - it
   regionCode: IT-45
-  members: []
+  members:
+    - artistNames:
+      - Vasco Rossi
+      dob:
+        y: 1952
+        m: 2
+        d: 7

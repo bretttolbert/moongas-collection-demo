@@ -65,3 +65,9 @@ artistData:
         y: 1969
         m: 8
         d: 18
+    - artistNames:
+      - Cappadonna
+      dob:
+        y: 1970
+        m: 9
+        d: 18

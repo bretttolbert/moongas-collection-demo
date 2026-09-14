@@ -7,3 +7,7 @@ artistData:
   members: []
   languageCodes:
   - en
+  dob:
+    y: 1990
+    m: 1
+    d: 1

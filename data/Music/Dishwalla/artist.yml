@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - J.R. Richards
+      dob:
+        y: 1970
+        m: 5
+        d: 1
+    - artistNames:
+      - Rodney Browning Cravens
+      dob:
+        y: 1970
+        m: 8
+        d: 16
+    - artistNames:
+      - Scot Alexander
+      dob:
+        y: 1971
+        m: 2
+        d: 14
+    - artistNames:
+      - Peter Maloney
+      dob:
+        y: 1971
+        m: 9
+        d: 22
+    - artistNames:
+      - T.J. McCloud
+      dob:
+        y: 1972
+        m: 3
+        d: 10
