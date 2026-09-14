@@ -29,3 +29,13 @@ artistData:
         y: 1981
         m: 8
         d: 1
+    - artistNames:
+      - Kim Shattuck
+      dob:
+        y: 1963
+        m: 7
+        d: 17
+      dod:
+        y: 2019
+        m: 10
+        d: 2

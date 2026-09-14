@@ -31,3 +31,15 @@ artistData:
         y: 1982
         m: 11
         d: 22
+    - artistNames:
+      - Tim Kasher
+      dob:
+        y: 1979
+        m: 4
+        d: 24
+    - artistNames:
+      - M. Ward
+      dob:
+        y: 1973
+        m: 10
+        d: 4

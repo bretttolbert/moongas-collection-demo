@@ -37,3 +37,9 @@ artistData:
         y: 1981
         m: 8
         d: 1
+    - artistNames:
+      - Ikaika Kahoano
+      dob:
+        y: 1985
+        m: 6
+        d: 30

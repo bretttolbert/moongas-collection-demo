@@ -43,3 +43,15 @@ artistData:
         y: 1975
         m: 8
         d: 23
+    - artistNames:
+      - Evil Jared Hasselhoff
+      dob:
+        y: 1974
+        m: 11
+        d: 22
+    - artistNames:
+      - D. J. Q-Ball
+      dob:
+        y: 1973
+        m: 4
+        d: 4

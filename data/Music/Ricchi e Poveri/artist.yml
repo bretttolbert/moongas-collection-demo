@@ -35,3 +35,9 @@ artistData:
         y: 1950
         m: 1
         d: 1
+    - artistNames:
+      - Angela Brambati
+      dob:
+        y: 1947
+        m: 12
+        d: 22

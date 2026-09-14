@@ -37,3 +37,15 @@ artistData:
         y: 1970
         m: 4
         d: 18
+    - artistNames:
+      - Luis "Lucho" Cárdenas
+      dob:
+        y: 1972
+        m: 9
+        d: 5
+    - artistNames:
+      - Fernando "Fer" Cárdenas
+      dob:
+        y: 1975
+        m: 2
+        d: 20

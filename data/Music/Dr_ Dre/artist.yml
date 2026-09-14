@@ -25,3 +25,24 @@ artistData:
         y: 1971
         m: 10
         d: 20
+    - artistNames:
+      - Eminem
+      - Marshall Bruce Mathers III
+      dob:
+        y: 1972
+        m: 10
+        d: 17
+    - artistNames:
+      - 50 Cent
+      - Curtis James Jackson III
+      dob:
+        y: 1975
+        m: 7
+        d: 6
+    - artistNames:
+      - Ice Cube
+      - O'Shea Jackson
+      dob:
+        y: 1969
+        m: 6
+        d: 15

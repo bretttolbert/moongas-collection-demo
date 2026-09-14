@@ -16,3 +16,30 @@ artistData:
       artistRoles:
       - vocals
       - rap
+    - artistNames:
+      - Koriass
+      dob:
+        y: 1983
+        m: 6
+        d: 15
+      artistRoles:
+      - vocals
+      - rap
+    - artistNames:
+      - Sarahmée
+      dob:
+        y: 1990
+        m: 3
+        d: 12
+      artistRoles:
+      - vocals
+      - rap
+    - artistNames:
+      - FouKi
+      dob:
+        y: 1996
+        m: 5
+        d: 18
+      artistRoles:
+      - vocals
+      - rap

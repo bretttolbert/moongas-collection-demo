@@ -6,4 +6,43 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Roger Troutman
+      dob:
+        y: 1951
+        m: 11
+        d: 29
+      artistRoles:
+      - vocals
+      - guitar
+      - talk box
+    - artistNames:
+      - Larry Troutman
+      dob:
+        y: 1943
+        m: 2
+        d: 24
+      artistRoles:
+      - drums
+      - vocals
+    - artistNames:
+      - Terry Troutman
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Greg Jackson
+      artistRoles:
+      - bass
+    - artistNames:
+      - Roger Troutman Jr.
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Dale DeGroat
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Michael "Mike" Troutman
+      artistRoles:
+      - drums

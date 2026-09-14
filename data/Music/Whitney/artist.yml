@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 6
         d: 10
+    - artistNames:
+      - J. T. McGowan
+      dob:
+        y: 1990
+        m: 11
+        d: 15

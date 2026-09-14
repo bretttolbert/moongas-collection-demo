@@ -63,3 +63,27 @@ artistData:
         d: 15
       artistRoles:
       - drums
+    - artistNames:
+      - John Goetchius
+      dob:
+        y: 1970
+        m: 5
+        d: 1
+      artistRoles:
+      - saxophone
+    - artistNames:
+      - Dave "The King" McCaffrey
+      dob:
+        y: 1969
+        m: 9
+        d: 15
+      artistRoles:
+      - trumpet
+    - artistNames:
+      - Chris "Crispy" Cummings
+      dob:
+        y: 1972
+        m: 7
+        d: 30
+      artistRoles:
+      - trombone

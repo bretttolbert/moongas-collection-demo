@@ -37,3 +37,15 @@ artistData:
         y: 1963
         m: 8
         d: 29
+    - artistNames:
+      - 3D
+      dob:
+        y: 1969
+        m: 12
+        d: 18
+    - artistNames:
+      - Neil Davidge
+      dob:
+        y: 1971
+        m: 1
+        d: 1

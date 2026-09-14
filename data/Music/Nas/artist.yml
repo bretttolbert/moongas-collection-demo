@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Nasir Jones
+      dob:
+        y: 1973
+        m: 9
+        d: 14

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-HRT
-  members: []
+  members:
+    - artistNames:
+      - Chris Davids
+      - Liam Ivory
+      artistRoles:
+      - production
+      - live performance

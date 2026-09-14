@@ -55,3 +55,15 @@ artistData:
         y: 1980
         m: 4
         d: 28
+    - artistNames:
+      - Chris Hicks
+      dob:
+        y: 1954
+        m: 11
+        d: 13
+    - artistNames:
+      - Marcus James
+      dob:
+        y: 1950
+        m: 3
+        d: 15

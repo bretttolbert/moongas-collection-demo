@@ -57,3 +57,25 @@ artistData:
         y: 1936
         m: 10
         d: 24
+    - artistNames:
+      - Ian Stewart
+      dob:
+        y: 1937
+        m: 7
+        d: 18
+      dod:
+        y: 1985
+        m: 12
+        d: 12
+    - artistNames:
+      - Darryl Jones
+      dob:
+        y: 1961
+        m: 12
+        d: 11
+    - artistNames:
+      - Chuck Leavell
+      dob:
+        y: 1952
+        m: 4
+        d: 28

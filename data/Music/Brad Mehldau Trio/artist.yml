@@ -19,11 +19,15 @@ artistData:
       - Larry Grenadier
       dob:
         y: 1966
+        m: 12
+        d: 1
       artistRoles:
       - bass
     - artistNames:
       - Jeff Ballard
       dob:
         y: 1963
+        m: 9
+        d: 17
       artistRoles:
       - drums

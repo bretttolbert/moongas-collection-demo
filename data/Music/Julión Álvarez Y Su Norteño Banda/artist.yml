@@ -6,4 +6,26 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-CHP
-  members: []
+  members:
+    - artistNames:
+      - Julión Álvarez
+      dob:
+        y: 1983
+        m: 4
+        d: 11
+    - artistNames:
+      - José Luis Álvarez
+    - artistNames:
+      - Javier Álvarez
+    - artistNames:
+      - Luis Fernando
+    - artistNames:
+      - Carlos Alberto
+    - artistNames:
+      - Juan Carlos
+    - artistNames:
+      - Manuel
+    - artistNames:
+      - Jorge Luis
+    - artistNames:
+      - Ricardo

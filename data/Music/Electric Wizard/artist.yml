@@ -33,3 +33,16 @@ artistData:
       - Shaun Rutter
       artistRoles:
       - drums
+    - artistNames:
+      - Mark Greening
+      dob:
+        y: 1971
+        m: 9
+        d: 14
+      artistRoles:
+      - drums
+    - artistNames:
+      - Simon Poole
+      artistRoles:
+      - drums
+      - percussion

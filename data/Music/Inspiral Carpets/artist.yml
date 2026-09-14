@@ -47,3 +47,9 @@ artistData:
         y: 1965
         m: 4
         d: 15
+    - artistNames:
+      - Mark "Bedders" Bedford
+      dob:
+        y: 1965
+        m: 4
+        d: 15
