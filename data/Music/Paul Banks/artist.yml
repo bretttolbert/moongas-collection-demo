@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Paul Banks
+  dob:
+    y: 1978
+    m: 5
+    d: 3
   city: East Village, Manhattan
   countryCode: US
   languageCodes:

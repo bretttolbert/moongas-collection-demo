@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OH
-  members: []
+  members:
+    - artistNames:
+      - Roger Troutman
+      dob:
+        y: 1951
+        m: 11
+        d: 29
+      dod:
+        y: 1999
+        m: 4
+        d: 25
+    - artistNames:
+      - Larry Troutman
+      dob:
+        y: 1944
+        m: 10
+        d: 15
+      dod:
+        y: 2013
+        m: 2
+        d: 15
+    - artistNames:
+      - Terry Troutman
+    - artistNames:
+      - Greg Jackson
+    - artistNames:
+      - Robert Troutman
+    - artistNames:
+      - Roger Troutman Jr.

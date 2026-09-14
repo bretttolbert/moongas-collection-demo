@@ -11,9 +11,17 @@ artistData:
       - Dr. Dre
       - Dre
       - Andre Romell Young
+      dob:
+        y: 1965
+        m: 2
+        d: 18
     - artistNames:
       - Snoop Dogg
       - Snoop Doggy Dogg
       - Snoop Lion
       - Snoop
       - Calvin Cordozar Broadus Jr.
+      dob:
+        y: 1971
+        m: 10
+        d: 20

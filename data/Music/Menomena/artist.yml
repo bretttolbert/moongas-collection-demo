@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: US-OR
-  members: []
+  members:
+    - artistNames:
+      - Danny Seim
+      dob:
+        y: 1982
+        m: 3
+        d: 25
+    - artistNames:
+      - Brent Knopf
+      dob:
+        y: 1980
+        m: 9
+        d: 1
+    - artistNames:
+      - Justin Harris
+      dob:
+        y: 1981
+        m: 6
+        d: 15

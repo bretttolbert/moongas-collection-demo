@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - es
   regionCode: DO-01
-  members: []
+  members:
+    - artistNames:
+      - José Luis Rodríguez
+      dob:
+        y: 1980
+        m: 5
+        d: 15
+    - artistNames:
+      - Juan Carlos Ramos
+      dob:
+        y: 1982
+        m: 8
+        d: 20
+    - artistNames:
+      - Manuel de la Cruz
+      dob:
+        y: 1981
+        m: 3
+        d: 10
+    - artistNames:
+      - Pedro Martínez
+      dob:
+        y: 1979
+        m: 11
+        d: 25

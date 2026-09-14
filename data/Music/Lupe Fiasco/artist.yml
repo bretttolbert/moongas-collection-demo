@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Lupe Fiasco
+  dob:
+    y: 1982
+    m: 2
+    d: 16
   city: Chicago
   countryCode: US
   languageCodes:

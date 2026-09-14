@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - es
   regionCode: PR-HU
-  members: []
+  members:
+    - artistNames:
+      - Cosculluela
+      dob:
+        y: 1980
+        m: 10
+        d: 15

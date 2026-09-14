@@ -6,4 +6,32 @@ artistData:
   languageCodes:
   - en
   regionCode: US-WA
-  members: []
+  members:
+    - artistNames:
+      - Chris Cornell
+      dob:
+        y: 1964
+        m: 7
+        d: 20
+      dod:
+        y: 2017
+        m: 5
+        d: 18
+    - artistNames:
+      - Kim Thayil
+      dob:
+        y: 1960
+        m: 9
+        d: 4
+    - artistNames:
+      - Ben Shepherd
+      dob:
+        y: 1968
+        m: 3
+        d: 20
+    - artistNames:
+      - Matt Cameron
+      dob:
+        y: 1962
+        m: 11
+        d: 28

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-SCT
-  members: []
+  members:
+    - artistNames:
+      - Ross Birchard
+      dob:
+        y: 1986
+        m: 2
+        d: 11

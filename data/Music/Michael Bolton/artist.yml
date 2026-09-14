@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Michael Bolton
+  dob:
+    y: 1953
+    m: 2
+    d: 26
   city: New Haven
   countryCode: US
   languageCodes:

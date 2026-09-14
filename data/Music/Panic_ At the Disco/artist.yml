@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NV
-  members: []
+  members:
+    - artistNames:
+      - Ryan Ross
+      dob:
+        y: 1986
+        m: 8
+        d: 30
+    - artistNames:
+      - Spencer Smith
+      dob:
+        y: 1987
+        m: 9
+        d: 2
+    - artistNames:
+      - Brendon Urie
+      dob:
+        y: 1987
+        m: 4
+        d: 12
+    - artistNames:
+      - Jon Walker
+      dob:
+        y: 1985
+        m: 4
+        d: 17
+    - artistNames:
+      - Dallon Weekes
+      dob:
+        y: 1981
+        m: 5
+        d: 4
+    - artistNames:
+      - Nicole Row
+      dob:
+        y: 1990
+        m: 8
+        d: 14

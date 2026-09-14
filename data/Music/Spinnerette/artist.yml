@@ -6,4 +6,28 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Brody Dalle
+      dob:
+        y: 1979
+        m: 1
+        d: 1
+    - artistNames:
+      - Tony Bevilacqua
+      dob:
+        y: 1978
+        m: 4
+        d: 14
+    - artistNames:
+      - Jack Irons
+      dob:
+        y: 1962
+        m: 7
+        d: 18
+    - artistNames:
+      - Jim G. R. McGreevy
+      dob:
+        y: 1980
+        m: 5
+        d: 10

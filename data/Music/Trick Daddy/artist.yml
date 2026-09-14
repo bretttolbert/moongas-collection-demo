@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: US-FL
-  members: []
+  members:
+    - artistNames:
+      - Maurice Young
+      dob:
+        y: 1974
+        m: 5
+        d: 27

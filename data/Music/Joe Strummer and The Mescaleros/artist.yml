@@ -6,4 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Joe Strummer
+      dob:
+        y: 1952
+        m: 8
+        d: 21
+      dod:
+        y: 2002
+        m: 12
+        d: 22
+    - artistNames:
+      - Scott Shields
+    - artistNames:
+      - Pablo Cook
+    - artistNames:
+      - Martin Slattery
+    - artistNames:
+      - Tymon Dogg

@@ -25,3 +25,15 @@ artistData:
         y: 1976
         m: 6
         d: 5
+    - artistNames:
+      - Mr. Collipark
+      dob:
+        y: 1975
+        m: 3
+        d: 15
+    - artistNames:
+      - K. Michelle
+      dob:
+        y: 1984
+        m: 3
+        d: 4

@@ -51,3 +51,13 @@ artistData:
       artistRoles:
       - keyboards
       - guitar
+    - artistNames:
+      - Ivan Barias
+      dob:
+        y: 1993
+        m: 6
+        d: 30
+      artistRoles:
+      - bass guitar
+      - keyboards
+      - production

@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - Trevor Horn
+      dob:
+        y: 1949
+        m: 7
+        d: 15
+    - artistNames:
+      - Geoff Downes
+      dob:
+        y: 1952
+        m: 8
+        d: 25

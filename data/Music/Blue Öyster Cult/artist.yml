@@ -56,3 +56,22 @@ artistData:
         d: 24
       artistRoles:
       - drums
+    - artistNames:
+      - Richie Castellano
+      dob:
+        y: 1981
+        m: 6
+        d: 23
+      artistRoles:
+      - guitar
+      - keyboards
+      - backing vocals
+    - artistNames:
+      - Danny Miranda
+      dob:
+        y: 1965
+        m: 4
+        d: 24
+      artistRoles:
+      - bass
+      - backing vocals

@@ -6,4 +6,40 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-LND
-  members: []
+  members:
+    - artistNames:
+      - David Coverdale
+      dob:
+        y: 1951
+        m: 9
+        d: 22
+    - artistNames:
+      - John Sykes
+      dob:
+        y: 1960
+        m: 7
+        d: 29
+    - artistNames:
+      - Adrian Vandenberg
+      dob:
+        y: 1954
+        m: 2
+        d: 3
+    - artistNames:
+      - Rudy Sarzo
+      dob:
+        y: 1950
+        m: 11
+        d: 18
+    - artistNames:
+      - Tommy Aldridge
+      dob:
+        y: 1950
+        m: 8
+        d: 15
+    - artistNames:
+      - Michele Luppi
+      dob:
+        y: 1970
+        m: 6
+        d: 28

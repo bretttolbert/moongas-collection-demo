@@ -49,3 +49,27 @@ artistData:
         y: 1982
         m: 6
         d: 29
+    - artistNames:
+      - Christina Aguilera
+      dob:
+        y: 1980
+        m: 12
+        d: 18
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Wiz Khalifa
+      dob:
+        y: 1987
+        m: 9
+        d: 8
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Cardi B
+      dob:
+        y: 1992
+        m: 10
+        d: 11
+      artistRoles:
+      - vocals

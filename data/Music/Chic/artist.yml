@@ -6,4 +6,36 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
-  members: []
+  members:
+    - artistNames:
+      - Nile Rodgers
+      dob:
+        y: 1952
+        m: 9
+        d: 19
+    - artistNames:
+      - Bernard Edwards
+      dob:
+        y: 1935
+        m: 4
+        d: 3
+      dod:
+        y: 1996
+        m: 4
+        d: 18
+    - artistNames:
+      - Tony Thompson
+      dob:
+        y: 1954
+        m: 9
+        d: 2
+      dod:
+        y: 2003
+        m: 3
+        d: 12
+    - artistNames:
+      - Alfa Anderson
+    - artistNames:
+      - Luci Martin
+    - artistNames:
+      - Norma Jean Wright

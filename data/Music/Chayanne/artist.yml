@@ -5,5 +5,11 @@ artistData:
   countryCode: PR
   languageCodes:
   - es
-  regionCode: US-PR
-  members: []
+  regionCode: PR-001
+  members:
+    - artistNames:
+      - Elmer Figueroa Arce
+      dob:
+        y: 1968
+        m: 6
+        d: 28

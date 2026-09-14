@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: NO-03
-  members: []
+  members:
+    - artistNames:
+      - Kristoffer Rygg
+      dob:
+        y: 1971
+        m: 11
+        d: 19
+    - artistNames:
+      - Tore Ylwizaker
+      dob:
+        y: 1974
+        m: 1
+        d: 1
+    - artistNames:
+      - Jørn H. Sværen
+      dob:
+        y: 1973
+        m: 3
+        d: 15
+    - artistNames:
+      - Stian Westerhus
+      dob:
+        y: 1982
+        m: 12
+        d: 18
+    - artistNames:
+      - Håkon Moslet
+      dob:
+        y: 1974
+        m: 6
+        d: 12

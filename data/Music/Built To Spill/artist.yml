@@ -6,4 +6,34 @@ artistData:
   languageCodes:
   - en
   regionCode: US-ID
-  members: []
+  members:
+    - artistNames:
+      - Doug Martsch
+      dob:
+        y: 1969
+        m: 10
+        d: 16
+    - artistNames:
+      - Brett Nelson
+      dob:
+        y: 1970
+        m: 7
+        d: 12
+    - artistNames:
+      - Scott Plouf
+      dob:
+        y: 1969
+        m: 6
+        d: 12
+    - artistNames:
+      - Jim Roth
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Melissa Wimbish
+      dob:
+        y: 1980
+        m: 5
+        d: 20
