@@ -43,3 +43,25 @@ artistData:
         y: 1975
         m: 2
         d: 10
+    - artistNames:
+      - James Williamson
+      dob:
+        y: 1949
+        m: 10
+        d: 29
+    - artistNames:
+      - Mike Watt
+      dob:
+        y: 1961
+        m: 9
+        d: 20
+    - artistNames:
+      - Steve Mackay
+      dob:
+        y: 1949
+        m: 9
+        d: 25
+      dod:
+        y: 2020
+        m: 10
+        d: 10

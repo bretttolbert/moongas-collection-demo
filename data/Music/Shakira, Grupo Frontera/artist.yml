@@ -26,3 +26,8 @@ artistData:
           - Manuel Huerta
         - artistNames:
           - José Luis Huerta
+      city: Monterrey
+      countryCode: MX
+      languageCodes:
+      - es
+      regionCode: MX-NLE

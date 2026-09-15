@@ -16,4 +16,8 @@ artistData:
     - artistNames:
       - DJ Pooh
     - artistNames:
-      - The Egyptian Lover (as a performer name)
+      - The Egyptian Lover
+      dob:
+        y: 1963
+        m: 2
+        d: 2

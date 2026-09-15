@@ -37,3 +37,13 @@ artistData:
         y: 1978
         m: 8
         d: 12
+    - artistNames:
+      - The Duke of Pannekoeken
+      dob:
+        y: 1978
+        m: 8
+        d: 12
+      artistRoles:
+      - keyboards
+      - programming
+      - vocals

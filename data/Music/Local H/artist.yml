@@ -31,3 +31,9 @@ artistData:
         y: 1981
         m: 6
         d: 30
+    - artistNames:
+      - John D. McCauley
+      dob:
+        y: 1981
+        m: 4
+        d: 19

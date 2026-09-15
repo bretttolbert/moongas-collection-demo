@@ -41,3 +41,15 @@ artistData:
       - Emmylou Harris
       artistRoles:
       - featured artist
+    - artistNames:
+      - Lucinda Williams
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Townes Van Zandt
+      artistRoles:
+      - influence
+    - artistNames:
+      - Johnny Cash
+      artistRoles:
+      - influence

@@ -13,3 +13,11 @@ artistData:
         y: 1945
         m: 2
         d: 1
+    - artistNames:
+      - José "Pepe" Olivares
+    - artistNames:
+      - Javier "Javi" Olivares
+    - artistNames:
+      - Juan "Johnny" Olivares
+    - artistNames:
+      - Manuel "Manny" Olivares

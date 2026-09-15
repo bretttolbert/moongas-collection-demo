@@ -43,3 +43,9 @@ artistData:
         y: 1970
         m: 6
         d: 10
+    - artistNames:
+      - Simon
+      dob:
+        y: 1970
+        m: 4
+        d: 15

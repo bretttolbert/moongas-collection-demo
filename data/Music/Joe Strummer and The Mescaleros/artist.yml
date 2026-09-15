@@ -53,3 +53,9 @@ artistData:
         y: 1968
         m: 4
         d: 1
+    - artistNames:
+      - Dan Donovan
+      dob:
+        y: 1963
+        m: 6
+        d: 1

@@ -41,3 +41,9 @@ artistData:
         y: 1970
         m: 4
         d: 4
+    - artistNames:
+      - Émilie Simon
+      dob:
+        y: 1978
+        m: 6
+        d: 18

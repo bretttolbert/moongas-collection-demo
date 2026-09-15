@@ -31,3 +31,9 @@ artistData:
         y: 1981
         m: 3
         d: 17
+    - artistNames:
+      - Matt O'Connor
+      dob:
+        y: 1980
+        m: 9
+        d: 15

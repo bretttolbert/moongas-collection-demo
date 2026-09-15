@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Joel Hinojosa
+      dob:
+        y: 1993
+        m: 1
+        d: 1
     - artistNames:
       - Imanol Hinojosa
+      dob:
+        y: 1995
+        m: 5
+        d: 10

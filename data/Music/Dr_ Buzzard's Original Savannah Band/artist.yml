@@ -55,3 +55,9 @@ artistData:
         y: 1951
         m: 10
         d: 1
+    - artistNames:
+      - T. M. Stevens
+      dob:
+        y: 1951
+        m: 10
+        d: 1

@@ -55,3 +55,15 @@ artistData:
         y: 1946
         m: 9
         d: 15
+    - artistNames:
+      - Ed King
+      dob:
+        y: 1949
+        m: 9
+        d: 14
+    - artistNames:
+      - Mark Weitz
+      dob:
+        y: 1947
+        m: 4
+        d: 15

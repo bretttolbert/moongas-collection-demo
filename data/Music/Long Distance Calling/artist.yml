@@ -37,3 +37,9 @@ artistData:
         y: 1988
         m: 11
         d: 30
+    - artistNames:
+      - Martin Fischer
+      dob:
+        y: 1985
+        m: 4
+        d: 20

@@ -31,3 +31,9 @@ artistData:
         y: 1995
         m: 11
         d: 15
+    - artistNames:
+      - Matt "Macca" McCarthy
+      dob:
+        y: 1995
+        m: 6
+        d: 30

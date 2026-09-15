@@ -37,3 +37,15 @@ artistData:
         y: 1997
         m: 8
         d: 23
+    - artistNames:
+      - Lil Keed
+      dob:
+        y: 1998
+        m: 3
+        d: 16
+    - artistNames:
+      - Lil Gotit
+      dob:
+        y: 1999
+        m: 8
+        d: 6

@@ -57,3 +57,23 @@ artistData:
         y: 2005
         m: 8
         d: 16
+    - artistNames:
+      - Paul Warren
+      dob:
+        y: 1922
+        m: 1
+        d: 1
+      dod:
+        y: 2008
+        m: 1
+        d: 15
+    - artistNames:
+      - Billy Ray Latham
+      dob:
+        y: 1934
+        m: 5
+        d: 25
+      dod:
+        y: 2018
+        m: 1
+        d: 23

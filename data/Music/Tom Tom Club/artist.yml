@@ -23,8 +23,16 @@ artistData:
       - Steven Stanley
     - artistNames:
       - Adrian Belew
+      dob:
+        y: 1949
+        m: 12
+        d: 23
     - artistNames:
       - David Byrne
+      dob:
+        y: 1952
+        m: 5
+        d: 14
     - artistNames:
       - Jerry Harrison
       dob:

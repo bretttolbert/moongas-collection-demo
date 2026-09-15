@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 11
         d: 5
+    - artistNames:
+      - Andreas "Andy" Hultgren
+      dob:
+        y: 1988
+        m: 2
+        d: 12

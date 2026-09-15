@@ -13,24 +13,32 @@ artistData:
         y: 1981
         m: 9
         d: 18
+      artistRoles:
+      - vocals
     - artistNames:
       - Miryo
       dob:
         y: 1986
         m: 11
         d: 2
+      artistRoles:
+      - rapping
     - artistNames:
       - Narsha
       dob:
         y: 1983
         m: 6
         d: 24
+      artistRoles:
+      - vocals
     - artistNames:
       - Gain
       dob:
         y: 1987
         m: 9
         d: 20
+      artistRoles:
+      - vocals
     - artistNames:
       - Yoon Eun-hye
       dob:

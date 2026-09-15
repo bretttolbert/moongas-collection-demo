@@ -31,3 +31,9 @@ artistData:
         y: 1987
         m: 11
         d: 30
+    - artistNames:
+      - Kelsey Kauffman
+      dob:
+        y: 1991
+        m: 4
+        d: 12

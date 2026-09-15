@@ -80,3 +80,25 @@ artistData:
         d: 23
       artistRoles:
       - drums
+    - artistNames:
+      - David Gilmour
+      dob:
+        y: 1946
+        m: 3
+        d: 6
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Richard Wright
+      dob:
+        y: 1943
+        m: 7
+        d: 28
+      dod:
+        y: 2008
+        m: 9
+        d: 15
+      artistRoles:
+      - keyboards
+      - vocals

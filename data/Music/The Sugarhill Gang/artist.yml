@@ -41,3 +41,9 @@ artistData:
         y: 1955
         m: 4
         d: 1
+    - artistNames:
+      - The Chief Rocker
+      dob:
+        y: 1958
+        m: 5
+        d: 25

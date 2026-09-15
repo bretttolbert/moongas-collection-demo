@@ -51,3 +51,20 @@ artistData:
         d: 20
       artistRoles:
       - drums
+    - artistNames:
+      - Mike Portnoy
+      dob:
+        y: 1967
+        m: 4
+        d: 20
+      artistRoles:
+      - drums
+      - backing vocals
+    - artistNames:
+      - Joe Franco
+      dob:
+        y: 1956
+        m: 6
+        d: 30
+      artistRoles:
+      - drums

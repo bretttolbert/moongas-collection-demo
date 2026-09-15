@@ -43,3 +43,15 @@ artistData:
         y: 1953
         m: 11
         d: 5
+    - artistNames:
+      - Johnny Harris
+      dob:
+        y: 1953
+        m: 12
+        d: 15
+    - artistNames:
+      - Michael "Mike" McGloiry
+      dob:
+        y: 1955
+        m: 3
+        d: 2

@@ -67,3 +67,43 @@ artistData:
         y: 1968
         m: 2
         d: 15
+    - artistNames:
+      - Sonny Boy Williamson II
+      dob:
+        y: 1914
+        m: 3
+        d: 30
+      dod:
+        y: 1965
+        m: 5
+        d: 25
+    - artistNames:
+      - Elmore James
+      dob:
+        y: 1918
+        m: 1
+        d: 27
+      dod:
+        y: 1963
+        m: 5
+        d: 24
+    - artistNames:
+      - Freddie King
+      dob:
+        y: 1934
+        m: 9
+        d: 3
+      dod:
+        y: 1976
+        m: 12
+        d: 28
+    - artistNames:
+      - T-Bone Walker
+      dob:
+        y: 1910
+        m: 5
+        d: 28
+      dod:
+        y: 1975
+        m: 3
+        d: 16

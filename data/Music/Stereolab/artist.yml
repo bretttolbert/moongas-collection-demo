@@ -13,40 +13,9 @@ artistData:
         y: 1970
         m: 10
         d: 1
-    - artistNames:
-      - Laetitia Sadier
-      dob:
-        y: 1969
-        m: 5
-        d: 6
-    - artistNames:
-      - Andy Ramsay
-      dob:
-        y: 1972
-        m: 5
-        d: 8
-    - artistNames:
-      - Martin C. Smith
-      dob:
-        y: 1971
-        m: 3
-        d: 12
-    - artistNames:
-      - Joe Watson
-      dob:
-        y: 1973
-        m: 6
-        d: 15
-    - artistNames:
-      - Mary Hansen
-      dob:
-        y: 1967
-        m: 1
-        d: 1
-      dod:
-        y: 2002
-        m: 12
-        d: 9
+      artistRoles:
+      - guitar
+      - keyboards
     - artistNames:
       - Laetitia Sadier
       dob:
@@ -55,15 +24,6 @@ artistData:
         d: 6
       artistRoles:
       - vocals
-      - guitar
-      - keyboards
-    - artistNames:
-      - Tim Gane
-      dob:
-        y: 1970
-        m: 10
-        d: 1
-      artistRoles:
       - guitar
       - keyboards
     - artistNames:
@@ -90,3 +50,13 @@ artistData:
         d: 15
       artistRoles:
       - keyboards
+    - artistNames:
+      - Mary Hansen
+      dob:
+        y: 1967
+        m: 1
+        d: 1
+      dod:
+        y: 2002
+        m: 12
+        d: 9

@@ -55,3 +55,9 @@ artistData:
         y: 1955
         m: 4
         d: 4
+    - artistNames:
+      - Charles "Chuck" Smith
+      dob:
+        y: 1955
+        m: 7
+        d: 7

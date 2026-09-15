@@ -19,6 +19,10 @@ artistData:
         y: 1970
         m: 1
         d: 1
+      dod:
+        y: 2023
+        m: 9
+        d: 15
     - artistNames:
       - Scott Carlson
       dob:
@@ -36,10 +40,4 @@ artistData:
       dob:
         y: 1971
         m: 5
-        d: 15
-    - artistNames:
-      - Leo Smee
-      dod:
-        y: 2023
-        m: 9
         d: 15

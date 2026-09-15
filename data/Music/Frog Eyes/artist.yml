@@ -31,3 +31,9 @@ artistData:
         y: 1980
         m: 4
         d: 5
+    - artistNames:
+      - Lisa Lobsinger
+      dob:
+        y: 1980
+        m: 4
+        d: 5

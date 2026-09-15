@@ -71,3 +71,25 @@ artistData:
         y: 1963
         m: 4
         d: 28
+    - artistNames:
+      - Trey Gunn
+      dob:
+        y: 1960
+        m: 3
+        d: 13
+    - artistNames:
+      - David Cross
+      dob:
+        y: 1949
+        m: 4
+        d: 6
+    - artistNames:
+      - John Wetton
+      dob:
+        y: 1949
+        m: 6
+        d: 12
+      dod:
+        y: 2017
+        m: 1
+        d: 31

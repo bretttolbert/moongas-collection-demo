@@ -29,3 +29,15 @@ artistData:
         y: 1982
         m: 3
         d: 22
+    - artistNames:
+      - Additional Member 3
+      dob:
+        y: 1985
+        m: 7
+        d: 30
+    - artistNames:
+      - Additional Member 4
+      dob:
+        y: 1990
+        m: 11
+        d: 12

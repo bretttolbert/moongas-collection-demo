@@ -21,3 +21,7 @@ artistData:
       - Sam Wilkes
     - artistNames:
       - Sam Gendel
+      dob:
+        y: 1992
+        m: 5
+        d: 1

@@ -31,3 +31,9 @@ artistData:
         y: 1989
         m: 11
         d: 30
+    - artistNames:
+      - Matt Baren
+      dob:
+        y: 1991
+        m: 4
+        d: 12

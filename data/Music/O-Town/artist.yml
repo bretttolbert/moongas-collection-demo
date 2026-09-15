@@ -43,3 +43,9 @@ artistData:
         y: 1985
         m: 6
         d: 30
+    - artistNames:
+      - Michael "Mike" McCready
+      dob:
+        y: 1980
+        m: 2
+        d: 14

@@ -49,3 +49,15 @@ artistData:
         y: 1955
         m: 1
         d: 10
+    - artistNames:
+      - John "J.J." O'Neill
+      dob:
+        y: 1954
+        m: 10
+        d: 12
+    - artistNames:
+      - Gary "Gaz" O'Neill
+      dob:
+        y: 1956
+        m: 2
+        d: 14

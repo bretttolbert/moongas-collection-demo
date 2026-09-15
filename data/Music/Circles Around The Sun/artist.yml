@@ -35,3 +35,9 @@ artistData:
         y: 1985
         m: 3
         d: 12
+    - artistNames:
+      - Brian Morrow
+      dob:
+        y: 1981
+        m: 6
+        d: 14

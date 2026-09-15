@@ -49,3 +49,9 @@ artistData:
         y: 1978
         m: 9
         d: 19
+    - artistNames:
+      - Johnny McDaid
+      dob:
+        y: 1976
+        m: 7
+        d: 24

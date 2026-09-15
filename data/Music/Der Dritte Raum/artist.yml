@@ -19,3 +19,15 @@ artistData:
         y: 1971
         m: 8
         d: 15
+    - artistNames:
+      - Andreas K. K. K. K.
+      dob:
+        y: 1972
+        m: 4
+        d: 10
+    - artistNames:
+      - Michael H.
+      dob:
+        y: 1973
+        m: 11
+        d: 20

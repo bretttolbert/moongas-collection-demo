@@ -16,6 +16,6 @@ artistData:
     - artistNames:
       - [Additional Member Name]
       dob:
-        y: [Year]
-        m: [Month]
-        d: [Day]
+        y: 1995
+        m: 1
+        d: 1

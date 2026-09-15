@@ -29,3 +29,6 @@ artistData:
         y: 1970
         m: 1
         d: 1
+      artistRoles:
+      - producer
+      - remixer

@@ -67,3 +67,9 @@ artistData:
         y: 1961
         m: 1
         d: 24
+    - artistNames:
+      - Woody
+      dob:
+        y: 1961
+        m: 11
+        d: 19

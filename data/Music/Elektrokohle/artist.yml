@@ -31,3 +31,15 @@ artistData:
         y: 1985
         m: 4
         d: 18
+    - artistNames:
+      - Lukas M.
+      dob:
+        y: 1990
+        m: 1
+        d: 30
+    - artistNames:
+      - Julia T.
+      dob:
+        y: 1992
+        m: 9
+        d: 15

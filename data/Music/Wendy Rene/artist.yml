@@ -31,3 +31,15 @@ artistData:
         y: 1945
         m: 6
         d: 20
+    - artistNames:
+      - John "Johnny" Smith
+      dob:
+        y: 1942
+        m: 3
+        d: 12
+    - artistNames:
+      - Charles "Charlie" Smith
+      dob:
+        y: 1943
+        m: 5
+        d: 18

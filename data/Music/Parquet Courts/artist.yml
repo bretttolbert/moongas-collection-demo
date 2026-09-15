@@ -37,3 +37,9 @@ artistData:
         y: 1987
         m: 1
         d: 1
+    - artistNames:
+      - Greg Ahee
+      dob:
+        y: 1986
+        m: 4
+        d: 12

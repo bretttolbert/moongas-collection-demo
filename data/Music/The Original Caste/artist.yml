@@ -49,3 +49,13 @@ artistData:
         y: 1948
         m: 4
         d: 12
+    - artistNames:
+      - John "Jack" McCaw
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+      dod:
+        y: 2020
+        m: 7
+        d: 15

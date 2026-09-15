@@ -47,3 +47,15 @@ artistData:
         y: 2013
         m: 8
         d: 13
+    - artistNames:
+      - Mark "Mazz" Mazur
+      dob:
+        y: 1971
+        m: 4
+        d: 12
+    - artistNames:
+      - Simon Jones
+      dob:
+        y: 1967
+        m: 6
+        d: 15

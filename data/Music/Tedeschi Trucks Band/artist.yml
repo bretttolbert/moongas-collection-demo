@@ -43,3 +43,7 @@ artistData:
       - Brandon Boone
     - artistNames:
       - Isaac Eady
+      dob:
+        y: 1990
+        m: 4
+        d: 15

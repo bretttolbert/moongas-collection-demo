@@ -39,3 +39,11 @@ artistData:
       - "Jorge"
       artistRoles:
       - keyboards
+    - artistNames:
+      - "Paco"
+      artistRoles:
+      - guitar
+    - artistNames:
+      - "Chico"
+      artistRoles:
+      - backing vocals

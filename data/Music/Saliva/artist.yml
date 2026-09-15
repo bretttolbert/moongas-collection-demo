@@ -43,3 +43,7 @@ artistData:
         y: 1973
         m: 10
         d: 31
+      dod:
+        y: 2023
+        m: 3
+        d: 22

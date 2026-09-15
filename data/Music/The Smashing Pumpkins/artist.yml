@@ -67,3 +67,12 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Melissa Auf der Maur
+      dob:
+        y: 1972
+        m: 3
+        d: 17
+      artistRoles:
+      - bass
+      - backing vocals

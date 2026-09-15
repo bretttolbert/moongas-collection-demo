@@ -75,3 +75,19 @@ artistData:
         y: 1946
         m: 8
         d: 15
+    - artistNames:
+      - Bob Ashley
+      dob:
+        y: 1945
+        m: 5
+        d: 19
+    - artistNames:
+      - Don McDougall
+      dob:
+        y: 1948
+        m: 5
+        d: 30
+      dod:
+        y: 2019
+        m: 8
+        d: 20

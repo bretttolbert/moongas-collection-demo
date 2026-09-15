@@ -43,3 +43,9 @@ artistData:
         y: 1961
         m: 4
         d: 25
+    - artistNames:
+      - David "Davy" O'List
+      dob:
+        y: 1948
+        m: 7
+        d: 2

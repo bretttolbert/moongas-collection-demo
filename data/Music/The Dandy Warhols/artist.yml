@@ -31,3 +31,13 @@ artistData:
         y: 1973
         m: 11
         d: 6
+    - artistNames:
+      - Eric Hedford
+      dob:
+        y: 1970
+        m: 5
+        d: 24
+      dod:
+        y: 2008
+        m: 8
+        d: 1

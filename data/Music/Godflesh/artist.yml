@@ -19,3 +19,15 @@ artistData:
         y: 1971
         m: 3
         d: 29
+    - artistNames:
+      - Ben Green
+      dob:
+        y: 1972
+        m: 5
+        d: 12
+    - artistNames:
+      - Brian Dixon
+      dob:
+        y: 1970
+        m: 8
+        d: 20

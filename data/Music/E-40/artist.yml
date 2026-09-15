@@ -43,3 +43,7 @@ artistData:
       - Mistah F.A.B.
     - artistNames:
       - G-Eazy
+      dob:
+        y: 1989
+        m: 5
+        d: 24

@@ -37,3 +37,9 @@ artistData:
         y: 1971
         m: 5
         d: 17
+    - artistNames:
+      - John D. Smithson
+      dob:
+        y: 1972
+        m: 7
+        d: 12

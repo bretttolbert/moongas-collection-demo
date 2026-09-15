@@ -20,3 +20,8 @@ artistData:
         y: 1999
         m: 6
         d: 15
+      city: Zapopan
+      countryCode: MX
+      languageCodes:
+      - es
+      regionCode: MX-JAL

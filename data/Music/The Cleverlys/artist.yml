@@ -37,3 +37,9 @@ artistData:
         y: 1990
         m: 4
         d: 20
+    - artistNames:
+      - Brian Cleverly
+      dob:
+        y: 1992
+        m: 8
+        d: 30

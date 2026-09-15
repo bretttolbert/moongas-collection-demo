@@ -37,3 +37,12 @@ artistData:
         y: 1974
         m: 8
         d: 20
+    - artistNames:
+      - Joe "The D" Dorsey
+      dob:
+        y: 1974
+        m: 8
+        d: 20
+      artistRoles:
+      - guitar
+      - backing vocals

@@ -71,3 +71,15 @@ artistData:
         y: 1948
         m: 12
         d: 28
+    - artistNames:
+      - Ivan Neville
+      dob:
+        y: 1959
+        m: 8
+        d: 23
+    - artistNames:
+      - David Torkanowsky
+      dob:
+        y: 1964
+        m: 1
+        d: 1

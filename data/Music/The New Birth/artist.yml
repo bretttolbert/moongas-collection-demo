@@ -79,3 +79,15 @@ artistData:
         y: 1944
         m: 1
         d: 1
+    - artistNames:
+      - Gerald "Jerry" Jones
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - Barbara "Barb" Harris
+      dob:
+        y: 1946
+        m: 1
+        d: 1

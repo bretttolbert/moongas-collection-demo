@@ -15,8 +15,16 @@ artistData:
         d: 15
     - artistNames:
       - Alex Story
+      dob:
+        y: 1985
+        m: 7
+        d: 15
     - artistNames:
       - Brandon Strate
+      dob:
+        y: 1984
+        m: 6
+        d: 12
     - artistNames:
       - Dr. Chud
       dob:
@@ -25,3 +33,7 @@ artistData:
         d: 23
     - artistNames:
       - Acey Slade
+      dob:
+        y: 1971
+        m: 6
+        d: 15

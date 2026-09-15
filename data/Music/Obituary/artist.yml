@@ -69,3 +69,9 @@ artistData:
         y: 1980
         m: 1
         d: 1
+    - artistNames:
+      - Matt Harvey
+      dob:
+        y: 1980
+        m: 6
+        d: 10

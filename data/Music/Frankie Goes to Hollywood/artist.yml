@@ -37,3 +37,9 @@ artistData:
         y: 1964
         m: 5
         d: 22
+    - artistNames:
+      - Paul Rutherford
+      dob:
+        y: 1959
+        m: 6
+        d: 8

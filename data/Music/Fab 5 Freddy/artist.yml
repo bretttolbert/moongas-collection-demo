@@ -51,3 +51,21 @@ artistData:
       artistRoles:
       - rapper
       - activist
+    - artistNames:
+      - Slick Rick
+      dob:
+        y: 1969
+        m: 1
+        d: 14
+      artistRoles:
+      - rapper
+      - storyteller
+    - artistNames:
+      - Doug E. Fresh
+      dob:
+        y: 1966
+        m: 9
+        d: 16
+      artistRoles:
+      - rapper
+      - beatboxer

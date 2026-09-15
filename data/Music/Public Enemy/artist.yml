@@ -61,3 +61,7 @@ artistData:
       - DJ Chuckie
     - artistNames:
       - DJ Lord
+      dob:
+        y: 1970
+        m: 1
+        d: 1

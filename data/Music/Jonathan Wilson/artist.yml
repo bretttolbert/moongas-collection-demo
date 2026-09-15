@@ -49,3 +49,15 @@ artistData:
         y: 1980
         m: 9
         d: 20
+    - artistNames:
+      - Jeff Tweedy
+      dob:
+        y: 1967
+        m: 4
+        d: 25
+    - artistNames:
+      - Jim James
+      dob:
+        y: 1978
+        m: 4
+        d: 27

@@ -13,3 +13,9 @@ artistData:
         y: 1970
         m: 6
         d: 4
+    - artistNames:
+      - Rob Quest
+    - artistNames:
+      - Jugg Mugg
+    - artistNames:
+      - C. D. D.

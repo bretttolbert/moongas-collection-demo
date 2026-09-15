@@ -43,3 +43,9 @@ artistData:
         y: 1997
         m: 6
         d: 20
+    - artistNames:
+      - Theo Peoples
+      dob:
+        y: 1960
+        m: 10
+        d: 5

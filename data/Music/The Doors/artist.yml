@@ -39,3 +39,5 @@ artistData:
         y: 1944
         m: 12
         d: 1
+      artistRoles:
+      - drums

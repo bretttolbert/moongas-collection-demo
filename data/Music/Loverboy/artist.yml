@@ -41,3 +41,9 @@ artistData:
         y: 1954
         m: 6
         d: 5
+    - artistNames:
+      - Ken "Spider" Sinnaeve
+      dob:
+        y: 1965
+        m: 4
+        d: 24

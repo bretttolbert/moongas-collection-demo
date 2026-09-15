@@ -43,6 +43,10 @@ artistData:
         y: 1956
         m: 12
         d: 7
+      dod:
+        y: 2007
+        m: 4
+        d: 5
     - artistNames:
       - Michael B. Williams
       dob:

@@ -13,6 +13,9 @@ artistData:
         y: 1965
         m: 12
         d: 29
+      artistRoles:
+      - vocals
+      - guitar
     - artistNames:
       - Noodles
       - Kevin Wasserman
@@ -20,6 +23,9 @@ artistData:
         y: 1963
         m: 2
         d: 4
+      artistRoles:
+      - guitar
+      - backing vocals
     - artistNames:
       - Greg K.
       - Greg Kriesel
@@ -27,12 +33,17 @@ artistData:
         y: 1966
         m: 7
         d: 20
+      artistRoles:
+      - bass
+      - backing vocals
     - artistNames:
       - Pete Parada
       dob:
         y: 1978
         m: 6
         d: 9
+      artistRoles:
+      - drums
     - artistNames:
       - Ron Welty
       dob:
@@ -43,6 +54,8 @@ artistData:
         y: 2023
         m: 5
         d: 1
+      artistRoles:
+      - drums
     - artistNames:
       - Josh Freese
       dob:

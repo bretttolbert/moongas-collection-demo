@@ -61,3 +61,15 @@ artistData:
         y: 1958
         m: 6
         d: 15
+    - artistNames:
+      - Michael "Mike" Smith
+      dob:
+        y: 1957
+        m: 9
+        d: 10
+    - artistNames:
+      - John "Johnny" Smith
+      dob:
+        y: 1956
+        m: 11
+        d: 22

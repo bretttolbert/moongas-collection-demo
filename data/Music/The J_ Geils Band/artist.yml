@@ -47,3 +47,9 @@ artistData:
         y: 1949
         m: 4
         d: 12
+    - artistNames:
+      - Gale W. W. Bladd
+      dob:
+        y: 1950
+        m: 8
+        d: 15

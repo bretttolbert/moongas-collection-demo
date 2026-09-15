@@ -43,3 +43,9 @@ artistData:
         y: 1984
         m: 6
         d: 15
+    - artistNames:
+      - Gustav Högström
+      dob:
+        y: 1987
+        m: 3
+        d: 30

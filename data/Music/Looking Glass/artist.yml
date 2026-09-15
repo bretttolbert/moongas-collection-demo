@@ -43,3 +43,9 @@ artistData:
         y: 1951
         m: 10
         d: 1
+    - artistNames:
+      - David "Dave" Dorr
+      dob:
+        y: 1952
+        m: 3
+        d: 12

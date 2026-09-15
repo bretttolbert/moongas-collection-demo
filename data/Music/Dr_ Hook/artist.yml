@@ -47,3 +47,9 @@ artistData:
         y: 1946
         m: 4
         d: 26
+    - artistNames:
+      - Rick S. D. McGhee
+      dob:
+        y: 1946
+        m: 4
+        d: 26

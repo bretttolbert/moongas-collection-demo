@@ -31,3 +31,15 @@ artistData:
         y: 1969
         m: 5
         d: 13
+    - artistNames:
+      - Ivan Neville
+      dob:
+        y: 1959
+        m: 8
+        d: 19
+    - artistNames:
+      - John Popper
+      dob:
+        y: 1967
+        m: 3
+        d: 29

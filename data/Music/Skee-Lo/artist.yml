@@ -31,3 +31,9 @@ artistData:
         y: 1985
         m: 4
         d: 15
+    - artistNames:
+      - Unknown Member
+      dob:
+        y: 1975
+        m: 1
+        d: 1

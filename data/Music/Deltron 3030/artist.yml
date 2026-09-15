@@ -31,3 +31,19 @@ artistData:
         d: 2
       artistRoles:
       - turntables
+    - artistNames:
+      - Laura Darlington
+      dob:
+        y: 1975
+        m: 1
+        d: 1
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Mike Patton
+      dob:
+        y: 1968
+        m: 1
+        d: 27
+      artistRoles:
+      - vocals

@@ -43,3 +43,15 @@ artistData:
         y: 1964
         m: 7
         d: 12
+    - artistNames:
+      - Earl Liberty
+      dob:
+        y: 1966
+        m: 12
+        d: 12
+    - artistNames:
+      - Keith "Kenny" Morris
+      dob:
+        y: 1955
+        m: 8
+        d: 18

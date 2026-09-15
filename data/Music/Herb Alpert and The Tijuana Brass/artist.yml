@@ -59,3 +59,27 @@ artistData:
       - Alpert's Brass
       artistRoles:
       - brass
+    - artistNames:
+      - Bob Findley
+      dob:
+        y: 1933
+        m: 8
+        d: 22
+    - artistNames:
+      - Charlie McCoy
+      dob:
+        y: 1941
+        m: 3
+        d: 28
+    - artistNames:
+      - Donn Trenner
+      dob:
+        y: 1933
+        m: 1
+        d: 1
+    - artistNames:
+      - Tony Terran
+      dob:
+        y: 1934
+        m: 4
+        d: 22

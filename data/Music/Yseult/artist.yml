@@ -17,3 +17,15 @@ artistData:
       - vocals
       - guitar
       - songwriter
+    - artistNames:
+      - Yseult's Band Member 1
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Yseult's Band Member 2
+      artistRoles:
+      - drums
+    - artistNames:
+      - Yseult's Band Member 3
+      artistRoles:
+      - bass

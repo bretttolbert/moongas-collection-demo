@@ -56,3 +56,15 @@ artistData:
         y: 1970
         m: 6
         d: 15
+    - artistNames:
+      - Bill Nershi's Daughter
+      dob:
+        y: 2000
+        m: 5
+        d: 10
+    - artistNames:
+      - Michael Kang's Brother
+      dob:
+        y: 1975
+        m: 7
+        d: 22

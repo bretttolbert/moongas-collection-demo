@@ -31,3 +31,15 @@ artistData:
         y: 1973
         m: 7
         d: 15
+    - artistNames:
+      - Dan Monti
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Adam Kury
+      dob:
+        y: 1980
+        m: 5
+        d: 5

@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 12
         d: 26
+    - artistNames:
+      - Justin Harwood
+      dob:
+        y: 1970
+        m: 9
+        d: 24

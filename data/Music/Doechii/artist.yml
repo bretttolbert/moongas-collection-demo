@@ -16,3 +16,15 @@ artistData:
       artistRoles:
       - vocals
       - songwriting
+    - artistNames:
+      - additional member 1
+      artistRoles:
+      - role 1
+    - artistNames:
+      - additional member 2
+      artistRoles:
+      - role 2
+    - artistNames:
+      - additional member 3
+      artistRoles:
+      - role 3

@@ -13,24 +13,9 @@ artistData:
         y: 1958
         m: 3
         d: 1
-    - artistNames:
-      - José Antonio Ramos
-    - artistNames:
-      - Juan Carlos Ramos
-    - artistNames:
-      - Fernando Aramburu
-    - artistNames:
-      - José Luis Armenteros
-    - artistNames:
-      - Javier Gurruchaga
       artistRoles:
       - vocals
       - keyboards
-    - artistNames:
-      - Iñaki Uranga
-      artistRoles:
-      - vocals
-      - guitar
     - artistNames:
       - José Antonio Ramos
       artistRoles:
@@ -50,9 +35,22 @@ artistData:
     - artistNames:
       - Iñaki Uranga
       artistRoles:
+      - vocals
       - guitar
     - artistNames:
       - Javier Gurruchaga
       artistRoles:
       - vocals
       - keyboards
+    - artistNames:
+      - José Antonio Ramos
+    - artistNames:
+      - Juan Carlos Ramos
+    - artistNames:
+      - Fernando Aramburu
+    - artistNames:
+      - José Luis Armenteros
+    - artistNames:
+      - Iñaki Uranga
+      artistRoles:
+      - guitar

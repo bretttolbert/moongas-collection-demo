@@ -25,6 +25,8 @@ artistData:
         d: 18
     - artistNames:
       - Malcolm Jones
+      dob:
+        y: 1945
     - artistNames:
       - Jerry Corbetta
       dob:

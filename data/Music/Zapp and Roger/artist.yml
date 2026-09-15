@@ -57,3 +57,9 @@ artistData:
         y: 1956
         m: 8
         d: 12
+    - artistNames:
+      - Darlene Troutman
+      dob:
+        y: 1962
+        m: 4
+        d: 20

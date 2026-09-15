@@ -75,3 +75,45 @@ artistData:
         y: 1960
         m: 4
         d: 30
+    - artistNames:
+      - Martin Chambers
+      dob:
+        y: 1951
+        m: 6
+        d: 4
+    - artistNames:
+      - Robbie McIntosh
+      dob:
+        y: 1950
+        m: 3
+        d: 25
+    - artistNames:
+      - Adam Seymour
+      dob:
+        y: 1964
+        m: 1
+        d: 1
+    - artistNames:
+      - Nick Wilkinson
+      dob:
+        y: 1961
+        m: 10
+        d: 22
+    - artistNames:
+      - Hynde's daughter
+      dob:
+        y: 1983
+        m: 9
+        d: 7
+    - artistNames:
+      - John McCoy
+      dob:
+        y: 1949
+        m: 5
+        d: 18
+    - artistNames:
+      - Dave Hill
+      dob:
+        y: 1960
+        m: 4
+        d: 30

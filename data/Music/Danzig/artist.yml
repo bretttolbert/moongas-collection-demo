@@ -31,3 +31,15 @@ artistData:
         y: 1963
       artistRoles:
       - drums
+    - artistNames:
+      - Joey Castillo
+      dob:
+        y: 1966
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jerry Only
+      dob:
+        y: 1959
+      artistRoles:
+      - bass

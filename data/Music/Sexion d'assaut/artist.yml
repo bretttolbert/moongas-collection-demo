@@ -61,3 +61,9 @@ artistData:
         y: 1990
         m: 4
         d: 1
+    - artistNames:
+      - Didi
+      dob:
+        y: 1991
+        m: 6
+        d: 15

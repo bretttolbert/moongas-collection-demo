@@ -19,3 +19,7 @@ artistData:
       - K. K. D. V
     - artistNames:
       - K. K. D. VI
+  dob:
+    y: 2010
+    m: 1
+    d: 1

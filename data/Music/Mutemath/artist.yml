@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 10
         d: 12
+    - artistNames:
+      - Greg Hill
+      dob:
+        y: 1979
+        m: 9
+        d: 12

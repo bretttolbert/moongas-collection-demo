@@ -31,3 +31,9 @@ artistData:
         y: 1968
         m: 9
         d: 10
+    - artistNames:
+      - John "Jock" McKenzie
+      dob:
+        y: 1968
+        m: 11
+        d: 25

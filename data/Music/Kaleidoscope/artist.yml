@@ -31,3 +31,15 @@ artistData:
         y: 1995
         m: 4
         d: 4
+    - artistNames:
+      - Michael Brown
+      dob:
+        y: 1985
+        m: 5
+        d: 5
+    - artistNames:
+      - Sarah Wilson
+      dob:
+        y: 1993
+        m: 6
+        d: 6

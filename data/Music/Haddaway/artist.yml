@@ -18,3 +18,18 @@ artistData:
       artistRoles:
       - vocals
       - songwriting
+    - artistNames:
+      - Michael McDonald
+      artistRoles:
+      - keyboards
+      - backing vocals
+    - artistNames:
+      - Eric Kupper
+      artistRoles:
+      - keyboards
+      - programming
+    - artistNames:
+      - David Morales
+      artistRoles:
+      - remixing
+      - production

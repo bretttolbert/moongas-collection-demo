@@ -54,3 +54,9 @@ artistData:
         y: 1961
         m: 3
         d: 15
+    - artistNames:
+      - Ray "East Bay Ray" Pepperell
+      dob:
+        y: 1960
+        m: 4
+        d: 17

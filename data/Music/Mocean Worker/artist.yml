@@ -43,3 +43,27 @@ artistData:
         y: 1989
         m: 6
         d: 1
+    - artistNames:
+      - Fatboy Slim
+      dob:
+        y: 1963
+        m: 7
+        d: 31
+    - artistNames:
+      - Moby
+      dob:
+        y: 1965
+        m: 9
+        d: 11
+    - artistNames:
+      - Daft Punk
+      dob:
+        y: 1993
+        m: 3
+        d: 12
+    - artistNames:
+      - Basement Jaxx
+      dob:
+        y: 1994
+        m: 8
+        d: 1

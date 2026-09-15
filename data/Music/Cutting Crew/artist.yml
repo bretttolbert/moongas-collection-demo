@@ -41,3 +41,9 @@ artistData:
         y: 1961
         m: 4
         d: 17
+    - artistNames:
+      - John McGowan
+      dob:
+        y: 1961
+        m: 8
+        d: 12

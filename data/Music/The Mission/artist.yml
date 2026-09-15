@@ -55,3 +55,19 @@ artistData:
         y: 1970
         m: 5
         d: 25
+    - artistNames:
+      - Mick Bund
+      dob:
+        y: 1962
+        m: 4
+        d: 15
+    - artistNames:
+      - Adrian Borland
+      dob:
+        y: 1957
+        m: 10
+        d: 6
+      dod:
+        y: 1999
+        m: 4
+        d: 26

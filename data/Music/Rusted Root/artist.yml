@@ -43,3 +43,21 @@ artistData:
         y: 1970
         m: 4
         d: 20
+    - artistNames:
+      - Patrick "Pat" McGee
+      dob:
+        y: 1971
+        m: 11
+        d: 30
+    - artistNames:
+      - Chris "Cris" L. M.
+      dob:
+        y: 1973
+        m: 3
+        d: 5
+    - artistNames:
+      - Scott "Scotty" D. M.
+      dob:
+        y: 1972
+        m: 9
+        d: 14

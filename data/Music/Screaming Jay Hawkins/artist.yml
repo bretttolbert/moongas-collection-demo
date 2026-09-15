@@ -19,6 +19,14 @@ artistData:
         d: 12
     - artistNames:
       - Screaming Jay Hawkins
+      dob:
+        y: 1929
+        m: 7
+        d: 18
+      dod:
+        y: 2000
+        m: 2
+        d: 12
       artistRoles:
       - vocals
       - piano

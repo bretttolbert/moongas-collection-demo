@@ -37,3 +37,9 @@ artistData:
         y: 1967
         m: 8
         d: 3
+    - artistNames:
+      - Mark Whelan
+      dob:
+        y: 1968
+        m: 4
+        d: 15

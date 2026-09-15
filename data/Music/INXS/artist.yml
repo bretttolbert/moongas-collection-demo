@@ -44,12 +44,6 @@ artistData:
         m: 9
         d: 1
     - artistNames:
-      - Kirk Pengilly
-      dob:
-        y: 1961
-        m: 7
-        d: 4
-    - artistNames:
       - Garry Gary Beers
       dob:
         y: 1961
@@ -61,6 +55,12 @@ artistData:
         y: 1961
         m: 3
         d: 27
+    - artistNames:
+      - Kirk Pengilly
+      dob:
+        y: 1961
+        m: 7
+        d: 4
     - artistNames:
       - Jon Farriss
       dob:

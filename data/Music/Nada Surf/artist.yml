@@ -31,3 +31,15 @@ artistData:
         y: 1966
         m: 12
         d: 27
+    - artistNames:
+      - Doug Gillard
+      dob:
+        y: 1966
+        m: 11
+        d: 20
+    - artistNames:
+      - Ira Elliot
+      dob:
+        y: 1966
+        m: 12
+        d: 27

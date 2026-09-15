@@ -49,3 +49,21 @@ artistData:
         y: 1960
         m: 11
         d: 30
+    - artistNames:
+      - John "J" McCarthy
+      dob:
+        y: 1960
+        m: 11
+        d: 30
+    - artistNames:
+      - Greg W. McCarthy
+      dob:
+        y: 1962
+        m: 3
+        d: 28
+    - artistNames:
+      - Susan McCarthy
+      dob:
+        y: 1962
+        m: 8
+        d: 5

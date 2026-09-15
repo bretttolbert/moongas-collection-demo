@@ -32,3 +32,9 @@ artistData:
         y: 1965
         m: 12
         d: 29
+    - artistNames:
+      - Kiyoshi Takemura
+      dob:
+        y: 1965
+        m: 12
+        d: 29

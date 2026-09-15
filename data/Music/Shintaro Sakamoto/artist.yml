@@ -13,3 +13,21 @@ artistData:
         y: 1980
         m: 4
         d: 3
+    - artistNames:
+      - Kenta Matsumoto
+      dob:
+        y: 1982
+        m: 6
+        d: 15
+    - artistNames:
+      - Yuki Takahashi
+      dob:
+        y: 1981
+        m: 9
+        d: 22
+    - artistNames:
+      - Haruki Yamamoto
+      dob:
+        y: 1983
+        m: 1
+        d: 10

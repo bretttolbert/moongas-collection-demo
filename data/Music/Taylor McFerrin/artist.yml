@@ -48,3 +48,18 @@ artistData:
       artistRoles:
       - piano
       - keyboards
+    - artistNames:
+      - Esperanza Spalding
+      dob:
+        y: 1984
+        m: 10
+        d: 18
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Hiatus Kaiyote
+      dob:
+        y: 2011
+      artistRoles:
+      - band

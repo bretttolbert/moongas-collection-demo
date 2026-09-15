@@ -41,3 +41,19 @@ artistData:
         y: 1970
         m: 7
         d: 15
+    - artistNames:
+      - Phil Anselmo
+      dob:
+        y: 1968
+        m: 6
+        d: 30
+    - artistNames:
+      - Reed Mullin
+      dob:
+        y: 1966
+        m: 6
+        d: 16
+      dod:
+        y: 2020
+        m: 1
+        d: 27

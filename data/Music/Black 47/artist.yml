@@ -23,6 +23,8 @@ artistData:
       - Tara O'Grady
       dob:
         y: 1980
+        m: 1
+        d: 1
     - artistNames:
       - Joseph "Joe" Burcaw
     - artistNames:

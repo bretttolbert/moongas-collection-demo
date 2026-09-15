@@ -6,4 +6,14 @@ artistData:
   languageCodes:
   - en
   regionCode: US-DC
-  members: []
+  members:
+    - artistNames:
+      - Daryl McKenzie
+    - artistNames:
+      - Kelsey McKenzie
+    - artistNames:
+      - Kelsey McKenzie
+    - artistNames:
+      - Chris McKenzie
+    - artistNames:
+      - Janelle McKenzie

@@ -41,3 +41,15 @@ artistData:
         y: 1958
         m: 1
         d: 1
+    - artistNames:
+      - Nicky Tesco
+      dob:
+        y: 1957
+        m: 10
+        d: 1
+    - artistNames:
+      - John "Segs" Jennings
+      dob:
+        y: 1955
+        m: 12
+        d: 1

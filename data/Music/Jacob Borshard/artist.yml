@@ -43,3 +43,19 @@ artistData:
         d: 30
       artistRoles:
       - bass
+    - artistNames:
+      - Additional Member 4
+      dob:
+        y: 1990
+        m: 1
+        d: 5
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Additional Member 5
+      dob:
+        y: 1988
+        m: 9
+        d: 18
+      artistRoles:
+      - backing vocals

@@ -26,3 +26,19 @@ artistData:
       - bass
       - drums
       - keyboards
+    - artistNames:
+      - John "Johnny" McGowan
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Michael "Mickey" McGowan
+      artistRoles:
+      - bass
+    - artistNames:
+      - David "Dave" Kahn
+      artistRoles:
+      - drums
+    - artistNames:
+      - Richard "Richie" D'Angelo
+      artistRoles:
+      - keyboards

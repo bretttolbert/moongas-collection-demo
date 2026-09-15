@@ -37,3 +37,33 @@ artistData:
         y: 1994
         m: 5
         d: 5
+    - artistNames:
+      - Karan
+      dob:
+        y: 1995
+        m: 6
+        d: 6
+    - artistNames:
+      - Deepak
+      dob:
+        y: 1996
+        m: 7
+        d: 7
+    - artistNames:
+      - Nitin
+      dob:
+        y: 1997
+        m: 8
+        d: 8
+    - artistNames:
+      - Prashant
+      dob:
+        y: 1998
+        m: 9
+        d: 9
+    - artistNames:
+      - Rohit
+      dob:
+        y: 1999
+        m: 10
+        d: 10

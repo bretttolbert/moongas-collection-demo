@@ -37,3 +37,15 @@ artistData:
         y: 1985
         m: 11
         d: 8
+    - artistNames:
+      - Kelly Pratt
+      dob:
+        y: 1984
+        m: 8
+        d: 22
+    - artistNames:
+      - Mark S. Smith
+      dob:
+        y: 1983
+        m: 12
+        d: 1

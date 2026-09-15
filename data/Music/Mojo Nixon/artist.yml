@@ -27,3 +27,19 @@ artistData:
       artistRoles:
       - backing vocals
       - various instruments
+    - artistNames:
+      - John Doe
+      dob:
+        y: 1963
+        m: 3
+        d: 15
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jimbo
+      dob:
+        y: 1965
+        m: 7
+        d: 20
+      artistRoles:
+      - drums

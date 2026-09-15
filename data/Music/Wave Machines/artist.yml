@@ -37,3 +37,15 @@ artistData:
         y: 1981
         m: 5
         d: 5
+    - artistNames:
+      - Mike O'Neill
+      dob:
+        y: 1980
+        m: 6
+        d: 6
+    - artistNames:
+      - Chris McGarry
+      dob:
+        y: 1982
+        m: 7
+        d: 7

@@ -31,3 +31,9 @@ artistData:
         y: 1974
         m: 10
         d: 18
+    - artistNames:
+      - John Nichols
+      dob:
+        y: 1970
+        m: 6
+        d: 15

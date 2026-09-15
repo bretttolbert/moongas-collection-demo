@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Jeffrey Paradise
+      dob:
+        y: 1980
+        m: 5
+        d: 15
     - artistNames:
       - Filip Nikolic
+      dob:
+        y: 1982
+        m: 3
+        d: 12

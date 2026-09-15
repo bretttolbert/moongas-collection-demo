@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 6
         d: 1
+    - artistNames:
+      - Peter "Pelle" Hultqvist
+      dob:
+        y: 1970
+        m: 7
+        d: 1

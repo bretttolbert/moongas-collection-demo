@@ -13,3 +13,21 @@ artistData:
         y: 1985
         m: 1
         d: 11
+      artistRoles:
+      - vocals
+    - artistNames:
+      - K. Michelle
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - Kymani Marley
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Sean Paul
+      artistRoles:
+      - featured artist
+    - artistNames:
+      - Popcaan
+      artistRoles:
+      - featured artist

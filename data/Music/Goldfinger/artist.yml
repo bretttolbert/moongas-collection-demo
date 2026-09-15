@@ -49,3 +49,15 @@ artistData:
         y: 1980
         m: 1
         d: 1
+    - artistNames:
+      - Mike Herrera
+      dob:
+        y: 1980
+        m: 4
+        d: 6
+    - artistNames:
+      - Scott Klopfenstein
+      dob:
+        y: 1975
+        m: 6
+        d: 19

@@ -77,3 +77,15 @@ artistData:
         y: 1948
         m: 4
         d: 22
+    - artistNames:
+      - Adolfo "Fito" de la Parra
+      dob:
+        y: 1947
+        m: 11
+        d: 3
+    - artistNames:
+      - John "Bear" Molo
+      dob:
+        y: 1948
+        m: 4
+        d: 22

@@ -27,6 +27,10 @@ artistData:
         d: 28
     - artistNames:
       - PJ Proby
+      dob:
+        y: 1938
+        m: 6
+        d: 24
     - artistNames:
       - Greg L. Smith
       dob:
@@ -35,3 +39,7 @@ artistData:
         d: 1
     - artistNames:
       - Vinnie DeMartino
+      dob:
+        y: 1946
+        m: 6
+        d: 16

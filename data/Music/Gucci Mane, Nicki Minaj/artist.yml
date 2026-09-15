@@ -19,3 +19,8 @@ artistData:
         y: 1982
         m: 12
         d: 8
+      city: Saint James
+      countryCode: TT
+      languageCodes:
+      - en
+      regionCode: TT-08

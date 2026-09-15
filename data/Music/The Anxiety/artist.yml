@@ -17,7 +17,19 @@ artistData:
       - Joshua O'Connor
     - artistNames:
       - Tessa Violet
+      dob:
+        y: 1999
+        m: 3
+        d: 20
     - artistNames:
       - Jaden Hossler
+      dob:
+        y: 1999
+        m: 2
+        d: 8
     - artistNames:
       - Kira Kosarin
+      dob:
+        y: 1997
+        m: 10
+        d: 18

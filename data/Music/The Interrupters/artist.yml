@@ -31,3 +31,9 @@ artistData:
         y: 1993
         m: 6
         d: 1
+    - artistNames:
+      - Chris Chasse
+      dob:
+        y: 1985
+        m: 8
+        d: 15

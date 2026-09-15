@@ -43,3 +43,9 @@ artistData:
         y: 1996
         m: 1
         d: 12
+    - artistNames:
+      - David McCauley
+      dob:
+        y: 1995
+        m: 4
+        d: 18

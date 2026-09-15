@@ -29,9 +29,9 @@ artistData:
       - drums
     - artistNames:
       - Tripcat
-      artistRoles:
-      - electronic music
       dob:
         y: 1985
         m: 6
         d: 15
+      artistRoles:
+      - electronic music

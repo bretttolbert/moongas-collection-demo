@@ -37,3 +37,9 @@ artistData:
         y: 1981
         m: 11
         d: 5
+    - artistNames:
+      - Matthew "Matt" McCulloch
+      dob:
+        y: 1980
+        m: 3
+        d: 22

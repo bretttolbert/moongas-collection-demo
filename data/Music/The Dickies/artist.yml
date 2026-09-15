@@ -37,3 +37,14 @@ artistData:
         y: 1972
         m: 3
         d: 15
+    - artistNames:
+      - Chuck Wagon
+      dob:
+        y: 1958
+        m: 9
+        d: 15
+    - artistNames:
+      - "The Dickies"
+      artistRoles:
+      - punk rock
+      - pop punk

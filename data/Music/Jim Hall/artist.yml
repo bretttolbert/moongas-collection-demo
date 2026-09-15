@@ -17,3 +17,43 @@ artistData:
         y: 2013
         m: 12
         d: 10
+    - artistNames:
+      - Paul Desmond
+      dob:
+        y: 1924
+        m: 11
+        d: 25
+      dod:
+        y: 1977
+        m: 5
+        d: 30
+    - artistNames:
+      - Bill Evans
+      dob:
+        y: 1929
+        m: 8
+        d: 16
+      dod:
+        y: 1980
+        m: 9
+        d: 15
+    - artistNames:
+      - Charlie Haden
+      dob:
+        y: 1937
+        m: 8
+        d: 6
+      dod:
+        y: 2014
+        m: 7
+        d: 11
+    - artistNames:
+      - Art Farmer
+      dob:
+        y: 1928
+        m: 8
+        d: 21
+      dod:
+        y: 1999
+        m: 10
+        d: 4

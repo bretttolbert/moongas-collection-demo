@@ -29,3 +29,15 @@ artistData:
         y: 1963
         m: 3
         d: 27
+    - artistNames:
+      - Flavio Cianciarulo
+      dob:
+        y: 1966
+        m: 1
+        d: 15
+    - artistNames:
+      - Andrea Echeverri
+      dob:
+        y: 1972
+        m: 9
+        d: 13

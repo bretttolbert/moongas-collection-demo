@@ -47,3 +47,9 @@ artistData:
         y: 1968
         m: 12
         d: 24
+    - artistNames:
+      - Liam Finn
+      dob:
+        y: 1983
+        m: 9
+        d: 24

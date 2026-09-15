@@ -1,22 +1,22 @@
 artistData:
   artistNames:
-  - Aurora y la Academia
+    - Aurora y la Academia
   dob:
     y: 1995
   city: Mexico City
   countryCode: MX
   languageCodes:
-  - es
+    - es
   regionCode: MX-CMX
   members:
     - artistNames:
-      - Aurora Cano
+        - Aurora Cano
       artistRoles:
-      - vocals
-      - guitar
+        - vocals
+        - guitar
     - artistNames:
-      - Leonor Hernández
+        - Leonor Hernández
     - artistNames:
-      - Alicia
-    - artistName:
-      - Triny
+        - Alicia
+    - artistNames:
+        - Triny

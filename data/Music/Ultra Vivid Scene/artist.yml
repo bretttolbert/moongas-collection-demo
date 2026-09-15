@@ -13,6 +13,10 @@ artistData:
         y: 1965
         m: 1
         d: 1
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
     - artistNames:
       - Michael Stipe
       artistRoles:
@@ -37,9 +41,3 @@ artistData:
       - John McGowan
       artistRoles:
       - bass
-    - artistNames:
-      - Kurt Ralske
-      artistRoles:
-      - vocals
-      - guitar
-      - keyboards

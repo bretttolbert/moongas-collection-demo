@@ -19,3 +19,21 @@ artistData:
       - vocals
       - songwriting
       - production
+    - artistNames:
+      - Felix Snow
+      artistRoles:
+      - production
+    - artistNames:
+      - Taz Taylor
+      artistRoles:
+      - production
+    - artistNames:
+      - Taz Taylor
+      artistRoles:
+      - songwriting
+    - artistNames:
+      - Kiiara's Collaborators
+      artistRoles:
+      - vocals
+      - songwriting
+      - production

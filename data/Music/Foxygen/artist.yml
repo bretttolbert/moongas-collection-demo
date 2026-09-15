@@ -23,9 +23,21 @@ artistData:
       - Shannon McArdle
     - artistNames:
       - Jason Schwartzman
+      dob:
+        y: 1980
+        m: 6
+        d: 26
     - artistNames:
       - Anna Waronker
+      dob:
+        y: 1974
+        m: 9
+        d: 10
     - artistNames:
       - Dan McMahon
     - artistNames:
       - Michael McDonald
+      dob:
+        y: 1947
+        m: 2
+        d: 12

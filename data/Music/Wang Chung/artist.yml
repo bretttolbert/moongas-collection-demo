@@ -31,3 +31,9 @@ artistData:
         y: 1961
         m: 5
         d: 23
+    - artistNames:
+      - Paul McCoy
+      dob:
+        y: 1961
+        m: 4
+        d: 12

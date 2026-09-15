@@ -13,3 +13,15 @@ artistData:
         y: 1980
         m: 11
         d: 19
+    - artistNames:
+      - Has-Lo
+    - artistNames:
+      - Serengeti
+    - artistNames:
+      - Aesop Rock
+    - artistNames:
+      - Busdriver
+    - artistNames:
+      - Milo
+    - artistNames:
+      - Elucid

@@ -31,3 +31,12 @@ artistData:
         y: 1994
         m: 11
         d: 5
+    - artistNames:
+      - Additional Member
+      dob:
+        y: 1995
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+      - backing vocals

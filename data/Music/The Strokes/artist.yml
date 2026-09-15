@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 4
         d: 9
+    - artistNames:
+      - Nikolai Fraiture
+      dob:
+        y: 1979
+        m: 11
+        d: 13

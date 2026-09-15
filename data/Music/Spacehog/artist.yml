@@ -43,3 +43,27 @@ artistData:
         y: 1973
         m: 3
         d: 15
+    - artistNames:
+      - John Langdon
+      dob:
+        y: 1973
+        m: 3
+        d: 15
+    - artistNames:
+      - Richard Steel
+      dob:
+        y: 1972
+        m: 4
+        d: 1
+    - artistNames:
+      - Tom Edwards
+      dob:
+        y: 1972
+        m: 9
+        d: 1
+    - artistNames:
+      - Alan McGee
+      dob:
+        y: 1971
+        m: 8
+        d: 15

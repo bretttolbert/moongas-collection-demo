@@ -39,3 +39,12 @@ artistData:
       artistRoles:
       - bass
       - backing vocals
+    - artistNames:
+      - Adam Pearson
+      dob:
+        y: 1980
+        m: 6
+        d: 1
+      artistRoles:
+      - guitar
+      - backing vocals

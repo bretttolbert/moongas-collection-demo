@@ -37,3 +37,15 @@ artistData:
         y: 1952
         m: 2
         d: 19
+    - artistNames:
+      - Toots Hibbert
+      dob:
+        y: 1942
+        m: 12
+        d: 8
+    - artistNames:
+      - Bunny Wailer
+      dob:
+        y: 1947
+        m: 4
+        d: 10

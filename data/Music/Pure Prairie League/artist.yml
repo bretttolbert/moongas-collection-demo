@@ -67,3 +67,15 @@ artistData:
         y: 1953
         m: 2
         d: 10
+    - artistNames:
+      - John "J. D." McEuen
+      dob:
+        y: 1945
+        m: 12
+        d: 18
+    - artistNames:
+      - John "Johnny" McEuen
+      dob:
+        y: 1945
+        m: 12
+        d: 18

@@ -43,3 +43,21 @@ artistData:
         y: 1992
         m: 4
         d: 1
+    - artistNames:
+      - A. K. Paul
+      dob:
+        y: 1991
+        m: 9
+        d: 1
+    - artistNames:
+      - Jae5
+      dob:
+        y: 1995
+        m: 6
+        d: 1
+    - artistNames:
+      - Kadeem Clarke
+      dob:
+        y: 1992
+        m: 4
+        d: 1

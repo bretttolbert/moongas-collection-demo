@@ -75,3 +75,12 @@ artistData:
         d: 18
       artistRoles:
       - drums
+    - artistNames:
+      - Matt Stone
+      dob:
+        y: 1970
+        m: 4
+        d: 15
+      artistRoles:
+      - keyboards
+      - backing vocals

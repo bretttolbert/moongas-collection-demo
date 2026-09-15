@@ -24,3 +24,7 @@ artistData:
       artistRoles:
       - backing vocals
       - instruments
+      dob:
+        y: 1995
+        m: 1
+        d: 1

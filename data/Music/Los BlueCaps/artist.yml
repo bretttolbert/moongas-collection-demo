@@ -45,3 +45,15 @@ artistData:
         y: 1970
         m: 1
         d: 11
+    - artistNames:
+      - Zeta Bosio
+      dob:
+        y: 1961
+        m: 12
+        d: 1
+    - artistNames:
+      - Charly García
+      dob:
+        y: 1947
+        m: 10
+        d: 23

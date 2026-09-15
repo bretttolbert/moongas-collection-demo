@@ -26,3 +26,9 @@ artistData:
         y: 1984
         m: 11
         d: 10
+    - artistNames:
+      - J. R. "J-Rock" McCoy
+      dob:
+        y: 1984
+        m: 11
+        d: 10

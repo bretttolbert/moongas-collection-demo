@@ -31,3 +31,15 @@ artistData:
         y: 1948
         m: 9
         d: 18
+    - artistNames:
+      - Frank Carillo
+      dob:
+        y: 1946
+        m: 1
+        d: 1
+    - artistNames:
+      - Eelco Gelling
+      dob:
+        y: 1946
+        m: 8
+        d: 1

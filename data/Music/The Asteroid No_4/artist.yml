@@ -19,6 +19,10 @@ artistData:
         y: 1976
         m: 8
         d: 22
+      dod:
+        y: 2023
+        m: 5
+        d: 12
     - artistNames:
       - Chris McGrew
       dob:

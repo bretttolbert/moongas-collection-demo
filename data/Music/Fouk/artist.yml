@@ -34,3 +34,12 @@ artistData:
       artistRoles:
       - electronic music producer
       - DJ
+    - artistNames:
+      - Joris Voorn
+      dob:
+        y: 1977
+        m: 12
+        d: 25
+      artistRoles:
+      - electronic music producer
+      - DJ

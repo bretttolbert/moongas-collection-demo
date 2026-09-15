@@ -49,3 +49,19 @@ artistData:
         y: 2022
         m: 6
         d: 18
+    - artistNames:
+      - Charles Calello
+      dob:
+        y: 1938
+        m: 3
+        d: 22
+    - artistNames:
+      - Bob Crewe
+      dob:
+        y: 1930
+        m: 11
+        d: 12
+      dod:
+        y: 2014
+        m: 9
+        d: 11

@@ -16,4 +16,20 @@ artistData:
         d: 15
     - artistNames:
       - Grupo Frontera
-      members: []
+      members:
+        - artistNames:
+          - Edgar A. G. 
+        - artistNames:
+          - Adriel Favela
+        - artistNames:
+          - Jhonny Caz
+        - artistNames:
+          - Javier Solis
+        - artistNames:
+          - Luis R. 
+        - artistNames:
+          - Jorge A. 
+        - artistNames:
+          - Ezequiel C. 
+        - artistNames:
+          - Carlos A.

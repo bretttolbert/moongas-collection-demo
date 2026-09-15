@@ -43,3 +43,21 @@ artistData:
         y: 1966
         m: 7
         d: 22
+    - artistNames:
+      - Jeff "Sonic" Pinkus
+      dob:
+        y: 1965
+        m: 5
+        d: 12
+      artistRoles:
+      - bass
+      - guitar
+    - artistNames:
+      - Teresa "T" Taylor
+      dob:
+        y: 1965
+        m: 4
+        d: 10
+      artistRoles:
+      - drums
+      - vocals

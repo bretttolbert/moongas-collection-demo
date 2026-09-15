@@ -19,3 +19,15 @@ artistData:
         y: 1988
         m: 11
         d: 15
+    - artistNames:
+      - Tash Sultana
+      dob:
+        y: 1995
+        m: 4
+        d: 15
+    - artistNames:
+      - Josh O'Connor
+      dob:
+        y: 1990
+        m: 6
+        d: 10

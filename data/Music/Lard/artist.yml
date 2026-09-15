@@ -31,3 +31,13 @@ artistData:
         y: 1964
         m: 7
         d: 22
+    - artistNames:
+      - Kurt Cobain
+      dob:
+        y: 1967
+        m: 2
+        d: 20
+      dod:
+        y: 1994
+        m: 4
+        d: 5

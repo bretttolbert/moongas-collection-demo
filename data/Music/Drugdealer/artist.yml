@@ -40,3 +40,7 @@ artistData:
         y: 1989
         m: 2
         d: 11
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards

@@ -59,3 +59,9 @@ artistData:
         y: 1966
         m: 7
         d: 15
+    - artistNames:
+      - Kelly Hansen
+      dob:
+        y: 1961
+        m: 4
+        d: 18

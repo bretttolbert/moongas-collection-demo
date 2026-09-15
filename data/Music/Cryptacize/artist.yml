@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 5
         d: 12
+    - artistNames:
+      - David B. Cohen
+      dob:
+        y: 1980
+        m: 5
+        d: 12

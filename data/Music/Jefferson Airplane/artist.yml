@@ -75,3 +75,19 @@ artistData:
         y: 1994
         m: 2
         d: 22
+    - artistNames:
+      - David Freiberg
+      dob:
+        y: 1938
+        m: 12
+        d: 24
+    - artistNames:
+      - Kantner
+      dob:
+        y: 1941
+        m: 3
+        d: 17
+      dod:
+        y: 2016
+        m: 1
+        d: 28

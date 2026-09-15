@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 12
         d: 10
+    - artistNames:
+      - Antoine Boucher
+      dob:
+        y: 1992
+        m: 4
+        d: 12

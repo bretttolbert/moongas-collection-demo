@@ -67,3 +67,15 @@ artistData:
         y: 1950
         m: 3
         d: 15
+    - artistNames:
+      - Rick Willis
+      dob:
+        y: 1955
+        m: 2
+        d: 18
+    - artistNames:
+      - Doug Gray
+      dob:
+        y: 1948
+        m: 1
+        d: 22

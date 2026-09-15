@@ -35,3 +35,11 @@ artistData:
         y: 1997
         m: 6
         d: 11
+    - artistNames:
+      - James Mollison
+      artistRoles:
+      - trumpet
+      dob:
+        y: 1995
+        m: 8
+        d: 15

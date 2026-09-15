@@ -41,6 +41,10 @@ artistData:
       - drums
     - artistNames:
       - Mark "Dev" Devine
+      dob:
+        y: 1989
+        m: 4
+        d: 12
       artistRoles:
       - guitar
       - backing vocals

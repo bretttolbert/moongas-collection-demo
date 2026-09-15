@@ -19,3 +19,7 @@ artistData:
       - Jeff Gitelman
     - artistNames:
       - Daniel Doss
+      dob:
+        y: 1988
+        m: 3
+        d: 12

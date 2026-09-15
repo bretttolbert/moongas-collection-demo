@@ -25,3 +25,27 @@ artistData:
         y: 1972
         m: 12
         d: 9
+    - artistNames:
+      - Jason White
+      dob:
+        y: 1973
+        m: 11
+        d: 11
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Bill Schneider
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Rob Cavallo
+      artistRoles:
+      - producer
+    - artistNames:
+      - John Kiffmeyer
+      dob:
+        y: 1972
+        m: 4
+        d: 11
+      artistRoles:
+      - drums

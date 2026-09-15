@@ -53,3 +53,9 @@ artistData:
         y: 1943
         m: 3
         d: 22
+    - artistNames:
+      - Don Wilson
+      dob:
+        y: 1941
+        m: 2
+        d: 10

@@ -37,3 +37,9 @@ artistData:
         y: 1964
         m: 11
         d: 19
+    - artistNames:
+      - Eric "Bola" de la Rosa
+      dob:
+        y: 1971
+        m: 4
+        d: 1

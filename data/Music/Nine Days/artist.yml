@@ -43,3 +43,9 @@ artistData:
         y: 1978
         m: 8
         d: 15
+    - artistNames:
+      - Michael "Mike" Desveaux
+      dob:
+        y: 1975
+        m: 12
+        d: 12

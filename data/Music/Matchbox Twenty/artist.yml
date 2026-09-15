@@ -37,3 +37,9 @@ artistData:
         y: 1969
         m: 5
         d: 10
+    - artistNames:
+      - Jessy Greene
+      dob:
+        y: 1975
+        m: 6
+        d: 12

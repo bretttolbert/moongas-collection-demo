@@ -19,3 +19,5 @@ artistData:
         y: 1968
         m: 1
         d: 28
+      artistRoles:
+      - vocals

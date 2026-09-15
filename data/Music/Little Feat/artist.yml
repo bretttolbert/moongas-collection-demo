@@ -79,3 +79,23 @@ artistData:
         y: 1947
         m: 4
         d: 17
+    - artistNames:
+      - Ritchie Hayward
+      dob:
+        y: 1946
+        m: 5
+        d: 6
+      dod:
+        y: 2010
+        m: 8
+        d: 12
+    - artistNames:
+      - Paul Cotton
+      dob:
+        y: 1943
+        m: 2
+        d: 21
+      dod:
+        y: 2021
+        m: 8
+        d: 29

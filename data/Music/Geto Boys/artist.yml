@@ -29,3 +29,15 @@ artistData:
         y: 1969
         m: 11
         d: 1
+    - artistNames:
+      - DJ Ready Red
+      dob:
+        y: 1970
+        m: 1
+        d: 1
+    - artistNames:
+      - Mike Dean
+      dob:
+        y: 1965
+        m: 11
+        d: 1

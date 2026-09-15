@@ -34,3 +34,21 @@ artistData:
       artistRoles:
       - piano
       - vocals
+    - artistNames:
+      - John "Speedy" Keen
+      dod:
+        y: 2018
+        m: 5
+        d: 15
+    - artistNames:
+      - Jimmy McCulloch
+      dod:
+        y: 1992
+        m: 9
+        d: 29
+    - artistNames:
+      - Andy "Thunderclap" Newman
+      dod:
+        y: 2022
+        m: 11
+        d: 30

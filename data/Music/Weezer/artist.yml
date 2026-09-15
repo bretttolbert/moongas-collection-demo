@@ -31,3 +31,47 @@ artistData:
         y: 1973
         m: 2
         d: 1
+    - artistNames:
+      - Mikey Welsh
+      dob:
+        y: 1971
+        m: 4
+        d: 20
+      dod:
+        y: 2011
+        m: 10
+        d: 8
+    - artistNames:
+      - Jason Cropper
+      dob:
+        y: 1970
+        m: 2
+        d: 22
+    - artistNames:
+      - Karl Koch
+      dob:
+        y: 1968
+        m: 6
+        d: 24
+      artistRoles:
+      - manager
+    - artistNames:
+      - Rivers Cuomo
+      artistRoles:
+      - lead vocals
+      - guitar
+    - artistNames:
+      - Brian Bell
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Scott Shriner
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Patrick Wilson
+      artistRoles:
+      - drums
+      - backing vocals

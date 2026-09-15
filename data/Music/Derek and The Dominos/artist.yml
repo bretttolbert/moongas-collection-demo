@@ -57,3 +57,15 @@ artistData:
         y: 1945
         m: 5
         d: 1
+    - artistNames:
+      - Leon Russell
+      dob:
+        y: 1942
+        m: 4
+        d: 2
+    - artistNames:
+      - Dave Mason
+      dob:
+        y: 1946
+        m: 5
+        d: 10

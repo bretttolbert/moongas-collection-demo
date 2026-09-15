@@ -37,15 +37,3 @@ artistData:
         y: 1978
         m: 2
         d: 5
-    - artistNames:
-      - John "J" Moyer
-      dob:
-        y: 1973
-        m: 6
-        d: 24
-    - artistNames:
-      - Mike "Mikey" O'Connor
-      dob:
-        y: 1978
-        m: 2
-        d: 5

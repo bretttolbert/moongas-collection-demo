@@ -37,3 +37,9 @@ artistData:
         y: 1955
         m: 9
         d: 14
+    - artistNames:
+      - Enrique "Bugs" Gonzalez
+      dob:
+        y: 1955
+        m: 2
+        d: 14

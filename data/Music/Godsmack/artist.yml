@@ -31,3 +31,15 @@ artistData:
         y: 1968
         m: 4
         d: 24
+    - artistNames:
+      - Adam Lazzara
+      dob:
+        y: 1981
+        m: 9
+        d: 22
+    - artistNames:
+      - Matt McDonough
+      dob:
+        y: 1975
+        m: 5
+        d: 10

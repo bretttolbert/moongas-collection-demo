@@ -47,3 +47,9 @@ artistData:
         y: 1964
         m: 11
         d: 4
+    - artistNames:
+      - Michael "Mikey" D. McCready
+      dob:
+        y: 1964
+        m: 8
+        d: 15

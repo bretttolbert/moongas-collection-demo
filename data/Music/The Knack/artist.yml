@@ -6,4 +6,35 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Doug Fieger
+      dob:
+        y: 1952
+        m: 10
+        d: 20
+      dod:
+        y: 2010
+        m: 2
+        d: 14
+    - artistNames:
+      - Berton Averre
+      dob:
+        y: 1952
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Prescott Niles
+      dob:
+        y: 1953
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Bruce Gary
+      dob:
+        y: 1951
+      artistRoles:
+      - drums
+      - backing vocals

@@ -25,3 +25,9 @@ artistData:
         y: 1996
         m: 3
         d: 10
+    - artistNames:
+      - Simone P. 
+      dob:
+        y: 1997
+        m: 7
+        d: 22

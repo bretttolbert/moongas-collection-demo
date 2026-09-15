@@ -32,3 +32,13 @@ artistData:
       artistRoles:
       - composer
       - conductor
+    - artistNames:
+      - John Adams
+      artistRoles:
+      - composer
+      - conductor
+    - artistNames:
+      - Laura Kaminsky
+      artistRoles:
+      - composer
+      - conductor

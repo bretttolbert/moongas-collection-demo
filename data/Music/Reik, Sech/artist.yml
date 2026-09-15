@@ -32,3 +32,9 @@ artistData:
         y: 1993
         m: 11
         d: 3
+      city: San Miguelito
+      countryCode: PA
+      languageCodes:
+      - es
+      regionCode: PA-8
+      members: []

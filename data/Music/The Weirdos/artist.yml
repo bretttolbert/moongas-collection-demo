@@ -43,3 +43,12 @@ artistData:
         y: 1955
         m: 6
         d: 12
+    - artistNames:
+      - David "Dave" D.
+      dob:
+        y: 1955
+        m: 6
+        d: 12
+      artistRoles:
+      - bass
+      - vocals

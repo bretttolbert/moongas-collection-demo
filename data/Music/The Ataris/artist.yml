@@ -37,3 +37,15 @@ artistData:
         y: 1981
         m: 6
         d: 15
+    - artistNames:
+      - Adam R. R. McKenzie
+      dob:
+        y: 1982
+        m: 4
+        d: 10
+    - artistNames:
+      - Chad O'Neal
+      dob:
+        y: 1980
+        m: 9
+        d: 25

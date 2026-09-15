@@ -41,3 +41,15 @@ artistData:
         d: 30
       artistRoles:
       - drums
+    - artistNames:
+      - Dave Buckner
+      dob:
+        y: 1976
+        m: 11
+        d: 15
+      artistRoles:
+      - drums
+      dod:
+        y: 2017
+        m: 10
+        d: 1

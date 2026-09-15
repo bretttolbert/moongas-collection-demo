@@ -55,3 +55,15 @@ artistData:
         y: 1946
         m: 5
         d: 1
+    - artistNames:
+      - George Suranof
+      dob:
+        y: 1945
+        m: 8
+        d: 1
+    - artistNames:
+      - David Angel
+      dob:
+        y: 1946
+        m: 10
+        d: 1

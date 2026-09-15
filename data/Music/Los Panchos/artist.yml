@@ -37,3 +37,21 @@ artistData:
         y: 1925
         m: 8
         d: 25
+    - artistNames:
+      - Chucho Avellanet
+      dob:
+        y: 1934
+        m: 2
+        d: 12
+    - artistNames:
+      - José "Pepe" Ledesma
+      dob:
+        y: 1930
+        m: 11
+        d: 5
+    - artistNames:
+      - Carlos "Charlie" González
+      dob:
+        y: 1932
+        m: 3
+        d: 18

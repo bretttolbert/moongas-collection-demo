@@ -31,3 +31,15 @@ artistData:
         y: 1970
         m: 11
         d: 1
+    - artistNames:
+      - Billy Duffy
+      dob:
+        y: 1961
+        m: 5
+        d: 12
+    - artistNames:
+      - Mark "Spike" Stent
+      dob:
+        y: 1965
+        m: 4
+        d: 12

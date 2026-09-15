@@ -43,3 +43,15 @@ artistData:
         y: 1953
         m: 9
         d: 10
+    - artistNames:
+      - David "Davy" O'List
+      dob:
+        y: 1947
+        m: 11
+        d: 19
+    - artistNames:
+      - Paul Robinson
+      dob:
+        y: 1952
+        m: 11
+        d: 15

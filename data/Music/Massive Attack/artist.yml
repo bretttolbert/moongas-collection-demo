@@ -49,3 +49,9 @@ artistData:
         y: 1971
         m: 1
         d: 1
+    - artistNames:
+      - Daddy G
+      dob:
+        y: 1968
+        m: 6
+        d: 1

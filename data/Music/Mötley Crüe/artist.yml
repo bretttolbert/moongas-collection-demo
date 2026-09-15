@@ -13,24 +13,32 @@ artistData:
         y: 1961
         m: 2
         d: 8
+      artistRoles:
+      - vocals
     - artistNames:
       - Mick Mars
       dob:
         y: 1951
         m: 5
         d: 4
+      artistRoles:
+      - guitar
     - artistNames:
       - Nikki Sixx
       dob:
         y: 1958
         m: 12
         d: 10
+      artistRoles:
+      - bass
     - artistNames:
       - Tommy Lee
       dob:
         y: 1962
         m: 10
         d: 3
+      artistRoles:
+      - drums
     - artistNames:
       - John Corabi
       dob:

@@ -11,6 +11,8 @@ artistData:
       - Gerald Donald
       dob:
         y: 1970
+        m: 11
+        d: 3
     - artistNames:
       - James Stinson
       dob:

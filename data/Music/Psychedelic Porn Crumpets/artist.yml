@@ -43,3 +43,15 @@ artistData:
         y: 1993
         m: 6
         d: 12
+    - artistNames:
+      - Luke McDonald
+      dob:
+        y: 1993
+        m: 3
+        d: 10
+    - artistNames:
+      - Ben D'Arcy
+      dob:
+        y: 1992
+        m: 8
+        d: 25

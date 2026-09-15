@@ -43,3 +43,9 @@ artistData:
         y: 1970
         m: 7
         d: 15
+    - artistNames:
+      - John "J.J." Johnson
+      dob:
+        y: 1971
+        m: 9
+        d: 22

@@ -43,3 +43,16 @@ artistData:
         y: 1984
         m: 3
         d: 7
+    - artistNames:
+      - Sam's Town
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - The Killers
+      artistRoles:
+      - lead vocals
+      - keyboards
+      - guitar
+      - bass
+      - drums

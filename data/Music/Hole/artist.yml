@@ -40,3 +40,11 @@ artistData:
         d: 26
       artistRoles:
       - drums
+    - artistNames:
+      - Jill Emery
+      dob:
+        y: 1966
+        m: 4
+        d: 24
+      artistRoles:
+      - bass

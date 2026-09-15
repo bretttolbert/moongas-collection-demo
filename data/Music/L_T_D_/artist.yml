@@ -37,3 +37,15 @@ artistData:
         y: 1945
         m: 2
         d: 16
+    - artistNames:
+      - David "Hawk" Wolinski
+      dob:
+        y: 1947
+        m: 11
+        d: 30
+    - artistNames:
+      - John "J. J." Johnson
+      dob:
+        y: 1948
+        m: 10
+        d: 21

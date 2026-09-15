@@ -37,3 +37,15 @@ artistData:
         y: 1946
         m: 9
         d: 24
+    - artistNames:
+      - William "Billy" Hart
+      dob:
+        y: 1945
+        m: 12
+        d: 15
+    - artistNames:
+      - Charles "Charlie" Smith
+      dob:
+        y: 1947
+        m: 8
+        d: 3

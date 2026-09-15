@@ -32,3 +32,12 @@ artistData:
         d: 15
       artistRoles:
       - drums
+    - artistNames:
+      - Matt D. Smith
+      dob:
+        y: 1975
+        m: 4
+        d: 20
+      artistRoles:
+      - guitar
+      - backing vocals

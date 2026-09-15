@@ -31,3 +31,9 @@ artistData:
         y: 1972
         m: 3
         d: 12
+    - artistNames:
+      - Sean Kelly
+      dob:
+        y: 1972
+        m: 11
+        d: 12

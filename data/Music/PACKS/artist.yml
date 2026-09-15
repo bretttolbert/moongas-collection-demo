@@ -27,3 +27,9 @@ artistData:
         y: 1994
         m: 8
         d: 22
+    - artistNames:
+      - Alex Oppenheim
+      dob:
+        y: 1992
+        m: 11
+        d: 30

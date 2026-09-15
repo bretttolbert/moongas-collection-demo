@@ -25,3 +25,13 @@ artistData:
         y: 1972
         m: 3
         d: 20
+    - artistNames:
+      - Rainer Nitschke
+      artistRoles:
+      - keyboards
+      - programming
+    - artistNames:
+      - Rudi B.
+      artistRoles:
+      - guitar
+      - programming

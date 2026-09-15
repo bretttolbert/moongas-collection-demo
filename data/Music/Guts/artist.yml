@@ -17,3 +17,9 @@ artistData:
       - producer
       - musician
       - DJ
+    - artistNames:
+      - Various Collaborators
+      artistRoles:
+      - vocals
+      - instruments
+      - songwriting

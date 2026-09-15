@@ -55,3 +55,9 @@ artistData:
         y: 1974
         m: 4
         d: 24
+    - artistNames:
+      - Per Eriksson
+      dob:
+        y: 1974
+        m: 1
+        d: 1

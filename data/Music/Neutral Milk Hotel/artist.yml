@@ -37,3 +37,9 @@ artistData:
         y: 1971
         m: 8
         d: 12
+    - artistNames:
+      - Robert Schneider
+      dob:
+        y: 1969
+        m: 5
+        d: 9

@@ -43,3 +43,31 @@ artistData:
         y: 1965
         m: 5
         d: 25
+    - artistNames:
+      - Graham Lewis
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Colin Newman
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Bruce Gilbert
+      artistRoles:
+      - guitar
+      - electronics
+    - artistNames:
+      - Robert Gotobed
+      artistRoles:
+      - drums
+    - artistNames:
+      - Matt Simms
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Tristram T. W. "Tris" McCall
+      artistRoles:
+      - keyboards
+      - guitar

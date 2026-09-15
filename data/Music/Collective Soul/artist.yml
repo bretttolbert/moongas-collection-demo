@@ -37,3 +37,19 @@ artistData:
         y: 1975
         m: 1
         d: 1
+    - artistNames:
+      - Ross Childress
+      dob:
+        y: 1970
+        m: 5
+        d: 1
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Shane Evans
+      dob:
+        y: 1972
+        m: 12
+        d: 1
+      artistRoles:
+      - drums

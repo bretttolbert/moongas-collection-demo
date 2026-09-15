@@ -51,3 +51,9 @@ artistData:
         y: 1950
         m: 2
         d: 3
+    - artistNames:
+      - John Seabury
+      dob:
+        y: 1948
+        m: 1
+        d: 1

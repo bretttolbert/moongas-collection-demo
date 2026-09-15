@@ -43,3 +43,21 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Bruce Watson
+      dob:
+        y: 1961
+        m: 9
+        d: 7
+    - artistNames:
+      - Steve Roberts
+      dob:
+        y: 1961
+        m: 12
+        d: 25
+    - artistNames:
+      - John "Segs" Jennings
+      dob:
+        y: 1958
+        m: 10
+        d: 12

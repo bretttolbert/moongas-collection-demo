@@ -47,3 +47,9 @@ artistData:
         y: 1961
         m: 6
         d: 4
+    - artistNames:
+      - Jim Duckworth
+      dob:
+        y: 1957
+        m: 8
+        d: 10

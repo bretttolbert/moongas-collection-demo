@@ -43,3 +43,9 @@ artistData:
         y: 1962
         m: 6
         d: 22
+    - artistNames:
+      - Paul McGowan
+      dob:
+        y: 1961
+        m: 8
+        d: 15

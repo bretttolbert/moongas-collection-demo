@@ -49,3 +49,15 @@ artistData:
         y: 1986
         m: 7
         d: 18
+    - artistNames:
+      - Amber Coffman
+      dod:
+        y: 2023
+        m: 5
+        d: 10
+    - artistNames:
+      - Nat Baldwin
+      dod:
+        y: 2023
+        m: 6
+        d: 15

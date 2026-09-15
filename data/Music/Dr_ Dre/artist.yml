@@ -46,3 +46,28 @@ artistData:
         y: 1969
         m: 6
         d: 15
+    - artistNames:
+      - Nate Dogg
+      - Nathaniel Dwayne Hale
+      dob:
+        y: 1969
+        m: 8
+        d: 19
+      dod:
+        y: 2011
+        m: 3
+        d: 15
+    - artistNames:
+      - Kurupt
+      - Ricardo Emmanuel Brown
+      dob:
+        y: 1972
+        m: 11
+        d: 23
+    - artistNames:
+      - Daz Dillinger
+      - Davon A. Cox
+      dob:
+        y: 1973
+        m: 5
+        d: 25

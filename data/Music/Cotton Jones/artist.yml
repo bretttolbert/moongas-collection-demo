@@ -19,3 +19,15 @@ artistData:
         y: 1980
         m: 9
         d: 22
+    - artistNames:
+      - Justin Kintzel
+      dob:
+        y: 1982
+        m: 4
+        d: 10
+    - artistNames:
+      - Eric McGrady
+      dob:
+        y: 1980
+        m: 11
+        d: 5

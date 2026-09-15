@@ -43,3 +43,15 @@ artistData:
         y: 1934
         m: 5
         d: 15
+    - artistNames:
+      - Bob "Bobby" Seals
+      dob:
+        y: 1934
+        m: 5
+        d: 15
+    - artistNames:
+      - Donnie Seals
+      dob:
+        y: 1934
+        m: 5
+        d: 15

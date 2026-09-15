@@ -43,3 +43,9 @@ artistData:
         y: 1970
         m: 4
         d: 1
+    - artistNames:
+      - Mike Leslie
+      dob:
+        y: 1970
+        m: 6
+        d: 12

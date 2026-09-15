@@ -43,3 +43,9 @@ artistData:
         y: 1971
         m: 11
         d: 11
+    - artistNames:
+      - John "J" D. 
+      dob:
+        y: 1970
+        m: 5
+        d: 15

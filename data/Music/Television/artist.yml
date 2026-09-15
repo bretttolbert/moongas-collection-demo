@@ -31,3 +31,21 @@ artistData:
         y: 1950
         m: 5
         d: 15
+    - artistNames:
+      - Verlaine's former bandmate
+      dob:
+        y: 1951
+        m: 6
+        d: 1
+      artistRoles:
+      - guitar
+      - backing vocals
+    - artistNames:
+      - Richard's former bandmate
+      dob:
+        y: 1947
+        m: 3
+        d: 22
+      artistRoles:
+      - guitar
+      - backing vocals

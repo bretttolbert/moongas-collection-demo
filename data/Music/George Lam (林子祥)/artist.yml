@@ -1,9 +1,13 @@
 artistData:
   artistNames:
-  - George Lam (林子祥)
+    - "George Lam (林子祥)"
+  dob:
+    y: 1947
+    m: 12
+    d: 12
   city: Hong Kong
-  countryCode: HK
+  countryCode: CN
   languageCodes:
-  - zh
-  regionCode: HK
+    - zh
+  regionCode: CN-HK
   members: []

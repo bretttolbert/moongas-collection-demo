@@ -37,3 +37,15 @@ artistData:
         y: 1983
         m: 9
         d: 30
+    - artistNames:
+      - Matt Borrero
+      dob:
+        y: 1980
+        m: 4
+        d: 20
+    - artistNames:
+      - Greg O'Brien
+      dob:
+        y: 1981
+        m: 6
+        d: 12

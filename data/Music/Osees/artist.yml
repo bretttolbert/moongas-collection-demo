@@ -37,3 +37,15 @@ artistData:
         y: 1985
         m: 6
         d: 15
+    - artistNames:
+      - Chris Vrenna
+      dob:
+        y: 1970
+        m: 4
+        d: 23
+    - artistNames:
+      - Matt Kallman
+      dob:
+        y: 1982
+        m: 9
+        d: 10

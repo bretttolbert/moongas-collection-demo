@@ -41,3 +41,9 @@ artistData:
         y: 1945
         m: 6
         d: 1
+    - artistNames:
+      - John McGinnis
+      dob:
+        y: 1947
+        m: 5
+        d: 10

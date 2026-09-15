@@ -55,3 +55,15 @@ artistData:
         y: 1979
         m: 11
         d: 20
+    - artistNames:
+      - Algy Ward
+      dob:
+        y: 1959
+        m: 7
+        d: 28
+    - artistNames:
+      - Patricia Morrison
+      dob:
+        y: 1962
+        m: 2
+        d: 14

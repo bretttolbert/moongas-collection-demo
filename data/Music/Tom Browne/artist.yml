@@ -19,6 +19,10 @@ artistData:
         y: 1949
         m: 3
         d: 29
+      dod:
+        y: 2017
+        m: 1
+        d: 13
     - artistNames:
       - Dave Grusin
       dob:

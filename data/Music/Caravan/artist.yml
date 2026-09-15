@@ -61,3 +61,7 @@ artistData:
         d: 24
     - artistNames:
       - C. A. M. (Caravan)
+      dob:
+        y: 1949
+        m: 5
+        d: 1

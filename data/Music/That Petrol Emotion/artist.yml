@@ -37,3 +37,9 @@ artistData:
         y: 1965
         m: 7
         d: 20
+    - artistNames:
+      - Paul McLoone
+      dob:
+        y: 1970
+        m: 1
+        d: 1

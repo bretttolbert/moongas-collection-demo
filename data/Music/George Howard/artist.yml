@@ -17,3 +17,9 @@ artistData:
         y: 1998
         m: 4
         d: 20
+    - artistNames:
+      - George Howard (musician)
+      artistRoles:
+      - saxophone
+      - composer
+      - producer

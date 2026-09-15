@@ -73,3 +73,23 @@ artistData:
         d: 17
       artistRoles:
       - vocals
+    - artistNames:
+      - Dennis Stratton
+      dob:
+        y: 1952
+        m: 10
+        d: 9
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Clive Burr
+      dob:
+        y: 1957
+        m: 3
+        d: 8
+      dod:
+        y: 2013
+        m: 3
+        d: 12
+      artistRoles:
+      - drums

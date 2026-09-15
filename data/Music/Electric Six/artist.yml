@@ -61,3 +61,9 @@ artistData:
         y: 1980
         m: 11
         d: 5
+    - artistNames:
+      - The Kid
+      dob:
+        y: 1982
+        m: 2
+        d: 14

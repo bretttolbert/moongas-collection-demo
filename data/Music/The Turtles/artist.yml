@@ -37,3 +37,16 @@ artistData:
         y: 1945
         m: 4
         d: 1
+    - artistNames:
+      - Flo & Eddie
+      dob:
+        y: 1947
+        m: 3
+        d: 22
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - The Turtles
+      artistRoles:
+      - band

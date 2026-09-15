@@ -13,12 +13,18 @@ artistData:
         y: 1970
         m: 1
         d: 15
+      artistRoles:
+      - vocals
+      - bass
     - artistNames:
       - Jez Williams
       dob:
         y: 1974
         m: 9
         d: 21
+      artistRoles:
+      - guitar
+      - backing vocals
     - artistNames:
       - Andy Williams
       dob:

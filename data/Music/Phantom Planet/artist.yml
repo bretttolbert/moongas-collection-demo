@@ -43,3 +43,6 @@ artistData:
         y: 1980
         m: 6
         d: 26
+      artistRoles:
+      - drums
+      - vocals

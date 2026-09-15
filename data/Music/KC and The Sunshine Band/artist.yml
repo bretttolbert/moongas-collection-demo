@@ -48,12 +48,6 @@ artistData:
         m: 11
         d: 22
     - artistNames:
-      - C. David
-      dob:
-        y: 1951
-        m: 11
-        d: 22
-    - artistNames:
       - J. M. "Jellybean" Benitez
       dob:
         y: 1955

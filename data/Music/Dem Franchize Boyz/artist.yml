@@ -31,3 +31,9 @@ artistData:
         y: 1981
         m: 4
         d: 1
+    - artistNames:
+      - D. D. D.
+      dob:
+        y: 1983
+        m: 6
+        d: 15

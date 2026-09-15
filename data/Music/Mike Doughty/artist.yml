@@ -37,3 +37,15 @@ artistData:
         y: 1972
         m: 4
         d: 30
+    - artistNames:
+      - Mary "M" McCarthy
+      dob:
+        y: 1973
+        m: 8
+        d: 15
+    - artistNames:
+      - Sarah "S" Smith
+      dob:
+        y: 1974
+        m: 11
+        d: 5

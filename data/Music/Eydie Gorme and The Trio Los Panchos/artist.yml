@@ -22,7 +22,27 @@ artistData:
       members:
         - artistNames:
           - Chucho Navarro
+          dob:
+            y: 1918
+            m: 1
+            d: 1
+          dod:
+            y: 1990
+            m: 1
+            d: 1
         - artistNames:
           - Alfredo Gil
+          dob:
+            y: 1925
+            m: 5
+            d: 5
         - artistNames:
           - José Luis Arcaraz
+          dob:
+            y: 1924
+            m: 3
+            d: 3
+          dod:
+            y: 2018
+            m: 7
+            d: 15

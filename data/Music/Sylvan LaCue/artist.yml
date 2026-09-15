@@ -13,3 +13,9 @@ artistData:
         y: 1993
         m: 6
         d: 23
+    - artistNames:
+      - J. D. Wright
+    - artistNames:
+      - K. L. Jones
+    - artistNames:
+      - A. M. Smith

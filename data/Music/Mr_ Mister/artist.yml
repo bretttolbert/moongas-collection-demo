@@ -37,3 +37,9 @@ artistData:
         y: 1954
         m: 8
         d: 21
+    - artistNames:
+      - John "J.D." Lang
+      dob:
+        y: 1958
+        m: 11
+        d: 12

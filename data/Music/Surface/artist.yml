@@ -31,3 +31,9 @@ artistData:
         y: 1972
         m: 1
         d: 1
+    - artistNames:
+      - Eric "E" Williams
+      dob:
+        y: 1973
+        m: 1
+        d: 1

@@ -48,3 +48,16 @@ artistData:
       artistRoles:
       - keyboards
       - programming
+    - artistNames:
+      - Gary Barnacle
+      dob:
+        y: 1961
+      artistRoles:
+      - saxophone
+    - artistNames:
+      - J. J. Jeczalik
+      dob:
+        y: 1960
+      artistRoles:
+      - programming
+      - keyboards

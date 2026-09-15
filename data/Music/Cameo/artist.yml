@@ -67,3 +67,15 @@ artistData:
         y: 1960
         m: 6
         d: 15
+    - artistNames:
+      - Donald "D.C." Lockett
+      dob:
+        y: 1960
+        m: 8
+        d: 12
+    - artistNames:
+      - Michael "Mike" McGloiry
+      dob:
+        y: 1961
+        m: 8
+        d: 12

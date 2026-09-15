@@ -48,3 +48,15 @@ artistData:
         y: 1965
         m: 1
         d: 1
+    - artistNames:
+      - Lu Edmonds
+      dob:
+        y: 1955
+        m: 5
+        d: 1
+    - artistNames:
+      - Richard Dudanski
+      dob:
+        y: 1951
+        m: 4
+        d: 1

@@ -31,3 +31,9 @@ artistData:
         y: 1995
         m: 7
         d: 20
+    - artistNames:
+      - Sam D. 
+      dob:
+        y: 1995
+        m: 8
+        d: 25

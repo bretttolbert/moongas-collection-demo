@@ -49,3 +49,21 @@ artistData:
         y: 1966
         m: 4
         d: 30
+    - artistNames:
+      - Brian Doerner
+      dob:
+        y: 1964
+        m: 5
+        d: 12
+    - artistNames:
+      - Rick "The Bass Player" McCarty
+      dob:
+        y: 1965
+        m: 3
+        d: 15
+    - artistNames:
+      - Dave "The Drummer" McCoy
+      dob:
+        y: 1964
+        m: 6
+        d: 18

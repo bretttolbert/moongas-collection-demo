@@ -41,3 +41,15 @@ artistData:
         y: 1939
         m: 5
         d: 9
+    - artistNames:
+      - Bob Montgomery
+      dob:
+        y: 1937
+        m: 7
+        d: 12
+    - artistNames:
+      - J.I. Allison
+      dob:
+        y: 1939
+        m: 8
+        d: 31

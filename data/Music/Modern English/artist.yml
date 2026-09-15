@@ -37,3 +37,33 @@ artistData:
         y: 1961
         m: 7
         d: 20
+    - artistNames:
+      - Duran Duran
+      dob:
+        y: 1961
+        m: 2
+        d: 18
+    - artistNames:
+      - Simon Le Bon
+      dob:
+        y: 1958
+        m: 10
+        d: 27
+    - artistNames:
+      - John Taylor
+      dob:
+        y: 1960
+        m: 6
+        d: 20
+    - artistNames:
+      - Roger Taylor
+      dob:
+        y: 1960
+        m: 4
+        d: 26
+    - artistNames:
+      - Nick Rhodes
+      dob:
+        y: 1962
+        m: 6
+        d: 8

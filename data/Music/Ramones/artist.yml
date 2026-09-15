@@ -65,3 +65,6 @@ artistData:
         y: 1965
         m: 10
         d: 8
+      artistRoles:
+      - bass
+      - vocals

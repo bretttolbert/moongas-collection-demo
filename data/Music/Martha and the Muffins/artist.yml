@@ -43,3 +43,15 @@ artistData:
         y: 1960
         m: 1
         d: 1
+    - artistNames:
+      - David B. 
+      dob:
+        y: 1958
+        m: 8
+        d: 10
+    - artistNames:
+      - John M. 
+      dob:
+        y: 1959
+        m: 2
+        d: 14

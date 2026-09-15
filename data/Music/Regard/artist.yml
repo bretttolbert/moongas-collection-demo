@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - en
   regionCode: XK-FE
-  members: []
+  members:
+    - artistNames:
+      - Dardan Aliu
+      dob:
+        y: 1999
+        m: 1
+        d: 1

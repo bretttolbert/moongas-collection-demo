@@ -31,3 +31,15 @@ artistData:
         y: 1992
         m: 7
         d: 20
+    - artistNames:
+      - Emily Davis
+      dob:
+        y: 1988
+        m: 11
+        d: 30
+    - artistNames:
+      - Chris Wilson
+      dob:
+        y: 1995
+        m: 4
+        d: 25

@@ -20,3 +20,6 @@ artistData:
         y: 1971
         m: 1
         d: 27
+      artistRoles:
+      - vocals
+      - producer

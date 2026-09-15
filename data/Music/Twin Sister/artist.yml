@@ -37,3 +37,9 @@ artistData:
         y: 1988
         m: 4
         d: 10
+    - artistNames:
+      - Michael B. Smith
+      dob:
+        y: 1988
+        m: 6
+        d: 25

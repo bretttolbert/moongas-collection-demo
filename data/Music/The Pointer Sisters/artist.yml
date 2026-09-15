@@ -39,3 +39,15 @@ artistData:
         y: 2020
         m: 6
         d: 8
+    - artistNames:
+      - Issa Pointer
+      dob:
+        y: 1973
+        m: 1
+        d: 1
+    - artistNames:
+      - Sadako Pointer
+      dob:
+        y: 1971
+        m: 5
+        d: 15

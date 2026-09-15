@@ -57,3 +57,13 @@ artistData:
         y: 2015
         m: 4
         d: 27
+    - artistNames:
+      - Dave Madden
+      dob:
+        y: 1931
+        m: 12
+        d: 17
+      dod:
+        y: 2014
+        m: 1
+        d: 16

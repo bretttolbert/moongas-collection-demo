@@ -49,3 +49,12 @@ artistData:
       artistRoles:
       - guitar
       - vocals
+    - artistNames:
+      - Timothy B. Schmit
+      dob:
+        y: 1947
+        m: 10
+        d: 30
+      artistRoles:
+      - bass
+      - vocals

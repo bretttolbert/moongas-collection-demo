@@ -29,3 +29,7 @@ artistData:
       - Roland
       artistRoles:
       - drums
+      dob:
+        y: 1961
+        m: 1
+        d: 1

@@ -37,3 +37,27 @@ artistData:
         y: 1959
         m: 12
         d: 7
+    - artistNames:
+      - Mike "The Man" Skill
+      dob:
+        y: 1960
+        m: 9
+        d: 9
+    - artistNames:
+      - Brad Elvis
+      dob:
+        y: 1961
+        m: 6
+        d: 14
+    - artistNames:
+      - Rich Cole
+      dob:
+        y: 1960
+        m: 1
+        d: 1
+    - artistNames:
+      - Jimmy Marinos
+      dob:
+        y: 1959
+        m: 12
+        d: 7

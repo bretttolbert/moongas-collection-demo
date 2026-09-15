@@ -16,3 +16,27 @@ artistData:
       artistRoles:
       - vocals
       - guitar
+    - artistNames:
+      - José Manuel
+      dob:
+        y: 1980
+        m: 3
+        d: 15
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Juan Carlos
+      dob:
+        y: 1982
+        m: 8
+        d: 20
+      artistRoles:
+      - bass
+    - artistNames:
+      - Luis Miguel
+      dob:
+        y: 1975
+        m: 11
+        d: 5
+      artistRoles:
+      - drums

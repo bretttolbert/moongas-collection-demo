@@ -35,3 +35,7 @@ artistData:
       - Eric B. H. H.
     - artistNames:
       - Chris D. H.
+      dob:
+        y: 1987
+        m: 4
+        d: 20

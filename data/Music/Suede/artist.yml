@@ -43,3 +43,12 @@ artistData:
         y: 1971
         m: 7
         d: 18
+    - artistNames:
+      - Suede
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+      - bass
+      - drums
+      - backing vocals

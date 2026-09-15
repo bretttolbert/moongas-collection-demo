@@ -53,3 +53,15 @@ artistData:
         y: 1938
         m: 6
         d: 15
+    - artistNames:
+      - Gary Marker
+      dob:
+        y: 1945
+        m: 4
+        d: 15
+    - artistNames:
+      - Bruce Fowler
+      dob:
+        y: 1940
+        m: 3
+        d: 15

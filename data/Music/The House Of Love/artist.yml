@@ -37,3 +37,9 @@ artistData:
         y: 1969
         m: 3
         d: 10
+    - artistNames:
+      - Chris Gentry
+      dob:
+        y: 1966
+        m: 4
+        d: 12

@@ -49,3 +49,15 @@ artistData:
         y: 1978
         m: 5
         d: 24
+    - artistNames:
+      - Mike Kennedy
+      dob:
+        y: 1978
+        m: 6
+        d: 18
+    - artistNames:
+      - Jason Tate
+      dob:
+        y: 1976
+        m: 11
+        d: 12

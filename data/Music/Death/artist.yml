@@ -65,3 +65,9 @@ artistData:
         y: 1967
         m: 11
         d: 7
+    - artistNames:
+      - Max Phelps
+      dob:
+        y: 1983
+        m: 8
+        d: 24

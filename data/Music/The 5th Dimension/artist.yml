@@ -59,3 +59,9 @@ artistData:
         y: 1944
         m: 2
         d: 4
+    - artistNames:
+      - Lamonte McLemore
+      dob:
+        y: 1939
+        m: 9
+        d: 17

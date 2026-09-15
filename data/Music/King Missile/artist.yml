@@ -37,3 +37,15 @@ artistData:
         y: 1962
         m: 11
         d: 30
+    - artistNames:
+      - Davey von Bohlen
+      dob:
+        y: 1972
+        m: 4
+        d: 17
+    - artistNames:
+      - John McCrea
+      dob:
+        y: 1965
+        m: 8
+        d: 25

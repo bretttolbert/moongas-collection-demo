@@ -45,3 +45,9 @@ artistData:
         y: 2020
         m: 10
         d: 31
+    - artistNames:
+      - Madlib
+      dob:
+        y: 1973
+        m: 2
+        d: 24

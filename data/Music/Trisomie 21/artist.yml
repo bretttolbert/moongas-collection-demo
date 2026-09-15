@@ -13,30 +13,24 @@ artistData:
         y: 1963
         m: 1
         d: 1
+      artistRoles:
+      - vocals
+      - guitar
     - artistNames:
       - Laurent Prot
       dob:
         y: 1964
         m: 2
         d: 2
+      artistRoles:
+      - keyboards
+      - backing vocals
     - artistNames:
       - Eric Dufour
       dob:
         y: 1965
         m: 3
         d: 3
-    - artistNames:
-      - Philippe Nore
-      artistRoles:
-      - vocals
-      - guitar
-    - artistNames:
-      - Laurent Prot
-      artistRoles:
-      - keyboards
-      - backing vocals
-    - artistNames:
-      - Eric Dufour
       artistRoles:
       - bass
       - backing vocals

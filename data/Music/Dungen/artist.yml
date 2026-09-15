@@ -50,3 +50,12 @@ artistData:
       artistRoles:
       - vocals
       - keyboards
+    - artistNames:
+      - Mattias "Matti" Håkansson
+      dob:
+        y: 1982
+        m: 7
+        d: 30
+      artistRoles:
+      - percussion
+      - backing vocals

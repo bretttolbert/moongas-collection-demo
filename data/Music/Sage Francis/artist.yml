@@ -37,3 +37,14 @@ artistData:
         y: 1976
         m: 6
         d: 5
+    - artistNames:
+      - Scroobius Pip
+      dob:
+        y: 1981
+        m: 6
+        d: 3
+    - artistNames:
+      - Sage Francis
+      artistRoles:
+      - vocals
+      - production

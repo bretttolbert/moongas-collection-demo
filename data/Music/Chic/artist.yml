@@ -51,3 +51,15 @@ artistData:
         y: 1955
         m: 11
         d: 15
+    - artistNames:
+      - Robert "Smitty" Smith
+      dob:
+        y: 1952
+        m: 4
+        d: 23
+    - artistNames:
+      - Fonzi Thornton
+      dob:
+        y: 1954
+        m: 7
+        d: 15

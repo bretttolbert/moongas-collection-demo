@@ -37,3 +37,15 @@ artistData:
         y: 1960
         m: 6
         d: 22
+    - artistNames:
+      - Scott Ian
+      dob:
+        y: 1963
+        m: 12
+        d: 31
+    - artistNames:
+      - Dave Lombardo
+      dob:
+        y: 1965
+        m: 6
+        d: 16

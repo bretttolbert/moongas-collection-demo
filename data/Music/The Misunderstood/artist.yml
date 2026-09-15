@@ -37,3 +37,21 @@ artistData:
         y: 1947
         m: 1
         d: 20
+    - artistNames:
+      - Michael "Mike" O'Neill
+      dob:
+        y: 1946
+        m: 3
+        d: 15
+    - artistNames:
+      - John "Johnny" O'Neill
+      dob:
+        y: 1947
+        m: 1
+        d: 20
+    - artistNames:
+      - Rick Brown
+      dob:
+        y: 1946
+        m: 7
+        d: 1

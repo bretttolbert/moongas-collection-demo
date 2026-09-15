@@ -37,3 +37,15 @@ artistData:
         y: 1987
         m: 11
         d: 20
+    - artistNames:
+      - John Lathrop
+      dob:
+        y: 1985
+        m: 9
+        d: 25
+    - artistNames:
+      - Matt McCauley
+      dob:
+        y: 1986
+        m: 4
+        d: 18

@@ -45,3 +45,15 @@ artistData:
         y: 1970
         m: 7
         d: 1
+    - artistNames:
+      - Andru Donalds
+      dob:
+        y: 1974
+        m: 5
+        d: 16
+    - artistNames:
+      - Patricia Sosa
+      dob:
+        y: 1956
+        m: 1
+        d: 17

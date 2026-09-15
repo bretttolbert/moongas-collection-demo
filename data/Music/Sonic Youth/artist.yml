@@ -37,3 +37,15 @@ artistData:
         y: 1969
         m: 1
         d: 18
+    - artistNames:
+      - Bob Bert
+      dob:
+        y: 1962
+        m: 12
+        d: 24
+    - artistNames:
+      - Mark Ibold
+      dob:
+        y: 1966
+        m: 4
+        d: 17

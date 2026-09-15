@@ -37,3 +37,9 @@ artistData:
         y: 1988
         m: 11
         d: 1
+    - artistNames:
+      - Chris Pappas
+      dob:
+        y: 1988
+        m: 3
+        d: 10

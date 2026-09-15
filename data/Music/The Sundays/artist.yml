@@ -37,3 +37,9 @@ artistData:
         y: 1967
         m: 3
         d: 24
+    - artistNames:
+      - John McCormack
+      dob:
+        y: 1967
+        m: 3
+        d: 24

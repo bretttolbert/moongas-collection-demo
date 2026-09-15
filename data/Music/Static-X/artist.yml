@@ -47,3 +47,15 @@ artistData:
         y: 1980
         m: 5
         d: 1
+    - artistNames:
+      - Ash Costello
+      dob:
+        y: 1989
+        m: 6
+        d: 21
+    - artistNames:
+      - Josh Silver
+      dob:
+        y: 1970
+        m: 10
+        d: 31

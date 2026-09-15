@@ -55,3 +55,15 @@ artistData:
         y: 1958
         m: 12
         d: 8
+    - artistNames:
+      - David Gilmour
+      dob:
+        y: 1946
+        m: 3
+        d: 6
+    - artistNames:
+      - Phil Selway
+      dob:
+        y: 1967
+        m: 5
+        d: 23

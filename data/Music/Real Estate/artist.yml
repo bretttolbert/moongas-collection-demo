@@ -43,3 +43,21 @@ artistData:
         y: 1987
         m: 11
         d: 22
+    - artistNames:
+      - Danielle Haim
+      dob:
+        y: 1989
+        m: 2
+        d: 16
+    - artistNames:
+      - Alana Haim
+      dob:
+        y: 1991
+        m: 12
+        d: 15
+    - artistNames:
+      - Este Haim
+      dob:
+        y: 1986
+        m: 3
+        d: 14

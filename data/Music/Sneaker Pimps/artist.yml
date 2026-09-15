@@ -37,3 +37,9 @@ artistData:
         y: 1971
         m: 1
         d: 1
+    - artistNames:
+      - Joe Wilson
+      dob:
+        y: 1970
+        m: 10
+        d: 10

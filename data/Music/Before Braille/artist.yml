@@ -37,3 +37,15 @@ artistData:
         y: 1984
         m: 11
         d: 30
+    - artistNames:
+      - David Kearney
+      dob:
+        y: 1986
+        m: 2
+        d: 14
+    - artistNames:
+      - Tyler Kearney
+      dob:
+        y: 1988
+        m: 9
+        d: 22

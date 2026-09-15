@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Chad Kirkwood
+      dob:
+        y: 1973
+        m: 6
+        d: 15

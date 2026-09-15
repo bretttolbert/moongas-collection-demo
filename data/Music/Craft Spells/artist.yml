@@ -19,3 +19,7 @@ artistData:
       - Alisa Xayalith
     - artistNames:
       - Matthew L. Hesterman
+      dob:
+        y: 1991
+        m: 3
+        d: 22

@@ -49,3 +49,12 @@ artistData:
         d: 12
       artistRoles:
       - bass
+    - artistNames:
+      - David "Dave" McGloiry
+      dob:
+        y: 1964
+        m: 2
+        d: 14
+      artistRoles:
+      - percussion
+      - backing vocals

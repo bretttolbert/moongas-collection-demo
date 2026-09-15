@@ -54,3 +54,20 @@ artistData:
         d: 20
       artistRoles:
       - vocals
+    - artistNames:
+      - Daz Dillinger
+      dob:
+        y: 1973
+        m: 5
+        d: 14
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Warren G
+      dob:
+        y: 1970
+        m: 11
+        d: 10
+      artistRoles:
+      - vocals
+      - producer

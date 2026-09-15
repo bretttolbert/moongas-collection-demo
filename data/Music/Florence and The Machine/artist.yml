@@ -45,3 +45,15 @@ artistData:
         y: 1980
         m: 3
         d: 15
+    - artistNames:
+      - Rob Ackroyd
+      dob:
+        y: 1985
+        m: 5
+        d: 1
+    - artistNames:
+      - Lungs
+      dob:
+        y: 2009
+        m: 7
+        d: 6

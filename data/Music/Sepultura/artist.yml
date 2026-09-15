@@ -49,3 +49,11 @@ artistData:
         d: 20
       artistRoles:
       - vocals
+    - artistNames:
+      - Eloy Casagrande
+      dob:
+        y: 1991
+        m: 9
+        d: 18
+      artistRoles:
+      - drums

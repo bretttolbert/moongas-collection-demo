@@ -37,3 +37,15 @@ artistData:
         y: 1975
         m: 4
         d: 20
+    - artistNames:
+      - J. M. Silk
+      dob:
+        y: 1968
+        m: 9
+        d: 1
+    - artistNames:
+      - The Beatnuts
+      dob:
+        y: 1990
+        m: 1
+        d: 1

@@ -13,12 +13,18 @@ artistData:
         y: 1961
         m: 6
         d: 21
+      artistRoles:
+      - guitar
+      - vocals
     - artistNames:
       - Nacho Cano
       dob:
         y: 1961
         m: 2
         d: 24
+      artistRoles:
+      - keyboards
+      - guitar
     - artistNames:
       - Ana Torroja
       dob:

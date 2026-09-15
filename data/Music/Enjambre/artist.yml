@@ -43,3 +43,9 @@ artistData:
         y: 1989
         m: 6
         d: 10
+    - artistNames:
+      - Enrique "Kike" Arriaga
+      dob:
+        y: 1991
+        m: 2
+        d: 18

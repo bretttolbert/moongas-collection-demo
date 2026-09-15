@@ -25,3 +25,7 @@ artistData:
       - Joe "The Beast"
     - artistNames:
       - Johnny "The Kid"
+      dob:
+        y: 1965
+        m: 5
+        d: 12

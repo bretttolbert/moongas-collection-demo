@@ -77,3 +77,15 @@ artistData:
         y: 1960
         m: 1
         d: 1
+    - artistNames:
+      - Terence "Astro" Wilson
+      dob:
+        y: 1957
+        m: 1
+        d: 1
+    - artistNames:
+      - D. Wayne Wainwright
+      dob:
+        y: 1960
+        m: 1
+        d: 1

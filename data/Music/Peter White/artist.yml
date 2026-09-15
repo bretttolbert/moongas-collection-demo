@@ -45,3 +45,27 @@ artistData:
         d: 30
       artistRoles:
       - keyboards
+    - artistNames:
+      - Mike Lindup
+      dob:
+        y: 1960
+        m: 12
+        d: 14
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Simon Phillips
+      dob:
+        y: 1957
+        m: 2
+        d: 6
+      artistRoles:
+      - drums
+    - artistNames:
+      - Tony Remy
+      dob:
+        y: 1966
+        m: 3
+        d: 12
+      artistRoles:
+      - guitar

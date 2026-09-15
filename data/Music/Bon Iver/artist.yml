@@ -43,3 +43,7 @@ artistData:
       - Aaron Dessner
     - artistNames:
       - Brad Cook
+      dob:
+        y: 1982
+        m: 12
+        d: 3

@@ -43,3 +43,9 @@ artistData:
         y: 1978
         m: 4
         d: 3
+    - artistNames:
+      - Justin J. Hines
+      dob:
+        y: 1978
+        m: 4
+        d: 3

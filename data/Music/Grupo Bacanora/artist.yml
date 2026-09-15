@@ -37,3 +37,15 @@ artistData:
         y: 1983
         m: 4
         d: 12
+    - artistNames:
+      - Javier
+      dob:
+        y: 1982
+        m: 1
+        d: 18
+    - artistNames:
+      - Fernando
+      dob:
+        y: 1980
+        m: 9
+        d: 25

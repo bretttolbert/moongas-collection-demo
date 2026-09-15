@@ -43,3 +43,15 @@ artistData:
         y: 1970
         m: 2
         d: 28
+    - artistNames:
+      - Susan Anway
+      dob:
+        y: 1961
+        m: 3
+        d: 15
+    - artistNames:
+      - Chris Ewen
+      dob:
+        y: 1965
+        m: 4
+        d: 21

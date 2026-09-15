@@ -25,3 +25,9 @@ artistData:
         y: 1980
         m: 5
         d: 15
+    - artistNames:
+      - Anders S. K. Kjaer
+      dob:
+        y: 1981
+        m: 3
+        d: 12

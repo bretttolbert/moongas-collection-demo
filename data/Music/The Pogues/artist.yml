@@ -63,3 +63,13 @@ artistData:
         y: 1947
         m: 12
         d: 25
+    - artistNames:
+      - Philip Chevron
+      dob:
+        y: 1960
+        m: 10
+        d: 17
+      dod:
+        y: 2018
+        m: 10
+        d: 8

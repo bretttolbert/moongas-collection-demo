@@ -44,3 +44,35 @@ artistData:
         y: 1976
         m: 6
         d: 21
+    - artistNames:
+      - Josh Freese
+      dob:
+        y: 1972
+        m: 6
+        d: 25
+      artistRoles:
+      - drums
+    - artistNames:
+      - Mike Muir
+      dob:
+        y: 1963
+        m: 3
+        d: 20
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Brian "Head" Welch
+      dob:
+        y: 1970
+        m: 6
+        d: 19
+      artistRoles:
+      - guitar
+    - artistNames:
+      - David "Dave" Silveria
+      dob:
+        y: 1972
+        m: 5
+        d: 21
+      artistRoles:
+      - drums

@@ -49,3 +49,9 @@ artistData:
         y: 1982
         m: 11
         d: 30
+    - artistNames:
+      - Dave "D" McCoy
+      dob:
+        y: 1981
+        m: 5
+        d: 10

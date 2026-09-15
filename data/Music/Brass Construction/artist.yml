@@ -20,12 +20,6 @@ artistData:
         m: 7
         d: 10
     - artistNames:
-      - John McCurry
-      dob:
-        y: 1954
-        m: 7
-        d: 10
-    - artistNames:
       - John "J.R." Robinson
       dob:
         y: 1954

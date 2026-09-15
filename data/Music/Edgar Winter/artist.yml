@@ -49,3 +49,15 @@ artistData:
         y: 2011
         m: 7
         d: 16
+    - artistNames:
+      - Scott McCarl
+      dob:
+        y: 1950
+        m: 4
+        d: 30
+    - artistNames:
+      - Jerry LaCroix
+      dob:
+        y: 1946
+        m: 5
+        d: 21

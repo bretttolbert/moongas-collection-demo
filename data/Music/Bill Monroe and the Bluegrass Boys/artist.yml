@@ -97,3 +97,23 @@ artistData:
         y: 2008
         m: 4
         d: 13
+    - artistNames:
+      - Paul Warren
+      dob:
+        y: 1922
+        m: 6
+        d: 12
+      dod:
+        y: 2008
+        m: 10
+        d: 28
+    - artistNames:
+      - Don Stover
+      dob:
+        y: 1928
+        m: 5
+        d: 22
+      dod:
+        y: 2014
+        m: 6
+        d: 20

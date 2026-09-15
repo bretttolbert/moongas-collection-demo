@@ -37,3 +37,9 @@ artistData:
         y: 1991
         m: 4
         d: 18
+    - artistNames:
+      - Niall O'Neill
+      dob:
+        y: 1990
+        m: 7
+        d: 30

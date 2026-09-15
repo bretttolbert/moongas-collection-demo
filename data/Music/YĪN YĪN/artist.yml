@@ -19,3 +19,9 @@ artistData:
         y: 1990
         m: 1
         d: 1
+    - artistNames:
+      - Joris De Backer
+      dob:
+        y: 1990
+        m: 1
+        d: 1

@@ -13,3 +13,21 @@ artistData:
         y: 1957
         m: 12
         d: 20
+    - artistNames:
+      - Joe Henry
+      dob:
+        y: 1967
+        m: 12
+        d: 2
+    - artistNames:
+      - Wilco
+      dob:
+        y: 1994
+        m: 4
+        d: 1
+    - artistNames:
+      - Johnny Marr
+      dob:
+        y: 1963
+        m: 10
+        d: 31

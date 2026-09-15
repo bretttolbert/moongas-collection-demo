@@ -57,3 +57,9 @@ artistData:
         y: 1948
         m: 6
         d: 24
+    - artistNames:
+      - John McFerrin
+      dob:
+        y: 1950
+        m: 4
+        d: 1

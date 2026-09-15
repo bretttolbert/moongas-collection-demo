@@ -31,3 +31,9 @@ artistData:
         y: 1994
         m: 1
         d: 1
+    - artistNames:
+      - Jake Housman
+      dob:
+        y: 1994
+        m: 1
+        d: 1

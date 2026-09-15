@@ -47,3 +47,9 @@ artistData:
         y: 1970
         m: 7
         d: 26
+    - artistNames:
+      - Wolfgang Van Halen
+      dob:
+        y: 1991
+        m: 3
+        d: 16

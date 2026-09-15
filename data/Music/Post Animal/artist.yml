@@ -37,3 +37,9 @@ artistData:
         y: 1995
         m: 5
         d: 20
+    - artistNames:
+      - Josh Kauffman
+      dob:
+        y: 1994
+        m: 4
+        d: 12

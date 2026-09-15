@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 4
         d: 10
+    - artistNames:
+      - John Askew
+      dob:
+        y: 1983
+        m: 11
+        d: 12

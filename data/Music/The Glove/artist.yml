@@ -50,3 +50,11 @@ artistData:
       artistRoles:
       - guitar
       - keyboards
+    - artistNames:
+      - Budgie
+      dob:
+        y: 1957
+        m: 11
+        d: 21
+      artistRoles:
+      - drums

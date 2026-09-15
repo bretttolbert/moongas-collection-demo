@@ -47,3 +47,9 @@ artistData:
         y: 1961
         m: 4
         d: 1
+    - artistNames:
+      - Peter "Paddy" O'Connor
+      dob:
+        y: 1961
+        m: 5
+        d: 12

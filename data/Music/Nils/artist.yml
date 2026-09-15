@@ -34,3 +34,9 @@ artistData:
       artistRoles:
       - vocals
       - guitar
+    - artistNames:
+      - Nils Frahm
+      artistRoles:
+      - piano
+      - synthesizer
+      - producer

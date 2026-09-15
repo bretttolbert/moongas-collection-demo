@@ -31,3 +31,12 @@ artistData:
         y: 1975
         m: 12
         d: 29
+    - artistNames:
+      - J. R. Rotem
+      dob:
+        y: 1975
+        m: 12
+        d: 29
+      artistRoles:
+      - producer
+      - songwriter

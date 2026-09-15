@@ -43,3 +43,15 @@ artistData:
         y: 1985
         m: 4
         d: 30
+    - artistNames:
+      - Peter Rees
+      dob:
+        y: 1963
+        m: 8
+        d: 15
+    - artistNames:
+      - Paul McKessar
+      dob:
+        y: 1962
+        m: 6
+        d: 10

@@ -31,27 +31,3 @@ artistData:
         y: 1973
         m: 11
         d: 5
-    - artistNames:
-      - Philippe "Phil" Dufour
-      dob:
-        y: 1970
-        m: 5
-        d: 15
-    - artistNames:
-      - Olivier "Oli" Dufour
-      dob:
-        y: 1972
-        m: 3
-        d: 22
-    - artistNames:
-      - Jean-Michel "Mimi" Dufour
-      dob:
-        y: 1975
-        m: 8
-        d: 10
-    - artistNames:
-      - Thierry "Titi" Dufour
-      dob:
-        y: 1973
-        m: 11
-        d: 5

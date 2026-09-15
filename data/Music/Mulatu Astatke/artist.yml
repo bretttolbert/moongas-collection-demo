@@ -19,6 +19,10 @@ artistData:
         y: 1929
         m: 1
         d: 1
+      dod:
+        y: 2016
+        m: 3
+        d: 2
     - artistNames:
       - Hailu Mergia
       dob:
@@ -37,3 +41,9 @@ artistData:
         y: 1941
         m: 5
         d: 8
+    - artistNames:
+      - Tsedenia Gebremarkos
+      dob:
+        y: 1970
+        m: 1
+        d: 1

@@ -43,3 +43,9 @@ artistData:
         y: 1980
         m: 8
         d: 15
+    - artistNames:
+      - Stevie D.
+      dob:
+        y: 1974
+        m: 5
+        d: 1

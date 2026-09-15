@@ -13,3 +13,32 @@ artistData:
         y: 1982
         m: 9
         d: 28
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+      - bass
+      - drums
+    - artistNames:
+      - Daniel Hart
+      artistRoles:
+      - violin
+      - keyboards
+    - artistNames:
+      - Toko Yasuda
+      artistRoles:
+      - keyboards
+      - bass
+    - artistNames:
+      - Mark Guiliana
+      artistRoles:
+      - drums
+    - artistNames:
+      - Paul Bender
+      artistRoles:
+      - bass
+    - artistNames:
+      - David Byrne
+      artistRoles:
+      - vocals
+      - guitar

@@ -71,3 +71,19 @@ artistData:
         y: 2018
         m: 6
         d: 8
+    - artistNames:
+      - Jeremy Spencer
+      dob:
+        y: 1948
+        m: 7
+        d: 4
+    - artistNames:
+      - Bob Brunning
+      dob:
+        y: 1943
+        m: 10
+        d: 15
+      dod:
+        y: 2021
+        m: 10
+        d: 18

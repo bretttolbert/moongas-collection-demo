@@ -31,3 +31,9 @@ artistData:
         y: 1965
         m: 12
         d: 31
+    - artistNames:
+      - Tanya Donelly
+      dob:
+        y: 1966
+        m: 7
+        d: 14

@@ -43,3 +43,9 @@ artistData:
         y: 1970
         m: 5
         d: 1
+    - artistNames:
+      - Brian Dixon
+      dob:
+        y: 1962
+        m: 8
+        d: 15

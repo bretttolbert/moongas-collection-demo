@@ -39,3 +39,12 @@ artistData:
         y: 1971
         m: 8
         d: 30
+    - artistNames:
+      - Manuela Kamosi
+      artistRoles:
+      - vocals
+      - featured artist
+      dob:
+        y: 1970
+        m: 5
+        d: 12

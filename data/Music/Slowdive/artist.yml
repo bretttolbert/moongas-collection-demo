@@ -43,3 +43,12 @@ artistData:
         y: 1970
         m: 6
         d: 15
+    - artistNames:
+      - Chris Haskett
+      dob:
+        y: 1970
+        m: 6
+        d: 15
+      artistRoles:
+      - guitar
+      - backing vocals

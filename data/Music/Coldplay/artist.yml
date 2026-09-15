@@ -31,3 +31,9 @@ artistData:
         y: 1978
         m: 3
         d: 31
+    - artistNames:
+      - Phil Harvey
+      dob:
+        y: 1977
+        m: 12
+        d: 30

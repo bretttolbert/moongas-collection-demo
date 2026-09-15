@@ -49,3 +49,15 @@ artistData:
         y: 1952
         m: 2
         d: 5
+    - artistNames:
+      - Miles Copeland III
+      dob:
+        y: 1946
+        m: 6
+        d: 2
+    - artistNames:
+      - Jean-Michel Jarre
+      dob:
+        y: 1948
+        m: 8
+        d: 24

@@ -21,3 +21,7 @@ artistData:
       - Kevin Knight
     - artistNames:
       - Alex B. Smith
+      dob:
+        y: 1990
+        m: 5
+        d: 15

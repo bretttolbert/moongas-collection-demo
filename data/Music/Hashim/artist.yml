@@ -16,3 +16,15 @@ artistData:
       artistRoles:
       - producer
       - musician
+    - artistNames:
+      - Eric "E" Williams
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - David "D" Williams
+      artistRoles:
+      - drums
+    - artistNames:
+      - Michael "M" Williams
+      artistRoles:
+      - bass

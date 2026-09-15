@@ -37,3 +37,9 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Ian "Peej" Pritchard
+      dob:
+        y: 1966
+        m: 3
+        d: 15

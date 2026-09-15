@@ -33,5 +33,13 @@ artistData:
         d: 1
     - artistNames:
       - The Mysterious L. M.
+      dob:
+        y: 1970
+        m: 1
+        d: 1
     - artistNames:
       - The Mysterious J. M.
+      dob:
+        y: 1970
+        m: 1
+        d: 1

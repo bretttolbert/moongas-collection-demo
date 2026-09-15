@@ -13,3 +13,7 @@ artistData:
         y: 1995
         m: 5
         d: 10
+      artistRoles:
+      - vocals
+      - producer
+      - songwriter

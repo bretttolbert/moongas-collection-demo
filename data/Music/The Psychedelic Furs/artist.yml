@@ -55,3 +55,9 @@ artistData:
         y: 1965
         m: 1
         d: 1
+    - artistNames:
+      - Marcia Schofield
+      dob:
+        y: 1965
+        m: 5
+        d: 1

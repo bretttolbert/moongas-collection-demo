@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 3
         d: 12
+    - artistNames:
+      - Vanessa "V" Petruo
+      dob:
+        y: 1971
+        m: 6
+        d: 24

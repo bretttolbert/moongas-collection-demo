@@ -43,3 +43,9 @@ artistData:
         y: 1984
         m: 8
         d: 23
+    - artistNames:
+      - Mike Thompson
+      dob:
+        y: 1984
+        m: 1
+        d: 20

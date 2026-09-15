@@ -31,3 +31,6 @@ artistData:
         y: 1945
         m: 11
         d: 12
+      artistRoles:
+      - guitar
+      - vocals

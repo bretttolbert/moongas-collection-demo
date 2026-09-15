@@ -19,3 +19,9 @@ artistData:
         y: 1979
         m: 1
         d: 1
+    - artistNames:
+      - K. D. D.
+      dob:
+        y: 1980
+        m: 1
+        d: 1

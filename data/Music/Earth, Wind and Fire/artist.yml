@@ -54,12 +54,6 @@ artistData:
       artistRoles:
       - guitar
     - artistNames:
-      - Philip Bailey
-      dob:
-        y: 1951
-      artistRoles:
-      - vocals
-    - artistNames:
       - Andrew Woolfolk
       dob:
         y: 1950
@@ -77,13 +71,3 @@ artistData:
         y: 1948
       artistRoles:
       - vocals
-    - artistNames:
-      - Maurice White
-      dob:
-        y: 1941
-        m: 12
-        d: 19
-      dod:
-        y: 2016
-        m: 2
-        d: 4

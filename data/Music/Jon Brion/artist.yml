@@ -13,8 +13,6 @@ artistData:
         y: 1963
         m: 12
         d: 8
-    - artistNames:
-      - Jon Brion
       artistRoles:
       - vocals
       - guitar

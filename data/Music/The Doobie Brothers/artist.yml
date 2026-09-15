@@ -43,3 +43,29 @@ artistData:
         y: 1952
         m: 2
         d: 12
+    - artistNames:
+      - Keith Knudsen
+      dob:
+        y: 1948
+        m: 3
+        d: 27
+      dod:
+        y: 2005
+        m: 2
+        d: 8
+    - artistNames:
+      - John Hartman
+      dob:
+        y: 1950
+        m: 11
+        d: 18
+    - artistNames:
+      - Cornelius Bumpus
+      dob:
+        y: 1945
+        m: 1
+        d: 7
+      dod:
+        y: 2004
+        m: 1
+        d: 3

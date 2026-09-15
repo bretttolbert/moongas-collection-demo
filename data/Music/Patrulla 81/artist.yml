@@ -49,3 +49,9 @@ artistData:
         y: 1975
         m: 2
         d: 20
+    - artistNames:
+      - José "Pepe" Cárdenas
+      dob:
+        y: 1978
+        m: 6
+        d: 10

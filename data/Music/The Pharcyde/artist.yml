@@ -31,3 +31,15 @@ artistData:
         y: 1971
         m: 4
         d: 29
+    - artistNames:
+      - J-Swift
+      dob:
+        y: 1971
+        m: 10
+        d: 3
+    - artistNames:
+      - L.A. Jay
+      dob:
+        y: 1971
+        m: 1
+        d: 1

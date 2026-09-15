@@ -45,3 +45,21 @@ artistData:
         d: 15
       artistRoles:
       - drums
+    - artistNames:
+      - Sam Eastgate
+      dob:
+        y: 1986
+        m: 7
+        d: 10
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Michael C. Smith
+      dob:
+        y: 1984
+        m: 11
+        d: 20
+      artistRoles:
+      - keyboards
+      - guitar

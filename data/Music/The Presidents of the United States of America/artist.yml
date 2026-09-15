@@ -33,3 +33,12 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Andrew McKeag
+      dob:
+        y: 1970
+        m: 4
+        d: 19
+      artistRoles:
+      - guitar
+      - backing vocals

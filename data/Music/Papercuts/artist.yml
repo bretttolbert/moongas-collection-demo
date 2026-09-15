@@ -17,6 +17,10 @@ artistData:
       - Dan Long
     - artistNames:
       - Nicole Kidman
+      dob:
+        y: 1967
+        m: 6
+        d: 20
     - artistNames:
       - Brian G. 
     - artistNames:

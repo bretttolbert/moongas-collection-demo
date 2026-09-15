@@ -37,3 +37,9 @@ artistData:
         y: 1985
         m: 11
         d: 30
+    - artistNames:
+      - D. D. D.
+      dob:
+        y: 1986
+        m: 4
+        d: 20

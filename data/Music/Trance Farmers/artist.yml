@@ -6,4 +6,9 @@ artistData:
   languageCodes:
   - en
   regionCode: US-CA
-  members: []
+  members:
+    - artistNames:
+      - Trance Farmers
+      artistRoles:
+      - electronic music producer
+      - DJ

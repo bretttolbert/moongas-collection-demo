@@ -37,3 +37,15 @@ artistData:
         y: 1984
         m: 9
         d: 10
+    - artistNames:
+      - Miguel Ángel
+      dob:
+        y: 1985
+        m: 11
+        d: 5
+    - artistNames:
+      - Fernando
+      dob:
+        y: 1986
+        m: 12
+        d: 12

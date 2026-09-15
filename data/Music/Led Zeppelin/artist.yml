@@ -13,18 +13,26 @@ artistData:
         y: 1948
         m: 8
         d: 20
+      artistRoles:
+      - vocals
     - artistNames:
       - Jimmy Page
       dob:
         y: 1944
         m: 1
         d: 9
+      artistRoles:
+      - guitar
+      - backing vocals
     - artistNames:
       - John Paul Jones
       dob:
         y: 1946
         m: 1
         d: 3
+      artistRoles:
+      - bass
+      - keyboards
     - artistNames:
       - John Bonham
       dob:
@@ -35,6 +43,8 @@ artistData:
         y: 1980
         m: 9
         d: 25
+      artistRoles:
+      - drums
     - artistNames:
       - Jason Bonham
       dob:

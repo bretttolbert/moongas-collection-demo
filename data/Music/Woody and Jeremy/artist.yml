@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Woody
+      dob:
+        y: 1985
+        m: 6
+        d: 15
     - artistNames:
       - Jeremy
+      dob:
+        y: 1987
+        m: 3
+        d: 22

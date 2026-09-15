@@ -39,3 +39,9 @@ artistData:
         y: 1965
         m: 6
         d: 15
+    - artistNames:
+      - Simon Wolstencroft
+      dob:
+        y: 1963
+        m: 5
+        d: 4

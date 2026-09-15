@@ -51,3 +51,19 @@ artistData:
         y: 1963
         m: 10
         d: 10
+    - artistNames:
+      - Pino Palladino
+      dob:
+        y: 1957
+        m: 10
+        d: 17
+    - artistNames:
+      - Doug Sandom
+      dob:
+        y: 1943
+        m: 11
+        d: 24
+      dod:
+        y: 2023
+        m: 1
+        d: 15

@@ -55,3 +55,15 @@ artistData:
         y: 1991
         m: 1
         d: 20
+    - artistNames:
+      - Luke McDonald
+      dob:
+        y: 1990
+        m: 4
+        d: 22
+    - artistNames:
+      - Ben McDonald
+      dob:
+        y: 1990
+        m: 2
+        d: 14

@@ -42,3 +42,9 @@ artistData:
         y: 2005
         m: 2
         d: 14
+    - artistNames:
+      - Charlie Robison
+      dob:
+        y: 1974
+        m: 9
+        d: 1

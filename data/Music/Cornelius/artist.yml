@@ -21,3 +21,7 @@ artistData:
       - Kazuya Yoshii
     - artistNames:
       - Takashi Yoshimura
+      dob:
+        y: 1970
+        m: 5
+        d: 15

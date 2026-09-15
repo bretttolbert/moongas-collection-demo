@@ -61,3 +61,15 @@ artistData:
         y: 1955
         m: 4
         d: 1
+    - artistNames:
+      - Kevin "Alfie" Rowland
+      dob:
+        y: 1951
+        m: 6
+        d: 17
+    - artistNames:
+      - "The General" 
+      dob:
+        y: 1955
+        m: 4
+        d: 1

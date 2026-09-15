@@ -31,3 +31,9 @@ artistData:
         y: 1994
         m: 2
         d: 10
+    - artistNames:
+      - Ethan Kivel
+      dob:
+        y: 1996
+        m: 4
+        d: 12

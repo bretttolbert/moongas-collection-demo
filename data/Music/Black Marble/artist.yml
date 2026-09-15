@@ -19,3 +19,12 @@ artistData:
         y: 1987
         m: 6
         d: 15
+    - artistNames:
+      - Additional Member
+      dob:
+        y: 1990
+        m: 5
+        d: 10
+      artistRoles:
+      - vocals
+      - guitar

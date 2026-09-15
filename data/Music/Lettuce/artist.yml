@@ -31,3 +31,15 @@ artistData:
         y: 1989
         m: 6
         d: 15
+    - artistNames:
+      - Adam Deitch
+      dob:
+        y: 1980
+        m: 5
+        d: 26
+    - artistNames:
+      - Eric Krasno
+      dob:
+        y: 1976
+        m: 11
+        d: 30

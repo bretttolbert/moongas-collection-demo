@@ -37,3 +37,9 @@ artistData:
         y: 1981
         m: 6
         d: 15
+    - artistNames:
+      - Steve Jocz
+      dob:
+        y: 1980
+        m: 4
+        d: 23

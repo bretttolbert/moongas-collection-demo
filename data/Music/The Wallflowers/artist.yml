@@ -37,3 +37,15 @@ artistData:
         y: 1972
         m: 3
         d: 26
+    - artistNames:
+      - Michael Ward
+      dob:
+        y: 1966
+        m: 12
+        d: 6
+    - artistNames:
+      - Chris Traynor
+      dob:
+        y: 1970
+        m: 7
+        d: 18

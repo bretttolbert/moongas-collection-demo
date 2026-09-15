@@ -52,3 +52,28 @@ artistData:
         d: 27
       artistRoles:
       - bass
+    - artistNames:
+      - Jason Newsted
+      dob:
+        y: 1963
+        m: 3
+        d: 4
+      artistRoles:
+      - bass
+      - backing vocals
+    - artistNames:
+      - Trujillo
+      dob:
+        y: 1964
+        m: 10
+        d: 23
+      artistRoles:
+      - bass
+    - artistNames:
+      - Rob McGovney
+      dob:
+        y: 1963
+        m: 3
+        d: 2
+      artistRoles:
+      - bass

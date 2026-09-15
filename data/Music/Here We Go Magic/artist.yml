@@ -21,3 +21,7 @@ artistData:
       - Peter Hale
     - artistNames:
       - Matt Romano
+      dob:
+        y: 1985
+        m: 5
+        d: 15

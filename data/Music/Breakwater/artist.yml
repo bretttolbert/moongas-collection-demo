@@ -43,3 +43,15 @@ artistData:
         y: 1955
         m: 12
         d: 25
+    - artistNames:
+      - Robert "Bobby" Smith
+      dob:
+        y: 1956
+        m: 4
+        d: 18
+    - artistNames:
+      - Charles "Chuck" Smith
+      dob:
+        y: 1957
+        m: 8
+        d: 22

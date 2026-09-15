@@ -37,3 +37,15 @@ artistData:
         y: 1971
         m: 3
         d: 15
+    - artistNames:
+      - Vinny DiFiore
+      dob:
+        y: 1968
+        m: 4
+        d: 24
+    - artistNames:
+      - Greg Brown
+      dob:
+        y: 1970
+        m: 5
+        d: 12

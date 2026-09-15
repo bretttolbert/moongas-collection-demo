@@ -21,3 +21,7 @@ artistData:
       - Chris O'Connor
     - artistNames:
       - Sam Taylor
+      dob:
+        y: 1985
+        m: 6
+        d: 15

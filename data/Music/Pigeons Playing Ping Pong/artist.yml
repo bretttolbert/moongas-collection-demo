@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 4
         d: 20
+    - artistNames:
+      - Adam Novick
+      dob:
+        y: 1991
+        m: 1
+        d: 25

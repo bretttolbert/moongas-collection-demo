@@ -31,3 +31,20 @@ artistData:
         y: 1975
         m: 11
         d: 25
+    - artistNames:
+      - Philippe Disson
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Eric Disson
+      artistRoles:
+      - bass
+    - artistNames:
+      - Jean-Marc Disson
+      artistRoles:
+      - drums
+    - artistNames:
+      - David Disson
+      artistRoles:
+      - keyboards

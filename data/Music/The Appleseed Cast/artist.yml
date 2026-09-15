@@ -49,3 +49,15 @@ artistData:
         y: 1982
         m: 1
         d: 10
+    - artistNames:
+      - Matthew K. 
+      dob:
+        y: 1983
+        m: 2
+        d: 14
+    - artistNames:
+      - Eric M. 
+      dob:
+        y: 1981
+        m: 7
+        d: 22

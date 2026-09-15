@@ -15,7 +15,13 @@ artistData:
         d: 21
     - artistNames:
       - Marcin Öz
+      dob:
+        y: 1980
     - artistNames:
       - Daniel Nentwig
+      dob:
+        y: 1980
     - artistNames:
       - Lars Stalfors
+      dob:
+        y: 1980

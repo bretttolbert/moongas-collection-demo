@@ -31,3 +31,13 @@ artistData:
         y: 1948
         m: 4
         d: 24
+    - artistNames:
+      - John Denver
+      dob:
+        y: 1943
+        m: 12
+        d: 31
+      dod:
+        y: 1997
+        m: 10
+        d: 12

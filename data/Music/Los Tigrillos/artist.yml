@@ -43,3 +43,15 @@ artistData:
         y: 1983
         m: 2
         d: 5
+    - artistNames:
+      - Manuel "Manu" Cárdenas
+      dob:
+        y: 1985
+        m: 9
+        d: 18
+    - artistNames:
+      - Sergio "Checo" Cárdenas
+      dob:
+        y: 1988
+        m: 6
+        d: 25

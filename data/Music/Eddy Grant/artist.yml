@@ -13,3 +13,25 @@ artistData:
         y: 1948
         m: 5
         d: 5
+    - artistNames:
+      - The Equals
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Tony Wilson
+      artistRoles:
+      - drums
+    - artistNames:
+      - John Hall
+      artistRoles:
+      - bass
+    - artistNames:
+      - Pat Hall
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Eddie Grant
+      artistRoles:
+      - lead vocals
+      - guitar

@@ -43,3 +43,9 @@ artistData:
         y: 1971
         m: 5
         d: 15
+    - artistNames:
+      - Chris "Choc" McCoy
+      dob:
+        y: 1970
+        m: 7
+        d: 12

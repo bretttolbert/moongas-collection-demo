@@ -31,3 +31,9 @@ artistData:
         y: 1987
         m: 11
         d: 5
+    - artistNames:
+      - Michael McCambridge
+      dob:
+        y: 1989
+        m: 2
+        d: 14

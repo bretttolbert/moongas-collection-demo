@@ -41,3 +41,9 @@ artistData:
         y: 1961
         m: 6
         d: 15
+    - artistNames:
+      - Adam Ant
+      dob:
+        y: 1954
+        m: 11
+        d: 3

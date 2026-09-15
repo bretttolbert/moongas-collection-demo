@@ -37,3 +37,15 @@ artistData:
         y: 1970
         m: 6
         d: 15
+    - artistNames:
+      - Dwayne "The Rock" Johnson
+      dob:
+        y: 1972
+        m: 5
+        d: 2
+    - artistNames:
+      - Jello Biafra
+      dob:
+        y: 1958
+        m: 6
+        d: 17

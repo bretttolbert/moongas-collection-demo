@@ -7,4 +7,13 @@ artistData:
   languageCodes:
   - es
   regionCode: MX-COA
-  members: []
+  members:
+    - artistNames:
+      - Joel Higuera
+      - Imanol Higuera
+    - artistNames:
+      - Juan Antonio "Tony" Higuera
+      - José Luis "Chelo" Higuera
+    - artistNames:
+      - Javier "Javi" Higuera
+      - Francisco "Paco" Higuera

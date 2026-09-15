@@ -31,3 +31,9 @@ artistData:
         y: 1971
         m: 10
         d: 10
+    - artistNames:
+      - Chris Goss
+      dob:
+        y: 1964
+        m: 6
+        d: 15

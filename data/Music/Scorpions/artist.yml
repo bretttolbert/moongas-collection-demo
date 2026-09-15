@@ -53,3 +53,9 @@ artistData:
         y: 1954
         m: 12
         d: 18
+    - artistNames:
+      - Ralph Rieckermann
+      dob:
+        y: 1966
+        m: 1
+        d: 2

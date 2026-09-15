@@ -37,3 +37,9 @@ artistData:
         y: 1991
         m: 4
         d: 12
+    - artistNames:
+      - Chris "Crispy" Daze
+      dob:
+        y: 1992
+        m: 11
+        d: 5

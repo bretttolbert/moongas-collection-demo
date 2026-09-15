@@ -37,3 +37,7 @@ artistData:
         y: 1973
         m: 7
         d: 11
+      artistRoles:
+      - vocals
+      - guitar
+      - violin

@@ -44,12 +44,6 @@ artistData:
         m: 3
         d: 21
     - artistNames:
-      - Jerry Only
-      dob:
-        y: 1959
-        m: 4
-        d: 21
-    - artistNames:
       - Dez Cadena
       dob:
         y: 1964
@@ -67,3 +61,9 @@ artistData:
         y: 1965
         m: 6
         d: 16
+    - artistNames:
+      - Brian "Head" Welch
+      dob:
+        y: 1970
+        m: 6
+        d: 19

@@ -49,3 +49,9 @@ artistData:
         y: 1977
         m: 10
         d: 12
+    - artistNames:
+      - Lisa Molinaro
+      dob:
+        y: 1980
+        m: 2
+        d: 25

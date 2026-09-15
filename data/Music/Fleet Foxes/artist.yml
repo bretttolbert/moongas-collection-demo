@@ -43,3 +43,15 @@ artistData:
         y: 1981
         m: 5
         d: 3
+    - artistNames:
+      - Craig McCaffrey
+      dob:
+        y: 1986
+        m: 11
+        d: 3
+    - artistNames:
+      - Chris Takino
+      dob:
+        y: 1985
+        m: 9
+        d: 12

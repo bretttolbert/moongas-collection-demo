@@ -21,3 +21,9 @@ artistData:
         y: 1990
         m: 5
         d: 15
+    - artistNames:
+      - Matt L. Smith
+      dob:
+        y: 1988
+        m: 11
+        d: 22

@@ -13,6 +13,9 @@ artistData:
         y: 1978
         m: 7
         d: 21
+      artistRoles:
+      - vocals
+      - guitar
     - artistNames:
       - José González (as a member of Junip)
       dob:

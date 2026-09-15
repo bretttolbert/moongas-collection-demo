@@ -85,3 +85,27 @@ artistData:
         y: 1980
         m: 5
         d: 3
+    - artistNames:
+      - Pete Wentz
+      dob:
+        y: 1979
+        m: 6
+        d: 5
+    - artistNames:
+      - Brendon Urie
+      dob:
+        y: 1987
+        m: 4
+        d: 12
+    - artistNames:
+      - Ryan Ross
+      dob:
+        y: 1986
+        m: 8
+        d: 30
+    - artistNames:
+      - Spencer Smith
+      dob:
+        y: 1987
+        m: 9
+        d: 2

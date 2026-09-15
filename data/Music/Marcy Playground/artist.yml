@@ -13,28 +13,22 @@ artistData:
         y: 1970
         m: 3
         d: 25
+      artistRoles:
+      - vocals
+      - guitar
     - artistNames:
       - Dylan Keefe
       dob:
         y: 1970
         m: 4
         d: 10
+      artistRoles:
+      - bass
     - artistNames:
       - A. J. P. McGowan
       dob:
         y: 1970
         m: 5
         d: 15
-    - artistNames:
-      - John Wozniak
-      artistRoles:
-      - vocals
-      - guitar
-    - artistNames:
-      - Dylan Keefe
-      artistRoles:
-      - bass
-    - artistNames:
-      - A. J. P. McGowan
       artistRoles:
       - drums

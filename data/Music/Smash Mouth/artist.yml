@@ -41,3 +41,9 @@ artistData:
         y: 1970
         m: 5
         d: 24
+    - artistNames:
+      - Zoltan Chaney
+      dob:
+        y: 1972
+        m: 10
+        d: 15

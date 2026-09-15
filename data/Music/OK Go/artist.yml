@@ -37,3 +37,15 @@ artistData:
         y: 1976
         m: 9
         d: 12
+    - artistNames:
+      - Dan Konopka
+      dob:
+        y: 1976
+        m: 5
+        d: 24
+    - artistNames:
+      - Andy Ross
+      dob:
+        y: 1979
+        m: 4
+        d: 24

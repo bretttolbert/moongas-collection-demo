@@ -23,3 +23,6 @@ artistData:
         y: 1947
         m: 7
         d: 18
+      artistRoles:
+      - keyboards
+      - vocals

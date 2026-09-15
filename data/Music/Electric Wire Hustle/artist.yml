@@ -19,4 +19,8 @@ artistData:
       - David Wright
     - artistNames:
       - JG
-      - James G.
+      - James G
+      dob:
+        y: 1980
+        m: 1
+        d: 1

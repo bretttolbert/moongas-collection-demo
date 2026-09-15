@@ -31,3 +31,9 @@ artistData:
         y: 1984
         m: 9
         d: 10
+    - artistNames:
+      - Leslie Followill
+      dob:
+        y: 1975
+        m: 4
+        d: 21

@@ -53,3 +53,12 @@ artistData:
       artistRoles:
       - guitar
       - backing vocals
+    - artistNames:
+      - Jason Everman
+      dob:
+        y: 1967
+        m: 4
+        d: 15
+      artistRoles:
+      - guitar
+      - backing vocals

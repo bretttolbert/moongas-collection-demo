@@ -64,3 +64,11 @@ artistData:
         d: 4
       artistRoles:
       - trombone
+    - artistNames:
+      - Miki
+      dob:
+        y: 1972
+        m: 9
+        d: 9
+      artistRoles:
+      - keyboard

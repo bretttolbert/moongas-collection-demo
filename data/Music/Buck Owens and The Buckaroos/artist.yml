@@ -73,8 +73,8 @@ artistData:
         y: 1933
       dod:
         y: 2018
-      m: 11
-      d: 15
+        m: 11
+        d: 15
     - artistNames:
       - Susan Raye
       dob:

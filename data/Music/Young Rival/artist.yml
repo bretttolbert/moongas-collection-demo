@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 1
         d: 20
+    - artistNames:
+      - Andrew McNaughton
+      dob:
+        y: 1985
+        m: 11
+        d: 5

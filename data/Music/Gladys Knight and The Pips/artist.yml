@@ -41,3 +41,9 @@ artistData:
         y: 1941
         m: 2
         d: 1
+    - artistNames:
+      - Elenor Guest
+      dob:
+        y: 1941
+        m: 2
+        d: 1

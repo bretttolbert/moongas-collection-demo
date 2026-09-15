@@ -43,3 +43,9 @@ artistData:
         y: 1982
         m: 8
         d: 10
+    - artistNames:
+      - Mike Williams
+      dob:
+        y: 1983
+        m: 12
+        d: 1

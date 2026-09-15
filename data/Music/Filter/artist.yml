@@ -49,3 +49,15 @@ artistData:
         y: 1970
         m: 9
         d: 30
+    - artistNames:
+      - John D. Norten
+      dob:
+        y: 1970
+        m: 11
+        d: 15
+    - artistNames:
+      - Adam Kury
+      dob:
+        y: 1980
+        m: 4
+        d: 11

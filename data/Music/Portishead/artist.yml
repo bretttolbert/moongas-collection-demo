@@ -37,3 +37,9 @@ artistData:
         y: 1971
         m: 7
         d: 12
+    - artistNames:
+      - Clive Deamer
+      dob:
+        y: 1963
+        m: 8
+        d: 24

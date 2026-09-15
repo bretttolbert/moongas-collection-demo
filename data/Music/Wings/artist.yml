@@ -67,3 +67,9 @@ artistData:
         y: 1952
         m: 11
         d: 12
+    - artistNames:
+      - Steve Holley
+      dob:
+        y: 1956
+        m: 3
+        d: 24

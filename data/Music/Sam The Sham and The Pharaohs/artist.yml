@@ -41,3 +41,7 @@ artistData:
       - John "Johnny" Salazar
     - artistNames:
       - John "Johnny" Rivas
+  dod:
+    y: 2023
+    m: 10
+    d: 1

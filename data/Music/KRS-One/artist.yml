@@ -42,3 +42,13 @@ artistData:
       - Boogie Down Productions
       artistRoles:
       - group
+    - artistNames:
+      - D-Nice
+      artistRoles:
+      - DJ
+      - production
+    - artistNames:
+      - KRS-One (as a solo artist)
+      artistRoles:
+      - vocals
+      - songwriting

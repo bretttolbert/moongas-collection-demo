@@ -43,3 +43,9 @@ artistData:
         y: 1980
         m: 6
         d: 15
+    - artistNames:
+      - Chris Kamrada
+      dob:
+        y: 1980
+        m: 8
+        d: 12

@@ -31,3 +31,9 @@ artistData:
         y: 1980
         m: 9
         d: 29
+    - artistNames:
+      - Angela Seo
+      dob:
+        y: 1982
+        m: 5
+        d: 29

@@ -31,3 +31,9 @@ artistData:
         y: 1967
         m: 9
         d: 13
+    - artistNames:
+      - Eric Avery
+      dob:
+        y: 1965
+        m: 4
+        d: 25

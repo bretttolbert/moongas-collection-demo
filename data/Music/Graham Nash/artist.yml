@@ -53,3 +53,7 @@ artistData:
         d: 7
       artistRoles:
       - drums
+    - artistNames:
+      - Crosby, Stills, Nash & Young
+      artistRoles:
+      - group

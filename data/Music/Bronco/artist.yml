@@ -43,3 +43,9 @@ artistData:
         y: 1978
         m: 6
         d: 12
+    - artistNames:
+      - Javier "Javi" Esquivel
+      dob:
+        y: 1980
+        m: 9
+        d: 25

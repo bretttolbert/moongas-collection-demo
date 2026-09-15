@@ -37,3 +37,15 @@ artistData:
         y: 1964
         m: 8
         d: 15
+    - artistNames:
+      - Brian Viglione
+      dob:
+        y: 1979
+        m: 5
+        d: 16
+    - artistNames:
+      - Blaise Garza
+      dob:
+        y: 1974
+        m: 6
+        d: 22

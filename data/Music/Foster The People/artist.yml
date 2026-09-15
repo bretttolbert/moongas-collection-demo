@@ -37,3 +37,9 @@ artistData:
         y: 1989
         m: 1
         d: 1
+    - artistNames:
+      - Nathan Wilkins
+      dob:
+        y: 1986
+        m: 8
+        d: 12

@@ -43,3 +43,21 @@ artistData:
         y: 1976
         m: 11
         d: 30
+    - artistNames:
+      - Rachael Yamagata
+      dob:
+        y: 1979
+        m: 9
+        d: 23
+    - artistNames:
+      - J. M. Silk
+      dob:
+        y: 1969
+        m: 5
+        d: 1
+    - artistNames:
+      - Eric Krasno
+      dob:
+        y: 1976
+        m: 11
+        d: 30

@@ -43,3 +43,15 @@ artistData:
         y: 1980
         m: 9
         d: 25
+    - artistNames:
+      - Alyssa Ritchie
+      dob:
+        y: 1983
+        m: 11
+        d: 12
+    - artistNames:
+      - Greg Dulli
+      dob:
+        y: 1969
+        m: 2
+        d: 12

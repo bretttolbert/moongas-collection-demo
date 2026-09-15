@@ -47,3 +47,19 @@ artistData:
         d: 14
       artistRoles:
       - bass
+    - artistNames:
+      - Josh Klinghoffer
+      dob:
+        y: 1979
+        m: 10
+        d: 3
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Dave Sitek
+      dob:
+        y: 1979
+        m: 2
+        d: 6
+      artistRoles:
+      - guitar

@@ -61,3 +61,9 @@ artistData:
         y: 1950
         m: 6
         d: 12
+    - artistNames:
+      - John "J.J." McCarty
+      dob:
+        y: 1950
+        m: 6
+        d: 12

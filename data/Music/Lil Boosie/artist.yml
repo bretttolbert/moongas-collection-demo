@@ -31,3 +31,15 @@ artistData:
         y: 1982
         m: 11
         d: 14
+    - artistNames:
+      - Lil Trill
+      dob:
+        y: 1986
+        m: 1
+        d: 1
+    - artistNames:
+      - Young Bleed
+      dob:
+        y: 1975
+        m: 1
+        d: 1

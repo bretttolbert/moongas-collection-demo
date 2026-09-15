@@ -31,3 +31,15 @@ artistData:
         y: 1988
         m: 4
         d: 10
+    - artistNames:
+      - Matt O'Connor
+      dob:
+        y: 1986
+        m: 11
+        d: 30
+    - artistNames:
+      - Sam McCarthy
+      dob:
+        y: 1988
+        m: 4
+        d: 10

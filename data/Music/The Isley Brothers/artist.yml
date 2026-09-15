@@ -51,3 +51,9 @@ artistData:
         y: 1951
         m: 12
         d: 30
+    - artistNames:
+      - Angela Isley
+      dob:
+        y: 1964
+        m: 7
+        d: 28

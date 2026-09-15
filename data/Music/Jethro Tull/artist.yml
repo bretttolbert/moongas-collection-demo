@@ -81,3 +81,36 @@ artistData:
         d: 14
       artistRoles:
       - drums
+    - artistNames:
+      - Doane Perry
+      dob:
+        y: 1954
+        m: 9
+        d: 1
+      artistRoles:
+      - drums
+    - artistNames:
+      - Andrew Giddings
+      dob:
+        y: 1960
+        m: 5
+        d: 28
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Martin Barre
+      dob:
+        y: 1942
+        m: 11
+        d: 17
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Ian Anderson
+      dob:
+        y: 1947
+        m: 8
+        d: 10
+      artistRoles:
+      - vocals
+      - flute

@@ -45,3 +45,23 @@ artistData:
       - John McCarty
       artistRoles:
       - guitar
+    - artistNames:
+      - John McCarty
+      artistRoles:
+      - guitar
+    - artistNames:
+      - John Hobbs
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Mike Johnson
+      artistRoles:
+      - bass
+    - artistNames:
+      - John McBride
+      artistRoles:
+      - drums
+    - artistNames:
+      - Eric Darken
+      artistRoles:
+      - percussion

@@ -49,3 +49,19 @@ artistData:
       artistRoles:
       - bass
       - vocals
+    - artistNames:
+      - Kiran Gandhi
+      artistRoles:
+      - drums
+    - artistNames:
+      - Jaden Smith
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Chance the Rapper
+      artistRoles:
+      - vocals
+    - artistNames:
+      - 21 Savage
+      artistRoles:
+      - vocals

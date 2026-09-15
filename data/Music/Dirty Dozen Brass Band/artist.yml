@@ -71,3 +71,15 @@ artistData:
         y: 1975
         m: 9
         d: 25
+    - artistNames:
+      - Dwayne "D" Williams
+      dob:
+        y: 1972
+        m: 12
+        d: 1
+    - artistNames:
+      - Michael "Mike" McGhee
+      dob:
+        y: 1965
+        m: 11
+        d: 22

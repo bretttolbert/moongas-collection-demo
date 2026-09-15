@@ -9,5 +9,13 @@ artistData:
   members:
     - artistNames:
       - Sultana Nooran
+      dob:
+        y: 1996
+        m: 1
+        d: 1
     - artistNames:
       - Jyoti Nooran
+      dob:
+        y: 1994
+        m: 1
+        d: 1

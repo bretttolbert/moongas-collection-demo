@@ -59,3 +59,9 @@ artistData:
         y: 1972
         m: 12
         d: 25
+    - artistNames:
+      - Chris Osgood
+      dob:
+        y: 1962
+        m: 2
+        d: 22

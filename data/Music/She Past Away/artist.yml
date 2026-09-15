@@ -48,3 +48,12 @@ artistData:
         d: 12
       artistRoles:
       - guitar
+    - artistNames:
+      - Cenk Çetin
+      dob:
+        y: 1992
+        m: 11
+        d: 20
+      artistRoles:
+      - backing vocals
+      - guitar

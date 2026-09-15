@@ -31,3 +31,9 @@ artistData:
         y: 1983
         m: 11
         d: 30
+    - artistNames:
+      - Émilie "Emi" Poubelle
+      dob:
+        y: 1988
+        m: 4
+        d: 12

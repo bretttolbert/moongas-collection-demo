@@ -79,3 +79,50 @@ artistData:
         y: 1951
         m: 4
         d: 15
+    - artistNames:
+      - Alan Parsons Project
+      artistRoles:
+      - producer
+      - engineer
+      - songwriter
+      - musician
+    - artistNames:
+      - Eric Woolfson
+      artistRoles:
+      - songwriter
+      - musician
+      - producer
+    - artistNames:
+      - Ian Bairnson
+      artistRoles:
+      - guitarist
+    - artistNames:
+      - Stuart Elliott
+      artistRoles:
+      - drummer
+    - artistNames:
+      - David Paton
+      artistRoles:
+      - bassist
+    - artistNames:
+      - Chris Rainbow
+      artistRoles:
+      - vocalist
+    - artistNames:
+      - Lenny Zakatek
+      artistRoles:
+      - vocalist
+    - artistNames:
+      - Andrew Powell
+      artistRoles:
+      - arranger
+    - artistNames:
+      - John Miles
+      artistRoles:
+      - vocalist
+      - guitarist
+    - artistNames:
+      - David Pack
+      artistRoles:
+      - vocalist
+      - guitarist

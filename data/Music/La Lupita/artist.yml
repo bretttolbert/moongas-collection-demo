@@ -37,3 +37,9 @@ artistData:
         y: 1975
         m: 5
         d: 5
+    - artistNames:
+      - Ricardo "Ricky" Lizardi
+      dob:
+        y: 1978
+        m: 6
+        d: 6

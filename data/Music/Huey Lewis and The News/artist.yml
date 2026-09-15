@@ -55,3 +55,27 @@ artistData:
         y: 1955
         m: 4
         d: 13
+    - artistNames:
+      - Mario Cipollina
+      dob:
+        y: 1954
+        m: 7
+        d: 10
+    - artistNames:
+      - Chris Hayes
+      dob:
+        y: 1957
+        m: 4
+        d: 4
+    - artistNames:
+      - Stef Burns
+      dob:
+        y: 1960
+        m: 12
+        d: 1
+    - artistNames:
+      - John Pierce
+      dob:
+        y: 1955
+        m: 4
+        d: 13

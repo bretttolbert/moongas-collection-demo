@@ -31,3 +31,11 @@ artistData:
       - Miguel "Mike" O'Brien
       artistRoles:
       - drums
+    - artistNames:
+      - Scott "Scotty" H. 
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Mark "Marky" O'Brien
+      artistRoles:
+      - bass

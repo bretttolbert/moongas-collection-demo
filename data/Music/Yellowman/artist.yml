@@ -19,3 +19,7 @@ artistData:
       - King Yellowman
     - artistNames:
       - Yellowman & The Sagittarius Band
+  dob:
+    y: 1965
+    m: 1
+    d: 15

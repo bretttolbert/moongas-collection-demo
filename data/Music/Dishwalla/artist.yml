@@ -49,3 +49,9 @@ artistData:
         y: 1971
         m: 4
         d: 15
+    - artistNames:
+      - John D. McCloud
+      dob:
+        y: 1972
+        m: 6
+        d: 20

@@ -32,3 +32,7 @@ artistData:
       - John "Johnny" McGowan
       artistRoles:
       - keyboards
+      dob:
+        y: 1950
+        m: 5
+        d: 12

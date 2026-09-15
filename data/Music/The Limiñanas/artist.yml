@@ -19,3 +19,9 @@ artistData:
         y: 1975
         m: 5
         d: 15
+    - artistNames:
+      - Bertrand Limiñana
+      dob:
+        y: 1978
+        m: 3
+        d: 20

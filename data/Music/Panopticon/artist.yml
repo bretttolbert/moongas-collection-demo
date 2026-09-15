@@ -31,3 +31,9 @@ artistData:
         y: 1990
         m: 2
         d: 15
+    - artistNames:
+      - K. Lunn
+      dob:
+        y: 1992
+        m: 11
+        d: 5

@@ -59,3 +59,9 @@ artistData:
         y: 1971
         m: 1
         d: 4
+    - artistNames:
+      - Drew Hester
+      dob:
+        y: 1970
+        m: 8
+        d: 6

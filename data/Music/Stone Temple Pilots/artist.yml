@@ -35,3 +35,13 @@ artistData:
         y: 1966
         m: 12
         d: 5
+    - artistNames:
+      - Chester Bennington
+      dob:
+        y: 1976
+        m: 3
+        d: 20
+      dod:
+        y: 2017
+        m: 7
+        d: 20

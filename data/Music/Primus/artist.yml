@@ -56,19 +56,3 @@ artistData:
         d: 21
       artistRoles:
       - drums
-    - artistNames:
-      - Larry LaLonde
-      dob:
-        y: 1970
-        m: 9
-        d: 2
-      artistRoles:
-      - guitar
-    - artistNames:
-      - Tim Alexander
-      dob:
-        y: 1966
-        m: 4
-        d: 10
-      artistRoles:
-      - drums

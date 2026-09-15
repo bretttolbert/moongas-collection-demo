@@ -31,3 +31,9 @@ artistData:
         y: 1971
         m: 8
         d: 18
+    - artistNames:
+      - Richard D. James
+      dob:
+        y: 1971
+        m: 8
+        d: 18

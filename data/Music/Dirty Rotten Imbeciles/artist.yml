@@ -43,3 +43,9 @@ artistData:
         y: 1971
         m: 3
         d: 15
+    - artistNames:
+      - Mike "The Man" Muir
+      dob:
+        y: 1963
+        m: 3
+        d: 20

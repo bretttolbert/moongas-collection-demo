@@ -31,3 +31,9 @@ artistData:
         y: 1970
         m: 7
         d: 14
+    - artistNames:
+      - Sarah Claxton
+      dob:
+        y: 1973
+        m: 4
+        d: 5

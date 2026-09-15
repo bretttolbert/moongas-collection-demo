@@ -19,3 +19,15 @@ artistData:
       - vocals
       - songwriter
       - producer
+    - artistNames:
+      - Tasha
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - DJ
+      artistRoles:
+      - producer
+    - artistNames:
+      - Tasha
+      artistRoles:
+      - dancer

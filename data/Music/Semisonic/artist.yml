@@ -31,3 +31,9 @@ artistData:
         y: 1969
         m: 1
         d: 23
+    - artistNames:
+      - Matt Wilson
+      dob:
+        y: 1970
+        m: 4
+        d: 15

@@ -31,3 +31,9 @@ artistData:
         y: 1991
         m: 11
         d: 5
+    - artistNames:
+      - Daniele M.
+      dob:
+        y: 1992
+        m: 5
+        d: 18

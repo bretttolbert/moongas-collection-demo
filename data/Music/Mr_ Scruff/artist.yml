@@ -13,3 +13,7 @@ artistData:
         y: 1972
         m: 2
         d: 10
+      artistRoles:
+      - producer
+      - DJ
+      - musician

@@ -18,21 +18,41 @@ artistData:
       - guitar
     - artistNames:
       - Juan Luis Guerra
+      dob:
+        y: 1957
+        m: 6
+        d: 7
       artistRoles:
       - guitar
     - artistNames:
       - Anthony Santos
+      dob:
+        y: 1970
+        m: 1
+        d: 5
       artistRoles:
       - vocals
     - artistNames:
       - Luis Miguel del Amargue
+      dob:
+        y: 1970
+        m: 8
+        d: 18
       artistRoles:
       - vocals
     - artistNames:
       - El Torito
+      dob:
+        y: 1974
+        m: 1
+        d: 5
       artistRoles:
       - vocals
     - artistNames:
       - Frank Reyes
+      dob:
+        y: 1970
+        m: 6
+        d: 4
       artistRoles:
       - vocals

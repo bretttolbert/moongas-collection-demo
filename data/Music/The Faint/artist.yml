@@ -43,3 +43,9 @@ artistData:
         y: 1978
         m: 7
         d: 12
+    - artistNames:
+      - Orenda Fink
+      dob:
+        y: 1980
+        m: 5
+        d: 9

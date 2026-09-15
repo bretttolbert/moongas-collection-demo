@@ -43,3 +43,13 @@ artistData:
         y: 1958
         m: 4
         d: 10
+    - artistNames:
+      - Davy Jones
+      dob:
+        y: 1958
+        m: 4
+        d: 10
+      dod:
+        y: 2012
+        m: 2
+        d: 1

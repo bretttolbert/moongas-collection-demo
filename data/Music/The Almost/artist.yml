@@ -43,3 +43,9 @@ artistData:
         y: 1985
         m: 1
         d: 1
+    - artistNames:
+      - Dan O'Connor
+      dob:
+        y: 1983
+        m: 11
+        d: 19

@@ -20,3 +20,7 @@ artistData:
       artistRoles:
       - synthesizer
       - production
+      dob:
+        y: 1985
+        m: 6
+        d: 15

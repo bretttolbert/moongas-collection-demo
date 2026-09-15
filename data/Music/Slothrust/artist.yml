@@ -31,3 +31,27 @@ artistData:
         y: 1991
         m: 2
         d: 14
+    - artistNames:
+      - Leah Wellbaum
+      dob:
+        y: 1991
+        m: 4
+        d: 8
+    - artistNames:
+      - Kyle Bann
+      dob:
+        y: 1991
+        m: 5
+        d: 15
+    - artistNames:
+      - Adam Wasserman
+      dob:
+        y: 1990
+        m: 9
+        d: 20
+    - artistNames:
+      - John O'Reilly
+      dob:
+        y: 1991
+        m: 2
+        d: 14

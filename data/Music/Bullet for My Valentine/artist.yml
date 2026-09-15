@@ -43,3 +43,9 @@ artistData:
         y: 1986
         m: 11
         d: 25
+    - artistNames:
+      - Rhydian Dafydd
+      dob:
+        y: 1982
+        m: 2
+        d: 23

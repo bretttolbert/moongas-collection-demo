@@ -17,3 +17,27 @@ artistData:
       - vocals
       - guitar
       - keyboards
+    - artistNames:
+      - Additional Member 1
+      dob:
+        y: 1975
+        m: 5
+        d: 10
+      artistRoles:
+      - bass
+    - artistNames:
+      - Additional Member 2
+      dob:
+        y: 1980
+        m: 3
+        d: 15
+      artistRoles:
+      - drums
+    - artistNames:
+      - Additional Member 3
+      dob:
+        y: 1985
+        m: 7
+        d: 20
+      artistRoles:
+      - backing vocals

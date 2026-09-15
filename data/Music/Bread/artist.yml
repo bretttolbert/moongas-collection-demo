@@ -47,3 +47,38 @@ artistData:
         y: 1947
         m: 5
         d: 4
+    - artistNames:
+      - Bob F. McDill
+      dob:
+        y: 1944
+        m: 3
+        d: 15
+    - artistNames:
+      - David Gates
+      artistRoles:
+      - vocals
+      - guitar
+      - keyboards
+    - artistNames:
+      - James Griffin
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Robb Royer
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Mike Botts
+      artistRoles:
+      - drums
+    - artistNames:
+      - Larry Knechtel
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Chris Hayes
+      artistRoles:
+      - guitar
+      - vocals

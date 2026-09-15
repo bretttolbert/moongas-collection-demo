@@ -21,3 +21,12 @@ artistData:
       artistRoles:
       - synthesizer
       - drum machine
+    - artistNames:
+      - Kevin Saunderson
+      dob:
+        y: 1964
+        m: 5
+        d: 5
+      artistRoles:
+      - synthesizer
+      - producer

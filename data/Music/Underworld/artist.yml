@@ -25,3 +25,7 @@ artistData:
         y: 1970
         m: 4
         d: 2
+      artistRoles:
+      - keyboards
+      - programming
+      - production

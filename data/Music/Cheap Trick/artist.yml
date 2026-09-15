@@ -31,3 +31,20 @@ artistData:
         y: 1950
         m: 6
         d: 12
+    - artistNames:
+      - Daxx Nielsen
+      dob:
+        y: 1980
+        m: 8
+        d: 7
+      artistRoles:
+      - drums
+    - artistNames:
+      - Eric Dover
+      dob:
+        y: 1967
+        m: 1
+        d: 1
+      artistRoles:
+      - guitar
+      - vocals

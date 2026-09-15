@@ -67,3 +67,15 @@ artistData:
         y: 1951
         m: 9
         d: 12
+    - artistNames:
+      - John "J.J." Johnson
+      dob:
+        y: 1954
+        m: 7
+        d: 25
+    - artistNames:
+      - Mike "Mickey" McGowan
+      dob:
+        y: 1951
+        m: 9
+        d: 12

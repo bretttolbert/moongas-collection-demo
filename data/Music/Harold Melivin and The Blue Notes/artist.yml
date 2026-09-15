@@ -51,3 +51,19 @@ artistData:
         y: 1945
         m: 2
         d: 10
+    - artistNames:
+      - Harold Melvin Jr.
+      dob:
+        y: 1960
+        m: 7
+        d: 15
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Charles "Chuck" Barksdale
+      dob:
+        y: 1939
+        m: 1
+        d: 1
+      artistRoles:
+      - bass

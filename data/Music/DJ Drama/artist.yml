@@ -67,3 +67,15 @@ artistData:
         y: 1992
         m: 10
         d: 19
+    - artistNames:
+      - DJ Khaled
+      dob:
+        y: 1975
+        m: 11
+        d: 26
+    - artistNames:
+      - Meek Mill
+      dob:
+        y: 1987
+        m: 5
+        d: 6

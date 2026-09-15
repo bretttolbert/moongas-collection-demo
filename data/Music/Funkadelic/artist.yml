@@ -79,3 +79,31 @@ artistData:
         y: 1943
         m: 7
         d: 4
+    - artistNames:
+      - Calvin Simon
+      dob:
+        y: 1942
+        m: 6
+        d: 22
+    - artistNames:
+      - Ray Davis
+      dob:
+        y: 1944
+        m: 1
+        d: 1
+    - artistNames:
+      - Grady Thomas
+      dob:
+        y: 1944
+        m: 1
+        d: 1
+    - artistNames:
+      - Gary Shider
+      dob:
+        y: 1953
+        m: 7
+        d: 24
+      dod:
+        y: 2010
+        m: 6
+        d: 16

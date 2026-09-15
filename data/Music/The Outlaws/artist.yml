@@ -43,3 +43,21 @@ artistData:
         y: 1950
         m: 4
         d: 10
+    - artistNames:
+      - John "J.P." McGhee
+      dob:
+        y: 1950
+        m: 8
+        d: 15
+    - artistNames:
+      - Steve Grisham
+      dob:
+        y: 1952
+        m: 11
+        d: 24
+    - artistNames:
+      - Mike McGuire
+      dob:
+        y: 1951
+        m: 5
+        d: 18

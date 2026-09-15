@@ -37,3 +37,15 @@ artistData:
         y: 1985
         m: 6
         d: 15
+    - artistNames:
+      - Baio
+      dob:
+        y: 1984
+        m: 2
+        d: 24
+    - artistNames:
+      - Tomson
+      dob:
+        y: 1984
+        m: 3
+        d: 6

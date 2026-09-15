@@ -37,3 +37,19 @@ artistData:
         y: 1936
         m: 6
         d: 15
+    - artistNames:
+      - George "Psycho" Clinton
+      dob:
+        y: 1941
+        m: 7
+        d: 22
+    - artistNames:
+      - Eddie Hazel
+      dob:
+        y: 1950
+        m: 4
+        d: 10
+      dod:
+        y: 1992
+        m: 12
+        d: 23

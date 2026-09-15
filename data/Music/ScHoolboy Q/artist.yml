@@ -19,3 +19,7 @@ artistData:
       - Q
     - artistNames:
       - Blank Face
+  dob:
+    y: 1986
+    m: 10
+    d: 26

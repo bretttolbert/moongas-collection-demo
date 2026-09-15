@@ -37,3 +37,12 @@ artistData:
       artistRoles:
       - vocals
       - production
+    - artistNames:
+      - DJ Abilities
+      dob:
+        y: 1976
+        m: 5
+        d: 1
+      artistRoles:
+      - turntables
+      - production

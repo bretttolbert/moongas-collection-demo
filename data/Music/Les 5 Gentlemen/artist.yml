@@ -43,3 +43,9 @@ artistData:
         y: 1949
         m: 6
         d: 25
+    - artistNames:
+      - Michel Ménard
+      dob:
+        y: 1950
+        m: 4
+        d: 1

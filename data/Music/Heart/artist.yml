@@ -83,3 +83,21 @@ artistData:
         d: 25
       artistRoles:
       - bass
+    - artistNames:
+      - Nancy Wilson
+      dob:
+        y: 1954
+        m: 3
+        d: 16
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - Ann Wilson
+      dob:
+        y: 1950
+        m: 6
+        d: 19
+      artistRoles:
+      - vocals
+      - guitar

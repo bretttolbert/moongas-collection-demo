@@ -43,3 +43,9 @@ artistData:
         y: 1968
         m: 6
         d: 27
+    - artistNames:
+      - Michael Lardie
+      dob:
+        y: 1964
+        m: 5
+        d: 2

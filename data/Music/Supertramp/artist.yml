@@ -61,3 +61,15 @@ artistData:
         y: 1969
         m: 6
         d: 1
+    - artistNames:
+      - Jesse Siebenberg
+      dob:
+        y: 1970
+        m: 5
+        d: 13
+    - artistNames:
+      - Lee Thornburg
+      dob:
+        y: 1954
+        m: 9
+        d: 4

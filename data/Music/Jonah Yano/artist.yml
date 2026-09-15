@@ -13,3 +13,7 @@ artistData:
         y: 1998
         m: 5
         d: 10
+      artistRoles:
+      - vocals
+      - guitar
+      - songwriter

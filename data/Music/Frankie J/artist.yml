@@ -13,3 +13,22 @@ artistData:
         y: 1975
         m: 12
         d: 7
+      artistRoles:
+      - vocals
+      - songwriter
+    - artistNames:
+      - DJ Kane
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Baby Bash
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Pitbull
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Lil Rob
+      artistRoles:
+      - vocals

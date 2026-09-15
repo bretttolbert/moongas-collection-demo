@@ -43,3 +43,13 @@ artistData:
         y: 1970
         m: 2
         d: 22
+    - artistNames:
+      - Paul Raven
+      dob:
+        y: 1964
+        m: 9
+        d: 16
+      dod:
+        y: 2018
+        m: 10
+        d: 16

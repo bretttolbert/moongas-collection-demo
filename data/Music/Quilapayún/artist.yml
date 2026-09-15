@@ -47,3 +47,15 @@ artistData:
         y: 2018
         m: 12
         d: 23
+    - artistNames:
+      - Manuel Meriño
+      dob:
+        y: 1944
+        m: 3
+        d: 15
+    - artistNames:
+      - Francisco "Paco" Rojas
+      dob:
+        y: 1945
+        m: 4
+        d: 20

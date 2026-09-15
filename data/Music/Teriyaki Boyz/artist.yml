@@ -37,3 +37,9 @@ artistData:
         y: 1980
         m: 11
         d: 24
+    - artistNames:
+      - Kato
+      dob:
+        y: 1980
+        m: 6
+        d: 15

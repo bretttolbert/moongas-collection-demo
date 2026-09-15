@@ -31,3 +31,15 @@ artistData:
         y: 1982
         m: 4
         d: 24
+    - artistNames:
+      - Jan Hoving
+      dob:
+        y: 1965
+        m: 5
+        d: 15
+    - artistNames:
+      - Bert Meulendijk
+      dob:
+        y: 1963
+        m: 3
+        d: 12

@@ -37,3 +37,27 @@ artistData:
         y: 1974
         m: 6
         d: 30
+    - artistNames:
+      - John "J" D'Angelo
+      dob:
+        y: 1972
+        m: 8
+        d: 15
+    - artistNames:
+      - Mike "Mikey" D'Angelo
+      dob:
+        y: 1975
+        m: 2
+        d: 10
+    - artistNames:
+      - Rob "Robby" D'Angelo
+      dob:
+        y: 1973
+        m: 11
+        d: 5
+    - artistNames:
+      - Scott "Scooter" D'Angelo
+      dob:
+        y: 1974
+        m: 6
+        d: 30

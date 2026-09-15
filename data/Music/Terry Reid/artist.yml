@@ -19,6 +19,10 @@ artistData:
         y: 1948
         m: 5
         d: 31
+      dod:
+        y: 1980
+        m: 9
+        d: 25
     - artistNames:
       - Jimmy Page
       dob:

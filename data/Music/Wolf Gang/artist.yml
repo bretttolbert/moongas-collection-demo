@@ -25,3 +25,9 @@ artistData:
         y: 1988
         m: 6
         d: 15
+    - artistNames:
+      - Andrew Smith
+      dob:
+        y: 1989
+        m: 11
+        d: 22

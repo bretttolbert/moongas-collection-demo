@@ -57,23 +57,3 @@ artistData:
         y: 1943
         m: 3
         d: 7
-    - artistNames:
-      - Paul Atkinson
-      dob:
-        y: 1946
-        m: 3
-        d: 19
-      dod:
-        y: 2004
-        m: 4
-        d: 1
-    - artistNames:
-      - Jim Rodford
-      dob:
-        y: 1941
-        m: 7
-        d: 7
-      dod:
-        y: 2018
-        m: 1
-        d: 20

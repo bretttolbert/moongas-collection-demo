@@ -31,3 +31,9 @@ artistData:
         y: 1976
         m: 10
         d: 15
+    - artistNames:
+      - Matt Bair
+      dob:
+        y: 1976
+        m: 11
+        d: 12

@@ -48,3 +48,27 @@ artistData:
         d: 10
       artistRoles:
       - backing vocals
+    - artistNames:
+      - Marc Anthony
+      dob:
+        y: 1968
+        m: 9
+        d: 16
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - Gloria Estefan
+      dob:
+        y: 1957
+        m: 9
+        d: 1
+      artistRoles:
+      - backing vocals
+    - artistNames:
+      - Ricky Martin
+      dob:
+        y: 1971
+        m: 12
+        d: 24
+      artistRoles:
+      - backing vocals

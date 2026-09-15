@@ -43,3 +43,9 @@ artistData:
         y: 1984
         m: 11
         d: 5
+    - artistNames:
+      - Mike Squires
+      dob:
+        y: 1983
+        m: 2
+        d: 18

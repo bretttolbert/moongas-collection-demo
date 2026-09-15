@@ -25,3 +25,7 @@ artistData:
         d: 12
     - artistNames:
       - John O'Connor
+      dob:
+        y: 1963
+        m: 7
+        d: 15

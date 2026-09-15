@@ -61,3 +61,39 @@ artistData:
         y: 1970
         m: 5
         d: 15
+    - artistNames:
+      - Danny Lohner
+      dob:
+        y: 1970
+        m: 12
+        d: 13
+    - artistNames:
+      - Pino Palladino
+      dob:
+        y: 1957
+        m: 10
+        d: 17
+    - artistNames:
+      - Adrian Belew
+      dob:
+        y: 1949
+        m: 12
+        d: 23
+    - artistNames:
+      - Lisa Fischer
+      dob:
+        y: 1961
+        m: 12
+        d: 1
+    - artistNames:
+      - Mariqueen Maandig
+      dob:
+        y: 1981
+        m: 3
+        d: 5
+    - artistNames:
+      - Atticus Ross
+      dob:
+        y: 1980
+        m: 1
+        d: 7

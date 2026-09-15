@@ -31,3 +31,9 @@ artistData:
         y: 1975
         m: 8
         d: 21
+    - artistNames:
+      - Dan O'Connell
+      dob:
+        y: 1974
+        m: 3
+        d: 15

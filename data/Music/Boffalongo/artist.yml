@@ -31,3 +31,9 @@ artistData:
         y: 1948
         m: 7
         d: 30
+    - artistNames:
+      - Robert "Bob" McGowan
+      dob:
+        y: 1949
+        m: 2
+        d: 14

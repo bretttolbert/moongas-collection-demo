@@ -37,3 +37,15 @@ artistData:
         y: 1980
         m: 4
         d: 12
+    - artistNames:
+      - T. J. "Teddy" McCoy
+      dob:
+        y: 1976
+        m: 8
+        d: 22
+    - artistNames:
+      - J. C. "Jesse" McCoy
+      dob:
+        y: 1980
+        m: 4
+        d: 12

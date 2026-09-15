@@ -13,3 +13,11 @@ artistData:
       artistRoles:
       - production
       - live performance
+    - artistNames:
+      - additional member 1
+      artistRoles:
+      - additional role 1
+    - artistNames:
+      - additional member 2
+      artistRoles:
+      - additional role 2

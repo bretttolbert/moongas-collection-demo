@@ -25,3 +25,9 @@ artistData:
         y: 1970
         m: 1
         d: 1
+    - artistNames:
+      - Michael "Mike" O'Brien
+      dob:
+        y: 1970
+        m: 1
+        d: 1

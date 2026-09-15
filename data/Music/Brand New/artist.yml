@@ -31,3 +31,15 @@ artistData:
         y: 1980
         m: 5
         d: 24
+    - artistNames:
+      - Derek Sanders
+      dob:
+        y: 1981
+        m: 11
+        d: 19
+    - artistNames:
+      - Mike Sapone
+      dob:
+        y: 1980
+        m: 4
+        d: 1

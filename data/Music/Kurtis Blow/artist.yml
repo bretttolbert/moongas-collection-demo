@@ -16,3 +16,20 @@ artistData:
       artistRoles:
       - vocals
       - rapper
+    - artistNames:
+      - DJ Kool Herc
+      artistRoles:
+      - DJ
+    - artistNames:
+      - Grandmaster Flash
+      artistRoles:
+      - DJ
+    - artistNames:
+      - Afrika Bambaataa
+      artistRoles:
+      - DJ
+    - artistNames:
+      - Run-D.M.C.
+      artistRoles:
+      - vocals
+      - rapper

@@ -37,3 +37,15 @@ artistData:
         y: 1973
         m: 4
         d: 30
+    - artistNames:
+      - Matt Riddle
+      dob:
+        y: 1970
+        m: 11
+        d: 11
+    - artistNames:
+      - Chris "Crispy" D.
+      dob:
+        y: 1971
+        m: 6
+        d: 15

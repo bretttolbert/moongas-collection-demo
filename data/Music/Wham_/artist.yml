@@ -23,3 +23,15 @@ artistData:
         y: 1963
         m: 1
         d: 26
+    - artistNames:
+      - Dee C. Lee
+      dob:
+        y: 1965
+        m: 6
+        d: 6
+    - artistNames:
+      - David Austin
+      dob:
+        y: 1963
+        m: 12
+        d: 8

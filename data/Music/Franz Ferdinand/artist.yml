@@ -43,3 +43,9 @@ artistData:
         y: 1982
         m: 6
         d: 12
+    - artistNames:
+      - Sarah Hayes
+      dob:
+        y: 1980
+        m: 3
+        d: 23

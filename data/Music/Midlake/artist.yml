@@ -43,3 +43,9 @@ artistData:
         y: 1980
         m: 7
         d: 25
+    - artistNames:
+      - John Conley
+      dob:
+        y: 1977
+        m: 8
+        d: 29

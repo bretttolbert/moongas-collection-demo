@@ -37,3 +37,15 @@ artistData:
         y: 1984
         m: 5
         d: 15
+    - artistNames:
+      - Jack Hines
+      dob:
+        y: 1982
+        m: 11
+        d: 12
+    - artistNames:
+      - Ben Eberle
+      dob:
+        y: 1983
+        m: 4
+        d: 20

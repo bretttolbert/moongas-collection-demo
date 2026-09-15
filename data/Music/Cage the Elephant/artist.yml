@@ -43,3 +43,27 @@ artistData:
         y: 1990
         m: 7
         d: 1
+    - artistNames:
+      - Daniel Tichenor
+      dob:
+        y: 1985
+        m: 6
+        d: 5
+    - artistNames:
+      - Jared Champion
+      dob:
+        y: 1985
+        m: 4
+        d: 24
+    - artistNames:
+      - Lincoln Parish
+      dob:
+        y: 1990
+        m: 10
+        d: 14
+    - artistNames:
+      - Nick Bockrath
+      dob:
+        y: 1990
+        m: 7
+        d: 1

@@ -66,3 +66,27 @@ artistData:
         d: 9
       artistRoles:
       - vocals
+    - artistNames:
+      - Alan Jackson
+      dob:
+        y: 1958
+        m: 10
+        d: 17
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Loretta Lynn
+      dob:
+        y: 1932
+        m: 4
+        d: 14
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Tanya Tucker
+      dob:
+        y: 1958
+        m: 10
+        d: 10
+      artistRoles:
+      - vocals

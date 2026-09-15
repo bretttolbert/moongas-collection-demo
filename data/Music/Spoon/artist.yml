@@ -37,3 +37,9 @@ artistData:
         y: 1985
         m: 6
         d: 24
+    - artistNames:
+      - Josh Zarbo
+      dob:
+        y: 1980
+        m: 5
+        d: 15

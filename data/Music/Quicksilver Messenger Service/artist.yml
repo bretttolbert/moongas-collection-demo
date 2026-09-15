@@ -66,3 +66,19 @@ artistData:
         d: 1
       artistRoles:
       - bass
+    - artistNames:
+      - Nicky Hopkins
+      dob:
+        y: 1944
+        m: 2
+        d: 24
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - John Kahn
+      dob:
+        y: 1948
+        m: 4
+        d: 22
+      artistRoles:
+      - bass

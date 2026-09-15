@@ -37,3 +37,9 @@ artistData:
         y: 1987
         m: 11
         d: 22
+    - artistNames:
+      - Jeremy Schmidt
+      dob:
+        y: 1986
+        m: 2
+        d: 14

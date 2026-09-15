@@ -48,3 +48,19 @@ artistData:
         y: 1955
         m: 3
         d: 2
+    - artistNames:
+      - Sidra Smith
+      artistRoles:
+      - vocals
+      dob:
+        y: 1960
+        m: 4
+        d: 1
+    - artistNames:
+      - Kevin McCord
+      artistRoles:
+      - guitar
+      dob:
+        y: 1955
+        m: 8
+        d: 15

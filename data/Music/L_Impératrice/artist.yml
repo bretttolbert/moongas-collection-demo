@@ -23,3 +23,15 @@ artistData:
         y: 1990
         m: 1
         d: 1
+    - artistNames:
+      - Antoine Gaillet
+      dob:
+        y: 1990
+        m: 6
+        d: 15
+    - artistNames:
+      - Pierre Rousseau
+      dob:
+        y: 1990
+        m: 3
+        d: 10

@@ -13,3 +13,11 @@ artistData:
         y: 1980
         m: 5
         d: 21
+    - artistNames:
+      - Kris Schroeder
+    - artistNames:
+      - Tim Shiel
+    - artistNames:
+      - Sam McCarthy
+    - artistNames:
+      - Mark Dwyer

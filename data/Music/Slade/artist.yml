@@ -31,3 +31,13 @@ artistData:
         y: 1946
         m: 9
         d: 10
+    - artistNames:
+      - Chas Hodges
+      dob:
+        y: 1943
+        m: 12
+        d: 28
+      dod:
+        y: 2018
+        m: 9
+        d: 22

@@ -17,3 +17,12 @@ artistData:
         y: 2022
         m: 8
         d: 2
+    - artistNames:
+      - Various Collaborators
+      artistRoles:
+      - vocals
+      - accordion
+      - guitar
+      - producer
+      - arranger
+      - composer

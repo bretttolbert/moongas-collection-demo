@@ -65,3 +65,25 @@ artistData:
         y: 2020
         m: 12
         d: 18
+    - artistNames:
+      - Tyrone Hill
+      dob:
+        y: 1945
+        m: 1
+        d: 1
+    - artistNames:
+      - Richard Williams
+      dob:
+        y: 1930
+        m: 4
+        d: 1
+    - artistNames:
+      - Frank Wright
+      dob:
+        y: 1940
+        m: 1
+        d: 1
+      dod:
+        y: 1990
+        m: 1
+        d: 1

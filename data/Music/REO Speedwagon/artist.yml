@@ -47,3 +47,9 @@ artistData:
         y: 1953
         m: 9
         d: 3
+    - artistNames:
+      - Tim McGovern
+      dob:
+        y: 1951
+        m: 4
+        d: 15

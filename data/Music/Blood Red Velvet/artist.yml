@@ -43,3 +43,15 @@ artistData:
         y: 2002
         m: 4
         d: 18
+    - artistNames:
+      - Sun Woo
+      dob:
+        y: 2002
+        m: 9
+        d: 30
+    - artistNames:
+      - Soo Hyun
+      dob:
+        y: 2003
+        m: 1
+        d: 15

@@ -83,3 +83,12 @@ artistData:
         d: 8
       artistRoles:
       - drums
+    - artistNames:
+      - Donnie Steele
+      dob:
+        y: 1971
+        m: 6
+        d: 24
+      artistRoles:
+      - guitar
+      - bass

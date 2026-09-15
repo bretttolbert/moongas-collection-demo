@@ -44,3 +44,13 @@ artistData:
       - Ed Reyes
       artistRoles:
       - guitar
+    - artistNames:
+      - Fred Mascherino
+      dob:
+        y: 1979
+        m: 11
+        d: 27
+      artistRoles:
+      - guitar
+      - backing vocals
+      - vocals

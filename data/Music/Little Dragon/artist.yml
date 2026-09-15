@@ -31,3 +31,9 @@ artistData:
         y: 1982
         m: 10
         d: 29
+    - artistNames:
+      - Mats Skoog
+      dob:
+        y: 1982
+        m: 6
+        d: 12

@@ -7,3 +7,7 @@ artistData:
   - es
   regionCode: MX-BCN
   members: []
+  dob: 
+    y: 1990
+    m: 1
+    d: 1

@@ -55,3 +55,15 @@ artistData:
         y: 1987
         m: 11
         d: 18
+    - artistNames:
+      - David "Dave" Shaw
+      dob:
+        y: 1982
+        m: 7
+        d: 27
+    - artistNames:
+      - A. J. Haynes
+      dob:
+        y: 1987
+        m: 11
+        d: 18

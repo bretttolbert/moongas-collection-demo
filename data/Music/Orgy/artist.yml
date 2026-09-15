@@ -49,3 +49,9 @@ artistData:
         y: 1973
         m: 5
         d: 15
+    - artistNames:
+      - Adam "D" M. 
+      dob:
+        y: 1971
+        m: 11
+        d: 12

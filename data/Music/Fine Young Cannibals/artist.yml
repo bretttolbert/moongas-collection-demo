@@ -25,3 +25,9 @@ artistData:
         y: 1961
         m: 12
         d: 1
+    - artistNames:
+      - Trish McEvoy
+      dob:
+        y: 1961
+        m: 1
+        d: 1

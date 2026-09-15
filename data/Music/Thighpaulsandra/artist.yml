@@ -37,3 +37,31 @@ artistData:
         y: 1965
         m: 4
         d: 1
+    - artistNames:
+      - Thighpaulsandra
+      artistRoles:
+      - keyboards
+      - vocals
+      - guitar
+      - drums
+    - artistNames:
+      - Julian Cope
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Richard Formby
+      artistRoles:
+      - guitar
+      - producer
+    - artistNames:
+      - John Paul Jones
+      artistRoles:
+      - bass
+      - keyboards
+      - producer
+    - artistNames:
+      - Chris Haskett
+      artistRoles:
+      - guitar
+      - backing vocals
