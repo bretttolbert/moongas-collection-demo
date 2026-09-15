@@ -67,4 +67,4 @@ jobs:
 
       - name: Run mediatest on moongas-library
         run: |
-          python -m mediatest "$GITHUB_WORKSPACE/mediatest-config.yml"
+          python -m mediatest --log-level=DEBUG "$GITHUB_WORKSPACE/mediatest-config.yml"
