@@ -43,3 +43,12 @@ artistData:
       artistRoles:
       - drums
       - backing vocals
+    - artistNames:
+      - Sam Smith
+      dob:
+        y: 1970
+        m: 11
+        d: 22
+      artistRoles:
+      - guitar
+      - backing vocals
