@@ -65,3 +65,13 @@ artistData:
         y: 1963
         m: 4
         d: 14
+    - artistNames:
+      - John Prine
+      dob:
+        y: 1946
+        m: 10
+        d: 10
+      dod:
+        y: 2020
+        m: 4
+        d: 7

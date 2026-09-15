@@ -49,3 +49,15 @@ artistData:
         y: 1953
         m: 11
         d: 2
+    - artistNames:
+      - Cliff Hugo
+      dob:
+        y: 1953
+        m: 5
+        d: 24
+    - artistNames:
+      - Paul Manzi
+      dob:
+        y: 1969
+        m: 6
+        d: 1

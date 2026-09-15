@@ -102,16 +102,6 @@ artistData:
         m: 11
         d: 12
     - artistNames:
-      - Gary Shider
-      dob:
-        y: 1953
-        m: 7
-        d: 24
-      dod:
-        y: 2010
-        m: 6
-        d: 16
-    - artistNames:
       - David "Dirt" McMurray
       dob:
         y: 1955

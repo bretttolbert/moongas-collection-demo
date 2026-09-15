@@ -13,3 +13,6 @@ artistData:
         y: 1996
         m: 1
         d: 4
+      artistRoles:
+      - vocals
+      - songwriter

@@ -65,3 +65,15 @@ artistData:
         y: 1960
         m: 1
         d: 1
+    - artistNames:
+      - Earl "Chinna" Smith
+      dob:
+        y: 1955
+        m: 1
+        d: 1
+    - artistNames:
+      - Tony Mullings
+      dob:
+        y: 1960
+        m: 1
+        d: 1

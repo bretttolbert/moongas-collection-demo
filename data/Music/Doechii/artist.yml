@@ -13,3 +13,6 @@ artistData:
         y: 1998
         m: 1
         d: 25
+      artistRoles:
+      - vocals
+      - songwriting

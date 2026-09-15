@@ -6,4 +6,20 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
-  members: []
+  members:
+    - artistNames:
+      - Ryan McCaffrey
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Matt O'Neill
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Chris McCaffrey
+      artistRoles:
+      - bass
+    - artistNames:
+      - Kyle D. McCaffrey
+      artistRoles:
+      - drums

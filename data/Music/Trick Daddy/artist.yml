@@ -46,3 +46,43 @@ artistData:
       artistRoles:
       - producer
       - vocals
+    - artistNames:
+      - Plies
+      dob:
+        y: 1976
+        m: 7
+        d: 1
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Lil' Kim
+      dob:
+        y: 1974
+        m: 7
+        d: 11
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Fat Joe
+      dob:
+        y: 1970
+        m: 8
+        d: 19
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Young Jeezy
+      dob:
+        y: 1977
+        m: 9
+        d: 28
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Bun B
+      dob:
+        y: 1973
+        m: 3
+        d: 19
+      artistRoles:
+      - vocals

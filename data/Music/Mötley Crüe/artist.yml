@@ -31,3 +31,31 @@ artistData:
         y: 1962
         m: 10
         d: 3
+    - artistNames:
+      - John Corabi
+      dob:
+        y: 1965
+        m: 4
+        d: 26
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Randy Castillo
+      dob:
+        y: 1950
+        m: 6
+        d: 18
+      dod:
+        y: 2002
+        m: 3
+        d: 26
+      artistRoles:
+      - drums
+    - artistNames:
+      - Eric Singer
+      dob:
+        y: 1968
+        m: 5
+        d: 12
+      artistRoles:
+      - drums

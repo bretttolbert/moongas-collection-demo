@@ -25,3 +25,9 @@ artistData:
         y: 1986
         m: 3
         d: 22
+    - artistNames:
+      - John "J.B." McKinnon
+      dob:
+        y: 1984
+        m: 8
+        d: 10

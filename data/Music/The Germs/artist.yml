@@ -39,3 +39,9 @@ artistData:
         y: 2023
         m: 1
         d: 10
+    - artistNames:
+      - Jim M. 
+      dob:
+        y: 1960
+        m: 5
+        d: 15

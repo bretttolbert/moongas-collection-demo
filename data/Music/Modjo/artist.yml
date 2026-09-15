@@ -13,12 +13,9 @@ artistData:
         y: 1972
         m: 1
         d: 15
-    - artistNames:
-      - Romain Tranchart
-      dob:
-        y: 1972
-        m: 5
-        d: 14
+      artistRoles:
+      - vocals
+      - guitar
     - artistNames:
       - Romain Tranchart
       dob:
@@ -28,12 +25,3 @@ artistData:
       artistRoles:
       - guitar
       - keyboards
-    - artistNames:
-      - Yann Destagnol
-      dob:
-        y: 1972
-        m: 1
-        d: 15
-      artistRoles:
-      - vocals
-      - guitar

@@ -25,3 +25,9 @@ artistData:
         y: 1942
         m: 2
         d: 2
+    - artistNames:
+      - Neil Young
+      dob:
+        y: 1945
+        m: 11
+        d: 12

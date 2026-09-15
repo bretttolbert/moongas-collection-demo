@@ -55,3 +55,9 @@ artistData:
         y: 1965
         m: 4
         d: 1
+    - artistNames:
+      - Jim "Jimi" Goodwin
+      dob:
+        y: 1970
+        m: 1
+        d: 24
