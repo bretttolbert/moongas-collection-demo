@@ -21,7 +21,7 @@ libGenresModeBlacklist: false
 libs:
   - mediaPath: /data/Music/
     expectedMediaCount: 0
-    expectedLrcCount: 0
+    expectedLrcCount: 11547
     totalFilesizeLimitGb: 200
     expectedFilesizeGb: 0
     genres:

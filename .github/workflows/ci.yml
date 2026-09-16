@@ -66,6 +66,6 @@ jobs:
           python -m pip install --force-reinstall -e ./moongas-py-mediascan
           python -m pip install --force-reinstall -e ./moongas-py-mediatest
 
-      - name: Run mediatest on moongas-library
+      - name: Run mediatest on moongas-collection
         run: |
           python -m mediatest --log-level=DEBUG -v -k "not test_album_dir_is_not_empty and not test_album_cover_exists" "$GITHUB_WORKSPACE/mediatest-config.yml"
