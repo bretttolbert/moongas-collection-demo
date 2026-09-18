@@ -8,6 +8,14 @@ artistData:
   regionCode: US-CA
   languageCodes:
   - en
+  labels:
+  - name: A Recordings (A Records)
+  - name: Bomp! Records
+  - name: Tee Pee Records
+  - name: TVT Records
+  - name: Cargo Records
+  - name: Matador Records
+  - name: Committee to Keep Music Evil
   members:
     - artistNames:
       - Anton Newcombe
