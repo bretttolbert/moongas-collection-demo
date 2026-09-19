@@ -12,7 +12,8 @@ venv.bak/
 **/moongas-go-mediascan
 **/moongas-py-mediascan
 **/moongas-py-mediatest
-**/moongas-py-mediaserver
+**/moongas-py-mediatunes-svc
+**/moongas-mediatunes-web
 
 # Mediascan output files
 **/mediascan-files.yml
