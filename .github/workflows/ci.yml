@@ -65,6 +65,10 @@ jobs:
           python -m pip install pandas-stubs
           python -m pip install --force-reinstall -e ./moongas-mediascan-python
           python -m pip install --force-reinstall -e ./moongas-mediatest-python-pytest
+          python -m pip install --force-reinstall -e ./moongas-mediascripts-python
+          python -m pip install --force-reinstall -e ./moongas-mediatunes-svc-python-blacksheep
+          python -m pip install --force-reinstall -e ./moongas-mediatunes-web-vue
+
 
       - name: Run mediatest on moongas-collection
         run: |

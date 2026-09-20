@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # Runs the same build/test steps as .github/workflows/ci.yml, using the
-# moongas-mediascan-go, moongas-mediascan-python, and moongas-mediatest-python-pytest
-# directories already checked out locally in or symlinked into the root 
-# directory of this repository
+# moongas package directories already checked out locally in or symlinked into
+# the root directory of this repository
 set -euo pipefail
 
 # Below is a Bash idiom used to reliably anchor a script's working directory 
@@ -14,7 +13,7 @@ cd "$REPO_ROOT"
 echo "==> Build and Install Go Module"
 (cd moongas-mediascan-go && go install ./...)
 
-echo "==> Run Go scanartistsyaml"
+echo "==> Run Go scan-to-artists-yaml"
 go -C "$REPO_ROOT/moongas-mediascan-go" run ./cmd/scan-to-artists-yaml "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan-artists.yml" "$REPO_ROOT"
 
 echo "==> Activating Python Virtual Environment"
@@ -27,6 +26,8 @@ echo "==> Install Local Python Packages"
 python -m pip install pandas-stubs
 python -m pip install --force-reinstall -e ./moongas-mediascan-python
 python -m pip install --force-reinstall -e ./moongas-mediatest-python-pytest
+python -m pip install --force-reinstall -e ./moongas-mediascripts-python
+python -m pip install --force-reinstall -e ./moongas-mediatunes-svc-python-blacksheep
 
-echo "==> Run mediatest on moongas-library"
+echo "==> Run mediatest on moongas-collection"
 python -m mediatest --log-level=DEBUG -v -k "not test_album_dir_is_not_empty and not test_album_cover_exists" "$REPO_ROOT/mediatest-config.yml"
