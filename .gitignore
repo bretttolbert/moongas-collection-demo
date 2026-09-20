@@ -12,6 +12,7 @@ venv.bak/
 **/moongas-mediascan-go
 **/moongas-mediascan-python
 **/moongas-mediatest-python-pytest
+**/moongas-mediascripts-python
 **/moongas-mediatunes-svc-python-blacksheep
 **/moongas-mediatunes-web-vue
 
