@@ -5,15 +5,14 @@ ageVerification: true
 limitBandwidth: true
 maxResults: 50000
 maxResultsAlbumCovers: 500
-flaskConfig:
+serverConfig:
   host: 0.0.0.0
   port: 5000
   debug: true
   useDebugger: false
   useReloader: false
-  rootPath: /home/brett/Git/bretttolbert/moongas/moongas-py-mediaserver/app
-  staticUrlPath: /mediaserver/static
-  urlPrefix: /mediaserver
+  staticUrlPath: /static
+  urlPrefix: /api
 playbackMethods:
   local:
     enabled: true
