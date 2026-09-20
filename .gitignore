@@ -22,3 +22,21 @@ venv.bak/
 
 # bakup files
 **/*.bak
+
+# Scripts
+artist-countries-to-mapgraph-json
+artist-csv-to-artist-yaml
+artist-yaml-auto-populate
+artist-yaml-reformat-with-files-yaml
+artist-yaml-test-with-files-yaml
+convert-covers
+convert-videos
+copy-medialib
+generate-dataclasses
+genre-clusters
+list-artists-from-files-yaml
+list-missing-region-names
+make-covers-video
+mediastats
+play-rand-file-from-files-yaml
+rename-album-files
