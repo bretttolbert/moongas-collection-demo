@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Runs the same build/test steps as .github/workflows/ci.yml, using the
-# moongas-mediascan-golang, moongas-py-mediascan, and moongas-py-mediatest
+# moongas-mediascan-golang, moongas-mediascan-python, and moongas-py-mediatest
 # directories already checked out locally in or symlinked into the root 
 # directory of this repository
 set -euo pipefail
@@ -25,7 +25,7 @@ python -m pip install --upgrade pip
 
 echo "==> Install Local Python Packages"
 python -m pip install pandas-stubs
-python -m pip install --force-reinstall -e ./moongas-py-mediascan
+python -m pip install --force-reinstall -e ./moongas-mediascan-python
 python -m pip install --force-reinstall -e ./moongas-py-mediatest
 
 echo "==> Run mediatest on moongas-library"
