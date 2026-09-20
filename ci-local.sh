@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Runs the same build/test steps as .github/workflows/ci.yml, using the
-# moongas-go-mediascan, moongas-py-mediascan, and moongas-py-mediatest
+# moongas-mediascan-golang, moongas-py-mediascan, and moongas-py-mediatest
 # directories already checked out locally in or symlinked into the root 
 # directory of this repository
 set -euo pipefail
@@ -12,10 +12,10 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$REPO_ROOT"
 
 echo "==> Build and Install Go Module"
-(cd moongas-go-mediascan && go install ./...)
+(cd moongas-mediascan-golang && go install ./...)
 
 echo "==> Run Go scanartistsyaml"
-go -C "$REPO_ROOT/moongas-go-mediascan" run ./cmd/mediascan-artists-yaml "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan-artists.yml" "$REPO_ROOT"
+go -C "$REPO_ROOT/moongas-mediascan-golang" run ./cmd/mediascan-artists-yaml "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan-artists.yml" "$REPO_ROOT"
 
 echo "==> Activating Python Virtual Environment"
 source "$REPO_ROOT/.venv/bin/activate"

@@ -13,11 +13,11 @@ jobs:
       - name: Check out this repository
         uses: actions/checkout@v4
 
-      - name: Check out moongas-go-mediascan
+      - name: Check out moongas-mediascan-golang
         uses: actions/checkout@v4
         with:
-          repository: 'bretttolbert/moongas-go-mediascan'
-          path: 'moongas-go-mediascan'
+          repository: 'bretttolbert/moongas-mediascan-golang'
+          path: 'moongas-mediascan-golang'
 
       - name: Check out moongas-py-mediascan
         uses: actions/checkout@v4
@@ -38,12 +38,12 @@ jobs:
 
       - name: Build and Install Go Module
         run: |
-          cd moongas-go-mediascan
+          cd moongas-mediascan-golang
           go install ./...
 
       - name: Run Go scanartistsyaml
         run: |
-          go -C "$GITHUB_WORKSPACE/moongas-go-mediascan" run ./cmd/mediascan-artists-yaml "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml" "$GITHUB_WORKSPACE"
+          go -C "$GITHUB_WORKSPACE/moongas-mediascan-golang" run ./cmd/mediascan-artists-yaml "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml" "$GITHUB_WORKSPACE"
 
       - name: Upload mediascan-artists.yml artifact
         uses: actions/upload-artifact@v4
