@@ -41,10 +41,16 @@ list-artists-from-files-yaml
 list-missing-region-names
 make-covers-video
 mediastats
+moongas-mediascan-go
 play-rand-file-from-files-yaml
 rename-album-files
 restart-local-mediaserver
+restart-local-services
 restart-remote-mediaserver
+restart-remote-services
+run-mediascan-artists-yaml
+run-mediascan-db
+run-mediascan-files-yaml
 run-mediascan-scanartistsyaml
 run-mediascan-scanfilesyaml
 run-mediascan-scantodb
