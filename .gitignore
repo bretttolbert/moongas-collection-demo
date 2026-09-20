@@ -31,6 +31,9 @@ artist-yaml-reformat-with-files-yaml
 artist-yaml-test-with-files-yaml
 convert-covers
 convert-videos
+copy-artist-yaml-files-from-demo-to-local
+copy-lrc-files-from-local-to-demo
+copy-media-files-to-artist-yaml
 copy-medialib
 generate-dataclasses
 genre-clusters
@@ -40,9 +43,6 @@ make-covers-video
 mediastats
 play-rand-file-from-files-yaml
 rename-album-files
-copy-artist-yaml-files-from-demo-to-local
-copy-lrc-files-from-local-to-demo
-copy-media-files-to-artist-yaml
 restart-local-mediaserver
 restart-remote-mediaserver
 run-mediascan-scanartistsyaml
@@ -56,5 +56,6 @@ update-covers
 update-everything
 upload-covers
 upload-mediascandb
-upload-moongas-py-mediascan
-upload-moongas-py-mediaserver
+upload-moongas-mediascan-python
+upload-moongas-mediatunes-svc-python-blacksheep
+upload-moongas-mediatunes-web-vue
