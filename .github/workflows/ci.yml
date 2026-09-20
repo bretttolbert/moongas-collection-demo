@@ -63,11 +63,10 @@ jobs:
       - name: Install Local Python Packages
         run: |
           python -m pip install pandas-stubs
-          python -m pip install --force-reinstall -e ./moongas-mediascan-python
-          python -m pip install --force-reinstall -e ./moongas-mediatest-python-pytest
-          python -m pip install --force-reinstall -e ./moongas-mediascripts-python
-          python -m pip install --force-reinstall -e ./moongas-mediatunes-svc-python-blacksheep
-          python -m pip install --force-reinstall -e ./moongas-mediatunes-web-vue
+          python -m pip install -e ./moongas-mediascan-python
+          python -m pip install -e ./moongas-mediatest-python-pytest
+          python -m pip install -e ./moongas-mediascripts-python
+          python -m pip install -e ./moongas-mediatunes-svc-python-blacksheep
 
 
       - name: Run mediatest on moongas-collection
