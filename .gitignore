@@ -54,7 +54,7 @@ scan-to-files-yaml
 scan-to-track-yaml
 set-active-collection-demo
 set-active-collection-local
-show-collection-status
+show-env
 update-covers
 update-everything
 upload-covers
