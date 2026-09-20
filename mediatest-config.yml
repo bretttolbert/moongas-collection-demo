@@ -1,4 +1,4 @@
-mediatestRootdir: ./moongas-py-mediatest/
+mediatestRootdir: ./moongas-mediatest-python-pytest/
 mediaRootdir: .
 mediascanFilesYamlPath: null
 minimumFilesize: 10000

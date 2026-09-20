@@ -25,11 +25,11 @@ jobs:
           repository: 'bretttolbert/moongas-mediascan-python'
           path: 'moongas-mediascan-python'
 
-      - name: Check out moongas-py-mediatest
+      - name: Check out moongas-mediatest-python-pytest
         uses: actions/checkout@v4
         with:
-          repository: 'bretttolbert/moongas-py-mediatest'
-          path: 'moongas-py-mediatest'
+          repository: 'bretttolbert/moongas-mediatest-python-pytest'
+          path: 'moongas-mediatest-python-pytest'
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -64,7 +64,7 @@ jobs:
         run: |
           python -m pip install pandas-stubs
           python -m pip install --force-reinstall -e ./moongas-mediascan-python
-          python -m pip install --force-reinstall -e ./moongas-py-mediatest
+          python -m pip install --force-reinstall -e ./moongas-mediatest-python-pytest
 
       - name: Run mediatest on moongas-collection
         run: |
