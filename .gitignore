@@ -9,7 +9,7 @@ env.bak/
 venv.bak/
 
 # Mediascan package install dirs
-**/moongas-mediascan-golang
+**/moongas-mediascan-go
 **/moongas-mediascan-python
 **/moongas-mediatest-python-pytest
 **/moongas-mediatunes-svc-python-blacksheep
