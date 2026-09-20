@@ -24,10 +24,10 @@ python -m pip install --upgrade pip
 
 echo "==> Install Local Python Packages"
 python -m pip install pandas-stubs
-python -m pip install --force-reinstall -e ./moongas-mediascan-python
-python -m pip install --force-reinstall -e ./moongas-mediatest-python-pytest
-python -m pip install --force-reinstall -e ./moongas-mediascripts-python
-python -m pip install --force-reinstall -e ./moongas-mediatunes-svc-python-blacksheep
+python -m pip install -e ./moongas-mediascan-python
+python -m pip install -e ./moongas-mediatest-python-pytest
+python -m pip install -e ./moongas-mediascripts-python
+python -m pip install -e ./moongas-mediatunes-svc-python-blacksheep
 
 echo "==> Run mediatest on moongas-collection"
 python -m mediatest --log-level=DEBUG -v -k "not test_album_dir_is_not_empty and not test_album_cover_exists" "$REPO_ROOT/mediatest-config.yml"
