@@ -32,7 +32,10 @@ artist-yaml-reformat-with-files-yaml
 artist-yaml-test-with-files-yaml
 convert-covers
 convert-videos
+copy-all-yaml-files-from-demo-to-local
+copy-all-yaml-files-from-local-to-demo
 copy-artist-yaml-files-from-demo-to-local
+copy-artist-yaml-files-from-local-to-demo
 copy-lrc-files-from-local-to-demo
 copy-media-files-to-artist-yaml
 copy-medialib
