@@ -15,11 +15,11 @@ artistData:
         d: 28
     - artistNames:
       - The Weeknd
+      - Abel Tesfaye
       dob:
         y: 1990
         m: 2
         d: 16
-      realName: Abel Tesfaye
       city: Toronto
       countryCode: CA
       languageCodes:

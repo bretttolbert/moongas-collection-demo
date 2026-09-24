@@ -25,12 +25,11 @@ artistData:
         d: 12
     - artistNames:
       - The Mad Stuntman
+      - Edwin "The Mad Stuntman" Quashie
       dob:
         y: 1970
         m: 1
         d: 1
-      realName: 
-        - Edwin "The Mad Stuntman" Quashie
       artistRoles:
       - vocals
       - songwriting

@@ -20,11 +20,11 @@ artistData:
       regionCode: US-MI
     - artistNames:
       - Metro Boomin
+      - Leland Tyler Wayne
       dob:
         y: 1993
         m: 9
         d: 16
-      realName: Leland Tyler Wayne
       city: St. Louis
       countryCode: US
       languageCodes:
